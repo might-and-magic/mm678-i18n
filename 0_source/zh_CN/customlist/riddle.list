@@ -1,0 +1,181 @@
+location	prison	prison	mm8
+location	jail	4	mm8
+location	in	inside	mm8
+location	inside	2	mm8
+location	egg	egg	mm8
+location	an egg	1	mm8
+npc conversation	"My masters have made me a holder, and not a giver, of knowledge. Still perhaps you have given yourself knowledge through my questions? I have given you all the questions I will, so you must look at what you have. Perhaps you should question the answers.
+
+A ""prison"" implies a prisoner. Who? ""Inside?"" Inside of what? And ""egg."" What kind of egg? A bird's egg? Perhaps something like an egg?"	我的主人创造我是让我成为知识的保管者，并非给予者。但是，也许你们可以通过这些问题知道更多的知识。我已经把我所有知道的问题都告诉了你们，你们必须要看看自己有些什么。也许你们应该对这些答案提出进一步的问题才对。
+
+“监狱”代表着有犯人。谁？“里面”？在什么里面？还有“蛋”，什么样的蛋？鸟的蛋？也许是形状像是蛋的物品？	mm8
+npc conversation	"Where does one serve to pay,
+  Is not free to leave,
+  But is free when one leaves?"	有个地方，人们进入此地是为了偿还一些东西，
+此地不能自由离开。
+但是离开之后就获得了自由。这是什么地方？
+请输入数字：1、商店；2、王宫；3、行会；4、监狱	mm8
+npc conversation	Yes. Your answer seems to fit the riddle nicely. Perhaps that is the correct answer.	是的，你的答案似乎挺正确的。也许就是正确的答案。	mm8
+npc conversation	That doesn't seem right at all.	听起来一点也不对。	mm8
+npc conversation	"Jails, prisons and cells come in many forms. We hear of so called ""prisons of the mind."" But I wonder. The riddle seems to speak of a physical prison. What think you?"	监狱、牢房有许多种类的形式。听说有种所谓“心灵的监狱”。我不知道。这个谜题中暗示的似乎是个有形的监狱。你觉得呢？	mm8
+npc conversation	"What is there when
+  You enter a room,
+  And cannot be outside,
+  Though you leave the door open?"	当你进入一个房间，你就感受到了它，
+你把门打开，它却无法离开。这是什么？
+请输入数字：1、外面；2、里面；3、房主；4、房主的宠物	mm8
+npc conversation	"The vagaries of language are many. Still, your answer seems to apply well to the question."	语言是十分变幻莫测的。不过，你的回答似乎就是这个谜题的答案。	mm8
+npc conversation	"I suppose that could work卬o, on second thought, it seems entirely wrong."	我觉得这也许是对的……不对，再想想，你完全错了。	mm8
+npc conversation	Inside. Inside what? And what is inside? And while we're asking...why?	里面。在什么里面？什么在里面？我们又是为了什么在研究这个问题？	mm8
+npc conversation	"A moon colored box
+  meant to be opened from the inside
+  protects the sun colored
+  treasure of life.
+  What is it?"	如同月亮一样颜色的容器，
+存在的目的是为了被从里面打开，
+容器保护着里面如同太阳一样颜色的生命之宝藏。
+这是什么？
+请输入数字：1、蛋；2、锅；3、纸盒；4、箱子	mm8
+npc conversation	"What else indeed could the answer be? I'm sure if one were to apply some thought, one could think of something. Still in these matters, it is best to have confidence in one's clearest thought. I suppose your answer could be correct."	答案还可能是什么呢？我很确定，如果你多想想，一定可以想出别的答案来。但在这样的情况下，其实第一个想到的东西多半就是正确的。我想这答案应该是正确的。	mm8
+npc conversation	I don't see how that could be the answer. Really I can't.	我觉得这不是正确答案。	mm8
+npc conversation	"""Egg,"" yes. or perhaps, ""eggs."" Eggs are a source of life, a seed of sorts. They are also of an unusual shape not found in many places elsewhere. Perhaps placing the answer in context will give a clue or some direction."	“蛋”，是的。蛋是生命的源头，是许多生物的种子。它们也拥有非常特殊的形状，这样的形状不是到处都可见的。也许你把所有的答案放在当前情况下想一想，就能够获得一些线索或方向。	mm8
+npc conversation	"I would judge that you've answered the riddles correctly. I suppose in asking them to you I have in some way helped you. As far as I and my nature are concerned, this is sufficient.
+
+As a reward for your performance, take this small bauble. I have more than one and therefore, more than I require. And see? I can give it to you because I don't know you have the knowledge to use it."	你已经正确回答了所有的谜题。我觉得在询问你的过程中，我已经通过某些方法帮了你的忙，这应该足够了。由于我天性的限制，我也没法多说了。
+
+为了奖励你们的努力，请收下这个小玩意儿。我拥有不只一个，因此我不需要这么多。你知道吗？我能够把它给你，是因为我不知道你懂得如何使用它。	mm8
+npc conversation	You see it about in field and town,
+It cannot get up,
+But will often fall down.	当其隆重地大驾，
+城里城外都有它。
+无色无味时如纱，
+不可升起常落下。
+请输入数字：1、雨；2、空气；3、鸟；4、太阳	merge
+npc conversation	rain	1	merge
+npc conversation	The strongest chains will not bind it,
+ditch and rampart will not slow it down.
+A thousand soldiers cannot beat it,
+it can knock down trees with a single push.	最强之链无法束缚，
+沟渠堡垒难减其速。
+千军万马不可胜之，
+可以一招击倒树木。
+请输入数字：1、军队；2、泰坦；3、箭；4、风	merge
+npc conversation	wind	4	merge
+npc conversation	An untiring servant it is,
+carrying loads across muddy earth.
+But one thing that cannot be forced,
+is a return to the place of its birth.	勤劳不倦之仆，
+土上穿梭运物。
+前进永不停息，
+一去再无归途。
+请输入数字：1、河流；2、马；3、奴隶；4、搬运工	merge
+npc conversation	river	1	merge
+npc conversation	With sharp edged wit,
+And pointed poise,
+It can settle disputes,
+Without a noise.	仗其锋芒，
+凭其锐意，
+解决纠纷，
+轻声无息。
+请输入数字：1、剑；2、钱；3、公文；4、法官	merge
+npc conversation	sword	1	merge
+npc conversation	It is too much for one.
+Two it is meant for.
+But it no longer exists,
+When the two become more.	一人不胜，
+二人正好。
+三人成众，
+此物便消。
+请输入数字：1、草地；2、路；3、食物；4、秘密	merge
+npc conversation	secret	4	merge
+npc conversation	This old one runs forever,
+But never moves at all.
+He has not lungs, nor throat,
+Still, a mighty roaring call.	这老家伙不停奔跑，
+却不移动一分一毫。
+没有肺也没有嗓子，
+仍能吼出强力咆哮。
+请输入数字：1、军队；2、鼓；3、瀑布；4、野兽	merge
+npc conversation	waterfall	3	merge
+npc conversation	It can move over water,
+But cannot fly.
+It can move under water,
+But stay quite dry.	行于水上，
+却不展翅。
+行于水下，
+却不沾湿。
+请输入数字：1、鱼；2、船；3、阴影；4、鸟	merge
+npc conversation	shadow	3	merge
+npc conversation	It doesn't live with in a house,
+Nor does it live without.
+Most will use it when they come in,
+And again when they go out.	未居房内，
+与房相拥。
+入需此物，
+出必再用。
+请输入数字：1、门；2、墙；3、钥匙；4、房主	merge
+npc conversation	door	1	merge
+npc conversation	A shimmering field that reaches far.
+Yet it has no tracks,
+And is crossed without paths.	一片粼粼发光，
+无际延向远方。
+穿越不留踪迹，
+无道路无指向。
+请输入数字：1、沙漠；2、海洋；3、天空；4、沼泽	merge
+npc conversation	ocean	2	merge
+npc conversation	This engulfing thing,
+is strange indeed.
+The greater it grows,
+the less you see.	其吞噬万物，
+真的很奇异。
+体形越庞大，
+越不见身迹。
+请输入数字：1、光明；2、天空；3、陆地；4、黑暗	merge
+npc conversation	darkness	4	merge
+npc conversation	When it comes in,
+From sea to shore,
+Twenty paces you'll see,
+No less, no more.	当其默默出现，
+从海面到岸边，
+数步之内可见，
+不能再多一点。
+请输入数字：1、光明；2、黑暗；3、雨；4、雾	merge
+npc conversation	fog	4	merge
+location	"You cannot see me, hear me or touch me.  I lie behind the stars and alter what is real, I am what you really fear, Close your eyes and come I near. What am I?"	你看不到听不到也碰不到我。我在星星的背后。我可以改变真相。我令你心惊胆战。闭上眼睛，你就能感受到我。猜猜我是什么？请输入数字：1、光明；2、黑暗；3、星星；4、月亮	mm6 D08
+location	dark	dark	mm6 D08
+location	darkness	2	mm6 D08
+location	Answer?  	答案是：	mm6 D08
+location	Incorrect	错误	mm6 D08
+location	"I go through an apple, or point out your way, I fit in a bow, then a target, to stay. What am I?"	我穿透苹果，或指出你的方向。我可以装在弓上，然后击中目标。猜猜我是什么？请输入数字：1、路牌；2、弓；3、箭；4、弓弦	mm6 D08
+location	arrow	arrow	mm6 D08
+location	an arrow	3	mm6 D08
+location	"What consumes rocks, levels mountains, destroys wood, pushes the clouds across the sky, and can make a young one old?"	什么东西可以使沧海化作桑田，使草木面貌全非，使白云飘过天空，使人青春流逝？请输入数字：1、时间；2、太阳；3、大地；4、河流	mm6 D08
+location	time	1	mm6 D08
+location	"Alive without breath, as cold as death, never thirsty ever drinking, all in mail never clinking, ever travelling, never walking, mouth ever moving, never talking.  What am I? "	我可以不吸气而生存，像死了一样冰冷，不喝水也从不会口渴，浑身穿着鳞甲却不会叮当作响，不用腿就能纵横万里，有嘴但从不说话。猜猜我是什么？请输入数字：1、战士；2、鱼；3、树；4、鸟	mm6 D08
+location	fish	fish	mm6 D08
+location	a fish	2	mm6 D08
+location	"Etched into the tree a message reads:                                                                                                                                                                                                                              The first is half the forth plus one, better hurry or you'll be done!"	树上刻着的消息如下：
+第一个是第四个的一半再加一，最好快点，不然来不及！	mm6 CD1
+location	"Etched into the tree a message reads:                                                                                                                                                                                                                              The second is next to the third, oh so pretty like a bird!"	树上刻着的消息如下：
+第二个是第三个的下一个，它像鸟儿一样欢乐！	mm6 CD1
+location	"Etched into the tree a message reads:                                                                                                                                                                                                                              The third is the first of twenty six, A through Z you'll have to mix!"	树上刻着的消息如下：
+第三个是26个之首，请从“A”到“Z”搜一搜！	mm6 CD1
+location	"Etched into the tree a message reads:                                                                                                                                                                                                                              The fifth is twice the second, five letters in all I reckon!"	树上刻着的消息如下：
+第五个是第二个的两倍，一共有五个字母在密码之内！	mm6 CD1
+location	"Etched into the tree a message reads:                                                                                                                                                                                                                              The forth is eight from the end, Archibald really is your friend!"	树上刻着的消息如下：
+第四个是倒数第八，这儿阿基巴德（Archibald）才是你真正的朋友啊！	mm6 CD1
+location	What's the password?	密码是什么？	mm6 CD1
+location	JBARD	JBARD	mm6 CD1
+location	jbard	jbard	mm6 CD1
+location	Wrong!	错误！	mm6 CD1
+location	Ok!	对了！	mm6 CD1
+location	"Who told you!  Alright, you may pass!"	是谁告诉你的！好吧，你可以通过了	mm6 CD1
+location	Steal from the dead?	要从死尸身上偷取财物吗？	mm6 CD2
+location	Steal (Yes/No)?	偷吗？（Y：是/N：否）	mm6 CD2
+location	Yes	是	mm6 CD2
+location	Y	Y	mm6 CD2
+location	Accept (Yes/No)?	接受（Y：是/N：否）	mm6 CD3
+location	Yes	是	mm6 CD3
+location	Y	Y	mm6 CD3
+npc conversation	Choose name for your dragon.	为龙选择姓名。	merge dragon name
+npc conversation	Dragon's name will be "%s", are you sure? (Y/N)	将龙取名为“%s”，是否确定？（Y：是/N：否）	merge dragon name

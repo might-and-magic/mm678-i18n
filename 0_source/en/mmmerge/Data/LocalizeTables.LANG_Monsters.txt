@@ -1,0 +1,653 @@
+Table (of Game struct)	Id	Field	New text
+MonstersTxt	1	Name	Lizardman Peasant
+MonstersTxt	2	Name	Lizardman Farmer
+MonstersTxt	3	Name	Lizardman Villager
+MonstersTxt	4	Name	Lizardman Soldier
+MonstersTxt	5	Name	Lizardman Sergeant
+MonstersTxt	6	Name	Lizardman Captain
+MonstersTxt	7	Name	Young Couatl
+MonstersTxt	8	Name	Couatl
+MonstersTxt	9	Name	Winged Serpent
+MonstersTxt	10	Name	Regnan Bandit
+MonstersTxt	11	Name	Regnan Pirate
+MonstersTxt	12	Name	Regnan Brigadier
+MonstersTxt	13	Name	Regnan Crossbowman
+MonstersTxt	14	Name	Regnan Arbalester
+MonstersTxt	15	Name	Regnan Lieutenant
+MonstersTxt	16	Name	Regnan Sorcerer
+MonstersTxt	17	Name	Regnan Battlemage
+MonstersTxt	18	Name	Regnan Archmage
+MonstersTxt	19	Name	Dark Elf Peasant
+MonstersTxt	20	Name	Dark Elf Peasant
+MonstersTxt	21	Name	Dark Elf Peasant
+MonstersTxt	22	Name	Dark Elf Peasant
+MonstersTxt	23	Name	Dark Elf Peasant
+MonstersTxt	24	Name	Dark Elf Peasant
+MonstersTxt	25	Name	Dark Elven Warrior
+MonstersTxt	26	Name	Dark Elven Defender
+MonstersTxt	27	Name	Dark Elven Crusader
+MonstersTxt	28	Name	Ogre Peasant
+MonstersTxt	29	Name	Ogre Peasant
+MonstersTxt	30	Name	Ogre Peasant
+MonstersTxt	31	Name	Ogre Brawler
+MonstersTxt	32	Name	Ogre Warrior
+MonstersTxt	33	Name	Ogre Warleader
+MonstersTxt	34	Name	Animalist
+MonstersTxt	35	Name	Shapeshifter
+MonstersTxt	36	Name	Lycanthrope
+MonstersTxt	37	Name	Ratman
+MonstersTxt	38	Name	Wererat
+MonstersTxt	39	Name	Greater Wererat
+MonstersTxt	40	Name	Bestial Animalist
+MonstersTxt	41	Name	Bestial Shapeshifter
+MonstersTxt	42	Name	Bestial Lycanthrope
+MonstersTxt	43	Name	Dragon Hunter
+MonstersTxt	44	Name	Crusader
+MonstersTxt	45	Name	Dragonslayer
+MonstersTxt	46	Name	Acolyte of the Sun
+MonstersTxt	47	Name	Cleric of the Sun
+MonstersTxt	48	Name	Priest of the Sun
+MonstersTxt	49	Name	Peasant
+MonstersTxt	50	Name	Peasant
+MonstersTxt	51	Name	Peasant
+MonstersTxt	52	Name	Vampire Minion
+MonstersTxt	53	Name	Vampire
+MonstersTxt	54	Name	Greater Vampire
+MonstersTxt	55	Name	Dark Path Journeyman
+MonstersTxt	56	Name	Necromancer
+MonstersTxt	57	Name	Master Necromancer
+MonstersTxt	58	Name	Troll Clubman
+MonstersTxt	59	Name	Troll Warrior
+MonstersTxt	60	Name	Troll Chieftain
+MonstersTxt	61	Name	Troll Peasant
+MonstersTxt	62	Name	Troll Peasant
+MonstersTxt	63	Name	Troll Peasant
+MonstersTxt	64	Name	Minotaur Guard
+MonstersTxt	65	Name	Minotaur Warrior
+MonstersTxt	66	Name	Minotaur Battleleader
+MonstersTxt	67	Name	Minotaur Peasant
+MonstersTxt	68	Name	Minotaur Peasant
+MonstersTxt	69	Name	Minotaur Peasant
+MonstersTxt	70	Name	Dragon
+MonstersTxt	71	Name	Dragon Flightleader
+MonstersTxt	72	Name	Great Wyrm
+MonstersTxt	73	Name	Lesser Fire Elemental
+MonstersTxt	74	Name	Fire Elemental
+MonstersTxt	75	Name	Greater Fire Elemental
+MonstersTxt	76	Name	Lesser Water Elemental
+MonstersTxt	77	Name	Water Elemental
+MonstersTxt	78	Name	Greater Water Elemental
+MonstersTxt	79	Name	Lesser Earth Elemental
+MonstersTxt	80	Name	Earth Elemental
+MonstersTxt	81	Name	Greater Earth Elemental
+MonstersTxt	82	Name	Lesser Air Elemental
+MonstersTxt	83	Name	Air Elemental
+MonstersTxt	84	Name	Greater Air Elemental
+MonstersTxt	85	Name	Dire Wolf Yearling
+MonstersTxt	86	Name	Dire Wolf
+MonstersTxt	87	Name	Pack Leader
+MonstersTxt	88	Name	Young Basilisk
+MonstersTxt	89	Name	Basilisk
+MonstersTxt	90	Name	Elder Basilisk
+MonstersTxt	91	Name	Cyclops
+MonstersTxt	92	Name	Cyclops Hunter
+MonstersTxt	93	Name	Cyclops Warrior
+MonstersTxt	94	Name	Serpentman
+MonstersTxt	95	Name	Serpentman Elder
+MonstersTxt	96	Name	Serpentman Warrior
+MonstersTxt	97	Name	Dancing Light
+MonstersTxt	98	Name	Wisp 
+MonstersTxt	99	Name	Will O' Wisp
+MonstersTxt	100	Name	Centaur
+MonstersTxt	101	Name	Centaur Warrior
+MonstersTxt	102	Name	Centaur Warlord
+MonstersTxt	103	Name	Efreeti Soldier
+MonstersTxt	104	Name	Efreeti Knight
+MonstersTxt	105	Name	Efreeti Lord
+MonstersTxt	106	Name	Ogre Mage Apprentice
+MonstersTxt	107	Name	Ogre Mage 
+MonstersTxt	108	Name	Ogre Magi
+MonstersTxt	109	Name	Unicorn Foal
+MonstersTxt	110	Name	Unicorn
+MonstersTxt	111	Name	Unicorn Herd Leader
+MonstersTxt	112	Name	Emerald Dragon
+MonstersTxt	113	Name	Sapphire Dragon
+MonstersTxt	114	Name	Ruby Dragon
+MonstersTxt	115	Name	Mist Hawk
+MonstersTxt	116	Name	Storm Eagle
+MonstersTxt	117	Name	Thunderbird
+MonstersTxt	118	Name	Wasp Worker
+MonstersTxt	119	Name	Wasp Sentry
+MonstersTxt	120	Name	Wasp Warrior
+MonstersTxt	121	Name	Wyvern 
+MonstersTxt	122	Name	Horned Wyvern
+MonstersTxt	123	Name	Ancient Wyvern
+MonstersTxt	124	Name	Brass Gorgon
+MonstersTxt	125	Name	Bronze Gorgon
+MonstersTxt	126	Name	Iron Gorgon
+MonstersTxt	127	Name	Fire Newt
+MonstersTxt	128	Name	Fire Lizard
+MonstersTxt	129	Name	Salamander 
+MonstersTxt	130	Name	Fire Bird
+MonstersTxt	131	Name	Phoenix
+MonstersTxt	132	Name	Grand Phoenix
+MonstersTxt	133	Name	Triton 
+MonstersTxt	134	Name	Triton Warrior
+MonstersTxt	135	Name	Triton Crusader
+MonstersTxt	136	Name	Young Dragon Turtle
+MonstersTxt	137	Name	Dragon Turtle
+MonstersTxt	138	Name	Elder Tortoise
+MonstersTxt	139	Name	Rook
+MonstersTxt	140	Name	Corbie
+MonstersTxt	141	Name	Raven
+MonstersTxt	142	Name	Boulder
+MonstersTxt	143	Name	Boulder
+MonstersTxt	144	Name	Boulder
+MonstersTxt	145	Name	Plane Guardian
+MonstersTxt	146	Name	Plane Protector
+MonstersTxt	147	Name	Plane Overlord
+MonstersTxt	148	Name	Crystal Walker
+MonstersTxt	149	Name	Crystal Sentry
+MonstersTxt	150	Name	Crystal Guardian
+MonstersTxt	151	Name	Fear
+MonstersTxt	152	Name	Terror
+MonstersTxt	153	Name	Nightmare
+MonstersTxt	154	Name	Ether Knight
+MonstersTxt	155	Name	Ether Champion
+MonstersTxt	156	Name	Ether Lord
+MonstersTxt	157	Name	Charger
+MonstersTxt	158	Name	Juggernaut
+MonstersTxt	159	Name	Demolisher
+MonstersTxt	160	Name	Smoke Gog
+MonstersTxt	161	Name	Ember Gog
+MonstersTxt	162	Name	Fire Gog
+MonstersTxt	163	Name	Skeletal Dragon
+MonstersTxt	164	Name	Bone Dragon
+MonstersTxt	165	Name	Undead Dragon
+MonstersTxt	166	Name	Human Peasant
+MonstersTxt	167	Name	Human Peasant
+MonstersTxt	168	Name	Human Peasant
+MonstersTxt	169	Name	Naga 
+MonstersTxt	170	Name	Naga Warrior
+MonstersTxt	171	Name	Naga Queen
+MonstersTxt	172	Name	Skeleton Bowman
+MonstersTxt	173	Name	Skeleton Hunter
+MonstersTxt	174	Name	Skeleton Archer 
+MonstersTxt	175	Name	Dark Dwarf Grunt
+MonstersTxt	176	Name	Dark Dwarf Pounder
+MonstersTxt	177	Name	Dark Dwarf Berserker
+MonstersTxt	178	Name	Fish
+MonstersTxt	179	Name	Fish
+MonstersTxt	180	Name	Fish
+MonstersTxt	181	Name	Pirate
+MonstersTxt	182	Name	Buccaneer
+MonstersTxt	183	Name	Corsair
+MonstersTxt	184	Name	Regnan Crossbowman
+MonstersTxt	185	Name	Regnan Arbalester
+MonstersTxt	186	Name	Regnan Lieutenant
+MonstersTxt	187	Name	Pirate Seer
+MonstersTxt	188	Name	Pirate Magi
+MonstersTxt	189	Name	Pirate Wizard
+MonstersTxt	190	Name	Hatchling
+MonstersTxt	191	Name	Dragonette
+MonstersTxt	192	Name	Young Dragon
+MonstersTxt	193	Name	Soldier of Fortune
+MonstersTxt	194	Name	Mercenary
+MonstersTxt	195	Name	Mercenary Captain
+MonstersTxt	196	Name	Chaos Guardian
+MonstersTxt	197	Name	Chaos Protector
+MonstersTxt	198	Name	Chaos Overlord
+MonstersTxt	199	Name	Angel
+MonstersTxt	200	Name	Angel Lord
+MonstersTxt	201	Name	Archangel
+MonstersTxt	202	Name	Archer
+MonstersTxt	203	Name	Bowman
+MonstersTxt	204	Name	Elite Archer
+MonstersTxt	205	Name	Giant Bat
+MonstersTxt	206	Name	Vampire Bat
+MonstersTxt	207	Name	Inferno Bat
+MonstersTxt	208	Name	Young Behemoth
+MonstersTxt	209	Name	Behemoth
+MonstersTxt	210	Name	Ancient Behemoth
+MonstersTxt	211	Name	Floating Eye
+MonstersTxt	212	Name	Gazer
+MonstersTxt	213	Name	Evil Eye
+MonstersTxt	214	Name	Acolyte of the Moon
+MonstersTxt	215	Name	Cleric of the Moon
+MonstersTxt	216	Name	Priest of the Moon
+MonstersTxt	217	Name	Acolyte of the Sun
+MonstersTxt	218	Name	Cleric of the Sun
+MonstersTxt	219	Name	Priest of the Sun
+MonstersTxt	220	Name	Devil Worker
+MonstersTxt	221	Name	Devil Warrior
+MonstersTxt	222	Name	Devil Captain
+MonstersTxt	223	Name	Green Dragon
+MonstersTxt	224	Name	Blue Dragon
+MonstersTxt	225	Name	Red Dragon
+MonstersTxt	226	Name	Dragonfly
+MonstersTxt	227	Name	Fire Dragonfly
+MonstersTxt	228	Name	Queen Dragonfly
+MonstersTxt	229	Name	Dwarven Soldier
+MonstersTxt	230	Name	Dwarven Lieutenant
+MonstersTxt	231	Name	Dwarven Commander
+MonstersTxt	232	Name	Tempest
+MonstersTxt	233	Name	Cyclone
+MonstersTxt	234	Name	Air Elemental
+MonstersTxt	235	Name	Clay Elemental
+MonstersTxt	236	Name	Stone Elemental
+MonstersTxt	237	Name	Earth Elemental
+MonstersTxt	238	Name	Warden of Fire
+MonstersTxt	239	Name	Guardian of Flame
+MonstersTxt	240	Name	Fire Elemental
+MonstersTxt	241	Name	Lesser Light Elemental
+MonstersTxt	242	Name	Light Elemental
+MonstersTxt	243	Name	Greater Light Elemental
+MonstersTxt	244	Name	Sprite
+MonstersTxt	245	Name	Sylph
+MonstersTxt	246	Name	Water Elemental
+MonstersTxt	247	Name	Elven Archer
+MonstersTxt	248	Name	Elven Scout
+MonstersTxt	249	Name	Elven Ranger
+MonstersTxt	250	Name	Elven Warrior
+MonstersTxt	251	Name	Elven Defender
+MonstersTxt	252	Name	Elven Lancer
+MonstersTxt	253	Name	Conscript
+MonstersTxt	254	Name	Soldier
+MonstersTxt	255	Name	Fighter
+MonstersTxt	256	Name	Robber
+MonstersTxt	257	Name	Raider
+MonstersTxt	258	Name	Bandit
+MonstersTxt	259	Name	Initiate of the Sword
+MonstersTxt	260	Name	Champion of the Sword
+MonstersTxt	261	Name	Master of the Sword
+MonstersTxt	262	Name	Stone Gargoyle
+MonstersTxt	263	Name	Marble Gargoyle
+MonstersTxt	264	Name	Obsidian Gargoyle
+MonstersTxt	265	Name	Djinni
+MonstersTxt	266	Name	Genie
+MonstersTxt	267	Name	Efreet
+MonstersTxt	268	Name	Shade
+MonstersTxt	269	Name	Specter
+MonstersTxt	270	Name	Ghost
+MonstersTxt	271	Name	Goblin
+MonstersTxt	272	Name	Hobgoblin
+MonstersTxt	273	Name	Goblin Lord
+MonstersTxt	274	Name	Gogling
+MonstersTxt	275	Name	Gog
+MonstersTxt	276	Name	Magog
+MonstersTxt	277	Name	Bronze Golem
+MonstersTxt	278	Name	Brass Golem
+MonstersTxt	279	Name	Gold Golem
+MonstersTxt	280	Name	Griffin
+MonstersTxt	281	Name	Hunting Griffin
+MonstersTxt	282	Name	Royal Griffin
+MonstersTxt	283	Name	Harpy
+MonstersTxt	284	Name	Harpy Hag
+MonstersTxt	285	Name	Harpy Queen
+MonstersTxt	286	Name	Fire Hydra
+MonstersTxt	287	Name	Air Hydra
+MonstersTxt	288	Name	Chaos Hydra
+MonstersTxt	289	Name	Lich
+MonstersTxt	290	Name	Power Lich
+MonstersTxt	291	Name	Lich King
+MonstersTxt	292	Name	Sorcerer
+MonstersTxt	293	Name	Wizard
+MonstersTxt	294	Name	Archmage
+MonstersTxt	295	Name	Minicore
+MonstersTxt	296	Name	Manticore 
+MonstersTxt	297	Name	Scorpicore
+MonstersTxt	298	Name	Medusa
+MonstersTxt	299	Name	Queen Medusa
+MonstersTxt	300	Name	Empress Medusa
+MonstersTxt	301	Name	Minotaur
+MonstersTxt	302	Name	Minotaur Headsman
+MonstersTxt	303	Name	Minotaur Lord
+MonstersTxt	304	Name	Monk
+MonstersTxt	305	Name	Initiate
+MonstersTxt	306	Name	Master
+MonstersTxt	307	Name	Necromancer
+MonstersTxt	308	Name	Speaker for the Dead
+MonstersTxt	309	Name	Queen of the Dead
+MonstersTxt	310	Name	Emerald Ooze
+MonstersTxt	311	Name	Sapphire Ooze
+MonstersTxt	312	Name	Bloodstone Ooze
+MonstersTxt	313	Name	Peasant
+MonstersTxt	314	Name	Peasant
+MonstersTxt	315	Name	Peasant
+MonstersTxt	316	Name	Peasant
+MonstersTxt	317	Name	Peasant
+MonstersTxt	318	Name	Peasant
+MonstersTxt	319	Name	Peasant
+MonstersTxt	320	Name	Peasant
+MonstersTxt	321	Name	Peasant
+MonstersTxt	322	Name	Peasant
+MonstersTxt	323	Name	Peasant
+MonstersTxt	324	Name	Peasant
+MonstersTxt	325	Name	Peasant
+MonstersTxt	326	Name	Peasant
+MonstersTxt	327	Name	Peasant
+MonstersTxt	328	Name	Peasant
+MonstersTxt	329	Name	Peasant
+MonstersTxt	330	Name	Peasant
+MonstersTxt	331	Name	Peasant
+MonstersTxt	332	Name	Peasant
+MonstersTxt	333	Name	Peasant
+MonstersTxt	334	Name	Peasant
+MonstersTxt	335	Name	Peasant
+MonstersTxt	336	Name	Peasant
+MonstersTxt	337	Name	Peasant
+MonstersTxt	338	Name	Peasant
+MonstersTxt	339	Name	Peasant
+MonstersTxt	340	Name	Peasant
+MonstersTxt	341	Name	Peasant
+MonstersTxt	342	Name	Peasant
+MonstersTxt	343	Name	Peasant
+MonstersTxt	344	Name	Peasant
+MonstersTxt	345	Name	Peasant
+MonstersTxt	346	Name	Peasant
+MonstersTxt	347	Name	Peasant
+MonstersTxt	348	Name	Peasant
+MonstersTxt	349	Name	Peasant
+MonstersTxt	350	Name	Peasant
+MonstersTxt	351	Name	Peasant
+MonstersTxt	352	Name	Peasant
+MonstersTxt	353	Name	Peasant
+MonstersTxt	354	Name	Peasant
+MonstersTxt	355	Name	Peasant
+MonstersTxt	356	Name	Peasant
+MonstersTxt	357	Name	Peasant
+MonstersTxt	358	Name	Peasant
+MonstersTxt	359	Name	Peasant
+MonstersTxt	360	Name	Peasant
+MonstersTxt	361	Name	Peasant
+MonstersTxt	362	Name	Peasant
+MonstersTxt	363	Name	Peasant
+MonstersTxt	364	Name	Peasant
+MonstersTxt	365	Name	Peasant
+MonstersTxt	366	Name	Peasant
+MonstersTxt	367	Name	Peasant
+MonstersTxt	368	Name	Peasant
+MonstersTxt	369	Name	Peasant
+MonstersTxt	370	Name	Peasant
+MonstersTxt	371	Name	Peasant
+MonstersTxt	372	Name	Peasant
+MonstersTxt	373	Name	Peasant
+MonstersTxt	374	Name	Peasant
+MonstersTxt	375	Name	Peasant
+MonstersTxt	376	Name	Peasant
+MonstersTxt	377	Name	Peasant
+MonstersTxt	378	Name	Peasant
+MonstersTxt	379	Name	Peasant
+MonstersTxt	380	Name	Peasant
+MonstersTxt	381	Name	Peasant
+MonstersTxt	382	Name	Peasant
+MonstersTxt	383	Name	Peasant
+MonstersTxt	384	Name	Peasant
+MonstersTxt	385	Name	Giant Rat
+MonstersTxt	386	Name	Lightning Rat
+MonstersTxt	387	Name	Fire Rat
+MonstersTxt	388	Name	Seeker Droid
+MonstersTxt	389	Name	Sentinel Droid
+MonstersTxt	390	Name	Assassin Droid
+MonstersTxt	391	Name	Roc
+MonstersTxt	392	Name	Greater Roc
+MonstersTxt	393	Name	Thunderbird
+MonstersTxt	394	Name	Giant Shark
+MonstersTxt	395	Name	Piranha Shark
+MonstersTxt	396	Name	Dragon Shark
+MonstersTxt	397	Name	Skeleton
+MonstersTxt	398	Name	Skeleton Warrior
+MonstersTxt	399	Name	Skeleton Lord
+MonstersTxt	400	Name	Giant Spider
+MonstersTxt	401	Name	Venemous Spider
+MonstersTxt	402	Name	Widowmaker
+MonstersTxt	403	Name	Swordsman
+MonstersTxt	404	Name	Guard
+MonstersTxt	405	Name	Adventurer
+MonstersTxt	406	Name	Thief
+MonstersTxt	407	Name	Rogue
+MonstersTxt	408	Name	Master Thief
+MonstersTxt	409	Name	Titan
+MonstersTxt	410	Name	Storm Titan
+MonstersTxt	411	Name	Blood Titan
+MonstersTxt	412	Name	Troglodyte Drone
+MonstersTxt	413	Name	Troglodyte Soldier
+MonstersTxt	414	Name	Troglodyte Queen
+MonstersTxt	415	Name	Minion Vampire
+MonstersTxt	416	Name	Vampire
+MonstersTxt	417	Name	Elder Vampire
+MonstersTxt	418	Name	Fire Warlock
+MonstersTxt	419	Name	Water Warlock
+MonstersTxt	420	Name	Air Warlock
+MonstersTxt	421	Name	Wight
+MonstersTxt	422	Name	Wraith
+MonstersTxt	423	Name	Barrow Wight
+MonstersTxt	424	Name	Wyvern
+MonstersTxt	425	Name	Horned Wyvern
+MonstersTxt	426	Name	Ancient Wyvern
+MonstersTxt	427	Name	Rotted Corpse
+MonstersTxt	428	Name	Walking Dead
+MonstersTxt	429	Name	Zombie
+MonstersTxt	430	Name	peasant
+MonstersTxt	431	Name	peasant
+MonstersTxt	432	Name	peasant
+MonstersTxt	433	Name	peasant
+MonstersTxt	434	Name	peasant
+MonstersTxt	435	Name	peasant
+MonstersTxt	436	Name	peasant
+MonstersTxt	437	Name	peasant
+MonstersTxt	438	Name	peasant
+MonstersTxt	439	Name	peasant
+MonstersTxt	440	Name	peasant
+MonstersTxt	441	Name	peasant
+MonstersTxt	442	Name	peasant
+MonstersTxt	443	Name	peasant
+MonstersTxt	444	Name	peasant
+MonstersTxt	445	Name	peasant
+MonstersTxt	446	Name	peasant
+MonstersTxt	447	Name	peasant
+MonstersTxt	448	Name	Swamp Troll
+MonstersTxt	449	Name	River Troll
+MonstersTxt	450	Name	Mountain Troll
+MonstersTxt	451	Name	Tree
+MonstersTxt	452	Name	Tree
+MonstersTxt	453	Name	Tree
+MonstersTxt	454	Name	Ghast
+MonstersTxt	455	Name	Ghoul 
+MonstersTxt	456	Name	Revenant
+MonstersTxt	457	Name	Tolberti
+MonstersTxt	458	Name	Robert the Wise
+MonstersTxt	459	Name	Blaster Guy C
+MonstersTxt	460	Name	Mega-Dragon
+MonstersTxt	461	Name	Mega-Dragon
+MonstersTxt	462	Name	Mega-Dragon
+MonstersTxt	463	Name	Cat A
+MonstersTxt	464	Name	Cat B
+MonstersTxt	465	Name	Cat C
+MonstersTxt	466	Name	Chicken A
+MonstersTxt	467	Name	Chicken B
+MonstersTxt	468	Name	Chicken C
+MonstersTxt	469	Name	Dog A
+MonstersTxt	470	Name	Dog B
+MonstersTxt	471	Name	Dog C
+MonstersTxt	472	Name	Rat A
+MonstersTxt	473	Name	Rat B
+MonstersTxt	474	Name	Rat C
+MonstersTxt	475	Name	Archer
+MonstersTxt	476	Name	Master Archer
+MonstersTxt	477	Name	Fire Archer
+MonstersTxt	478	Name	Magyar
+MonstersTxt	479	Name	Magyar Soldier
+MonstersTxt	480	Name	Magyar Matron
+MonstersTxt	481	Name	Bat
+MonstersTxt	482	Name	Giant Bat
+MonstersTxt	483	Name	Vampire Bat
+MonstersTxt	484	Name	Flying Eye
+MonstersTxt	485	Name	Terrible Eye
+MonstersTxt	486	Name	Maddening Eye
+MonstersTxt	487	Name	Blood Sucker
+MonstersTxt	488	Name	Brain Sucker
+MonstersTxt	489	Name	Soul Sucker
+MonstersTxt	490	Name	Acolyte of Baa
+MonstersTxt	491	Name	Cleric of Baa
+MonstersTxt	492	Name	Priest of Baa
+MonstersTxt	493	Name	Cobra
+MonstersTxt	494	Name	King Cobra
+MonstersTxt	495	Name	Queen Cobra
+MonstersTxt	496	Name	Agar's Pet
+MonstersTxt	497	Name	Agar's Monster
+MonstersTxt	498	Name	Agar's Abomination
+MonstersTxt	499	Name	Devil Captain
+MonstersTxt	500	Name	Devil Master
+MonstersTxt	501	Name	Devil King
+MonstersTxt	502	Name	Devil Spawn
+MonstersTxt	503	Name	Devil Worker
+MonstersTxt	504	Name	Devil Warrior
+MonstersTxt	505	Name	Fire Lizard
+MonstersTxt	506	Name	Lightning Lizard
+MonstersTxt	507	Name	Thunder Lizard
+MonstersTxt	508	Name	Flame Drake
+MonstersTxt	509	Name	Frost Drake
+MonstersTxt	510	Name	Energy Drake
+MonstersTxt	511	Name	Wyrm
+MonstersTxt	512	Name	Giant Wyrm
+MonstersTxt	513	Name	Great Wyrm
+MonstersTxt	514	Name	Red Dragon
+MonstersTxt	515	Name	Blue Dragon
+MonstersTxt	516	Name	Gold Dragon
+MonstersTxt	517	Name	Druid
+MonstersTxt	518	Name	Great Druid
+MonstersTxt	519	Name	Grand Druid
+MonstersTxt	520	Name	Dwarf
+MonstersTxt	521	Name	Dwarf Warrior
+MonstersTxt	522	Name	Dwarf Lord
+MonstersTxt	523	Name	Dust Devil
+MonstersTxt	524	Name	Twister
+MonstersTxt	525	Name	Air Elemental
+MonstersTxt	526	Name	Rock Beast
+MonstersTxt	527	Name	Earth Spirit
+MonstersTxt	528	Name	Earth Elemental
+MonstersTxt	529	Name	Fire Beast
+MonstersTxt	530	Name	Fire Spirit
+MonstersTxt	531	Name	Fire Elemental
+MonstersTxt	532	Name	Water Beast
+MonstersTxt	533	Name	Water Spirit
+MonstersTxt	534	Name	Water Elemental
+MonstersTxt	535	Name	Fighter
+MonstersTxt	536	Name	Soldier
+MonstersTxt	537	Name	Veteran
+MonstersTxt	538	Name	Thug
+MonstersTxt	539	Name	Ruffian
+MonstersTxt	540	Name	Brigand
+MonstersTxt	541	Name	Stone Gargoyle
+MonstersTxt	542	Name	Marble Gargoyle
+MonstersTxt	543	Name	Diamond Gargoyle
+MonstersTxt	544	Name	Genie
+MonstersTxt	545	Name	Djinn
+MonstersTxt	546	Name	Efreet
+MonstersTxt	547	Name	Ghost
+MonstersTxt	548	Name	Evil Spirit
+MonstersTxt	549	Name	Specter
+MonstersTxt	550	Name	Goblin
+MonstersTxt	551	Name	Goblin Shaman
+MonstersTxt	552	Name	Goblin King
+MonstersTxt	553	Name	Guard
+MonstersTxt	554	Name	Lieutenant
+MonstersTxt	555	Name	Captain
+MonstersTxt	556	Name	Harpy
+MonstersTxt	557	Name	Harpy Hag
+MonstersTxt	558	Name	Harpy Witch
+MonstersTxt	559	Name	Hydra
+MonstersTxt	560	Name	Venomous Hydra
+MonstersTxt	561	Name	Colossal Hydra
+MonstersTxt	562	Name	Defender of VARN
+MonstersTxt	563	Name	Sentinel of VARN
+MonstersTxt	564	Name	Guardian of VARN
+MonstersTxt	565	Name	Death Knight
+MonstersTxt	566	Name	Doom Knight
+MonstersTxt	567	Name	Cuisinart
+MonstersTxt	568	Name	Lich
+MonstersTxt	569	Name	Greater Lich
+MonstersTxt	570	Name	Power Lich
+MonstersTxt	571	Name	Lizard Man
+MonstersTxt	572	Name	Lizard Archer
+MonstersTxt	573	Name	Lizard Wizard
+MonstersTxt	574	Name	Medusa
+MonstersTxt	575	Name	Medusa Enchantress
+MonstersTxt	576	Name	Gorgon
+MonstersTxt	577	Name	Peasant
+MonstersTxt	578	Name	Peasant
+MonstersTxt	579	Name	Peasant
+MonstersTxt	580	Name	Minotaur
+MonstersTxt	581	Name	Minotaur Mage
+MonstersTxt	582	Name	Minotaur King
+MonstersTxt	583	Name	Novice Monk
+MonstersTxt	584	Name	Initiate Monk
+MonstersTxt	585	Name	Master Monk
+MonstersTxt	586	Name	Swordsman
+MonstersTxt	587	Name	Expert Swordsman
+MonstersTxt	588	Name	Master Swordsman
+MonstersTxt	589	Name	Ooze
+MonstersTxt	590	Name	Acidic Ooze
+MonstersTxt	591	Name	Corrosive Ooze
+MonstersTxt	592	Name	Ogre
+MonstersTxt	593	Name	Ogre Raider
+MonstersTxt	594	Name	Ogre Chieftain
+MonstersTxt	595	Name	Peasant
+MonstersTxt	596	Name	Peasant
+MonstersTxt	597	Name	Peasant
+MonstersTxt	598	Name	Peasant
+MonstersTxt	599	Name	Peasant
+MonstersTxt	600	Name	Peasant
+MonstersTxt	601	Name	Cutpurse
+MonstersTxt	602	Name	Bounty Hunter
+MonstersTxt	603	Name	Assassin
+MonstersTxt	604	Name	Cannibal
+MonstersTxt	605	Name	Head Hunter
+MonstersTxt	606	Name	Witch Doctor
+MonstersTxt	607	Name	Peasant
+MonstersTxt	608	Name	Peasant
+MonstersTxt	609	Name	Peasant
+MonstersTxt	610	Name	Apprentice Mage
+MonstersTxt	611	Name	Journeyman Mage
+MonstersTxt	612	Name	Mage
+MonstersTxt	613	Name	Follower of Baa
+MonstersTxt	614	Name	Mystic of Baa
+MonstersTxt	615	Name	Fanatic of Baa
+MonstersTxt	616	Name	Cannibal
+MonstersTxt	617	Name	Head Hunter
+MonstersTxt	618	Name	Witch Doctor
+MonstersTxt	619	Name	Common Rat
+MonstersTxt	620	Name	Large Rat
+MonstersTxt	621	Name	Giant Rat
+MonstersTxt	622	Name	Patrol Unit
+MonstersTxt	623	Name	Enforcer Unit
+MonstersTxt	624	Name	Terminator Unit
+MonstersTxt	625	Name	Sea Serpent
+MonstersTxt	626	Name	Sea Monster
+MonstersTxt	627	Name	Sea Terror
+MonstersTxt	628	Name	Skeleton
+MonstersTxt	629	Name	Skeleton Knight
+MonstersTxt	630	Name	Skeleton Lord
+MonstersTxt	631	Name	Sorcerer
+MonstersTxt	632	Name	Magician
+MonstersTxt	633	Name	Warlock
+MonstersTxt	634	Name	Spider
+MonstersTxt	635	Name	Giant Spider
+MonstersTxt	636	Name	Huge Spider
+MonstersTxt	637	Name	Thief
+MonstersTxt	638	Name	Burglar
+MonstersTxt	639	Name	Rogue
+MonstersTxt	640	Name	Titan
+MonstersTxt	641	Name	Noble Titan
+MonstersTxt	642	Name	Supreme Titan
+MonstersTxt	643	Name	Wolfman
+MonstersTxt	644	Name	Werewolf
+MonstersTxt	645	Name	Greater Werewolf
+MonstersTxt	646	Name	Demon Queen
+MonstersTxt	647	Name	Reactor
+MonstersTxt	648	Name	Reactor
+MonstersTxt	649	Name	Cactus
+MonstersTxt	650	Name	Cactus
+MonstersTxt	651	Name	Cactus
+MonstersTxt	651	Name	Reactor

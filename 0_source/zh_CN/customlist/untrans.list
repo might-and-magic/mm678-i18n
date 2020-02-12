@@ -1,0 +1,223 @@
+npc conversation	I respect your decision.  I am, however, a patient man, and will offer you this chance until a winner in the contest is proclaimed.	我尊重你的决定。不过我是一个有耐心的人，我会给你个机会，直到竞赛的胜者被宣布。
+location	Nighon tunnels	尼根隧道
+npc conversation	Hatchling is too young to join you.	幼体太年轻了，无法加入队伍。
+npc conversation	Your party is too full.	你的队伍已经满了
+npc conversation	You must have your own card deck to play here. _________________________________________	你必须拥有自己的牌才能在这里玩。_________________________________________
+npc conversation	Path of Light	光明之路
+npc conversation	Path of Dark	黑暗之路
+npc conversation	Are you sure, you want to change your path? Dark spells will be vanished from your spellbook and dark magic will be erased from your mind. (Yes/No)	你确定要更改路线吗？暗黑魔法将从你的魔法全书中消失，暗黑魔法技能将从你的脑海中消除。（Yes：是/No：否）
+npc conversation	Are you sure, you want to change your path? Light spells will be vanished from your spellbook and light magic will be erased from your mind. (Yes/No)	你确定要更改路线吗？光明魔法将从你的魔法全书中消失，光明魔法技能将从你的脑海中消除。（Yes：是/No：否）
+npc conversation	It is never late to turn back to light, child. Choose light side.	孩子，浪子回头永远不迟。选择光明之路吧。
+npc conversation	Darkness wait and it's patience is eternal. Choose dark side.	黑暗耐心而永恒地等待着你。选择黑暗之路吧。
+npc conversation	yes	yes
+npc conversation	Either you've already choosen your path, or you are not ready to do it.	您已经选择了你的道路，或者还没有准备好去做。
+npc conversation	Dragon ate enough! Let him grow.	龙吃够了！ 让他成长。
+npc conversation	Dragon grown!	龙长大了！
+npc conversation	Feed dragon	喂龙
+npctopic	Bribe	贿赂
+npctopic	Beg	乞求
+npctopic	Threat	威胁
+items	(Shared life, Endurance + 20) A ring of simple metal (copper or brass?), warm on touch.	（共享生命，耐力+20）一圈简单的金属（铜或黄铜？），摸上去很暖和。
+items	Smooth half-transparent connector stone charged by time traveling.	随着时间的流逝，这光滑而半透明的连接石充入了能量。
+items	Smooth stone without specific color.	没有特定颜色的光滑的石头。
+global	You feel high magic presense here.	你在此处能感受到很高的魔力。
+global	or	或
+global	Magnificent! No world left behind. Not only have you walked the path of heroes in three different realms, but you have also found and caged the Runaway Chaos responsible for the whole conundrum. Now Enroth, Antagrich, and Jadame may all rest easy. And Verdant has a lot of chronicle work cut out for her.	好极了！你们成功拯救了所有大陆。你们不仅在三个不同的王国成为了英雄，而且还发现并监禁了问题的源头——“失控的混沌”。 现在，恩洛斯，恩塔格瑞和贾丹姆的人们都可以安心了。维尔丹将有很多编年史要写。
+items	Permanently raises Might by 15 while reducing Intellect by 5.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	力量永久+15，智力-5。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently raises Intellect by 15 while reducing Might by 5.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	智力永久+15，力量-5。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently raises Personality by 15 while reducing Speed by 5.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	个性永久+15，速度-5。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently raises Endurance by 15 while reducing all other attributes by 1.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	耐力永久+15，其他六项属性分别-1。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently raises Accuracy by 15 while reducing Luck by 5.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	精确永久+15，运气-5。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently raises Speed by 15 while reducing Personality by 5.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	速度永久+15，个性-5。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently raises Luck by 15 while reducing Accuracy by 5.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	运气永久+15，精确-5。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently adds 1 to all seven stats and resistances at the cost of 5 years of magical aging.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	每项属性和抗性均永久+1，年龄+5。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Increases all Seven Statistics temporarily by 3 per point of potion's power for (30 x Power) minutes.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	七属性各增加药剂能量点数乘以3，持续时间为药剂能量点数乘以30分钟。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Increases Fire, Air, Water, Earth, Mind and Body resistances temporarily by 3 per point of potion's power for (30 x Power) minutes.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	所有抗性各增加药剂能量点数乘以3，持续时间为药剂能量点数乘以30分钟。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Increases the character’s level by 20 for (30 x Power) minutes.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	角色的等级提高20，持续时间为药剂能量点数乘以30分钟。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently raises all seven stats by 20 at the cost of 10 years of magical aging.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	七属性每项永久+20，年龄+10。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently adds 40 to Fire Resistance.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	火系抗性永久+40。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently adds 40 to Air Resistance.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	风系抗性永久+40。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently adds 40 to Water Resistance.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	水系抗性永久+40。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently adds 40 to Earth Resistance.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	土系抗性永久+40。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently adds 40 to Mind Resistance.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	心系抗性永久+40。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Permanently adds 40 to Body Resistance.  (To drink, pick the potion up and right-click over a character's portrait.  To mix, pick the potion up and right-click over another potion.)	体系抗性永久+40。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Grants Protection from Magic (as the spell) for 30 minutes per point of potion strength.  (To drink, pick the potion up and right-click over a character's portrait.  To mix two potions, pick up one and right-click it over the other.)	施展御魔奇术，持续时间为药剂强度点数乘以30分钟。（如需饮用，请拿起药剂并右键单击一名角色的肖像。如需混合，请拿起药剂并右键单击另一瓶药剂）
+items	Metal Rod	金属杆
+items	Metal stick.	金属棒。
+items	Round crystal	圆形水晶
+items	Large smooth and perfectly round crystal.	大而光滑的圆形水晶。
+items	Pieces of rotten cloth.	一块烂布。
+items	Metal stick with smooth gem on top of it.	金属棒，上面有光滑的宝石。
+items	Potion Recipe	药水配方
+items	Letter for YOU.	给你的信。
+items	Letter. Your name written on the front side. (To read it, pick the scroll up and right-click over a character's portrait.)	信件。正面写有你的名字。（如需阅读，请拿起卷轴并右键单击一名角色的肖像）
+items	Advertisment	广告
+autonote or awards	Won Arcomage at the On the House in Harmondale.	在哈蒙代尔的迎宾旅店赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at the Griffin's Rest in the City of Steadwick.	在斯坦德威克城的狮鹫旅店赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at the Emerald Inn in The Tularian Forest.	在图拉利昂森林的翡翠旅店赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at the The Snobbish Goblin in Deyja.	在迪雅的怪物旅店赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at the Familiar Place in The Bracada Desert.	在布拉卡达沙漠的宾至如归旅店赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at The Blessed Brew in Celeste.	在塞莱斯特的美酒佳肴旅店赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at The Vampyre Lounge in The Pit.	在地狱城的旅行之家赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at The Laughing Monk in Evenmorn Island.	在埃弗蒙岛的法师旅店赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at Fortune's Folly in Mount Nighon.	在尼根山脉的幸运旅店赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at Miner's Only in The Barrow Downs.	在拜尔德斯的矿工旅店赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at The Loyal Mercenary in Tatalia.	在泰塔利亚的忠诚佣兵旅店赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at The Potted Pixie in Avlee.	在埃里的勇士旅店赢得了魔幻牌比赛。
+autonote or awards	Won Arcomage at Grogg's Grog in Stone City.	在石头城的克劳格旅店赢得了魔幻牌比赛。
+npctopic	Balthazar of 	巴尔萨煞：
+npctopic	Promotion to Priest of the Light	升职为光明主教
+npctopic	Lair of the 	巢穴：
+npctopic	The village can hold 	村庄可以容纳
+npctopic	Ancient Weapon	古老兵器
+npctopic	Master Wizards	巫师大师
+npctopic	Master Archers	弓箭大师
+placemon	Super Vampire	超级吸血鬼
+placemon	Q	Q
+quests	Mysterious woman asked you to travel in time and fulfill destinies of other heroes. Well...	神秘的女子请你准时出发，完成其他英雄的任务。好吧…
+quests	Enter The Controlled Breach, find Runaway Chaos and bring it to the Uneasy Origin Matter.	进入“缺口地下室”，找到“失控的混沌”并将其带入“不稳定起源物质”。
+quests	Find your friends.	找到你的朋友。
+quests	Find entrance to the main Breach structure.	找到进入主要突破结构的入口。
+scroll	The black potion of Divine Boost temporarily increases all your Seven Statistics. To mix this potion, you require the correct combination of eleven reagents: of which there are always three blue and three yellow ones. The remaining five differ in the many possible mixes that lead to obtaining this potion.	黑色的神圣提升药剂可临时增加角色的所有七属性。想配置这种药剂，你需要正确地混合11个试剂：3个蓝色和3个黄色试剂，剩下的5个试剂则有许多种可能的配方。
+scroll	The black potion of Divine Protection combines the effects of the white resistance boosting potions, temporarily increasing all your resistances. To mix this potion, you require the correct combination of twelve reagents: of which there are always three red and three yellow ones. The remaining six differ in the many possible mixes that lead to obtaining this potion.	黑色的神圣保护药剂综合了所有白色防御抗性药剂的效果，即临时增加角色的所有抗性。想配置这种药剂，你需要正确地混合12个试剂：3个红色和3个黄色试剂，剩下的6个试剂则有许多种可能的配方。
+scroll	The black potion of Divine Transcendence temporarily increases a character’s level. To mix this potion, you require the correct combination of ten reagents: three of each color plus an additional one of a random color.	黑色的神圣超越药剂临时增加角色的等级。想配置这种药剂，你需要正确地混合10个试剂：每种颜色的试剂各3个，外加任意一种颜色的试剂。
+scroll	Essence of Luck increases a character’s Luck by 15, while subtracting 2 from the other statistics. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors.	强大的众神药剂可令角色的所有七属性一次性各增加20点。有很多种方法可以配置这种药剂，但都需要10个试剂做配方：4个一种颜色的和3个另外两种颜色的试剂。
+scroll	The magnificent Potion of the Gods increases all seven statistics of a character by 20, once. There are many ways to mix this potion, but all involve ten reagents: four of one type and three of the other two types.	末日药剂可增加1点角色的所有七属性、生命值、魔法值、防御等级和抗性，年龄增加5岁。有不止一方法可以配置这种药剂，但都需要8个试剂做配方：2个一种颜色的和3个另外两种颜色的试剂。
+scroll	The Potion of Doom increases a character’s Seven Statistics, Life, Spell Points, Armor Class and Resistances by 1 at the cost of magically aging them 5 years. This potion can be mixed in more than one way, but always requires eight reagents: two of one type and three of the other two types.	永恒御火药剂一次性增加40点角色的火系抗性。这是最难配置的药剂之一，需要12个试剂作为配方。有不止一种方法配置该药剂，但是每种方法都至少需要3个红色、4个黄色和2个蓝色试剂。
+scroll	Pure Fire Resistance increases your character’s Fire Resistance by 40, once. It is among the most complicated potions to brew, requiring nothing short of twelve reagents. More than one way to brew this potion exists, but each one involves at least three red, four yellow and two blue reagents.	永恒御风药剂一次性增加40点角色的风系抗性。这是最难配置的药剂之一，需要12个试剂作为配方。有不止一种方法配置该药剂，但是每种方法都至少需要4个红色、4个蓝色和1个黄色试剂。
+scroll	Pure Air Resistance increases your character’s Air Resistance by 40, once. It is among the most complicated potions to brew, requiring nothing short of twelve reagents. More than one way to brew this potion exists, but each one involves at least four red, four blue and one yellow reagent.	永恒御水药剂一次性增加40点角色的水系抗性。这是最难配置的药剂之一，需要12个试剂作为配方。有不止一种方法配置该药剂，但是每种方法都至少需要2个红色、3个黄色和4个蓝色试剂。
+scroll	Pure Water Resistance increases your character’s Water Resistance by 40, once. It is among the most complicated potions to brew, requiring nothing short of twelve reagents. More than one way to brew this potion exists, but each one involves at least two red, three yellow and four blue reagents.	永恒御土药剂一次性增加40点角色的土系抗性。这是最难配置的药剂之一，需要12个试剂作为配方。有不止一种方法配置该药剂，但是每种方法都至少需要4个红色、3个黄色和2个蓝色试剂。
+scroll	Pure Earth Resistance increases your character’s Earth Resistance by 40, once. It is among the most complicated potions to brew, requiring nothing short of twelve reagents. More than one way to brew this potion exists, but each one involves at least four red, three yellow and two blue reagents.	永恒御体药剂一次性增加40点角色的体系抗性。这是最难配置的药剂之一，需要12个试剂作为配方。有不止一种方法配置该药剂，但是每种方法都至少需要2个红色、4个黄色和3个蓝色试剂。
+scroll	Pure Body Resistance increases your character’s Body Resistance by 40, once. It is among the most complicated potions to brew, requiring nothing short of twelve reagents. More than one way to brew this potion exists, but each one involves at least two red, four yellow and three blue reagents.	永恒御心药剂一次性增加40点角色的心系抗性。这是最难配置的药剂之一，需要12个试剂作为配方。有不止一种方法配置该药剂，但是每种方法都至少需要3个红色、2个黄色和4个蓝色试剂。
+scroll	Pure Mind Resistance increases your character’s Mind Resistance by 40, once. It is among the most complicated potions to brew, requiring nothing short of twelve reagents. More than one way to brew this potion exists, but each one involves at least three red, two yellow and four blue reagents.	运气精髓药剂一次性增加15点角色的力量，其他六项属性各减2点。这种药剂需要至少6个试剂作为配方，这包括任意某种颜色的试剂4个，外加另两种颜色的试剂各一个。
+scroll	Essence of Might increases a character’s Might by 15, while subtracting 5 from his Intellect. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors.	力量精髓药剂一次性增加15点角色的力量，减5点智力。这种药剂需要至少6个试剂作为配方，这包括任意某种颜色的试剂4个，外加另两种颜色的试剂各一个。
+scroll	Essence of Intellect increases a character’s Intellect by 15, while subtracting 5 from his Might. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors.	智力精髓药剂一次性增加15点角色的智力，减5点力量。这种药剂需要至少6个试剂作为配方，这包括任意某种颜色的试剂4个，外加另两种颜色的试剂各一个。
+scroll	Essence of Personality increases a character’s Personality by 15, while subtracting 5 from his Speed. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors.	个性精髓药剂一次性增加15点角色的个性，减5点速度。这种药剂需要至少6个试剂作为配方，这包括任意某种颜色的试剂4个，外加另两种颜色的试剂各一个。
+scroll	Essence of Accuracy increases a character’s Accuracy by 15, while subtracting 5 from his Endurance. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors.	精确精髓药剂一次性增加15点角色的精确，减5点耐力。这种药剂需要至少6个试剂作为配方，这包括任意某种颜色的试剂4个，外加另两种颜色的试剂各一个。
+scroll	Essence of Endurance increases a character’s Endurance by 15, while subtracting 5 from his Accuracy. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors.	耐力精髓药剂一次性增加15点角色的耐力，减5点精确。这种药剂需要至少6个试剂作为配方，这包括任意某种颜色的试剂4个，外加另两种颜色的试剂各一个。
+scroll	Essence of Speed increases a character’s Speed by 15, while subtracting 5 from his Personality. This potion requires six reagents to mix, four of any one color supplemented by one from each of the remaining colors.	速度精髓药剂一次性增加15点角色的速度，减5点个性。这种药剂需要至少6个试剂作为配方，这包括任意某种颜色的试剂4个，外加另两种颜色的试剂各一个。
+scroll	The Protection from Magic potion grants the drinker the effect of the spell for a duration dependent on potion strength. This potion requires seven reagents to mix: two of each type plus the seventh, which can be of any color. This means the potion can be obtained in three distinct ways.	御魔奇术药剂可以给予饮用者御魔奇术魔法的效果，持续时间视药剂的强度而定。这种药剂需要7个试剂作为配方：每色试剂各2个，外加一个任意颜色的试剂。这意味着这种药剂可以有3种不同方法配置。
+skilldes	Skill added to Attack Damage. Staff usable with the Unarmed skill.	技能点数可增攻击破坏力。会肉搏术者可使用此魔杖。
+spcitems	Throws sparks into enemy.	向敌人投掷火花。
+stats	Great might	高力量
+trans	It seems that the entrance does not lead to the Dark Dwarves' Compound.	入口似乎并没有通往黑暗小矮人的大院。
+trans	Enter basement of The Breach.	进入缺口地下室。
+location	Fruit Tree	果树
+location	___d___d	___d___d
+location	eut__i_n	eut__i_n
+location	+25 to all Stats(Temporary)	所有属性临时+25
+location	srhtfnut	srhtfnut
+npcdata	Verdant	维尔丹
+npcdata	Telelocator	远程定位器
+npcdata	Runaway Chaos	失控的混沌
+merchant	That %24 is beyond my meager knowledge.	我不大熟悉%24这种东西。
+npctopic	Reefs	礁石
+npctopic	Marshes	沼泽
+class	Master Necromancer is the second and last Sorcerer promotion for Sorcerers following the path of Dark.  Upon their promotions, Arch Mages gain two additional spell points per level, and access to the realm of Dark magic.  Arch Mages can grandmaster in all their spell skills, plus Identify Monster and Identify Item.	死灵大法师是黑暗之路上的第二个也是最高的巫师系列职业。在升职时，死灵大法师每个等级都会获得两点额外的魔法值，并能够在暗黑魔法领域中任意遨游。死灵大法师可以在所有法术和怪物和物品鉴定术上达到宗师级。
+class	In him the glories of an ancient line
+Of sober kings, who ruled by right divine,
+Were centred; and to him with loyal awe
+The people looked for leadership and law.	古老的血统集中体现在他身上，
+继承了正神授权的明君们的遗志。
+带着忠诚与敬畏，人民在他身上，
+看见了领导力和法律。
+class	High Priest is the second and last Cleric promotion. High Priest can learn and master in spells from the realm of both Dark and Light. High Priest gain an extra hit point and spell point per level, and may grandmaster in all of their spell skills and the Merchant skill.	大主教是第二个也是最高的牧师系列职业。大主教可以在暗黑与光明魔法领域中学习和掌握法术。大主教每个等级获得额外的一点生命值和一点魔法值，并且可以在所有魔法技能和经商术上达到宗师级的水平。
+class	Master Wizard is the second and last Sorcerer promotion. Upon their promotions, Master Wizards gain two additional spell points per level, and access to the realm of Light and Dark magic. Arch Mages can grandmaster in all their spell skills, plus Identify Monster and Identify Item.	魔法大师是第二个也是最高的巫师系列职业。升职后，魔法大师每个等级可获得两点额外的魔法值，并能够在光明和暗黑魔法领域中任意遨游。魔法大师可以在所有法术和怪物和物品鉴定术上达到宗师级。
+npc conversation	Hey! Hey, you! Halt, I must speak with you for a spell. It’s a matter of an utmost importance. Though even ‘utmost’ can’t convey just how important the matter is. 
+*The woman glances you over with a firm frown forming on her brow* 
+How are you doing, by the way? Any sudden pains? Feeling strangely empty inside? Nothing? Well, that’s a relief, I have to say. Though I was pretty sure I had the hang of it by now. Third time’s the charm, aye?	嘿！嘿，就是你！站住，我必须和你说一个咒语。这件事至关重要。尽管即使“至关重要”也无法形容事情的重要性。
+[这名女子紧皱眉头，向你瞥了一眼]
+顺便问一下，你好吗？有突然的痛苦吗？感觉内心很空虚吗？没有？好吧，我必须说这是一种解脱。尽管我很确定自己现在已经拥有了，三倍的魅力，是吧？
+npc conversation	Hey! Halt, I must speak with you for a spell. It’s a matter of an utmost importance.	嘿！站住，我必须和你说一个咒语。这件事至关重要。
+npc conversation	Oh my, I'm so relieved to see you here! Something possibly terrible is afoot! Yes, I know, you've saved the world three times, but that means there's nobody else who can match you in skill and cunning, and boy, do we need skill and cunning! Possibly. Almost for certain, really.	哦，天哪，我很高兴在这里见到你！即将发生可怕的事情！是的，我知道，你拯救了世界三次，但这意味着没有其他人可以在技能和圆滑方面与你匹敌，孩子，我们需要技能和圆滑吗？可能需要，或者几乎肯定需要。
+npc conversation	Hey, how's the expedition going? 	嘿，探险进展如何？
+npc conversation	Pew pew pew! It looked easier than dealing with pesky goblins. But am I glad the Devil Queen is down! *Verdant shivers*. Disgusting thing. How did it smell? I don’t get full sensory experiences when using the spectator spells. 
+It’s nice we get to see the slow rebuilding of the village of Sweet Water now. To have a place with such a name evoke fear in the people that hear it, it doesn’t sit well with me. 
+And since we’re talking about things that don’t sit well with me, same can be said about you being knighted by a little boy you’ve had to fetch from the circus. I will never understand politics. Ever. In my eyes – you’re the world’s true royalty, and my chronicle will be sure to reflect that! Objectively, of course.
+Oh, and this little thing is for you as well. So you don’t think I’m being lazy over here letting you do all the work.	嘿嘿嘿！看起来比讨厌的大耳怪要容易对付。我很高兴魔鬼女王倒下！[维尔丹作颤抖状]。真是恶心的东西。是不是有什么味道？我施展魔法时没有得到完整的感官体验。
+很高兴看到甜水镇正在慢慢重建。一个这么美好的地名居然与恐怖联系在一起，这真让我坐立不安。
+我们现在说的这些都是让我感到不快的事情，你们被一个被你们从马戏团拉回王宫的小男孩封为骑士这件事也是，我永远不理解政治，永远。在我看来，你们才是世界上真正的皇室成员，我的编年史一定会反映出这一点！当然，是客观地反映出这一点。
+哦，这个小玩意儿也是给你的，这样你们就不会认为我懒惰地待在这里，却让你们做所有的工作了。
+npc conversation	You’ve done it! I am… amazed. *Verdant is visibly trying to keep her composure, though it’s fair to assume she’d try at least poke your face to get a touch of heroism.* It can’t have been easy, I shudder at the mere thought of diving deep underwater with suits of this era… That sounds absolutely insane.
+Really? Not that terrifying? Guess that’s why you’re the heroes and I’m the hero-remover. Hehe.
+The consortium doesn’t know yet about the things that have transpired here. Thank goodness they’re usually pretty confused about what’s going on and where. But with your abilities, soon there will be nothing to know about. Or at least nothing to know about in fury. Thank you, on my behalf, and on the behalf of the people of Antagrich. 
+What did Katherine do in the meanwhile, huh? Aside of bossing you around and stirring trouble with that Elven King. You should be the one patting her on shoulder and telling her good job on the paperwork.
+Here, I’ve made something for you. I hope you find it useful.	你成功了！我很惊讶。 [显然，维尔丹正在努力保持镇定，虽然感觉她恨不得想戳一下你的脸以摸一摸英雄]这可并不容易，我对穿着衣服潜入深水的想法感到震惊……这听起来绝对是疯了。
+真的？不那么恐怖吗？大概这就是为什么你是英雄，而我是英雄去除者吧。呵呵。
+会社目前还不知道这里发生的事情。谢天谢地，他们通常对发生的事情和发生的地方感到困惑。但是凭借你的能力，很快就没有什么事情需要他们知道的了。至少没有什么事情需要他们愤怒地获知的。我代表我和恩塔格瑞人民，谢谢你。
+凯瑟琳同时做了什么，是吧？除了命令你四处游荡，并招惹那个精灵王的麻烦。你应该拍拍她，并告诉她文书工作做得很好。
+这儿，我为你做了点东西。希望对你有用。
+npc conversation	Hey! Congratulations! That was a true show of power. Though I have to say, I felt a little sad watching Escaton die. There was something affable about the fella, something tragic to his story, don’t you think? 
+But I am glad to see our Elemental Lord friends back in their happy little dimensions. They’re kind of like your friendly neighborhood wild animals, breaks my heart to see them suffer. Don’t scowl at me, I absolutely love animals so it’s definitely a compliment!
+Only shame the crystal is gone. I was meaning to chip some off it for jewelry purposes, but I didn’t get around to it in time. Oh well, maybe in the next iteration, right?
+I’ve made a little something for you. Infused with love and adoration!	嘿！恭喜你！那真是力量的真正体现。尽管看着爱斯卡顿死了，我感到有些伤心。这家伙还是挺可亲的，他的故事挺悲剧，你不觉得吗？
+但是我很高兴看到我们的元素之王朋友们快乐地回到他们的维度中去。他们有点像那些友善的野生动物，看到他们受了苦我很伤心。不要生我的气，我绝对喜欢动物，所以这绝对是一种赞美！
+只可惜水晶不见了。我本来想削掉一点儿做成珠宝，但是我还没来得及去做。哦，好吧，下一次吧，对不？
+我为你做了点东西。里面充满了爱与崇拜！
+npc conversation	Hey! Got my letter? I must speak with you. It’s a matter of an utmost importance. Though even ‘utmost’ can’t convey just how important the matter is. 
+*The woman glances you over with a firm frown forming on her brow* 
+How are you doing, by the way? Any sudden pains? Feeling strangely empty inside? Nothing? Well, that’s a relief, I have to say. Though I was pretty sure I had the hang of it by now. Third time’s the charm, aye?	嘿！收到我的信了吗？我必须和你谈谈。这件事至关重要。尽管即使“至关重要”也无法形容事情的重要性。
+[这名女子紧皱眉头，向你瞥了一眼]
+顺便问一下，你好吗？有突然的痛苦吗？感觉内心很空虚吗？没有？好吧，我必须说这是一种解脱。尽管我很确定自己现在已经拥有了，三倍的魅力，是吧？
+npc conversation	Hey, you are here. Well, you need this letter to jump on path of previous heroes... You're a bunch of happy kids saved by a nice warlock fellow, spent your lives training, now all grown up and ready to roll. No need for a heavy roleplay, just don't be jerks. Go around, slap some goblins, squash a spider or two, poke a devil. Umm... I mean, an apprentice wizard, yes. No devils anywhere, forget the devils. I don't think I should be telling you things about your future. Well, their future. But also your future now. You know what I mean.	嘿，你们在这里。好吧，你们需要这封信才能重新走上以前的英雄之路……你们是一群快乐的孩子，被一个好法师救了下来，花了不少时间训练，现在都长大了，可以放手一搏了。你们无需扮演沉重的角色，但也不要吊儿郎当的。四处走走，打掉几个大耳怪，踩扁一两个蜘蛛，刺一刺恶魔。嗯……我是说，你们现在还是学徒期，是的。哪儿都没有魔鬼，忘了魔鬼吧。我认为我不应该告诉你们有关你们未来的事情。好吧，其实是他们的未来。但也是你的未来。你懂的。
+npc conversation	*Suddenly Verdant appears from behind* Boo! You've passed time! Town, people around, can you believe they are older than you or have not even born at the point of "your real time", how it feels? Don't tell me, I have something for you - Connector Gem.	[维尔丹突然从后面出现]啊呀！你们已经超时了！镇上的人们，你们能相信他们比你们大，或者在“你们真实的时间点”上还没有出生吗，感觉如何？别说。我有一个东西要给你们——连接石。
+npc conversation	(The boy runs up to you)
+
+Hey! My lords! Great competition going to happen very soon!
+
+(Putting paper in your hands, he runs away)	（男孩跑到你身边）
+
+嘿！天哪！激烈的竞争即将开始！
+
+（把纸放在你的手中，他就跑掉了）
+scroll	Hello, caravaneer.
+
+I have an offer for you, which would eclipse the career of any adventurer! Meet me in Murmurwoods, inside circle of stones. Won't trust more details to paper.
+I will be there *any time* you will decide to come, but even it is against code of our organization, I plead, do not delay too long.
+
+V.	你们好，商队。
+
+我有一个任务要给你们做，任何其他冒险任务在这个任务面前都会黯然失色！在低语森林的石圈中与我见面。
+不管你们何时决定前来，我都会随时在那里等着你们，但是我恳求你们——虽然这有违我们组织的守则——不要拖延太久。
+
+V.
+scroll	Hello, nobles.
+
+I have an offer for you, which would eclipse the fate of any hero! Meet me in empty tower of Clancer's laborathory in Tularean forest. Won't trust more details to paper.
+I will be there *any time* you will decide to come, but even it is against code of our organization, I plead, do not delay too long.
+
+V.	你们好，贵族们。
+
+我有一个任务要给你们做，任何英雄事迹在这个任务面前都会黯然失色！在图拉利昂森林中科兰克实验室的空塔中与我见面。
+不管你们何时决定前来，我都会随时在那里等着你们，但是我恳求你们——虽然这有违我们组织的守则——不要拖延太久。
+
+V.
+scroll	Hello, adventurers.
+
+I have an offer for you, which would eclipse the fate of any hero! Meet me in Abdul's Resort in Dragonsand. Won't trust more details to paper.
+I will be near pedestal there *any time* you will decide to come, but even it is against code of our organization, I plead, do not delay too long.
+
+V.	你们好，冒险家们。
+
+我有一个任务要给你们做，任何其他冒险任务在这个任务面前都会黯然失色！在飞龙沙漠中阿卜杜的沙漠胜地与我见面。
+不管你们何时决定前来，我都会随时在底座附近等着你们，但是我恳求你们——虽然这有违我们组织的守则——不要拖延太久。
+
+V.
+scroll	Fellow journeman!
+
+Noble Lord Markham organizes a grandiose match on the Emerald island!
+Take your chance to enter the pantheon of the nobles, winning the right to rule the famous castle Harmondale and all it's neighborhoods!
+
+Boats from Steadwick shipping Emerald Island each wednesday, while contest is on the way.
+
+
+
+	同路人！
+
+贵族马克汉姆爵士正在翡翠岛上举办一场宏伟的比赛！
+把握机会进入贵族圈内，赢得统治著名城堡哈蒙代尔及其附近地区的权利！
+
+比赛正在进行中，每周三有从斯坦德威克去翡翠岛的船。
+
+
+

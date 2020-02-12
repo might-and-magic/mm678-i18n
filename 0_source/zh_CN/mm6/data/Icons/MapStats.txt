@@ -1,0 +1,79 @@
+	地图状况			First		x5	D20's		Random Encounter																		
+			Reset	Visit	Refil	Lock	Trap	Tres	Enc	M1	M2	M3			Dif	Appear			Dif	Appear			Dif	Appear	Redbook		
+#	名称	File name	#	Day	Days	0-10	0-10	0-6	%	%	%	%	Mon1 Pic	Mon 1	 1-5	#	Mon2 Pic	Mon 2	 1-5	#	Mon3 Pic	Mon 3	 1-5	#	Track	Map Designer	
+1	甜水镇	OutA1.Odm	0	0	224	8	9	6	40	50	50	0	Demon	Devil Spawn	3	 2-4	DemonFly	Devil Captain	3	 2-4	0	0	1	 1-4	5	Peter	
+2	天堂谷	OutA2.Odm	0	0	168	7	8	6	20	40	30	30	DragonCover	Red Dragon	3	 1-3	Hydra	Hydra	3	 2-4	Titan	Titan	3	 1-3	16	Peter	
+3	隐士岛	OutA3.Odm	0	0	168	7	8	6	20	50	50	0	Titan	Titan	5	 2-3	Hydra	Hydra	5	 3-5	SeaSerpent	Sea Serpent	5	 3-5	6	Peter	
+4	克里格斯	OutB1.Odm	0	0	224	6	8	6	20	40	30	30	Minotaur	Minotaur	2	 2-4	ElemEarth	Earth Elemental	2	 2-4	DragonFly	Flame Drake	2	 2-3	12	Peter	
+5	布莱克郡	OutB2.Odm	0	0	672	6	8	6	10	10	70	20	DragonCave	Fire Lizard	3	 2-3	Werewolf	Werewolf	2	 3-5	ElemAir	Air Elemental	2	 2-4	6	Peter	
+6	飞龙沙漠	OutB3.Odm	0	0	168	8	10	6	30	30	40	30	DragonLand	Wyrm	5	 2-4	DragonCover	Red Dragon	5	 2-3	DragonCave	Fire Lizard	5	 2-4	6	Peter	
+7	冰冻高原	OutC1.Odm	0	0	672	4	6	6	10	20	40	20	Harpy	Harpy	3	 4-6	Barbarian	Magyar	3	 3-5	Archer	Archer	3	 3-5	12	Peter	
+8	自由天堂	OutC2.Odm	0	0	672	4	6	6	10	30	70	0	Archer	Archer	2	 3-5	PeasantM2	Apprentice Mage	5	 4-6	0	0	0	0	16	Peter	
+9	幽灵沼泽	OutC3.Odm	0	0	168	3	7	6	40	10	20	70	Ghost	Ghost	2	 2-5	Harpy	Harpy	2	 3-5	Skeleton	Skeleton	4	 4-6	13	Peter	
+10	银湾镇	OutD1.Odm	0	0	672	4	5	6	10	50	50	0	Druidess	Druid	2	 2-4	Gargoyle	Stone Gargoyle	3	 3-5	0	0	1	 1-4	2	Peter	
+11	布特雷格湾	OutD2.Odm	0	0	224	3	2	6	20	40	40	20	PeasantM4	Cannibal	3	 4-6	PeasantF4	Cannibal	3	 4-6	LizardArch	Lizardman	3	 3-5	2	Peter	
+12	铁拳城堡	OutD3.Odm	0	0	672	2	3	6	10	20	40	40	LizardArch	Lizardman	1	 3-5	Bloodsucker	Bloodsucker	3	 3-6	PeasantM3	Hermit	1	 4-6	2	Peter	
+13	魔鬼水域	OutE1.Odm	0	0	224	5	6	6	30	0	100	0	SeaSerpent	Sea Serpent	3	 1-3	Cockatrice	Agar's Pet	3	 4-6	ElemWater	Water Elemental	2	 2-4	2	Peter	
+14	浓雾岛	OutE2.Odm	0	0	672	2	2	6	10	50	50	0	PeasantM3	Hermit	2	 4-6	PeasantF3	Cutpurse	2	 4-6	0	0	1	 1-4	2	Peter
+15	新索匹格镇	OutE3.Odm	0	0	168	0	1	6	10	50	50	0	Goblin	Goblin	1	 3-5	PeasantM2	Apprentice Mage	1	 3-5	0	0	1	 1-4	2	Peter
+16	大耳怪前哨	D01.Blv	0	0	672	0	1	6	10	40	30	30	Rat	Common Rat	2	 3-5	Goblin	Goblin	2	 3-5	Bloodsucker	Bloodsucker	1	 4-6	8	Bruce
+17	废庙	D02.Blv	0	0	672	1	1	6	10	30	40	30	Bat	Bat	2	 4-6	Cobra	Cobra	1	 3-5	Spider	Spider	1	 2-4	9	Bruce
+18	阴影教隐蔽所	D03.Blv	0	0	672	2	2	6	20	50	50	0	Thief	Thief	3	 3-7	FighterLeath	Thug	2	 2-5	0	0	1	 1-4	7	Walter
+19	烈火爵士的大厅	D04.Blv	0	0	672	2	2	6	30	60	40	0	Goblin	Goblin	4	 3-5	Ogre	Ogre	2	 2-4	0	0	1	 1-4	7	Bruce
+20	斯纳格的岩洞	D05.Blv	0	0	672	3	3	6	10	20	80	0	Dwarf	Dwarf	3	 3-5	Bat	Bat	5	 2-6	0	0	1	 1-4	7	Dave
+21	龙骑兵岩洞	D06.Blv	0	0	672	2	3	6	20	60	40	0	FighterLeath	Thug	3	 2-6	FighterChain	Fighter	3	 2-3	Ooze	Ooze	3	 2-3	7	Tim
+22	银舵前哨	D07.Blv	0	0	672	3	3	6	20	20	30	50	Nobleman	Swordsman	3	 3-4	Monk	Novice Monk	3	 3-4	Guard	Guard	3	 2-4	7	Walter
+23	阴影教	D08.Blv	0	0	672	4	3	6	20	50	50	0	Thief	Thief	5	 2-4	PeasantF3	Cutpurse	5	 2-4	Genie	Genie	1	 1-2	7	Lisa
+24	斯纳格的铁矿	D09.Blv	0	0	672	3	3	6	20	50	50	0	Dwarf	Dwarf	4	 2-4	Ooze	Ooze	4	 2-4	Demon	Devil Spawn	1	 2-3	7	Tim
+25	龙骑兵堡垒	D10.Blv	0	0	672	3	3	6	20	40	60	0	FighterChain	Fighter	3	 3-5	Rat	Common Rat	5	 4-8	0	0	1	 1-4	7	Tim
+26	考勒根的豪宅	D11.Blv	0	0	672	4	4	6	20	20	80	0	Ghost	Ghost	4	 3-6	Skeleton	Skeleton	5	 4-8	Lich	Lich	2	 1-1	7	Tim
+27	银舵堡垒	D12.Blv	0	0	672	3	4	6	20	40	40	20	Nobleman	Swordsman	5	 3-8	FighterChain	Fighter	4	 3-6	Sorcerer	Sorcerer	3	 2-3	7	Walter
+28	独立碑	D13.Blv	0	0	672	3	5	6	20	80	10	10	Druidess	Druid	3	 2-5	ElemEarth	Earth Elemental	3	 2-3	ElemWater	Water Elemental	3	 2-3	7	Dave
+29	疯子埃斯里克的坟墓	D14.Blv	0	0	672	4	5	6	25	10	60	30	Lich	Lich	4	 2-3	Skeleton	Skeleton	5	 4-7	Ghost	Ghost	5	 2-3	7	Dave
+30	冰风堡垒	D15.Blv	0	0	672	4	5	6	20	40	60	0	Ogre	Ogre	4	 3-5	Guard	Guard	4	 3-5	0	0	1	 1-4	7	Dave
+31	军阀堡垒	D16.Blv	0	0	672	5	6	6	20	80	20	0	FighterLeath	Thug	5	 2-4	FighterChain	Fighter	5	 2-4	KnightPlate	Death Knight	5	 2-4	7	Chris
+32	狼穴	D17.Blv	0	0	672	5	6	6	25	100	0	0	Werewolf	Werewolf	4	 2-5	Nobleman	Nobleman	5	 4-6	Ooze	Ooze	5	 5-7	7	Walter
+33	加里克的炼铁厂	D18.Blv	0	0	672	7	8	6	25	40	40	20	Sorcerer	Sorcerer	4	 3-6	ElemFire	Fire Elemental	4	 2-3	ElemFire	Fire Elemental	4	 2-3	7	Tim
+34	阿加的实验室	D19.Blv	0	0	672	5	9	6	30	80	20	0	Beholder	Flying Eye	4	 2-3	Cockatrice	Agar's Pet	5	 2-3	Lich	Lich	5	 1-1	7	Dave
+35	驯龙者洞穴	D20.Blv	0	0	672	6	10	6	30	10	20	70	KnightPlate	Death Knight	5	 2-4	DragonLand	Wyrm	5	 2-4	0	0	1	 1-4	7	Lisa
+36	羊鸣庙	T1.Blv	0	0	672	2	1	6	10	10	40	50	Cleric	Acolyte of Baa	1	 3-5	Spider	Spider	3	 3-5	Skeleton	Skeleton	3	 3-5	14	Tony
+37	神拳庙	T2.Blv	0	0	672	2	1	6	10	20	80	0	Monk	Monk	3	 2-4	Rat	Rat	5	 3-5	0	0	1	 1-4	14	Dave
+38	海神庙	T3.Blv	0	0	672	2	1	6	15	30	30	40	PeasantM4	Cannibal	4	 3-4	PeasantF4	Cannibal	4	 3-4	Cobra	Cobra	5	 4-6	14	Chris
+39	太阳庙	T4.Blv	0	0	672	3	2	6	15	100	0	0	Monk	Monk	4	 2-4	Minotaur	Minotaur	5	 1-1	0	0	1	 1-4	14	Chris
+40	月亮庙	T5.Blv	0	0	672	3	2	6	20	40	60	0	Druidess	Druid	4	 3-6	Cobra	Cobra	5	 3-5	Medusa	Medusa	2	 2-3	14	Tim
+41	超级羊鸣庙	T6.Blv	0	0	672	4	4	6	30	90	0	10	Cleric	Acolyte of Baa	4	 3-5	Demon	Devil Spawn	1	 2-3	ElemFire	Fire Elemental	3	 2-4	14	Chris
+42	顶级羊鸣庙	T7.Blv	0	0	672	4	4	6	30	70	20	10	Cleric	Acolyte of Baa	5	 3-6	Druidess	Druid	4	 3-6	Sorcerer	Sorcerer	3	 3-6	14	Tony
+43	巨蛇庙	T8.Blv	0	0	672	5	5	6	30	100	0	0	Medusa	Medusa	5	 2-5	PeasantM1	Peasant	3	 1-1	DragonCover	Red Dragon	1	 1-1	14	Chris
+44	阿拉莫斯城堡	CD1.Blv	0	0	672	5	5	6	20	10	80	10	Sorcerer	Sorcerer	4	 2-3	Barbarian	Magyar	5	 3-5	ElemAir	Air Elemental	4	 2-3	14	Bruce
+45	黑摩尔城堡	CD2.Blv	0	0	672	5	5	6	20	10	10	80	Lich	Lich	4	 2-4	Beholder	Flying Eye	3	 2-4	Ogre	Ogre	5	 2-4	14	Tony
+46	克里格斯城堡	CD3.Blv	0	0	672	6	6	6	20	80	20	0	Minotaur	Minotaur	4	 2-4	Cockatrice	Agar's Pet	5	 3-4	DragonFly	Fire Drake	4	 2-3	14	Bruce
+47	自由天堂的下水道	Sewer.Blv	0	0	672	4	2	6	10	30	30	40	Rat	Rat	5	 3-5	Cleric	Acolyte of Baa	3	 2-4	Thief	Thief	5	 2-4	9	???
+48	维兰坟墓	Pyramid.Blv	0	0	672	8	8	6	10	100	0	0	Jackalman	Defender of Varn	4	 3-4	Genie	Genie	4	 2-3	Robot	Patrol Unit	1	 1-2	11	Bruce
+49	恩洛斯神使	Oracle.Blv	0	0	672	0	0	6	0	0	0	0	PeasantM1	Peasant	1	 1-4	0	0	1	 1-4	0	0	1	 1-4	11	Tony
+50	控制中心	Sci-Fi.Blv	0	0	672	5	8	6	50	100	0	0	Robot	Patrol Unit	2	 1-3	0	0	1	 1-4	0	0	1	 1-4	11	Tony
+51	蜂房	Hive.Blv	0	0	7	10	10	6	100	50	50	0	Demon	Devil Spawn	5	 2-4	DemonFly	Devil Captain	5	 2-4	DemonQueen	Devil Queen	1	 1-1	5	Bruce
+52	竞技场	zarena.blv	0	0	1	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	10	
+53	龙穴	zddb01.blv	0	0	672	1	1	6	0	0	0	0	DragonCover	Red Dragon	2	 1-2	0	0	1	 1-4	0	0	1	 1-4	7	
+54	不明地	zddb02.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+55	不明地	zddb03.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+56	不明地	zddb04.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+57	不明地	zddb05.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+58	不明地	zddb06.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+59	不明地	zddb07.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+60	不明地	zddb08.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+61	不明地	zddb09.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+62	不明地	zddb10.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+63	不明地	zdtl01.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+64	不明地	zdtl02.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+65	不明地	zdwj01.blv	0	0	672	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	7	
+66	恶魔据点	zdwj02.blv	0	0	672	1	1	6	0	0	0	0	Demon	Devil Spawn	2	 2-3	0	0	1	 1-4	0	0	1	 1-4	7	
+67	New World Computing	znwc.blv	0	0	7	1	1	6	0	0	0	0	0	0	1	 1-1	0	0	1	 1-4	0	0	1	 1-4	2	
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										
+																										

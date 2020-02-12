@@ -1,0 +1,256 @@
+Note bit	Autonote Text	Category		
+1	Accepted fireball wand from Mr. Malwick on Emerald Island.	Misc	1	
+2	50 points of temporary Fire resistance from the central town well on Emerald Island.	Stat	1	Stat
+3	5 Hit Points regained from the well east of the Temple on Emerald Island.	Stat	1	Misc
+4	5 Spell Points regained from the well west of the Temple on Emerald Island.	Stat	1	Arbiter
+5	2 points of permanent Luck from the well on the western edge of Emerald Island.	Stat	1	Teacher
+6	10 points of temporary Might from the well in the village south of Harmondale.	Stat	2	Potion
+7	10 points of temporary Accuracy from the well in the village northeast of Steadwick.	Stat	3	Obelisk
+8	2 points of permanent Might from the well in the northwest section of Steadwick.	Stat	3	
+9	Disease cured at the eastern well in Steadwick.	Stat	3	
+10	20 points of temporary Body Resistance from the well south of the Steadwick Town Hall.	Stat	3	
+11	50 points of temporary Might from the central fountain in Steadwick.	Stat	3	
+12	5 points of temporary Personality from the trough in front of the Steadwick Town Hall.	Stat	3	
+13	50 points of temporary Earth resistance from the central fountain in Pierpont.	Stat	4	
+14	2 points of permanent Intellect from the southern village well in Deyja.	Stat	5	
+15	5 points of permanent Fire resistance from the well in the western village in Deyja.	Stat	5	
+16	10 points of temporary Personality from the well near the Temple of the Dark in Moulder in Deyja.	Stat	5
+17	10 points of temporary Fire resistance from the well in the south side of Moulder in Deyja.	Stat	5
+18	25 points of temporary Intellect and Personality from the fountain outside the School of Sorcery in the Bracada Desert.	Stat	6
+19	"25 points of temporary Might, Intellect, Personality, Endurance, Speed, Accuracy, and Luck from the central fountain in Celeste."	Stat	7
+20	50 points of temporary Intellect and Personality from the central fountain in Damocles in Mount Nighon.	Stat	10
+21	2 Skill Points from the well near Offerings and Blessings in Damocles in Mount Nighon. 	Stat	10
+22	2 points of permanent Personality from the well near Fortune's Folly in Damocles in Mount Nighon.	Stat	10
+23	"20 points of temporary Air, Earth, Fire, Water, Body, and Mind resistances from the well near the Fire Guild in Damocles in Mount Nighon."	Stat	10
+24	50 Spell Points recovered from the well in the eastern village in Mount Nighon.	Stat	10
+25	50 Hit Points recovered from the well in the western village in Mount Nighon.	Stat	10
+26	25 points of temporary Fire resistance from the well in the southwestern village in the Barrow Downs.	Stat	11
+27	2 points of permanent Speed from the well in the western section of Tidewater in Tatalia.	Stat	13
+28	20 points of temporary Air resistance from the well in the eastern section of Tidewater in Tatalia.	Stat	13
+29	20 points of temporary Armor Class from the well in the northern village in Tatalia.	Stat	13
+30	2 points of permanent Endurance from the well in the northeast section of Spaward in Avlee.	Stat	14
+31	20 points of temporary Water resistance from the well in the northwest section of Spaward in Avlee.	Stat	14
+32	25 Hit Points regained from the well in the island village in Avlee.	Stat	14
+33	Red liquid grants Might.	Misc	
+34	Orange liquid grants Intellect.	Misc	
+35	Blue liquid grants Personality.	Misc	
+36	Green liquid grants Endurance.	Misc	
+37	Yellow liquid grants Accuracy.	Misc	
+38	Purple liquid grants Speed.	Misc	
+39	White liquid grants Luck.	Misc	
+40	Steaming liquid grants Fire Resistance.	Misc	
+41	Frosty liquid grants Water Resistance.	Misc	
+42	Shocking liquid grants Air Resistance.	Misc	
+43	Dirty liquid grants Earth Resistance.	Misc	
+44	0	Stat	
+45	0	Stat	
+46	0	Stat	
+47	0	Stat	
+48	0	Stat
+49	0	Stat
+50	0	Stat
+51	0	misc
+52	0	Stat
+53	Catalyst (Grey) = Mushrooms + Empty Bottle.  Different grey reagents can be used for increased effect.	potion
+54	Cure Wounds (Red) = Widoweeps Berries + Empty Bottle.  Different red reagents can be used for increased effect.	potion
+55	Magic Potion (Blue) = Phirna Root + Empty Bottle.  Different blue reagents can be used for increased effect.	potion
+56	Cure Weakness (Yellow) = Poppysnaps + Empty Bottle.  Different yellow reagents can be used for increased effect.	potion
+57	Cure Disease (Orange) = Yellow + Red	potion
+58	Cure Poison (Purple) = Blue + Red	potion
+59	Awaken (Green) = Yellow + Blue	potion
+60	Haste (Red and Orange Layered) = Red + Orange	potion
+61	Heroism (Red and Purple Layered) = Red + Purple	potion
+62	Bless (Red and Green Layered) = Red + Green	potion
+63	Preservation (Blue and Orange Layered) = Blue + Orange	potion
+64	Shield (Blue and Purple Layered) = Blue + Purple	potion
+65	Recharge Item (Blue and Green Layered) = Blue + Green	potion
+66	Stoneskin (Yellow and Orange Layered) = Yellow + Orange	potion
+67	Water Breathing (Yellow and Purple Layered) = Yellow + Purple	potion
+68	Harden Item (Yellow and Green Layered) = Yellow + Green	potion
+69	Remove Fear (Orange and Purple Layered) = Orange + Purple	potion
+70	Remove Curse (Purple and Green Layered) = Purple + Green	potion
+71	Cure Insanity (Orange and Green Layered) = Orange + Green	potion
+72	Might Boost (White) = Purple + Red and Purple Layered	potion
+73	Intellect Boost (White) = Green + Yellow and Green Layered	potion
+74	Personality Boost (White) = Green + Blue and Green Layered	potion
+75	Endurance Boost (White) = Purple + Blue and Purple Layered	potion
+76	Speed Boost (White) = Orange + Red and Orange Layered	potion
+77	Accuracy Boost (White) = Orange + Yellow and Orange Layered	potion
+78	Flaming Potion (White) = Green + Red and Orange Layered	potion
+79	Flaming Potion (White) = Purple + Yellow and Orange Layered	potion
+80	Freezing Potion (White) = Green + Red and Purple Layered	potion
+81	Freezing Potion (White) = Orange + Blue and Purple Layered	potion
+82	Noxious Potion (White) = Orange + Blue and Green Layered	potion
+83	Noxious Potion (White) = Purple + Yellow and Green Layered	potion
+84	Shocking Potion (White) = Purple + Red and Orange Layered	potion
+85	Shocking Potion (White) = Orange + Red and Purple Layered	potion
+86	Swift Potion (White) = Green + Blue and Purple Layered	potion
+87	Swift Potion (White) = Purple + Blue and Green Layered	potion
+88	Cure Paralysis (White) = Green + Yellow and Orange Layered	potion
+89	Cure Paralysis (White) = Orange + Yellow and Green Layered	potion
+90	Divine Restoration (White) = Red and Orange Layered + Blue and Green Layered	potion
+91	Divine Restoration (White) = Blue and Purple Layered + Yellow and Orange Layered	potion
+92	Divine Restoration (White) = Red and Purple Layered + Yellow and Green Layered	potion
+93	Divine Cure (White) = Red and Orange Layered + Yellow and Orange Layered	potion
+94	Divine Power (White) = Blue and Green Layered + Yellow and Green Layered	potion
+95	Luck Boots (White) = Red and Purple Layered + Blue and Purple Layered	potion
+96	Fire Resistance (White) = Red and Orange Layered + Yellow and Green Layered	potion
+97	Air Resistance (White) = Red and Orange Layered + Blue and Purple Layered	potion
+98	Water Resistance (White) = Blue and Purple Layered + Yellow and Green Layered	potion
+99	Earth Resistance (White) = Red and Purple Layered + Yellow and Orange Layered	potion
+100	Mind Resistance (White) = Red and Purple Layered + Blue and Green Layered	potion
+101	Body Resistance (White) = Blue and Green Layered + Yellow and Orange Layered	potion
+102	Stone to Flesh (Black) = Red and Purple Layered + Cure Paralysis (White)	potion
+103	Slaying Potion (Black) = Blue and Purple Layered + Flaming Potion (White)	potion
+104	Pure Luck (Black) = Yellow and Orange Layered + Swift Potion (White)	potion
+105	Pure Speed (Black) = Purple Potion + Speed Boost (White)	potion
+106	Pure Intellect (Black) = Orange Potion + Intellect Boost (White)	potion
+107	Pure Endurance (Black) = Green Potion + Endurance Boost (White)	potion
+108	Pure Personality (Black) = Purple Potion + Personality Boost (White)	potion
+109	Pure Accuracy (Black) = Green Potion + Accuracy Boost (White)	potion
+110	Pure Might (Black) = Orange Potion + Might Boost (White)	potion
+111	Rejuvenation (Black) = Red and Green Layered + Divine Restoration (White)	potion
+112	Rejuvenation (Black) = Blue and Orange Layered + Divine Restoration (White)	potion	
+113	Rejuvenation (Black) = Yellow and Purple Layered + Divine Restoration (White)	potion	
+114	Obelisk message #1: pohuwwba	Obelisk	Area 2
+115	Obelisk message #2: ininhil_	Obelisk	Area 3
+116	Obelisk message #3: redditoh	Obelisk	Area 4
+117	Obelisk message #4: a_eetcoa	Obelisk	Area 5
+118	Obelisk message #5: ts_rehmu	Obelisk	Area 6
+119	Obelisk message #6: eut__i_n	Obelisk	Area 7
+120	Obelisk message #7: srhtfnut	Obelisk	Area 8
+121	Obelisk message #8: _vehlgpe	Obelisk	Area 9
+122	Obelisk message #9: fi_eo_od	Obelisk	Area 10
+123	Obelisk message #10: ivg_whn_	Obelisk	Area 11
+124	Obelisk message #11: veoseo_l	Obelisk	Area 12
+125	Obelisk message #12: e_laru_a	Obelisk	Area 13
+126	Obelisk message #13: __dn_r_n	Obelisk	Area 14
+127	Obelisk message #14: ___d___d	Obelisk	Area 39
+128	"The Master instructor of the Staff, Elsie Pederton, can be found in the Bracada Desert, on a ridge in the southwest region."	teacher
+129	"The ultimate teacher in the ways of the Staff, Jillian Mithrit, can be found in the elven territory of Avlee.  Her home is in the city in the northeast."	teacher
+130	"The Master instructor of the Sword, Tugor Slicer, maintains his residence in a small village in the western region of Deyja."	teacher
+131	"The Grandmaster of the Sword, Chadric Townsaver, can be found in a small village in Welnin, just south of the city of Harmondale."	teacher
+132	"The Master tutor of the Dagger, Aznog Slasher, can be found in the northern region of Nighon."	teacher
+133	"The Grandmaster of the Dagger, Token Fist, can be found in city of Tidewater in Tatalia.  Rumor has it that the Master Thief in the depths of the Erathian Sewers beneath the capitol city of Steadwick can also instruct at this level."	teacher
+134	"The Master Instructor of all that is the Axe, Dalin Keenedge, can be found in the northeast corner of Stone City."	teacher
+135	"The ultimate teacher of the uses of the Axe, Karn Stonecleaver, can be found in the snowy heights of the northeast region of Tatalia."	teacher
+136	"The Master teacher, Claderin Silverpoint, can be found in the northeast section of the city of Pierpont in the elven region of the Tularean Forest. There he will further you knowledge of the Spear."	teacher
+137	"The Grandmaster of the Spear, Selene Falconeye, makes her home in the northeast corner of Stone City."	teacher
+138	"The Master tutor of the Bow, Lanshee Ravensight, lives in the northern regions of Nighon."	teacher
+139	"The Grandmaster of the Bow, Cardric the Steady, can be found just to the southeast of the castle in the city of Harmondale."	teacher
+140	"The Master instructor of the Mace, Brother Rothham, can be found in the southern region of the swamps of Tatalia."	teacher
+141	"The Grandmaster of the Mace, Patwin Felburn, teaches from his home in the goblin village found in the eastern area of Deyja."	teacher
+142	"My Master, Isram Gallowswell, can be found in the snowy heights of the northeast area of Tatalia. You will gain further instruction in the Shield there."	teacher
+143	"The Grandmaster of the Shield, Fedwin Smithson, can be found on the eastern island of the Evenmorn Islands."	teacher
+144	"The Master tutor of Leather Armor, Rabisa Neldon, lives in the northern regions of Nighon."	teacher
+145	"The Grandmaster of Leather Armor, Miyon the Quick, can be found in the eastern section of the city of Pierpont in the elven region of the Tularean Forest."	teacher
+146	"The Master instructor of uses of Chain Armor, Medwari Dragontracker, can be found in the elven territory of Avlee.  His home is in the city in the northeast."	teacher
+147	"The Grandmaster instructor of Chain Armor, Halian Nevermore, maintains his residence in a large city in the northwest region of Deyja."	teacher
+148	"My Master, Dekian Forgewright, makes his home in Erathia in the capitol city of Steadwick. He can provide further instruction in the uses of Plate Armor."	teacher
+149	"The Grandmaster of Plate Armor, Brand the Maker, can be found in the Bracada desert, on a ridge in the central region."	teacher
+150	"The Master tutor of Fire Magic, Ashen Temper, can be found in the city of Harmondale near the stables."	teacher
+151	"The Grandmaster of Fire Magic, Blayze, makes his home in Erathia in the capitol city of Steadwick."	teacher
+152	"The Master tutor of Air Magic, Rislyn Greenstorm, lives in the elven territory of Avlee.  His home is in the city in the northeast."	teacher
+153	"The Grandmaster of Air Magic, Gayle, can be found in a tower in the Bracada desert, on a ridge in the northern region."	teacher
+154	"The Master tutor of the uses of Water Magic, Tobren Rainshield, lives in the southwest region of Nighon."	teacher
+155	"The Grandmaster of Water Magic, Torrent, lives on a ridge, south of Harmondale, overlooking the city."	teacher
+156	"The Master tutor of Earth Magic, Lara Stonewright, makes her home in the elven territory of the Tularean Forest.  Her residence is in the city of Pierpont."	teacher
+157	"The Grandmaster instructor of Earth Magic, Avalanche, maintains his residence in the western region of the Deyja."	teacher
+158	"The Master who taught me, Heather Dreamwright, makes her home in Erathia, somewhere in the capitol city of Steadwick.  Further knowledge of Spirit Magic can be gained there."	teacher
+159	"The ultimate teacher in the ways of Spirit Magic, Benjamin the Balanced, can be found in the elven territory of the Tularean Forest.  His home is in the city of Pierpont."	teacher
+160	"The Master teacher in the ways of Mind Magic, Myles Featherwind, can be found in the elven territory of Avlee.  His home is in the city to the northeast."	teacher
+161	"The Grandmaster of Mind Magic, Xavier Bremen, can be found in the snowy heights of the northeast area of Tatalia. "	teacher
+162	"The Master teacher in the ways of Body Magic, Brother Bombah, can be found in the swampy regions of Tatalia.  His home is somewhere in the southern region."	teacher
+163	"The Grandmaster teacher in the ways of Body Magic, Tempus, can be found in the elven territory of Avlee.  His home is on an island somewhere in the central bay."	teacher
+164	"The Master of the Identify Item skill, Samuel Benson, can be found on a ridge in the central region of the Bracada desert."	teacher
+165	"The Grandmaster of the Identify Item skill, Payge Blueswan, can be found in the elven territory of Avlee.  His home is just northwest of the elven city of Spaward."	teacher
+166	"The Master of the Merchant skill, Berthold Caverhill, can be found on the eastern most island of the Evenmorn Islands."	teacher
+167	"The Grandmaster of the Merchant skill, Brigham the Frugal, can be found in a tower in the Bracada desert, on a ridge in the northern region."	teacher
+168	"The Grandmaster of the Merchant skill, Brigham the Frugal, can be found in a tower in the Bracada desert, on a ridge in the northern region."	teacher
+169	"The Grandmaster of the Repair Item Skill, Gareth the Fixer, teaches from his home in the capitol city of Steadwick in Erathia."	teacher
+170	"The Master of the of the art of Body Building, Wanda Foestryke, can be found in the goblin village in eastern Deyja."	teacher
+171	"The Grandmaster of the Body Building skill, Evander Thomas, makes his home in the eastern regions of Nighon."	teacher
+172	"The Master of Meditation, Tessa Greensward, can be found on a ridge in the southeast region of the Bracada desert."	teacher
+173	"The Grandmaster of Meditation, Kaine, can be found in the elven territory of Avlee.  His home is on an island somewhere in the central bay."	teacher
+174	"The Master of the Perception Skill, Garret Dotes, can be found in the elven area of the Tularean Forest.  His home is in the Elven city of Pierpont."	teacher
+175	"The Grandmaster of the Skill of Perception, Petra Cleareye, can be found in the city in the northwest region of Deyja."	teacher
+176	"The Master of Disarm Trap Skill, Lenord Skinner, lives on a ridge, south of Harmondale, overlooking the city."	teacher
+177	"The Grandmaster of the Disarm Trap Skill, Silk Quicktoungue, makes his home in the southern region of Nighon."	teacher
+178	"The Master of the Dodging Skill, Oberic Crane, can be found on the eastern most island of the Evenmorn Islands"	teacher
+179	"The Grandmaster of the Dodging Skill, Kenneth Wain, can be found in the capitol city of Steadwick, in Erathia."	teacher
+180	"The Master of Unarmed Combat, Ulbrecht the Brawler, can be found on the eastern most island of the Evenmorn Islands."	teacher
+181	"The Grandmaster of Unarmed Combat, Norris, can be found in the capitol city of Steadwick, in Erathia."	teacher
+182	"The Master instructor of the Identify Monster Skill, Jeni Swiftfoot, lives in the elven territory of Avlee.  Her home is in the city in the northeast."	teacher
+183	"The Grandmaster of the Identify Monster Skill, Raven the Hunter, can be found in a small village to the south of Harmondale."	teacher
+184	"The Master tutor of the Armsmaster Skill, Paula Brightspear, lives in the elven territory of Avlee.  Her home is in the city in the northeast."	teacher
+185	"The Grandmaster of the Armsmaster Skill, Lasiter the Slayer, makes his home in the eastern region of Eeofol."	teacher
+186	"The Master tutor of the Stealing Skill, Leane Shadowrunner, makes her home in the goblin village in the eastern region of the Deyja."	teacher
+187	"The Grandmaster teacher of the art of Stealing, Everil Nightwalker, can be found in the swampy delta of the southern region of Tatalia."	teacher
+188	"The Master of Alchemy, Elzbet Winterspoon, can be found in the western region of Nighon."	teacher
+189	"The Grandmaster instructor of Alchemy, Lucid Apple, can be found in the elven territory of Avlee.  His home is on an island somewhere in the central bay."	teacher
+190	"The Master of Learning, Dorothy Senjac, can be found in the southeast region of Nighon."	teacher
+191	"The Grandmaster of Learning, William Smithson, instructs from his home on the eastern island of the Evenmorn Islands."	teacher
+192	"The Master of Light Magic, Helena Mornigstar, can be found in the cloud city of Celeste!"	teacher
+193	"The Grand Master of Light Magic can be found in the wizards castle, Castle Lambent."	teacher
+194	"The Master of Dark, Seth Darkenmore, can be found in The Pit beneath Deyja!"	teacher
+195	"The Grand Master of Dark Magic can be found in the necromancer castle, Castle Gloaming.  At times Archibald has been know to take the journey to Clankers Lab."	teacher
+196	 	
+197		
+198		
+199		
+200		
+201		
+202		
+203		
+204		
+205		
+206		
+207		
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240	
+241	
+242	
+243	
+244	
+245	
+246	
+247	
+248	
+249	
+250	
+251	
+252	
+253	
+254	
+255	

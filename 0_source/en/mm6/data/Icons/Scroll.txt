@@ -1,0 +1,169 @@
+Item#	message text	 dungeon #	Notes
+500	III = 16 & IV = 4	D1	"""III = 16 & IV = 4""  part of the button combos written in notation simular to other in dungeon."
+501	Die Intruder!	T6	"""Die Intruder!""  Scroll part of a trap in chest."
+502	"Silvertongue,
+
+My spies report there is a small group of would-be heroes traveling about the land trying to put an end to our little Plan for a New World.  They are reportedly seeking permission to visit the Oracle in Free Haven.  You must not permit this to happen--If the Guardian awakens before our plan has matured it will spell the end for both of us.  Deny them permission to visit the Oracle, even if it reveals you to be a traitor.  We need the time your delay will buy us.  Oh yeah...Praise Baa.
+
+Zenofex"	T7	Smoking Gun
+503	"Jarvis,
+
+We have determined that the Mayor of Mist is third on our list of enemies, below only Charles d’Sorpigal and Jennica Bradley.  We need you to DELICATELY gain jurisdiction to patrol Mist and the surrounding island, and then to deal with the Mayor accordingly.  If this goes smoothly, then remove Charles and Jennica as well.  Handle this job with great care and you will be rewarded.
+
+Gerrard Blackames  "	D7	Item need to complete the constable quest.  Proof the Silver Helm's are bribing the mayor.
+504	"Damian,
+
+Congratulations on your new assignment.  The Shadow Guild wants you to ambush caravans passing from New Sorpigal to Ironfist or Free Haven.  Under no circumstances are you to divulge that you have any connection to us, or the deal is off and you will find out what happens to those who betray us.  Do as you are told and there won’t be any problems.
+
+Prince of Thieves"	D6	Proof the thief's in D3 are part of the Shadow Guild and are performing unregulated activies.
+505	"My Dear Sulman,                                Sep 17, 1152
+
+You have done well, and I hereby promote you to High Priest of the Second Circle.  There is a sum of gold waiting for you in the hands of Andover Potbello in New Sorpigal that he will turn over to you if you tell him the Sandman sent you and show him the Seal on this letter.  Sandman…I like that.
+  
+The handling of the Roland affair was masterful, and I especially liked the snowstorm touch—it really put the Fear in him, didn’t it?  Superstitious fool!  His removal has moved our timetable ahead by at least two years and has spared us the trouble of assassinating him at a more delicate time.  All arrangements are in place.
+  
+My minions have engineered the recall of Queen Catherine to her homeland in Erathia to attend the funeral of her father.  She will not return this year, and that only leaves her worthless brat Nicolai and that idiot Regent Wilbur Humphrey running things at the palace.  
+     
+The people have begun to sense that something is wrong, that perhaps the gods are angry.  That perhaps…the Ironfists have lost the Mandate of Heaven.  Just a few more disasters and there may well be a full-scale rebellion! 
+
+And we will be waiting at the breach, ready to step in and tell the sheep what to do and when to do it.  Already our temples spread across the land, offering aid to those displaced by disasters, and comfort to the bereaved... 
+
+Yes.  Remain in New Sorpigal and stay out of sight.  When the time is right you will be contacted and given further instructions.  So take heart, and know that our plan proceeds smoothly and we will be ruling this world soon.  Your position in our hierarchy will be very high!
+
+    --Zenofex"	1	The sixth letter
+506	"The contents of this scroll are difficult to understand, mostly because they are in a strange language.  A few of the diagrams, however, show the locations and patrol patterns for the devils."	Mini-dungeon	Devil plans for completion of the Osric Temper Satisfy the Council Quest.
+507	"The completion of this temple marks a proud day for the Church of the Sun!  We now have temples in every major area in the world.  This temple, surrounded and isolated by nature, will serve as a center of worship for our new followers- the natives of these isles.  May the glory of the Sun shine on you all and bless your work."	T4	Monk exposition about the Church of the Sun
+508	"Kergmond, 
+
+You lack the skill in arms, the dedication, and most importantly, the ability to command to succeed as a Knight.  Your constant failures leave me no choice but to discharge you from the Knights of Enroth.  I would suggest you find a new profession, as you will never master the arts of warfare.
+
+Osric Temper"	D16	History of the Warlord and possible tie-in with Osric Temper
+509	"I must commend you on your excellent work.  Continue to undermine the power of the Ironfists, and no one will be left to challenge us.  If you have the opportunity, dangle the carrot of the throne in front of as many people as you can.  If we play our cards right, the humans will kill each other off in a bloody war for the throne.  The Kreegan will reward their loyal followers well."	T6	Devil /Baa tie-in for the really dense people
+510	"Continue to work your dark enchantments on the Monolith.  If we are able to corrupt the Monolith fully, we will weaken Loretta’s druids to a point where we can take over.  This task is critical to our future plans, do not fail!"	D13	Cedric Druthers and Celestial Order info
+511	"Look to nature where civilization fails- the rocks and trees, the sky and earth all hold a power greater than man."	D13	hint on trees and rocks opening the doors
+512	"Snergle,
+
+We have been unable to locate Rocklin anywhere.  Whatever hole he crawled into must have swallowed him.  I know you require his death to subjugate the rest of the dwarves, but we have searched all over Enroth and have not been able to locate him.
+
+Lunstone"	D5	Dwarf history
+513	"Continue with your work in Castle Ironfist and New Sorpigal.  The buffoons in the south are unprepared for us, so you should be able to reap a wonderful harvest from them.  Remember to make your examples sharp and clear, and the sheep will follow you anywhere."	D3	Shadow Guild exposition
+514	Message Scroll Text. 514		
+515	"Gerrard,
+
+Congratulations on your new promotion.  Now, with the Fraternal Order of Silver under your control, you will have greater freedom in seeking out those not hard enough on evil in Enroth.  Eventually, we hope to assist you in removing the most lax of all in the fight against evil, the Ironfists.  Continue to do your work, and your dreams shall be realized.
+
+Zenofex"	D12	Letter to brother in d18 or maybe Baa
+516	"Prince,
+
+Anthony Stone has decided to remove you once and for all.  I’m sure you will be seeing his men soon.  For your safety, I’ve prepared a place in the sewers underneath Free Haven for you.  Leave the Guildhall immediately and come to the sewers.  Once the heat has cleared you will be free to return to the Guildhall.
+
+Fetzil"	D8	Shadow Guild exposition
+517	Message Scroll Text. 517		
+518	"Attempting to use force on the Dragon Towers was a mistake, as the lesson at Kriegspire taught us.  We lost nearly a score of our mounts in the attack, and barely managed to deactivate the Tower.  Fortunately, our allies in Icewind Pass have located the Keys needed to turn off the Towers completely.  Soon we will be able to fly again, the peasants scattering before us as the hares scatter before the wolves.  I have been trapped in these caves for too long- even Goliath, my mount, is becoming restless.  With the Dragon Towers shut off, and the armies to the south delayed from reaching us, we will be able to ride free once more."	D20	What is the point of this dungeon?
+519	"Damn!  It appears that I left the Memory Crystal in Kriegspire when we fled from my minotaurs.  Never cross a bull with anything!  I should have known the emotional instability of humans and the bad temper of bulls would have resulted in a complete disaster.  I’ll have to make a trip to the castle to get the Crystal, but first I’ll need some creatures to help me get past the minotaurs.  Maybe if I were to create some sort of flying, magical eye…"	D19	Agar exposition
+520	"…don’t know how he does it, but Lord Eustace is able to disappear from the throne room so quickly sometimes.  I’m not even sure where he goes, there’s only one exit.  I thought there might be a secret exit from the room, but that’s just plain silly.  Besides, I’ve never found any triggers when I searched the…"	D15	hint for throne switch
+521	"Good work on completing the first part of the plan.  With this keep, you’ll be able to prevent any interference from the south.  Use the Dragon Tower Keys to shut off the Dragon Towers, and we’ll be able to raid the towns again.  You will be well rewarded for the fine work you have done.  Come to our caves to the northwest when you are finished to collect your payment."	D15	exposition for human/ogre alliance
+522	"It appears that the crystal you have uncovered is not quite what we had anticipated, but we do acknowledge its use.  We will send a few Clerics to examine this crystal and then decide what to do.  Prepare for them in a few weeks."	T2	Letter from Baa to Order of the Fist about crystal
+523	"Rats!  Literally, rats.  We had perfected the Curse of the Endless Vermin, but one of the acolytes messed up, and now instead of New Sorpigal plagued, our temple has become infested with more vermin and insects and pests than I’ve seen anywhere.  We’ve tried for two days to reverse the curse and fight back the tides of annoying creatures, but we’ve failed.  Our only option now is to flee and construct a temple somewhere else in the south."	D2	Baa exposition
+524	Message Scroll Text. 524		
+525	"We need at least 150% production from this mine for the next few weeks.  I’m going to need arms and armor for my soldiers to quell any discontent about my rule.  Continue to look for any of the more precious metals, like stalt and kergar.  Ignore the gold and gems for right now, we have enough money to last quite a while- the lack of weapons and armor will be our undoing."	D9	More dwarf exposition
+526	Message Scroll Text. 526		
+527	"My studies with the Crystal of Terrax have grown tiring.  I don’t think I grasp enough of the basic magics to fully understand the lessons of the Crystal.  My time is growing short here, and I think I will be forced to continue my studies as a lich.  I refuse to let go and embrace death, not after my failure in the Succession Wars, and my failures in learning magic.  I’ll use the time I gain from lichdom to train myself more fully in magic and plot my revenge on the Ironfists for what they’ve done to Archibald and myself."	D11	Corlagon and the crystal exposition
+528	"Brother, we soon will need whatever you can provide us in the way of weapons.  With Gharik gone, you have full control over the facilities of the Forge.  I need you to leverage that control into aid for us.  Soon, we will be able to strike at the heart of our enemies, and you will have a place with me as a ruler of Enroth.
+
+Gerrard Blackames"	D18	Silver Helm brother's letter
+529	"If it’s not one thing, it’s another.  Now, Archibald wants me to work on equipping his army with the best items I can create.  I’ve been forced to move here from Alamos so that I can work as quickly as possible in completing that request.  I’ve left the damned Crystal he was so concerned about with my colleagues in Alamos.  Hopefully, they’ll be able to reach some conclusion about it soon, though I wish Archibald would make up his mind on what he wants done."	D18	Gharik exposition
+530	"…remember that our goal is to become the sole druidic order in Enroth.  Nothing can stand in our path as we attempt to cleanse our ranks and remove all opposition.  To this end we will use both the Monolith and what we can find in this old Temple of the Moon to undermine the power of Loretta and her druids everywhere.  We must endure our hardships to grow stronger.
+
+Cedric Druthers"	T5	Cedric Druthers and Celestial Order exposition
+531	"Congratulations on successfully completing your transformation.  I hope you are doing well.  Even if you aren’t, I need the Memory Crystal researched and its information revealed.  I have no more time for delays or failures, and I expect you to meet with success where the others have failed.  I know you have a fetish for Crystals, and I expect that you will use your experience with them to finish this job quickly.  When you have the information, bring it to me at Castle Ironfist.  Perhaps we can use what you find to access the rest of the Crystals.
+
+Archibald"	CD2	Letter from Archibald
+532	"The Ritual of Endless Night is perhaps one of the most difficult to perform.  Not because of what is physically required, but the mental and spiritual anguish that the Mage must endure.  Giving up your humanity, your soul, is not something easily done.  Only the most greedy, the most ambitious, or the heartless can overcome the strain involved."	CD2	Darkmoor exposition
+533	" ...tried to locate the warded doors.  William refused to take any of the amber we found as he believed it was cursed.  After being lost for almost a day, we found a strange creature that teleported us to the entrance.  In exchange for this service it drained William’s life force, but he managed to recover in a few days.  We are halting all further expeditions until we are able to determine…"	D4	"Lord of fire to the south, faces will teleport you?"
+534	"Desist your current experiments into creature evolution and construction.  I need your efforts directed into learning the purpose of and the information contained in this Crystal.  The Oracle apparently uses these for some purpose, and I need you to determine exactly what that is.  This task is more important than creating flightless birds and bull-men or whatever it is you are doing now.
+
+Archibald"	CD3	Letter from Archibald
+535	"Please use your knowledge of arcane items and materials to divest this Crystal of the information it contains.  Use the full resources of Alamos if you have to, but do not fail me.  It is imperative that I know whatever information it is the Oracle is attempting to deny me.
+
+Archibald"	CD1	Letter from Archibald
+536	"East:  Shadow Guildhall
+West:  Shadow Guild Hideout
+North:  Free Haven Thieves’ Guild
+South:  Dragoons’ Caverns"	D8 Spiral	Spiral teleporter information
+537	"When the Landing commences, Captain, take this code scroll to the central control chamber and speak activator key 'krik' when prompted.  All of the senior officers must present their code scrolls and keys to open the way.  Yours is the last key in the sequence."	Pyramid	Well room
+538	"When the Landing commences, First Mate, take this code scroll to the central control chamber and speak activator key 'kcops' when prompted.  All of the senior officers must present their code scrolls and keys to open the way."	Pyramid	Well room
+539	"When the Landing commences, Navigator, take this code scroll to the central control chamber and speak activator key 'ulus' when prompted.  All of the senior officers must present their code scrolls and keys to open the way."	Pyramid	Well room
+540	"When the Landing commences, Communications Officer, take this code scroll to the central control chamber and speak activator key 'aruhu' when prompted.  All of the senior officers must present their code scrolls and keys to open the way."	Pyramid	Well room
+541	"When the Landing commences, Engineer, take this code scroll to the central control chamber and speak activator key 'yttocs' when prompted.  All of the senior officers must present their code scrolls and keys to open the way."	Pyramid	Well room
+542	"When the Landing commences, Doctor, take this code scroll to the central control chamber and speak activator key 'yoccm' when prompted.  All of the senior officers must present their code scrolls and keys to open the way."	Pyramid	Well room
+543	"     
+Here is the key to the combination door you requested.
+       
+     A.  Trap.
+     B.  Opens door 4 and closes door 5.  
+     C.  Opens door 5 and closes door 4.  
+     D.  Opens door 1 and closes door 5.
+     E.  Opens door 5 and closes door 1.
+     F.  Opens door 2 and closes door 4.
+     G.  Opens door 6.
+     H.  Opens door 3 and closes door 2.
+     I.    Opens door 2 and closes door 3.
+     J.   Opens door 2 and closes door 1.
+     K.  Opens door 6 and closes door 5.
+     L.   Opens door 3 and closes door 4.
+     M.  Maintenance.
+     N.  Opens door 1 and closes door 2.
+     O.  Opens door 5 and closes door 6.
+     P.  Reset.
+
+Sincerely, the Drawkcab Monks."	D1	Description
+544	The ritual described on this scroll seems to be a complex magical formula requiring the caster to face the target from a distance and follow a lengthy and exacting series of steps.  You can't figure out what the effect of the spell will be once it's been cast.	D1	Description
+545	"I have hidden this letter here hoping it will be found by someone loyal to the Crown.  That I am even able to write it is a miracle--my captors were too stupid to take my writing materials--and I need many more miracles to survive this predicament.  All of my men were lost in the battle against the devils, leaving only Tanir, Ragnar, and myself alive.  Lord Ragnar is in a bad way, and I fear he will not survive the night.  Better for him, perhaps.
+
+Since we have not yet been killed, I'm guessing we are being saved for something special.  Whatever it is, as long as there is life, there is hope.  They will probably carry Tanir and I from this awful place to another awful place to ransom us or torture us for information.  Whatever our fate, you, my loyal subject, must work to ensure the survival of the kingdom and our world.  These devils are a threat much worse than Archibald ever was, and will require the most desperate measures to defeat.  Take those measures, even if it means releasing my evil brother from his tomb of stone.  Above all, seek the advice of the Oracle in Free Haven.
+
+I hear my captors coming down the hall!  Tell my wife and son I love them, and DON'T TRUST SULMAN! He is a traitor.  Good Luck!
+
+--Roland Ironfist, King of Enroth
+  "	D1	Description
+546	Congratulations!  I hereby proclaim you all Super-Goobers!	D1	Description
+547		D1	Description
+548		D1	Description
+549		D1	Description
+550			
+551			
+552			
+553			
+554			
+555			
+556			
+557			
+558			
+559			
+560			
+561			
+562			
+563		
+564		
+565		
+566		
+567		
+568		
+569		
+570		
+571		
+572		
+573		
+574		
+575		
+576		
+577		
+578		
+579			
+580			Ritual of Dark Containment
+581			
+			
+			
+			
+			

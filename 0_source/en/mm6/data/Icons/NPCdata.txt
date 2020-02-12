@@ -1,0 +1,400 @@
+NPC Data (Special)	Unter		BTB check			Current	Profession	Join	News	Event	Event	Event	
+#	Name	Pic	State	Fame	Rep	2D Location	 1 - 76	Y / N	Y / N	# A	# B	# C	Notes
+1	Andover Potbello	81	0	0	0	92	74	0	0	1	296	0	gives money for the sixth letter and retrieve candelabra quest
+2	Maria	126	0	0	0	92	48	0	1	8	0	0	gives clue for marketing promotion.
+3	Frank Fairchild	187	0	0	0	89	0	0	1	324	326	0	Gives the save the mom quest and takes letter from d6
+4	Wilbur Humphrey	553	0	0	0	154	0	0	0	9	13	0	Council Quest and Promotion Quest.
+5	Albert Newton	527	0	0	0	156	0	0	0	51	55	0	Council Quest and Promotion Quest.
+6	Osric Temper	524	0	0	0	158	0	0	0	61	65	0	Council Quest and Promotion Quest.
+7	Chadwick Blackpoole	39	0	0	0	106	0	0	1	0	0	0	Gives nomination for Cavalier Quest - is supposed to be in Free Haven inn
+8	Oracle	523	0	0	0	170	0	0	0	73	74	0	Return the crystals and pyramid quests
+9	The Seer	522	0	0	0	169	0	0	0	41	45	46	"Seer quest, item return, and hint"
+10	Marton Ferris	11	0	0	0	249	42	0	1	0	0	396	Divine Intervention quest
+11	Melody Silver	164	0	0	0	-1	0	0	0	31	0	0	The damsel in distress for the paladin quest
+12	Archibald Ironfist	554	0	0	0	553	0	0	0	30	0	0	Need picture from heroes 2
+13	Nicolai Ironfist	526	0	0	0	154	0	0	0	18	25	0	Need a new picture
+14	Loretta Fleise	528	0	0	0	162	0	0	0	79	82	0	
+15	Erik Von Stromgard	529	0	0	0	164	0	0	0	87	91	0	
+16	Anthony Stone	525	0	0	0	160	0	0	0	32	35	0	
+17	The Prince of Thieves	396	0	0	0	-1	0	0	0	98	0	0	
+18		0	0	0	0	0	0	0	0	0	0	0	removed
+19	The Hermit on the Mountain	225	0	0	0	552	0	0	0	95	0	0	winter quest for Stromgard
+20	Aaron Strongmun	1	0	0	0	428	13	0	0	202	261	0	"Sword Expert, door next to weaponshop (D3)"
+21	Bernard Jacobs	2	0	0	0	462	13	0	0	246	283	0	Repair expert (E2)
+22	Benito Tellman	3	0	0	400	437	13	0	0	222	271	0	"Plate expert, 4 buildings south of Ironfist (D3)"
+23	Forrest Suthers	4	0	0	0	299	14	0	0	223	0	0	Plate Master (C2)
+24	John Tuck	5	0	800	0	407	14	0	0	259	0	0	Learning master (D1)
+25	Kyle Lutvig	6	0	0	0	268	77	0	1	0	0	0	child
+26	David Feather	7	0	0	0	335	14	0	0	221	0	0	chain master (C3)
+27	Rich Hamburg	8	0	0	400	436	13	0	0	220	270	0	"chain expert, 4 buildings south of Ironfist (D3)"
+28	Susan Handlebaum	9	0	0	0	0	77	0	1	0	0	0	child
+29	Will Ottoman	10	0	800	0	397	13	0	0	245	289	0	merchant master (D1)
+30	Noah White	11	0	0	0	260	14	1	1	0	0	0	instructor
+31	Calvin Black	12	0	0	200	460	13	0	0	200	260	0	staff expert (E2)
+32	Avinril Smythers 	13	0	0	0	102	15	0	0	290	0	0	"Good dwarf who gives defeat Snergal quest, Master axe (C3)"
+33	Harold Hess	14	0	0	0	473	55	0	0	0	0	386	Merc Guild Membership (E3)
+34	Jacques Kohl	15	0	0	200	276	14	0	0	255	0	0	diplomacy master (C1)
+35	Tim O'Hoolihan	16	0	0	0	319	13	0	0	236	278	0	body expert (C2)
+36	Fredrick Piles	17	0	0	400	274	46	0	1	0	0	386	Merc Guild Membership (C1)
+37	Charles D'Sorpigal	18	0	0	0	90	15	0	0	292	0	0	Constable in Mist who gives the prove Silver Helms are bad quest
+38	Kent Williams	19	0	0	0	301	32	0	1	0	0	0	Person who sells house in Free Haven
+39	Gordon Styles	20	0	0	0	441	2	1	1	0	0	0	armorer
+40	Dorf	21	0	0	0	480	13	0	0	200	260	0	"staff expert, Bottom middle building (E3)"
+41	Twillen	22	0	0	0	0	41	0	1	354	0	0	"Young Twillen, after the statuette quest"
+42	Terrance Smith	23	0	0	-300	431	13	0	0	204	262	0	"dagger expert, behind tavern below Ironfist  (D3)"
+43	Samson Tess	24	0	0	0	-1	73	0	1	348	0	0	Human guard in Goblinwatch after quest complete
+44	Harper Collins	25	0	0	400	459	14	0	0	229	0	392	water master (E2)
+45	Arlen Sailor	26	0	0	0	272	13	0	0	219	0	0	leather master (C1)
+46	Bertrand Scrivner	27	0	0	0	90	23	0	0	294	0	0	Mayor in Mist Town Hall
+47	Peter Ivanovich	28	0	0	0	432	7	1	1	0	0	0	pathfinder
+48	Michael Ogilvy	29	0	0	0	321	46	0	0	202	261	0	Sword expert (C2)
+49	Bernice Hatter	30	0	0	0	405	3	1	1	0	0	0	alchemist
+50	Tess Tucker	31	0	0	-300	258	51	0	1	0	0	385	Thief Guild Membership (B2)
+51	Hector Dragged	32	0	0	0	0	0	0	0	0	0	0	
+52	Guy Hampton	33	0	0	0	250	14	0	0	203	0	0	sword master (B2)
+53	Horace Rose	34	0	0	400	370	46	0	1	0	0	388	Merc Guild Membership (D1)
+54	Falagar	35	0	0	0	474	41	0	0	349	0	0	Mage from the intro
+55	Gilbert Hammer	36	0	0	0	402	14	0	0	237	0	0	body master (D1)
+56	Leon Lazaru	37	0	0	-200	429	13	0	0	242	281	0	"identify expert, 2 houses by gate (D3)"
+57	Macro Caligula	38	0	0	0	336	14	0	0	253	0	0	perception master (C3)
+58	Orville Corvair	39	0	0	0	476	4	1	1	0	0	0	scholar
+59	Lucky Oster	40	0	0	-300	371	51	0	1	0	0	384	Thief Guild Membership (D1)
+60	Gonzalo Ramirez	41	0	0	200	461	0	0	0	208	264	387	spear expert (E2)
+61	Marcellus Lutvig	42	0	0	-300	268	51	0	1	0	0	384	Thief Guild Membership (C1)
+62	Erik Salzburg	43	0	0	0	482	13	0	0	248	284	0	"bodybuilding expert, 2 big houses east (E3)"
+63	Ahmed A'sanzi	44	0	0	0	238	5	1	1	0	0	0	guide
+64	Sergio Carrington	45	0	0	-300	286	51	0	1	0	0	385	Thief Guild Membership (C2)
+65	Saad Shamel	46	0	0	0	0	0	0	0	0	0	0	
+66	Ghim Hammond	47	0	0	0	-1	0	0	1	301	0	0	Dwarf prisoner that gives key to d5
+67	Walter Hargreaves	48	0	0	0	425	13	0	0	254	287	0	"diplomacy expert, upstairs Ironfist (D3)"
+68	Virgil Holiday	49	0	0	0	468	13	0	0	234	277	0	"mind expert, west 5 poor houses (E3)"
+69	Warren Holmes	50	0	0	0	278	17	0	1	0	0	381	Elemental Guild Membership (C1)
+70	Tyler Tailor	51	0	0	-200	430	13	0	0	256	288	0	"disarm expert, 2 houses by gate (D3)"
+71	Sylvester Moor	52	0	0	0	304	13	0	0	254	287	0	diplomacy expert (C2)
+72	Victor Hosen	53	0	0	0	481	13	0	0	250	285	0	"meditation expert, 2 big houses east (E3)"
+73	Thane Roper	54	0	0	0	401	14	0	0	235	0	0	mind master (D1)
+74	Oliver Wendell	55	0	0	0	-1	0	0	0	302	0	0	Monk who gives party info in d7
+75	Winston Historian	56	0	0	400	287	46	0	1	0	0	387	Merc Guild Membership (C2)
+76	Zoltan Phelps	57	0	0	0	296	21	0	0	322	0	0	Gives quest to retrieve lost artifact
+77	Andrew Besper	58	0	0	0	433	31	0	0	303	0	388	Gives quest to retrieve harp
+78	Ellen Rockway	59	0	0	0	396	48	1	1	0	0	0	gypsy
+79	Olaf Berring	60	0	0	0	440	13	0	0	248	284	0	bodybuilding expert (D3)
+80	Nadine Hayden	0	0	0	0	0	0	0	0	0	0	0	"Guild of light proprietor (npc 61), picture used ?"
+81	Isao Magistrus	62	0	0	0	465	13	0	0	224	272	0	"fire expert, west 5 poor houses (E3)"
+82	Livia Farrel	63	0	0	0	303	13	0	0	244	282	0	merchant expert (C2)
+83	Enoch Highridge	64	0	0	0	467	13	0	0	232	276	0	"spirit expert, west 5 poor houses (E3)"
+84	Edgar Carpenter	65	0	0	400	434	13	0	0	216	268	0	"shield expert, 4 buildings south of Ironfist (D3)"
+85	Hans Gifford	66	0	0	0	285	14	0	0	243	0	0	identify master (C2)
+86	Isaac Streetman	67	0	0	0	369	17	0	1	0	0	382	Self Guild Membership (D1)
+87	Twillen	68	0	0	0	253	41	0	0	351	353	0	Statuette Quest
+88	Naomi Highland	69	0	0	0	475	10	1	1	0	0	0	healer
+89	Errol Ostermann	70	0	0	0	252	14	0	0	213	0	0	mace master (B2)
+90	Gabe Lester	71	0	0	-600	275	14	0	0	257	0	0	disarm master (C1)
+91	Dickson Parks	72	0	0	0	270	13	0	0	212	266	0	mace expert (C1)
+92	Takao	73	0	0	0	323	13	0	0	216	268	0	shield expert (C2)
+93	Jed Morrison	74	0	0	0	269	13	0	0	210	265	0	bow expert (C1)
+94	Douglas Hill	75	0	0	0	477	13	0	0	228	274	0	"water expert, on luck island (E3)"
+95	Elton Astrogate	76	0	0	0	424	13	0	0	258	289	0	"learning expert, upstairs Ironfist (D3)"
+96	Morton Holovin	77	0	0	-800	273	13	0	0	240	280	0	dark expert (C1)
+97	Newt Headrow	78	0	0	400	435	13	0	0	218	269	0	"leather expert, 4 buildings south of Ironfist (D3)"
+98	Jasmine Spicer	79	0	0	0	400	11	1	1	0	0	0	expert healer
+99	Helen Teal	80	0	0	0	438	13	0	0	210	265	0	bow expert (D3)
+100	Pat	81	0	0	0	0	0	0	0	0	0	0	Proprietor picture already used.
+101	Jessica Carson	82	0	0	0	289	17	0	1	0	0	389	Air Guild Membership (C2)
+102	Faith Kellenmoor	83	0	0	0	260	21	1	1	0	0	0	merchant
+103	Ginger Astor	84	0	0	0	398	13	1	1	0	0	0	teacher
+104	Yvonne D'arcy	85	0	0	0	226	33	1	1	0	0	0	cook
+105	Jezebel	86	0	0	400	455	14	0	0	225	0	391	fire master (E2)
+106	Pat Skylark	87	0	0	0	448	13	0	0	214	267	0	blaster expert (E1)
+107	Doreen Espana	88	0	0	0	332	34	1	1	0	0	0	chef
+108	Emmanuel Cravitz	89	0	0	0	-1	0	0	1	321	0	0	Husband needed for t8 find the husband quest
+109	Revee Botania	90	0	0	0	396	14	0	0	231	0	0	earth master (D1)
+110	Deth Macbre	91	0	0	0	0	0	0	0	0	0	0	weird face…not sure what to do with this one.
+111	Hugger Brother	92	0	0	0	351	20	1	1	0	0	0	trader
+112	Hugger Brother	93	0	0	0	406	28	1	1	0	0	0	chimney sweep
+113	Hugger Brother	94	0	0	0	463	8	1	1	0	0	0	sailor
+114	Hugger Brother	95	0	0	0	393	26	1	1	0	0	0	locksmith
+115	Graham Dancey	96	0	0	0	409	24	1	1	0	0	0	barrister
+116	Wendy Featherhill	97	0	0	0	354	47	1	1	0	0	0	psychic
+117	Dolores Craft	98	0	0	0	355	33	1	1	0	0	0	cook
+118	Joanne Cravitz	99	0	0	0	254	52	0	0	317	0	0	Wife for the t8 find the husband quest
+119	Holly Struthers	100	0	0	0	368	17	0	1	0	0	390	Earth Guild Membership (D1)
+120	Ike Pargrew	101	0	0	0	291	17	0	1	0	0	390	Earth Guild Membership (C2)
+121	Corey Rozburg	102	0	0	0	288	17	0	1	0	0	391	Fire Guild Membership (C2)
+122	Preston Harper	103	0	0	200	414	13	0	0	220	270	0	chain expert (D2)
+123	Tina Sheltan	104	0	0	800	389	13	0	0	238	279	0	light expert (D1)
+124	Roxanne Sheltan	105	0	0	0	389	77	0	0	0	0	0	child
+125	Tara D'Cathay	106	0	0	0	484	13	0	0	252	286	0	"perception expert, above tavern (E3)"
+126	Vera Grasslin	107	0	0	0	388	36	1	1	0	0	0	bard
+127	Emma Terrance	108	0	0	0	387	59	1	1	0	0	0	weaver
+128	Olivia Trumpet	109	0	0	0	386	58	1	1	0	0	0	potter
+129	Rebecca Traveler	110	0	0	0	284	77	0	0	0	0	0	child
+130	Rexella 	111	0	0	0	223	14	0	0	215	0	0	master blaster (A2)
+131	Miriam Goodwife	112	0	0	0	227	32	1	1	0	0	0	banker
+132	Dominique Juarez	113	0	0	0	290	17	0	1	0	0	392	Water Guild Membership (C2)
+133	Gretchen Fallzen	114	0	0	0	384	54	1	1	0	0	0	tailor
+134	Edna Harmenov	115	0	0	0	446	55	1	1	0	0	0	laborer
+135	Julie Cooper	116	0	0	0	395	56	1	1	0	0	0	farmer
+136	Ethel Armstrong	117	0	0	0	349	70	1	1	0	0	0	scribe
+137	Bernice Weaver	118	0	0	600	442	17	0	1	0	0	393	Body Guild Membership (D3)
+138	Bishop Iquisitorio	119	0	0	600	426	14	0	0	233	0	395	"spirit master, behind Ironfist (D3)"
+139	Eva Semple	120	0	0	100	350	14	1	1	0	0	0	instructor
+140	Gail Ashtengard	121	0	0	0	447	53	1	1	0	0	0	serf
+141	Daphne Calloway	122	0	0	0	344	23	1	1	0	0	0	counselor
+142	Stephen Biggs	123	0	0	0	439	13	0	0	206	263	0	"axe expert, 2nd door in training (D3)"
+143	Lilly June	124	0	0	0	345	19	1	1	0	0	0	spell master
+144	Peggy Woods	125	0	0	0	294	17	0	1	0	0	393	Body Guild Membership (C2)
+145	Maria	126	0	0	0	0	0	0	0	0	0	0	picture already used by maria the gypsy
+146	Alice Ofenhauser	127	0	0	0	392	24	1	1	0	0	0	barrister
+147	Cyrus Montebleu	128	0	0	0	391	13	0	0	246	283	0	repair expert (D1)
+148	Donald Retzer	129	0	0	0	487	13	0	0	258	289	0	"learning expert, upstairs self guild (E3)"
+149	Cody Ripper	130	0	0	0	419	46	1	1	0	0	0	squire
+150	Tracy Flauta	131	0	0	600	438	17	0	1	0	0	394	Mind Guild Membership (D3)
+151	Carol Rossini	132	0	0	0	394	72	1	1	0	0	0	clerk
+152	Stephanie Pavlov	133	0	0	0	417	71	1	1	0	0	0	missionary
+153	Sandra Trudoor	134	0	0	-100	333	74	1	0	0	0	0	follower of Baa
+154	Violet Dawson	135	0	0	0	471	58	0	0	328	0	382	(Self Guild Membership and Rescue Angela)
+155	Sherell Ivanaveh	136	0	0	0	-1	0	0	1	333	0	0	Prisoner of the cannibals in the t3 rescue the prisoner quest
+156	Elsie Freedman	137	0	0	0	293	17	0	1	0	0	394	Mind Guild Membership (C2)
+157	Beverly Sweetwater	138	0	0	0	218	4	1	1	0	0	0	scholar
+158	Florimel Evylen	139	0	0	100	220	75	1	1	0	0	0	noble
+159	Stacy Flanders	140	0	0	0	348	74	1	0	0	0	0	follower of baa
+160	Belinda Pikeman	141	0	0	0	347	33	1	1	0	0	0	cook
+161	Connie Lettering	142	0	0	0	340	13	0	0	206	263	0	axe expert (C3)
+162	Chandra Stripling	143	0	0	0	346	52	1	1	0	0	0	peasant
+163	Jean Acton	144	0	0	0	418	31	1	1	0	0	0	factor
+164	Clyde Dagget	145	0	0	0	408	13	0	0	250	285	0	meditation expert (D1)
+165	Kathleen Mester	146	0	0	0	539	18	1	0	398	0	0	mystic - allows the use of the teleporter (E2)
+166	Mynasia	147	0	0	0	320	13	0	0	234	277	0	mind expert (C2)
+167	Amber Praetor	148	0	0	100	331	36	1	1	0	0	0	bard
+168	Cassandra Timmon	149	0	0	0	381	42	1	1	0	0	0	acolyte
+169	Michele Blackshire	150	0	0	0	318	13	0	0	232	276	0	spirit expert (C2)
+170	Carly Rotterdam	151	0	0	0	330	77	0	0	0	0	0	child
+171	Gabriel Cartman	152	0	0	0	295	3	0	0	305	0	0	Alchemist who gives retrieve Ethric's skull quest
+172	Casey Ludwig	153	0	0	0	338	13	0	0	244	282	0	merchant expert (C3)
+173	Sheila Loompus	154	0	0	0	483	13	0	0	242	281	0	"identify expert, above tavern (E3)"
+174	Judith Shoemaker	155	0	0	0	380	60	1	1	0	0	0	cobbler
+175	Selena Stipe	156	0	0	-100	538	45	1	1	0	0	0	pirate
+176	Wilma Rothwing	157	0	0	0	292	17	0	1	0	0	395	Spirit Guild Membership (C2)
+177	Ivan Magyar	158	0	0	0	283	13	0	0	256	288	0	disarm expert (C2)
+178	Nicholas Roth	159	0	1600	800	239	13	0	0	238	279	0	light expert (B1)
+179	Bonnie Rotterdam	160	0	0	100	330	0	0	1	116	0	0	Harpy Feather Buyer (C2)
+180	Caao Salem	161	0	0	400	458	14	0	0	227	0	389	air master (E2)
+181	Bronwyn Meck	162	0	0	400	248	14	0	0	217	0	0	Shield Master (B2)
+182	Randall Norris	163	0	0	0	449	9	1	1	0	0	0	navigator
+183		164	0	0	0	0	0	0	0	0	0	0	picture of melody silver
+184	Heidi Strumper	165	0	0	100	329	75	1	1	0	0	0	noble
+185	Igor	166	0	0	0	478	13	0	0	214	267	0	"blaster expert, behind goblin camp (E3)"
+186	Iris Poppyfield	167	0	0	100	328	36	1	1	0	0	0	bard
+187	Jason Traveler	168	0	800	0	284	14	0	0	249	0	0	bodybuilding master (C2)
+188	Desmond Weller	169	0	0	0	241	14	0	0	211	0	0	bow master (B1)
+189	Jack Crow	170	0	0	0	337	13	0	0	212	266	0	mace expert (C3)
+190	Harriet Waters	171	0	0	0	379	57	1	1	0	0	0	cooper
+191	Avilia Asheed	172	0	0	0	343	22	1	1	0	0	0	scout
+192	Kevin Watch	173	0	0	0	-1	52	0	1	0	0	0	Peasant turned to stone in t8
+193	Sharry Carnegie	124	0	0	0	-1	0	0	0	327	0	0	"Rescue the Sharry quest, becomes healer in 2D 471 in New Sorpigal"
+194	Jo Handlebaum	175	0	0	0	261	19	1	1	0	0	0	spell master
+195	Angela Dawson	176	0	0	0	-1	77	0	0	330	0	0	Child for the d2 rescue the lost child quest
+196	Arthur O'Leery	177	0	0	-300	457	0	0	0	218	269	383	leather expert (E2)
+197	Ambrose Brusse	178	0	0	-800	256	13	0	0	240	280	0	dark expert (B2)
+198	Fletcher Tormengast	179	0	0	0	-1	52	0	1	0	0	0	Peasant turned to stone in t8
+199	Elijah Skylark	180	0	0	0	448	77	1	1	0	0	0	child
+200	Carlo Tormini	181	0	0	0	297	35	0	0	331	0	0	Gives the t3 rescue the prisoner quest
+201	Emil Lime	182	0	0	0	245	37	0	0	355	0	0	Jewelled Egg Quest
+202	Kern Carnegie	183	0	0	0	342	15	1	1	0	0	0	arms master
+203	Logan Dasher	184	0	0	0	322	13	0	0	204	262	0	dagger expert (C2)
+204	Flossie Setering	185	0	0	0	341	58	1	1	0	0	0	potter
+205	Dolores Fischer	186	0	0	0	378	6	1	1	0	0	0	tracker
+206	Burton Rutherford	187	0	800	0	339	14	0	0	209	0	0	spear master (C3)
+207	Buford T. Allman	188	0	0	0	470	24	0	0	308	0	381	(Elemental Guild and kill Spider Queen)
+208	Jack Van Imp	189	0	0	0	300	13	0	0	224	272	0	fire expert (C2)
+209	Rexella Van Imp	190	0	0	0	300	42	1	1	0	0	0	acolyte
+210	Jules Miles	191	0	0	-600	271	14	0	0	205	0	0	dagger master (C1)
+211	Ryan Treacle	192	0	0	0	277	13	0	0	247	0	0	repair master (C1)
+212	Maria Trepan	193	0	0	0	251	33	0	0	334	0	0	Gives the free Blackshire from the curse quest
+213	Cheryl Duncan	194	0	0	0	485	13	0	0	226	273	0	"air expert, above bank (E3)"
+214	Woodrow Albright	195	0	0	0	298	13	0	0	222	271	0	plate expert (C2)
+215	Droppa MaPantz	196	0	0	0	243	27	1	1	0	0	0	fool
+216	Taro	197	0	0	0	466	13	0	0	230	275	0	"earth expert, west 5 poor houses (E3)"
+217	Madeleine Towers	198	0	0	0	376	21	1	1	0	0	0	merchant
+218	Fabian Sun	199	0	0	0	313	30	1	1	0	0	0	quarter master
+219	Bandar Jahrom	221	0	0	0	557	0	0	1	135	0	0	Lamp Trader (B3)
+220	Thari Mirumoto	201	0	0	0	324	77	0	1	0	0	0	child
+221	Kai Lian	202	0	0	0	377	59	1	1	0	0	0	weaver
+222	Eunbo Kim	203	0	0	0	236	23	1	1	0	0	0	counselor
+223	Hitomi Mirumoto	204	0	0	0	324	13	0	0	228	274	0	water expert (C2)
+224	Sila Daewon	205	0	0	100	235	14	1	1	0	0	0	instructor
+225	Abdulai Mahgreb	206	0	0	0	469	13	0	0	236	278	0	"body expert, west 5 poor houses (E3)"
+226	Chitania Retiani	207	0	0	0	315	58	1	1	0	0	0	potter
+227	Sigriv	208	0	0	0	390	13	0	0	208	264	0	spear expert (D1)
+228	Myyra Hian	209	0	0	0	464	47	1	1	0	0	0	psychic
+229	Norio Ariganaka	210	0	0	600	456	14	0	0	251	0	0	meditation master (E2)
+230	Shoshi Pertoniki	211	0	0	-200	415	13	0	0	252	286	0	perception expert (D2)
+231	Leah Lu	212	0	0	0	411	77	0	1	0	0	0	child
+232	Rodinia Sidara	213	0	0	0	244	43	1	1	0	0	0	piper
+233	Indihir Vilandi	214	0	0	0	356	29	1	1	0	0	0	porter
+234	Ta Li No Gharma	215	0	0	0	225	62	1	1	0	0	0	miller
+235	Ackbar	216	0	0	0	357	30	1	1	0	0	0	quarter master
+236	Li Tizare	217	0	0	0	325	13	0	0	230	275	0	earth expert (C2)
+237	Soon Lu	218	0	0	0	411	40	1	1	0	0	0	water master
+238	Zodahn Delphi	219	0	0	0	326	13	0	0	226	273	0	air expert (C2)
+239	Lori Tao	220	0	0	0	312	74	1	0	0	0	0	follower of baa
+240	Sri Retiani	238	0	0	0	315	77	0	1	0	0	0	child
+241	Daila Chow	239	0	0	0	0	77	0	1	0	0	0	child
+242	Gohei Matsu	249	0	0	0	359	43	1	1	0	0	0	piper
+243	Shileka Toreena	251	0	0	100	450	39	1	1	0	0	0	wind master
+244	Melody Stone	252	0	0	0	372	38	1	1	0	0	0	cartographer
+245	Rebecca Calaway	253	0	0	-600	255	17	0	1	0	0	397	Dark Guild Membership (B2)
+246	Virginia Standridge	254	0	0	600	367	17	0	1	0	0	396	Light Guild Membership (D1)
+247	Dana Fenster	256	0	0	0	0	0	0	0	0	0	0	"proprietor light guild, picture already used"
+248	Roxina Smolenska	257	0	0	0	427	25	1	1	0	0	0	tinker
+249	Beth Thompson	258	0	0	100	360	40	1	1	0	0	0	water master
+250	Wilma Cook	259	0	0	100	307	41	1	1	0	0	0	gate master
+251	Lesiah Marduk	260	0	0	-100	540	51	1	1	0	0	0	burglar
+252	Miro Shinek	263	0	0	0	399	35	1	1	0	0	0	horseman
+253	Anawah	271	0	0	0	374	29	1	1	0	0	0	porter
+254	Mihi Mihi Nanook	273	0	0	0	358	55	1	1	0	0	0	laborer
+255	Su Lang Manchu	274	0	0	-1000	216	14	0	0	241	0	0	dark master (A2)
+256	Nigan	278	0	0	0	373	15	1	1	0	0	0	arms master
+257	Kachiko Toranaga	283	0	0	100	420	36	1	1	0	0	0	bard
+258	Jasper Rice	289	0	0	0	366	14	0	0	201	0	0	staff master (D1)
+259	Isao Tizare	295	0	0	0	325	77	1	1	0	0	0	child
+260	Heather Mitchell	296	0	0	0	240	49	1	1	0	0	0	negotiator
+261	Linda Nichols	297	0	0	0	421	17	1	1	0	0	0	apprentice
+262	Svetlanta Irktusk	298	0	0	0	422	19	1	1	0	0	0	spell master
+263	Rachel Herzl	299	0	0	-600	279	17	0	1	0	0	397	Dark Guild Membership (C1)
+264	Rosemarie Reyjavik	300	0	0	0	306	21	1	1	0	0	0	merchant
+265	Miriam Boyer	301	0	0	0	302	16	1	1	0	0	0	weapons master
+266	Naomi Wind	302	0	0	0	261	41	1	1	0	0	0	gate master
+267	Eleanor Vanderbilt	303	0	0	0	385	7	0	0	310	0	0	Gives the deface the altar quest
+268	Gertrude Whaler	304	0	0	0	262	39	1	1	0	0	0	wind master
+269	Amanda Van De Camp	305	0	0	-100	280	76	1	1	0	0	0	gambler
+270	Sharla Quinn	306	0	0	0	282	12	1	1	0	0	0	master healer
+271	Deliah Bwana	307	0	0	0	262	40	1	1	0	0	0	water master
+272	Ki Lo Nee	375	0	0	1000	444	14	0	0	239	0	0	Light Master (E1)
+273	Rosita Alexander	316	0	0	100	281	75	1	1	0	0	0	noble
+274	Ral	325	0	0	0	309	63	1	1	0	0	0	carpenter
+275	Nikobi	328	0	0	0	310	22	1	1	0	0	0	scout
+276	Beauregard Wolf	358	0	0	-100	311	50	1	1	0	0	0	duper
+277	Lysander Farrel	381	0	0	0	303	77	0	1	0	0	0	child
+278	Becky Holmes	382	0	0	0	278	77	0	1	0	0	0	child
+279	Kim Astrogate	383	0	0	0	424	77	0	1	0	0	0	child
+280	William Tucker	384	0	0	0	258	77	0	1	0	0	0	child
+281	Dennis Johnson	385	0	0	0	0	77	0	1	0	0	0	Stable proprietor picture used
+282	Jennifer Herzl	386	0	0	0	279	77	0	1	0	0	0	child
+283	Christopher Smith	387	0	0	0	431	77	0	1	0	0	0	child
+284	George Almond	389	0	0	0	305	64	1	1	0	0	0	stonecutter
+285	Daniel Carnegie	390	0	0	0	342	77	0	1	0	0	0	child
+286	Carrie Calaway	391	0	0	0	255	77	0	1	0	0	0	child
+287	Dini Mahgreb	392	0	0	0	469	77	0	1	0	0	0	child
+288	Hejaz Mawsil	345	0	0	0	472	18	0	0	312	0	383	(Thief Guild Membership and Cobra Eggs)
+289	Barrad Unter	362	0	0	0	263	32	1	1	0	0	0	banker
+290	Winston Schezar	352	0	0	0	416	42	0	0	315	0	0	Gives destroy wicked crystal quest
+291	Janice	537	0	0	0	89	72	0	0	3	0	399	Gives Goblinwatch and Temple of Baa quest - Monster Hunt
+292	Earnest	538	0	0	0	90	72	0	0	0	0	399	Monster Hunt
+293	Jake	536	0	0	0	91	72	0	0	0	0	399	Monster Hunt
+294	Ghost of John Silver	394	0	0	0	-1	0	0	0	298	299	300	Ghost in d12
+295	Ghost of Balthasar	393	0	0	0	-1	0	0	0	338	339	340	Paladin ghost in d17
+296	Urok	552	0	0	0	486	0	0	0	347	0	0	Goblin guard in Goblinwatch
+297	Arius Peleth	225	0	0	0	-1	0	0	0	0	0	0	Toll bridge NPC
+298	Lord of Fire	395	0	0	0	-1	0	0	0	357	358	359	Lord of Fire NPC in d4
+299	Preston Steel	539	0	0	0	165	0	0	0	375	0	0	Osric Temper's councilman
+300	Tori Goldman	540	0	0	0	165	0	0	0	376	0	0	Loretta's councilwoman
+301	Isaac Rockwell	541	0	0	0	165	0	0	0	377	0	0	Anthony Stone's councilman
+302	Olaf Heimdall	542	0	0	0	165	0	0	0	378	0	0	Stromgard's councilman
+303	Euclid Kepler	543	0	0	0	165	0	0	0	379	0	0	Newton's councilman
+304	Slicker Silvertongue	544	0	0	0	165	0	0	0	380	0	0	the traitor
+305	Loretta Fleise	528	0	0	0	-1	0	0	0	365	0	0	loretta for the first druid promo
+306	Loretta Fleise	528	0	0	0	-1	0	0	0	366	0	0	loretta for the second druid promo
+307	Arena Master	649	0	0	0	-1	0	0	0	400	0	0	Arena Master for Arena
+308	Slovang Arcanos	1	0	0	0	204	1	1	1	0	0	0	Smith
+309	Brian Telemere	2	0	0	0	205	2	1	1	0	0	0	Armorer
+310	Ken Chomais	3	0	0	0	211	3	1	1	0	0	0	Alchemist
+311	Christian Vela	4	0	0	0	212	4	1	1	0	0	0	Scholar
+312	Michael Tuck	5	0	0	0	213	5	1	1	0	0	0	Guide
+313	Anthony Hargraine	7	0	0	0	215	6	1	1	0	0	0	Tracker
+314	Miles Loman	8	0	0	0	217	7	1	1	0	0	0	Pathfinder
+315	Zeke Magellan	10	0	0	0	219	8	1	1	0	0	0	Sailor
+316	Tyger Helms	11	0	0	0	221	9	1	1	0	0	0	Navigator
+317	Wolf Armstrong	12	0	0	0	222	10	1	1	0	0	0	Healer
+318	Rockwell Humdring	13	0	0	0	237	11	1	1	0	0	0	Expert Healer
+319	Carl Moramir	14	0	0	0	242	12	1	1	0	0	0	Master Healer
+320	Vance Cornelius	15	0	0	0	246	13	1	1	0	0	0	Teacher
+321	Norris Horton	16	0	0	0	263	24	1	1	0	0	0	barrister
+322	Stile Bloke	17	0	0	0	259	15	1	1	0	0	0	Arms Master
+323	Abdul	223	0	0	0	266	0	0	0	124	125	0	Abdul (B3)
+324	Najat Ramadi	216	0	0	0	267	0	0	0	126	129	132	Armor Pyramid (B3)
+325	Hans Schultz	20	0	0	0	308	18	1	1	0	0	0	Mystic
+326	Donald Dorfus	21	0	0	0	314	19	1	1	0	0	0	Spell Master
+327	Richard Harp	22	0	0	0	316	20	1	1	0	0	0	Trader
+328	Stephen Iago	23	0	0	0	317	21	1	1	0	0	0	Merchant
+329	Lawrence Aleman	24	0	0	0	327	0	0	1	113	0	0	Temple Gong buyer (C2)
+330	Terry Ros	25	0	0	0	352	19	0	0	122	0	0	Lich Book Quest (C3)
+331	Alex Morrow	26	0	0	0	353	25	1	1	0	0	0	Barrister
+332	Castor Lithgow	27	0	0	0	375	24	1	1	0	0	0	Tinker
+333	Egor Ivanovich	28	0	0	0	382	28	1	1	0	0	0	Locksmith
+334	Jacques Roscomon	29	0	0	0	383	27	1	1	0	0	0	Fool
+335	Shiela Wind	30	0	0	0	403	26	1	1	0	0	0	Chimney Sweep
+336	Bronwyn Blue	31	0	0	0	404	29	1	1	0	0	0	Porter
+337	Daniel Forosmini	32	0	0	0	410	30	1	1	0	0	0	Quarter Master
+338	Bejamin Sotherland	33	0	0	0	494	31	1	1	0	0	0	Factor
+339	Harold Amwen	34	0	0	0	495	32	1	1	0	0	0	Banker
+340	Leo Grant	35	0	0	0	496	33	1	1	0	0	0	Cook
+341	Lorn Hammer	36	0	0	0	497	34	1	1	0	0	0	Chef
+342	David Pike	37	0	0	0	498	35	1	1	0	0	0	Horseman
+343	Barry Shepherd	38	0	0	0	499	36	1	1	0	0	0	Bard
+344	Robin Lang	39	0	0	0	500	37	1	1	0	0	0	Enchanter
+345	Dom Malikto	40	0	0	0	501	38	1	1	0	0	0	Cartographer
+346	Josef Logger	41	0	0	0	502	39	1	1	0	0	0	Wind Master
+347	Jult Bandito	42	0	0	0	503	40	1	1	0	0	0	Water Master
+348	Piter Harkonnen	43	0	0	0	504	41	1	1	0	0	0	Gate Master
+349	Saul Fogg	44	0	0	0	505	42	1	1	0	0	0	Acolyte
+350	Arther Jelnic	45	0	0	0	506	43	1	1	0	0	0	Piper
+351	Abe Markoviac	46	0	0	0	507	44	1	1	0	0	0	Explorer
+352	Shel Stineway	47	0	0	0	508	45	1	1	0	0	0	Pirate
+353	Les Parker	48	0	0	0	509	46	1	1	0	0	0	Squire
+354	Ray Boswell	49	0	0	0	510	47	1	1	0	0	0	Psychic
+355	Sly Silverstone	50	0	0	0	511	48	1	1	0	0	0	Gypsy
+356	Marc Teagan	51	0	0	0	512	49	1	1	0	0	0	Negotiator
+357	Harper Nike	52	0	0	0	513	50	1	1	0	0	0	Duper
+358	Trevor Jones	53	0	0	0	514	51	1	1	0	0	0	Burglar
+359	Gerrold Dane	54	0	0	0	515	52	1	1	0	0	0	Peasant
+360	Peace Stringer	55	0	0	0	516	53	1	1	0	0	0	Serf
+361	Trent Jameson	56	0	0	0	517	54	1	1	0	0	0	Tailor
+362	Yves Meeks	57	0	0	0	518	55	1	1	0	0	0	Laborer
+363	Dean Frimple	58	0	0	0	519	56	1	1	0	0	0	Farmer
+364	Lisa Janway	59	0	0	0	520	57	1	1	0	0	0	Cooper
+365	Tor Brock	60	0	0	0	521	58	1	1	0	0	0	Potter
+366	Cheryl Ahmanson	61	0	0	0	522	59	1	1	0	0	0	Weaver
+367	Lyle Roma	62	0	0	0	523	75	1	1	0	0	0	noble
+368	Renee Blackburn	63	0	0	0	524	0	0	1	117	0	0	Golden Pyramid Buyer (C2)
+369	Lon Miller	64	0	0	0	525	0	0	1	114	0	0	Bone Buyer (C2)
+370	Davis Carp	65	0	0	0	526	0	0	1	115	0	0	Lodestone Buyer (C2)
+371	Nick Fenster	66	0	0	0	527	0	0	1	118	0	0	Keg of Wine Buyer (C2)
+372	Sy Roth	67	0	0	0	528	0	0	1	119	0	0	Tooth Buyer (C2)
+373	Mort Arnosti	68	0	0	0	529	66	1	1	0	0	0	Trapper
+374	Geoff Southy	70	0	0	0	530	0	0	1	120	0	0	Four Leaf Clover Buyer (C2)
+375	Dillan Robinson	71	0	0	0	531	0	0	1	121	0	0	Amber Buyer (C2)
+376	Ian Trom	73	0	0	0	264	20	1	1	0	0	0	locksmith
+377	Darth Cartwright	74	0	0	0	264	16	1	1	0	0	0	weapons master
+378	Jason Duster	75	0	0	0	265	37	1	1	0	0	0	enchanter
+379	Paul Hapsburg	76	0	0	0	265	12	1	1	0	0	0	master healer
+380	Kerman Murian	226	0	0	0	555	0	0	0	127	130	133	Weapon Trader (B3)
+381	Irbil Baktarian	378	0	0	0	556	0	0	0	128	131	134	Misc Trader (B3)
+382	Tracy Neather	83	0	0	0	541	75	1	1	0	0	0	Noble
+383	Ty Cognac	89	0	0	0	542	76	1	1	0	0	0	Gambler
+384	Joy Brown	99	0	0	0	543	1	1	1	0	0	0	Smith
+385	Larry Dorfmann	101	0	0	0	544	2	1	1	0	0	0	Armorer
+386	Nero Claudius	102	0	0	0	545	3	1	1	0	0	0	Alchemist
+387	Drusis Tiberio	103	0	0	0	546	4	1	1	0	0	0	Scholar
+388	Iris Amble	106	0	0	0	547	5	1	1	0	0	0	Guide
+389	Candice Streep	112	0	0	0	548	6	1	1	0	0	0	Tracker
+390	Rus Hockwoller	128	0	0	0	549	7	1	1	0	0	0	Pathfinder
+391	Jake Green	145	0	0	0	550	8	1	1	0	0	0	Sailor
+392	Blaze the Circus Master	602	0	0	0	166	0	0	0	104	105	0	Circus Master
+393	Sir William Tarquin	635	0	0	0	532	0	0	0	106	107	0	Might Game
+394	Pip Darkstone	617	0	0	0	533	0	0	0	106	108	0	Endurance Game
+395	Shalaz Zalas	624	0	0	0	534	0	0	0	106	109	0	Speed Game
+396	Azure Windsong	612	0	0	0	535	0	0	0	106	110	0	Accuracy Game
+397	Gnimish Goroth	653	0	0	0	536	0	0	0	106	111	0	Luck Game
+398	Teleron Prentice	615	0	0	0	537	0	0	0	106	112	0	Intellect Game

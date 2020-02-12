@@ -1,0 +1,12 @@
+def t(_, _x): return (' \r\n'
+'' + _x("location", "Drink from Well.") + '\r\n'
+'' + _x("location", "Poison!") + '\r\n'
+'' + _x("location", "Drink from Fountain") + '\r\n'
+'' + _x("location", "+50 Seven Statistic temporary.") + '\r\n'
+'' + _x("location", "Refreshing!") + '\r\n'
+'' + _x("location", "Chest") + '\r\n'
+'' + _x("location", "Sweet Water") + '\r\n'
+'' + _x("location", "Pedestal") + '\r\n'
+'' + _x("location", "The surface of the obelisk is blood warm to the touch.  A message swims into view as you remove your hand:                                                                                                                                                            Itotecthothesaip") + '\r\n'
+'' + _x("location", "Obelisk") + '\r\n'
+)

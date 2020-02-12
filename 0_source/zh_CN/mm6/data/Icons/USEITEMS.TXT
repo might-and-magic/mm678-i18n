@@ -1,0 +1,39 @@
+USE ITEM											"Selected Char gets, remove both Items and Explode:"																							
+Pickup Item ( in hand ) and Right Click.										E1	Rnd 10-20 pts Fire dmg																							
+										E2	Rnd 30-100 pts Fire dmg + do Break Item																							
+Scrolls	Cast spell #  and delete Item. Close windows and get target as nessasary. ESC cancels.									E3	Rnd 50-250 pts Fire dmg + do break Item x5																							
+										E4	Set Erradicated + do break Item all																							
+Books	Must Right Click on Char face to work and Char Must Have Magic Skill Group of spell to learn. No effect if already has it.																																	
+
+Potions and Herbs				Drink / Eat						Red	Blu	Yel	Ora	Gre	Pur	W1	W2	W3	W4	W5	W6	W7	W8	B1	B2	B3	B4	B5	B6	B7	B8	B9	B10	B11
+				Right Click on Face	Change Item	160	161	162	163	164	165	166	167	168	169	170	171	172	173	174	175	176	177	178	179	180	181	182	183	184	185	186	187	188
+160	herb1	罂粟花	草本植物	Set Poison1 condition	remove Item	no	no	no	166	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no
+161	herb2	灵芝	草本植物	Cure 2 Spell points	remove Item	no	no	no	165	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no
+162	herb3	柳条浆果	草本植物	Cure 2 Hit points	remove Item	no	no	no	164	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no
+163	bottle30	药剂瓶	药剂瓶	no effect	-	166	165	164	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no	no
+164	bottle26	疗伤药剂	红色	Cure 10 Hit points	Change Item to 163	no	no	no	no	no	169	167	174	E1	E1	E2	E2	E2	E2	181	186	E2	E2	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3
+165	bottle23	魔法药剂	蓝色	Cure 10 Spell points	Change Item to 163	no	no	no	no	169	no	168	176	173	177	E2	183	E2	E2	E2	E2	182	E2	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3
+166	bottle28	能力药剂	黄色	Set Temp 7 Stats to 10	Change Item to 163	no	no	no	no	167	168	no	172	175	E1	184	E2	E2	E2	E2	E2	E2	185	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3
+167	bottle25	保护药剂	橙色	Set Temp AC to 10	Change Item to 163	no	no	no	no	174	176	172	no	170	E1	E2	179	E2	E2	E2	E2	E2	E2	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3
+168	bottle24	防御药剂	绿色	Set Temp Resistances to 10	Change Item to 163	no	no	no	no	E1	173	175	170	no	171	E2	E2	188	180	E2	E2	E2	E2	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3
+169	bottle29	治病药剂	紫色	"Cure poison1,2,3"	Change Item to 163	no	no	no	no	E1	177	E1	E1	171	no	E2	E2	178	187	E2	E2	E2	E2	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3	E3
+170	bottle27	超级保护药剂	白色	Set Temp AC to 20	Change Item to 163	no	no	no	no	E2	E2	184	E2	E2	E2	no	no	no	no	no	no	no	no	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4
+171	bottle27	恢复药剂	白色	"Cure all Conditions ( no dead,stone Erad)"	Change Item to 163	no	no	no	no	E2	183	E2	179	E2	E2	no	no	no	no	no	no	no	no	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4
+172	bottle27	顶级能力药剂	白色	Set Temp 7 Stats to 20	Change Item to 163	no	no	no	no	E2	E2	E2	E2	188	178	no	no	no	no	no	no	no	no	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4
+173	bottle27	超级防御药剂	白色	Set Temp 4 Resistances to 20	Change Item to 163	no	no	no	no	E2	E2	E2	E2	180	187	no	no	no	no	no	no	no	no	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4
+174	bottle27	天赐神力药剂	白色	Set Heroism to 6 Hrs	Change Item to 163	no	no	no	no	181	E2	E2	E2	E2	E2	no	no	no	no	no	no	no	no	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4
+175	bottle27	攻击加速药剂	白色	Set Haste to 6 Hrs	Change Item to 163	no	no	no	no	186	E2	E2	E2	E2	E2	no	no	no	no	no	no	no	no	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4
+176	bottle27	护体石肤药剂	白色	Set Stone Skin to 6 Hrs	Change Item to 163	no	no	no	no	E2	182	E2	E2	E2	E2	no	no	no	no	no	no	no	no	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4
+177	bottle27	圣灵佑佐药剂	白色	Set Bless to 6 Hrs	Change Item to 163	no	no	no	no	E2	E2	185	E2	E2	E2	no	no	no	no	no	no	no	no	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4	E4
+178	bottle22	神圣能量药剂	黑色	Set Temp Level to 20 and +1 Age temp	Change Item to 163	no	no	no	no	E3	E3	E3	E3	E3	E3	E4	E4	E4	E4	E4	E4	E4	E4	no	no	no	no	no	no	no	no	no	no	no
+179	bottle22	神圣治病药剂	黑色	Hp +100 (over max ok 1time) +1 Age temp	Change Item to 163	no	no	no	no	E3	E3	E3	E3	E3	E3	E4	E4	E4	E4	E4	E4	E4	E4	no	no	no	no	no	no	no	no	no	no	no
+180	bottle22	神圣魔法药剂	黑色	Sp +100 (over max ok 1time) +1 Age temp	Change Item to 163	no	no	no	no	E3	E3	E3	E3	E3	E3	E4	E4	E4	E4	E4	E4	E4	E4	no	no	no	no	no	no	no	no	no	no	no
+181	bottle22	纯净精力药剂	黑色	"Might +15 Perm, Int -5 perm 1 time only"	Change Item to 163	no	no	no	no	E3	E3	E3	E3	E3	E3	E4	E4	E4	E4	E4	E4	E4	E4	no	no	no	no	no	no	no	no	no	no	no
+182	bottle22	纯净智力药剂	黑色	"Int +15 Perm, Might -5 perm 1 time only"	Change Item to 163	no	no	no	no	E3	E3	E3	E3	E3	E3	E4	E4	E4	E4	E4	E4	E4	E4	no	no	no	no	no	no	no	no	no	no	no
+183	bottle22	纯净个性药剂	黑色	"Per +15 Perm, Spd -5 perm 1 time only"	Change Item to 163	no	no	no	no	E3	E3	E3	E3	E3	E3	E4	E4	E4	E4	E4	E4	E4	E4	no	no	no	no	no	no	no	no	no	no	no
+184	bottle22	纯净耐力药剂	黑色	"End +15 Perm, -1 all 6 other perm 1 time only"	Change Item to 163	no	no	no	no	E3	E3	E3	E3	E3	E3	E4	E4	E4	E4	E4	E4	E4	E4	no	no	no	no	no	no	no	no	no	no	no
+185	bottle22	纯净精确药剂	黑色	"Acc +15 Perm, Luck -5 perm 1 time only"	Change Item to 163	no	no	no	no	E3	E3	E3	E3	E3	E3	E4	E4	E4	E4	E4	E4	E4	E4	no	no	no	no	no	no	no	no	no	no	no
+186	bottle22	纯净速度药剂	黑色	"Spd +15 Perm, Per -5 perm 1 time only"	Change Item to 163	no	no	no	no	E3	E3	E3	E3	E3	E3	E4	E4	E4	E4	E4	E4	E4	E4	no	no	no	no	no	no	no	no	no	no	no
+187	bottle22	纯净运气药剂	黑色	"Luck +15 Perm, Acc -5 perm 1 time only"	Change Item to 163	no	no	no	no	E3	E3	E3	E3	E3	E3	E4	E4	E4	E4	E4	E4	E4	E4	no	no	no	no	no	no	no	no	no	no	no
+188	bottle22	返老还童药剂	黑色	"Set temp Age to 0, -1 all 7 stats perm "	Change Item to 163	no	no	no	no	E3	E3	E3	E3	E3	E3	E4	E4	E4	E4	E4	E4	E4	E4	no	no	no	no	no	no	no	no	no	no	no
+				(all Subtractions if < 6 then NO Sub)																														

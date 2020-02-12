@@ -1,0 +1,1608 @@
+#	Name	Proprieter Name	Title	Enter text
+1	True Mettle	Kervin	Blacksmith	0
+2	Keen Edge	Reaver	Blacksmith	0
+3	Polished Steel	Kashue	Blacksmith	0
+4	Lance's Spears	Lance	Blacksmith	0
+5	Blooded Daggers and Blades	Eldrich	Blacksmith	0
+6	Ayzar's Axes	Ayzar	Blacksmith	0
+7	Custom Cutlass	Critias	Blacksmith	0
+8	The Knight's Blade	Tor	Blacksmith	0
+9	Tempered Steel	Caldar	Blacksmith	0
+10	The Queen's Forge	Hammond	Blacksmith	0
+11	Hunter's Lodge	Jared	Blacksmith	0
+12	The Hallowed Sword	Charles	Blacksmith	0
+13	Blades of Spite	Spite	Blacksmith	0
+14	The Blooded Dagger	Chos	Blacksmith	0
+15	Vander's Blades & Bows	Vander	Blacksmith	0
+16	The Knocked Bow	Robin	Blacksmith	0
+17	The Balanced Axe	Ulther	Blacksmith	0
+18	Swords Inc.	Robert	Blacksmith	0
+19	Alloyed Weapons	Tarin	Blacksmith	0
+20	The Best Defense	Madden	Blacksmith	0
+21	Ironwood Spears	Smythe	Blacksmith	0
+22	The Knife Shoppe	Caine	Blacksmith	
+23	Hammer and Tongs	Brand 	Blacksmith	
+24	Fine Blades	Luke 	Blacksmith	
+25	The Eagle's Eye	Merlin 	Blacksmith	
+26	Arm's Length Spear Shop	Random 	Blacksmith	
+27	Blunt Trauma Weapons	Martin 	Blacksmith	
+28	The Sharpening Stone	Corwin 	Blacksmith	
+29	Feathers and String	Jurt 	Blacksmith	
+30	Haft and Handle Pole arms	Bleys 	Blacksmith	
+31	Abdul's Discount Weapons	Oberon 	Blacksmith	
+32	Singing Steel	Benedict 	Blacksmith	
+33	Mark and Missile	Julian 	Blacksmith	
+34	Stout Heart Staff and Spear	Gerard 	Blacksmith	
+35	Knight's Paradise	Eric 	Blacksmith	
+36	The Tannery	Lishnak	Armorsmith	0
+37	The Polished Shield	Walvis	Armorsmith	0
+38	Armory	Chaynal	Armorsmith	0
+39	Plated Protection	Balfour	Armorsmith	0
+40	Supple Leather	Prospero	Armorsmith	0
+41	Linked Mail	Delios	Armorsmith	0
+42	Karr Battlegear	Karr	Armorsmith	0
+43	Erik's Armory	Erik	Armorsmith	0
+44	Castle Deadwood	Placeholder		0
+45	Placeholder	Placeholder		0
+46	Placeholder	Placeholder		0
+47	The Peasant's Smithy	Peter	Armorsmith	0
+48	Placeholder	Placeholder		0
+49	Queen Catherine's Smithy	David	Armorsmith	0
+50	Placeholder	Placeholder		0
+51	Buckskins and Bucklers	Sable	Armorsmith	0
+52	Armor of Honor	Cuthbert	Armorsmith	0
+53	Shields of Malice	Malice	Armorsmith	0
+54	The Tannery	Case	Armorsmith	0
+55	The Missing Link	Brand	Armorsmith	0
+56	Avlee Outpost	Tarence	Armorsmith	0
+57	The Polished Pauldron	Arthur	Armorsmith	0
+58	Thel's Armor and Shields	Thel	Armorsmith	0
+59	Alloyed Armor and Shields	Elmo	Armorsmith	0
+60	The Greenwood Forge	Laric	Armorsmith	0
+61	The Thrown Gauntlet	Murgen	Armorsmith	0
+62	The Common Defense	Harry	Armorsmith	
+63	Armor Emporium	Calvin	Armorsmith	
+64	Metalweave Armory	Ulysses	Armorsmith	
+65	Abraham's Metalworks	Abraham	Armorsmith	
+66	Mailed fist Armory	Richard	Armorsmith	
+67	The Foundry	William	Armorsmith	
+68	Iron Defense	Woodrow	Armorsmith	
+69	Abdul's Discount Armor	Andrew	Armorsmith	
+70	Quality Armor	John	Armorsmith	
+71	Mail and Greaves	Dwight	Armorsmith	
+72	The Footman's Friend	Lyndon	Armorsmith	
+73	Armorworks 	George	Armorsmith	
+74	Silver Lining Armor & Shield	Franklin	Armorsmith	
+75	The Enchanted Hauberk	Theodore	Armorsmith	
+76	Fearsome Fetishes	Zith	Magician	0
+77	Needful Things	Jed	Magician	0
+78	Arcane Items	Allanya	Magician	0
+79	Wards and Pendants	Korxius	Magician	0
+80	Mystical Mayhem	Ned	Magician	0
+81	Amulets of Power	Thurl	Magician	0
+82	Gifts of Regna	Flynn	Magician	0
+83	Caori's Curios	Caori	Magician	0
+84	Emerald Enchantments	Thurston	Magician	0
+85	Otto's Oddities	Otto	Magician	0
+86	Her Majesty's Magics	Nathan	Magician	0
+87	Natural Magic	James	Magician	0
+88	Death's Door	Rigor	Magician	0
+89	Artifacts & Antiquities	Sionell	Magician	0
+90	Esoteric Indulgences	Bernard	Magician	0
+91	Eldritch Influences	No'mead	Magician	0
+92	Arcane Items	Lazlo	Magician	0
+93	Delicate Things	Dozer	Magician	0
+94	Rings & Relics	Kirby	Magician	0
+95	Mystical Forces	One-Eye	Magician	0
+96	The Scribbled Page	Silent	Magician	0
+97	The Seeing Eye	Wilma	Alchemist	
+98	Witch's Brew	Linda	Alchemist	
+99	The Little Magic Shop	Wolfgang	Alchemist	
+100	Abdul's Discount Magic Supplies	Gundabad	Alchemist	
+101	Eye of Newt	Osric	Alchemist	
+102	Smoke and Mirrors	Celebrimbor	Alchemist	
+103	"Apples, Thorns, and Potions"	Virginia	Alchemist	
+104	Unusual Enchantments	Noah	Alchemist	
+105	The Sorcerer's Shoppe	Brenda	Alchemist	
+106	Ty's Trinkets	Ty	Alchemist	
+107	Alchemy and Incantations	Isaac	Alchemist	
+108	Little Charms	Brunhilde	Alchemist	
+109	Mighty Magicks	Alastair	Alchemist	
+110	Herbal Elixirs	Shelvin	Alchemist	0
+111	Apothecary	Tristan	Alchemist	0
+112	Prepared Potions	Navarre	Alchemist	0
+113	Wolves' Bane	Melantha	Alchemist	0
+114	Poultices and Cures	Olesia	Alchemist	0
+115	Perius' Powders	Perius	Alchemist	0
+116	The Blue Bottle	Kethry	Alchemist	0
+117	Philters and Elixirs	Jessica	Alchemist	0
+118	Lead Transformations	Margaret	Alchemist	0
+119	The Bubbling Cauldron	Schmendrick	Alchemist	0
+120	The Blackened Vial	Ash	Alchemist	0
+121	Edmond's Ampules	Edmond	Alchemist	0
+122	Phials of Faith	Julian	Alchemist	0
+123	Infernal Temptations	Nogard	Alchemist	0
+124	Potent Potions & Brews	Digger	Alchemist	0
+125	Beakers and Bottles	Sioned	Alchemist	0
+126	Aromatic Therapies	Kathleen	Alchemist	0
+127	Helpful Solutions	Agatha	Alchemist	0
+128	Initiate Guild of Fire	Sethric	Guildmaster	0
+129	Adept Guild of Fire	Jani	Guildmaster	0
+130	Master Guild of Fire	Halion	Guildmaster	0
+131	Paramount Guild of Fire	Rohan	Guildmaster	0
+132	Initiate Guild of Fire	Marton 	Guildmaster	
+133	Adept Guild of Fire	Dennis 	Guildmaster	
+134	Initiate Guild of Air	Jenny	Guildmaster	0
+135	Adept Guild of Air	Pearl	Guildmaster	0
+136	Master Guild of Air	Breeze	Guildmaster	0
+137	Paramount Guild of Air	Summer	Guildmaster	0
+138	Initiate Guild of Air	Ardien 	Guildmaster	
+139	Adept Guild of Air	Maurice 	Guildmaster	
+140	Initiate Guild of Water	Ullen	Guildmaster	0
+141	Adept Guild of Water	Arthra	Guildmaster	0
+142	Master Guild of Water	Lund	Guildmaster	0
+143	Paramount Guild of Water	Faolain	Guildmaster	0
+144	Initiate Guild of Water	Ellis 	Guildmaster	
+145	Adept Guild of Water	Terrance 	Guildmaster	
+146	Initiate Guild of Earth	Pebble	Guildmaster	0
+147	Adept Guild of Earth	Cyrino	Guildmaster	0
+148	Master Guild of Earth	Ariha	Guildmaster	0
+149	Paramount Guild of Earth	Beld	Guildmaster	0
+150	Initiate Guild of Earth	Lawrence 	Guildmaster	
+151	Adept Guild of Earth	Katrilim 	Guildmaster	
+152	Initiate Guild of Spirit	Fialt	Guildmaster	0
+153	Adept Guild of Spirit	Wally	Guildmaster	0
+154	Master Guild of Spirit	Serenity	Guildmaster	0
+155	Paramount Guild of Spirit	Merluynd	Guildmaster	0
+156	Initiate Guild of Spirit	Rosaline	Guildmaster	
+157	Adept Guild of Spirit	Glenna	Guildmaster	
+158	Initiate Guild of Mind	Lyric	Guildmaster	0
+159	Adept Guild of Mind	Agatha	Guildmaster	0
+160	Master Guild of Mind	Sevrin	Guildmaster	0
+161	Paramount Guild of Mind	Regina	Guildmaster	0
+162	Initiate Guild of Mind	Cloud 	Guildmaster	
+163	Adept Guild of Mind	Penelope	Guildmaster	
+164	Initiate Guild of Body	Standish	Guildmaster	0
+165	Adept Guild of Body	Jerald	Guildmaster	0
+166	Master Guild of Body	Ubrecht	Guildmaster	0
+167	Paramount Guild of Body	Aramis	Guildmaster	0
+168	Initiate Guild of Body	Karla	Guildmaster	
+169	Adept Guild of Body	Veronica	Guildmaster	
+170	Guild of Light	Sheivi	Scribe	0
+171	Guild of Illumination	Lews	Guildmaster	0
+172	Guild of Enlightenment	Therin	Guildmaster	0
+173	Initiate Guild of Light	Anson 	Guildmaster	
+174	Adept Guild of Light	Charm 	Guildmaster	
+175	Guild of Dark	Raziah	Scribe	0
+176	Guild of Twilight	Porthos	Guildmaster	0
+177	Placeholder	Placeholder	Guildmaster	0
+178	Guild of Night	Anguish	Guildmaster	0
+179	Placeholder	Placeholder	Guildmaster	0
+180	Initiate Guild of Dark	Jermaine 	Guildmaster	
+181	Adept Guild of Dark	Sable 	Guildmaster	
+182	Cures and Curses	Yeshin	Scribe	0
+183	Elemental Guild	Yiadia	Scribe	0
+184	Vexation's Hexes	Vexation	Scribe	0
+185	Protective Magic	Quian	Scribe	0
+186	Self Guild	Kojo	Scribe	0
+187	Self Study	Larin	Scribe	0
+188	Guild of Mind	Didos	Scribe	0
+189	Initiate Guild of the Self	Teliana 	Guildmaster	
+190	Adept Guild of the Self	Amarie 	Guildmaster	
+191	Buccaneers' Lair	Hermit	Guildmaster	
+192	Buccaneers' Lair	Rob	Guildmaster	
+193	Protection Services	Guido	Guildmaster	
+194	Protection Services	Luigi	Guildmaster	
+195	Smugglers' Guild	Timothy 	Guildmaster	
+196	Smugglers' Guild	Walter 	Guildmaster	
+197	Blades' End	Dalimar	Guildmaster	
+198	Duelists' Edge	Vladamir	Guildmaster	
+199	Berserkers' Fury	Richard	Guildmaster	
+200	Duelists' Edge	Damian 	Guildmaster	
+201	Blades' End	Nathan 	Guildmaster	
+202	Berserkers' Fury	Robert 	Guildmaster	
+203	Harmondale Townhall	Frederick	Clerk	0
+204	Steadwick Townhall	Lawrence	Clerk	0
+205	Pierpont Townhall	Stephan	Clerk	0
+206	Hall of Dawn	Icarus 	Clerk	0
+207	Hall of Midnight	Crowley	Clerk	0
+208	Town Hall	Janice	Clerk	
+209	High Council			Enter
+210	Town Hall	Earnest	Clerk	
+211	Town Hall	Jake	Clerk	
+212	Clan Leader's Hall	Placeholder	Brekish One-Fang	0
+213	Sandro/Thant's Throne Room	Placeholder	Sandro	0
+214	Temple of the Sun Leader Room	Placeholder	Placeholder	0
+215	Lord Markham's Chamber			
+216	Throne Room			
+217	Throne Room	Placeholder		0
+218	Throne Room	Placeholder		0
+219	Throne Room	Placeholder		0
+220	Throne Room	Placeholder		0
+221	Throne Room	Placeholder		0
+222	Throne Room			
+223	Throne Room			
+224	Throne Room			
+225	Throne Room			
+226	Throne Room			
+227	Throne Room			
+228	The Grog and Grub	Tubrict	Innkeep	0
+229	Kessel's Kantina	Kessel	Innkeep	0
+230	Profit House	Dantilion	Innkeep	0
+231	Parched Throat	Rethnar	Innkeep	0
+232	Dragon's Blood Inn	Melody	Barmaid	0
+233	Black Company	Fetish	Innkeep	0
+234	Traveler's Rest	Walvis	Innkeep	0
+235	Bull's Eye Inn	Gurney	Innkeep	0
+236	Pirate's Rest	Longbeard	Innkeep	0
+237	The Dancing Ogre	Trishia	Barmaid	0
+238	Miho's Roadhouse	Miho	Innkeep	0
+239	Two Palms Tavern	Aaron	Innkeep	0
+240	On the House	Corbie	Innkeep	0
+241	Griffin's Rest	Andrew	Innkeep	0
+242	Emerald Inn	Emeril	Innkeep	0
+243	The Snobbish Goblin	Kasia	Innkeep	0
+244	Familiar Place	Bismor	Innkeep	0
+245	The Blessed Brew	Joseph	Innkeep	0
+246	The Vampyre Lounge 	Paul	Innkeep	0
+247	The Laughing Monk	Winston	Innkeep	0
+248	Fortune's Folly	Phillepe	Innkeep	0
+249	Miner's Only	Irving	Innkeep	0
+250	The Loyal Mercenary	Karl	Innkeep	0
+251	The Potted Pixie	Conor	Innkeep	0
+252	Grogg's Grog	Grogg	Innkeep	0
+253	Knightly Pursuits	Michael	Innkeep	0
+254	The Last Resort	Shamus	Innkeep	0
+255	Garrion's Roadhouse	Garrion	Innkeep	0
+256	Creature Comforts	Alacrity	Innkeep	0
+257	So You Want to be a Hero?	Hobart	Innkeep	0
+258	The Elegant Orc	Morley	Innkeep	0
+259	The Bird Paradise	Talia	Innkeep	0
+260	A Lonely Knight	Dirk	Innkeep	
+261	The Imp Slapper	Martin	Innkeep	
+262	An Arrow's Flight	Stephan 	Innkeep	
+263	A Stone's Throw	G'oroth	Innkeep	
+264	The King's Crown	Franco 	Innkeep	
+265	The Will o' Wisp	Roger	Innkeep	
+266	The Goblin's Tooth	Khagul	Innkeep	
+267	The Broken Cutlass	Erik	Innkeep	
+268	Anchors Away	Peter 	Innkeep	
+269	The Grove	Ash 	Innkeep	
+270	The Haunt	Tony 	Innkeep	
+271	The Rusted Shield	Aaron 	Innkeep	
+272	Viktor's Hall	Viktor	Innkeep	
+273	The Echoing Whisper	Katy	Innkeep	
+274	Rockham's Pride	Charles	Innkeep	
+275	Rime and Reason	Cynthia 	Innkeep	
+276	The Frosty Tankard	Stein	Innkeep	
+277	The Oasis	A'zaz 	Innkeep	
+278	The Howling Moon	George	Innkeep	
+279	The Broken Promise	Royce 	Innkeep	
+280	The Last Chance	Melissa 	Innkeep	
+281	The Some Place Safe	Ish	Banker	0
+282	Steele's Vault	Steele	Banker	0
+283	Guild House of Finance	Isram	Banker	0
+284	The Blood Bank	Vijay	Banker	0
+285	Bank of Balthazar	Ignus	Banker	0
+286	The Vault	Dannar	Banker	0
+287	Bank of Erathia	Arlis	Banker	0
+288	Nature's Stockpile	Bremen	Banker	0
+289	Material Wealth	Riyan	Banker	0
+290	Frozen Assets	Greed	Banker	0
+291	The Depository	Tharpe	Banker	0
+292	Halls of Gold	Daniv	Banker	0
+293	Mineral Wealth	Rialt	Banker	0
+294	Placeholder	Placeholder	Banker	0
+295	Placeholder	Placeholder	Banker	0
+296	Placeholder	Placeholder	Banker	0
+297	Savings House	Schmidy	Banker	
+298	The Reserves	Stanley 	Banker	
+299	The First Bank of Enroth	James 	Banker	
+300	Foreign Exchange	Andrew 	Banker	
+301	Secure Trust	Fergus 	Banker	
+302	The Depository	Winston 	Banker	
+303	Mystic Medicine	Pish	Healer	0
+304	Sanctum	Maricia	Healer	0
+305	House of Healing	Meaglan	Healer	0
+306	Sacred Steel	Laudra	Healer	0
+307	Cathedral of Night	Evania	Healer	0
+308	The Shaman	Wyx	Healer	0
+309	The Blessed Sea	Enid	Healer	0
+310	Healer's Tent	Lauren	Healer	0
+311	WelNin Cathedral	Linzie	Healer	0
+312	House of Solace	Tolbert	Healer	0
+313	Nature's Remedies	Johnathan	Healer	0
+314	Temple of Dark	Armhin	Healer	0
+315	Temple of Light	Reginald	Healer	0
+316	Temple of Light	Bethyn	Healer	0
+317	Temple of Dark	Zevah	Healer	0
+318	Offerings and Blessings	Murray	Healer	0
+319	The Order of Tatalia	Theresa	Healer	0
+320	Temple of Tranquility	Simon	Healer	0
+321	Temple of Stone	Edwin	Healer	0
+322	Sanctuary	Rusina	Healer	0
+323	Holy Ground	Belle	Healer	0
+324	Healer's Tent	Heather	Healer	0
+325	New Sorpigal Temple	Joshua	Healer	
+326	Temple Stone	Nelson	Healer	
+327	Blackshire Temple	Saul	Healer	
+328	Abdul's Discount House of Worship	Arnold	Healer	
+329	White Cap Temple	Henry	Healer	
+330	Mist Island Temple	Johann	Healer	
+331	Silver Cove Temple	Geoffrey	Healer	
+332	King's Temple	Charles	Healer	
+333	House of Healing	Adam	Healer	
+334	Temple Baa	Landrew	Healer	
+335	Castle Ironfist			Enter
+336	Castle Newton			Enter
+337	Castle Temper			Enter
+338	Castle Stone			Enter
+339	Castle Fleise			Enter
+340	Castle Stromgard			Enter
+341	Prison of the Lord of Earth	Placeholder		
+342	Prison of the Lord of Fire	Placeholder		
+343	Prison of the Lord of Water	Placeholder		
+344	Balthazar Lair	Placeholder		
+345	Backdoor of Abandoned Temple	Placeholder		
+346	Abandoned Temple	Placeholder		0
+347	Gateway to the Plane of Air	Placeholder		0
+348	Gateway to the Plane of Water	Placeholder		0
+349	Pirate Outpost	Placeholder		0
+350	Gateway to the Plane of Fire	Placeholder		0
+351	Smuggler's Cove	Placeholder		0
+352	Gateway to the Plane of Earth	Placeholder		0
+353	Dire Wolf Den	Placeholder		0
+354	Merchanthouse of Alvar	Placeholder		0
+355	Inside the Crystal	Placeholder		0
+356	Wasp Nest	Placeholder		0
+357	Ogre Raiding Fort	Placeholder		0
+358	Troll Tomb	Placeholder		0
+359	Cyclops Larder	Placeholder		0
+360	Chain of Fire	Placeholder		0
+361	Dragon Hunter Camp	Placeholder		0
+362	Dragon Cave	Placeholder		0
+363	Naga Vault	Placeholder		0
+364	Temple of the Sun	Placeholder		0
+365	Abandoned Druid Circle	Placeholder		0
+366	Minotaur Lair	Placeholder		0
+367	Barbarian Fortress	Placeholder		0
+368	Pirate Stronghold	Placeholder		0
+369	Abandoned Pirate Keep	Placeholder		0
+370	Small Sub Pen	Placeholder		0
+371	Necromancers' Guild	Placeholder		0
+372	Mad Necromancer's Lab	Placeholder		0
+373	Castle of Air	Placeholder		0
+374	Castle of Air	Placeholder		0
+375	Tribute Tomb	Placeholder		0
+376	Castle of Fire	Placeholder		0
+377	War Camp	Placeholder		0
+378	Escaton's Palace	Placeholder		0
+379	Prison of the Lord of Air	Placeholder		0
+380				
+381				
+382	Castle Harmondale	Placeholder		0
+383	Castle Gryphonheart	Placeholder		0
+384	Castle Navan	Placeholder		0
+385	Castle Gloaming	Placeholder		0
+386	Castle Lambent	Placeholder		0
+387	Temple of the Moon	Placeholder		0
+388	Barrow			
+389	Dragon's Lair	Placeholder		0
+390	Castle Harmondale	Placeholder		0
+391	White Cliff Caves	Placeholder		0
+392	Erathian Sewer	Placeholder		0
+393	Fort Riverstride	Placeholder		0
+394	Tularean Caves	Placeholder		0
+395	Clanker's Laboratory	Placeholder		0
+396	Hall of the Pit	Placeholder		0
+397	Watchtower 6	Placeholder		0
+398	School of Sorcery	Placeholder		0
+399	Red Dwarf Mines	Placeholder		0
+400	Walls of Mist	Placeholder		0
+401	Temple of the Light	Placeholder		0
+402	Breeding Zone	Placeholder		0
+403	Temple of the Dark	Placeholder		0
+404	Grand Temple of the Moon	Placeholder		0
+405	Grand Temple of the Sun	Placeholder		0
+406	Thunderfist Mountain	Placeholder		0
+407	The Maze	Placeholder		0
+408	Stone City	Placeholder		0
+409	Colony Zod	Placeholder		0
+410	Mercenary Guild	Placeholder		0
+411	Tidewater Caverns	Placeholder		0
+412	Wine Cellar	Placeholder		0
+413	Titan's Stronghold	Placeholder		0
+414	Temple of Baa	Placeholder		0
+415	Hall under the Hill	Placeholder		0
+416	The Lincoln	Placeholder		0
+417	Goblinwatch			Enter
+418	Temple of Baa			Enter
+419	Castle Alamos			Enter
+420	Tomb of VARN			Enter
+421	The Hive			Enter
+422	Abandoned Temple			Enter
+423	Temple of the Fist			Enter
+424	Castle Darkmoor			Enter
+425	Shadow Guild Hideout			Enter
+426	Temple of Tsantsa			Enter
+427	Castle Kriegspire			Enter
+428	Hall of the Fire Lord			Enter
+429	Temple of the Sun			Enter
+430	Snergle's Caverns			Enter
+431	Temple of the Moon			Enter
+432	Dragoons' Caverns			Enter
+433	Supreme Temple of Baa			Enter
+434	Silver Helm Outpost			Enter
+435	Superior Temple of Baa			Enter
+436	Shadow Guild			Enter
+437	Temple of the Snake			Enter
+438	Snergle's Iron Mines			Enter
+439	Dragoons' Keep			Enter
+440	Corlagon's Estate			Enter
+441	Silver Helm Stronghold			Enter
+442	The Monolith			Enter
+443	Tomb of Ethric the Mad			Enter
+444	Icewind Keep			Enter
+445	Warlord's Fortress			Enter
+446	Lair of the Wolf			Enter
+447	Gharik's Forge			Enter
+448	Agar's Laboratory			Enter
+449	Caves of the Dragon Riders			Enter
+450	The Seer			
+451	The Oracle			Enter
+452	Guild Caravans	Wayland	Stablemaster	0
+453	Guild Caravans	Templeton	Stablemaster	0
+454	Guild Caravans	Elsinar	Stablemaster	0
+455	Guild Caravans	Dalas	Stablemaster	0
+456	Guild Caravans	Troy	Stablemaster	0
+457	Guild Caravans	Placeholder	Stablemaster	0
+458	Guild Caravans	Placeholder	Stablemaster	0
+459	Guild Caravans	Placeholder	Stablemaster	0
+460	Guild Caravans	Placeholder	Stablemaster	0
+461	The J.V.C Corral	Christian	Stablemaster	0
+462	Royal Steeds	Arthur	Stablemaster	0
+463	Hu's Stallions	Hu	Stablemaster	0
+464	Faithful Steeds	Jasper	Stablemaster	0
+465	Crystal Caravans	Erwin	Stablemaster	0
+466	Dry Saddles	William	Stablemaster	0
+467	Plush Coaches	Warren	Stablemaster	0
+468	Placeholder	Lisha	Stablemaster	0
+469	Placeholder	Faile	Stablemaster	0
+470	New Sorpigal Coach Company	Aaron	Stablemaster	
+471	Royal Lines 	Sean	Stablemaster	
+472	Free Haven Travel East	Mark	Stablemaster	
+473	Free Haven Travel West	Walter	Stablemaster	
+474	Darkmoor Travel	Scott	Stablemaster	
+475	Abdul's Discount Travel	Todd	Stablemaster	
+476	White Cap Transport Co.	Peter	Stablemaster	
+477	King's Highway	Ken	Stablemaster	
+478	Blackshire Coach and Buggy	Anthony	Stablemaster	
+479	The Windling	Calamar	Captain	0
+480	The Dauntless	Alinor	Captain	0
+481	Smoke	Misk	Smuggler	0
+482	Mist	Barr	Smuggler	0
+483	Wind	Peel	Smuggler	0
+484	Spindrift	Marty	Captain	0
+485	Lady Margaret	Nelson	Captain	0
+486	Lady Catherine	Christopher	Captain	0
+487	Sea Sprite	Halsey	Captain	0
+488	Enchantress	Adric	Captain	0
+489	Sacred Sails	Deckert	Captain	0
+490	Dauntless	Jaymes	Captain	0
+491	Narwhale	Leer	Captain	0
+492	Wind Runner	Yarin	Captain	0
+493	Mist Flyer	Maxwell	Captain	0
+494	Placeholder	Placeholder	Captain	0
+495	Placeholder	Placeholder	Captain	0
+496	Odyssey	Bryan	Captain	
+497	Zephyr	Paul	Captain	
+498	Queen Catherine	Christian	Captain	
+499	Adventure	Louis	Captain	
+500	Cerulean Skies	Steven	Captain	
+501	Windrunner	Robert	Captain	
+502	Barracuda	Jym-Bob	Captain	
+503	Cirrus	Bly	Captain	
+504	Tigershark	Caleb	Captain	
+505	Tsunami	Ismael	Captain	
+506	Valkyrie	Blake	Captain	
+507	Enterprise	James	Captain	
+508	Wilburt's Hovel	Placeholder		
+509	Withersmythe Estate	Placeholder		
+510	Vespers Hall	Placeholder		
+511	Hall of Solis	Placeholder		
+512	Eversmyle Hall	Placeholder		
+513	Moore Cottage	Placeholder		
+514	House of Krewlen	Placeholder		
+515	Darkenmoore Hall	Placeholder		
+516	Dervish Estate	Placeholder		
+517	Agraynel Hall	Placeholder		
+518	House of Lightfinger	Placeholder		
+519	Nightwalker Cottage	Placeholder		
+520	Sparkman Home	Placeholder		
+521	Sablewood Hall	Placeholder		
+522	Steele Estate	Placeholder		
+523	Guild of Bounty Hunters	Placeholder		
+524	Watershed Cottage	Placeholder		
+525	Fromago Manor	Placeholder		
+526	Blackthorne Estate	Placeholder		
+527	House of Nevermore	Placeholder		
+528	Ittalle Cottage	Placeholder		
+529	Havest Hall	Placeholder		
+530	Iverson Estate	Placeholder		
+531	Oscleton Residence	Placeholder		
+532	Thelbourne Residence	Placeholder		
+533	Greydawn Residence	Placeholder		
+534	House Stellare	Placeholder		
+535	House of Brandy	Placeholder		
+536	Bowes Residence	Placeholder		
+537	Breman Residence	Placeholder		
+538	Stormlance Residence	Placeholder		
+539	Morningstar Residence	Placeholder		
+540	Foestryke Residence	Placeholder		
+541	Ironfist Residence	Placeholder		
+542	Reaverston Residence	Placeholder		
+543	Burn's House	Placeholder		
+544	House 322	Placeholder		
+545	Black Current's House	Placeholder		
+546	House 324	Placeholder		
+547	 Home of Rihansi 	Placeholder		
+548	Bombah Hall	Placeholder		
+549	Keldon's Cottage	Placeholder		
+550	Veldon's Cottage	Placeholder		
+551	House Farswell	Placeholder		
+552	Featherwind's House	Placeholder		
+553	Stone's Hovel	Placeholder		
+554	Hearthsworn Hovel	Placeholder		
+555	Talion's Hovel	Placeholder		
+556	Hovel of Mist	Placeholder		
+557	Hobert's Hovel	Placeholder		
+558	Hovel of Greenstorm	Placeholder		
+559	Pole's Hovel	Placeholder		
+560	Tarent Hovel	Placeholder		
+561	Schmecker's Hovel	Placeholder		
+562	Avalon's Residence	Placeholder		
+563	Arin Residence	Placeholder		
+564	Lightsworn Residence	Placeholder		
+565	Otterton Residence	Placeholder		
+566	Calandril's Residence	Placeholder		
+567	Maker Residence	Placeholder		
+568	Slayer Residence	Placeholder		
+569	Kern Residence	Placeholder		
+570	Jeni Residence	Placeholder		
+571	Weldrick's Home	Placeholder		
+572	Ishton's Cave	Placeholder		
+573	Ithilgore's Cave	Placeholder		
+574	Scarwing's Cave	Placeholder		
+575	Tell James you see this 353	Placeholder		
+576	Tell James you see this 354	Placeholder		
+577	Taleshire Hall	Placeholder		
+578	Nightcrawler Estate	Placeholder		
+579	Mistspring Residence	Placeholder		
+580	House Arachnia	Placeholder		
+581	Dirthmoore Cottage	Placeholder		
+582	House of Lathaen	Placeholder		
+583	Brightsprear Hall	Placeholder		
+584	Nightwood Estate	Placeholder		
+585	House Shador	Placeholder		
+586	House Mercutura	Placeholder		
+587	Roggen Hall	Placeholder		
+588	Hallien's Cottage	Placeholder		
+589	Roberts Residence	Placeholder		
+590	Infaustus' House	Placeholder		
+591	House of Journey	Placeholder		
+592	Whisper Hall	Placeholder		
+593	Steeleye Estate	Placeholder		
+594	House of Benefice	Placeholder		
+595	House Umberpool	Placeholder		
+596	Kelvin's Home	Placeholder		
+597	Caverhill Hall	Placeholder		
+598	Veritas Estate	Placeholder		
+599	Stillwater Estate	Placeholder		
+600	Crane Cottage	Placeholder		
+601	Bith Estate	Placeholder		
+602	Fellburn Residence	Placeholder		
+603	Gallowswell Manor	Placeholder		
+604	House Fiddlebone	Placeholder		
+605	Deverbero Residence	Placeholder		
+606	Tantilion's House	Placeholder		
+607	Fist Residence	Placeholder		
+608	Wargreen's Lab	Placeholder		
+609	House Wallace	Placeholder		
+610	Ravensight Residence	Placeholder		
+611	Dreamwright Residence	Placeholder		
+612	Snowtree Residence	Placeholder		
+613	Dantillion's Residence	Placeholder		
+614	Mithrit Residence	Placeholder		
+615	Tonk Residence	Placeholder		
+616	Keenedge Residence	Placeholder		
+617	Treasurestone Residence	Placeholder		
+618	Sampson Residence	Placeholder		
+619	Xevius's Residence	Placeholder		
+620	Vish's House	Placeholder		
+621	Sail's Shack	Placeholder		
+622	Pordo's Hovel	Placeholder		
+623	Galvinus's Home	Placeholder		
+624	Thanys' House	Placeholder		
+625	Ferris' House	Placeholder		
+626	Flooded House	Placeholder		
+627	Flooded Shop	Placeholder		
+628	Weapon shop placeholder	Placeholder		
+629	Suretail House	Placeholder		
+630	Rionel's House	Placeholder		
+631	Armor shop placeholder	Placeholder		
+632	Magic shop placeholder	Placeholder		
+633	Spell shop placeholder	Placeholder		
+634	Ulbrecht's House	Placeholder		
+635	Senjac's House	Placeholder		
+636	Alchemist placeholder	Placeholder		
+637	Temple placeholder	Placeholder		
+638	Lotts' House	Placeholder		
+639	Hollyfield House	Placeholder		
+640	Tessalar's House	Placeholder		
+641	Stormeye's House	Placeholder		
+642	Bank placeholder	Placeholder		
+643	Training hall placeholder	Placeholder		
+644	Flooded House	Placeholder		
+645	Dragontracker Hall	Placeholder		
+646	Nirses Loot	Placeholder		
+647	Burnkindle's Spoils	Placeholder		
+648	Cleareye Hall	Placeholder		
+649	Shadowrunner's Vault	Placeholder		
+650	Lifter's Lockup	Placeholder		
+651	Steelcoif Hall	Placeholder		
+652	Jawblower Manor	Placeholder		
+653	Marmon Domicile	Placeholder		
+654	One-eye's Lair	Placeholder		
+655	Paul's Estate	Placeholder		
+656	Terrence's Home	Placeholder		
+657	Ferne Lair	Placeholder		
+658	Pavel's Place	Placeholder		
+659	Nalani's Hall	Placeholder		
+660	Mercer Domicile	Placeholder		
+661	Air Lord's Cell	Placeholder		
+662	Water Lord's Cell	Placeholder		
+663	Earth Lord's Cell	Placeholder		
+664	Fire Lord's Cell	Placeholder		
+665	Wingsail's House	Placeholder		
+666	Vapor's House	Placeholder		
+667	Zephyr's House	Placeholder		
+668	Empty House	Placeholder		
+669	Empty House	Placeholder		
+670	Empty House	Placeholder		
+671	Empty House	Placeholder		
+672	Nedlon's House	Placeholder		
+673	Crane Cottage	Placeholder		
+674	Cagnor's Shop	Placeholder		
+675	Bith Estate	Placeholder		
+676	Loamwalker's House	Placeholder		
+677	Soil's House	Placeholder		
+678	Empty House	Placeholder		
+679	Empty House	Placeholder		
+680	Empty House	Placeholder		
+681	Empty House	Placeholder		
+682	Empty House	Placeholder		
+683	Empty House	Placeholder		
+684	Empty House	Placeholder		
+685	Empty House	Placeholder		
+686	Ember's House	Placeholder		
+687	Evenblaze's House	Placeholder		
+688	Empty House	Placeholder		
+689	Empty House	Placeholder		
+690	Empty House	Placeholder		
+691	Riverglass' House	Placeholder		
+692	Clearcreek's House	Placeholder		
+693	Empty House	Placeholder		
+694	Empty House	Placeholder		
+695	Empty House	Placeholder		
+696	Griven's House	Placeholder		
+697	House Understone	Placeholder		
+698	Thistlebone Residence	Placeholder		
+699	Nelix's House	Placeholder		
+700	Tempus' House	Placeholder		
+701	Verish's House	Placeholder		
+702	Flamdring's Cave	Placeholder		
+703	Brimstone's Cave	Placeholder		
+704	Duroth's Cave	Placeholder		
+705	PLACEHOLDER	Placeholder		
+706	House 487	Placeholder		
+707	House 488	Placeholder		
+708	House 489	Placeholder		
+709	House 490	Placeholder		
+710	House 491	Placeholder		
+711	House 492	Placeholder		
+712	House 493	Placeholder		
+713	House 494	Placeholder		
+714	House 495	Placeholder		
+715	House 496	Placeholder		
+716	House 497	Placeholder		
+717	House 498	Placeholder		
+718	House 501	Placeholder		
+719	House 502	Placeholder		
+720	House 503	Placeholder		
+721	House 504	Placeholder		
+722	House 505	Placeholder		
+723	House 506	Placeholder		
+724	House 507	Placeholder		
+725	House 508	Placeholder		
+726	House 509	Placeholder		
+727	House 510	Placeholder		
+728	House 511	Placeholder		
+729	House 512	Placeholder		
+730	House 513	Placeholder		
+731	House 514	Placeholder		
+732	House 515	Placeholder		
+733	House 516	Placeholder		
+734	House 517	Placeholder		
+735	House 518	Placeholder		
+736	House 519	Placeholder		
+737	House 520	Placeholder		
+738	House 521	Placeholder		
+739	House 522	Placeholder		
+740	House 523	Placeholder		
+741	House 524	Placeholder		
+742	House 525	Placeholder		
+743	Placeholder	Placeholder	Clerk	0
+744	Placeholder	Placeholder	Scribe	0
+745	Placeholder	Placeholder	Scribe	0
+746	Placeholder	Placeholder	Scribe	0
+747	Placeholder	Placeholder	Scribe	0
+748	Placeholder	Placeholder	Scribe	0
+749	Placeholder	Placeholder	Scribe	0
+750	Placeholder	Placeholder	Scribe	0
+751	Council Chamber Door	Placeholder	Merchant	0
+752	Overdune's House	Placeholder	Overdune	0
+753	Charles Quixote's House	Placeholder	Charles Quixote	0
+754	Dyson Leland's Room	Placeholder	Dyson Leland	0
+755	Minotaur Leader's Room	Placeholder	Placeholder	0
+756	The Adventurer's Inn	Placeholder		0
+757	Oracle	Placeholder		0
+758	The Adventurer's Inn	Placeholder		0
+759	The Adventurer's Inn	Placeholder		0
+760	The Adventurer's Inn	Placeholder		0
+761	Hiss' Hut	Placeholder		
+762	Jack's Hovel	Placeholder		
+763	Placeholder	Placeholder	Clerk	0
+764	Placeholder	Placeholder	Scribe	0
+765	Placeholder	Placeholder	Scribe	0
+766	Placeholder	Placeholder	Scribe	0
+767	Placeholder	Placeholder	Scribe	0
+768	Placeholder	Placeholder	Scribe	0
+769	Placeholder	Placeholder	Scribe	0
+770	Placeholder	Placeholder	Scribe	0
+771	Placeholder	Placeholder	Scribe	0
+772	Wererat Smuggler Leader	Placeholder	Wererat Smuggler	0
+773	Merchant Guildhouse	Placeholder	Merchant	0
+774	Dragon Leader's Cavern 	Placeholder	Dragon	0
+775	Escaton's Throne Room	Placeholder	Escaton	0
+776	Rohtnax's House	Placeholder		
+777	Iver's Estate	Placeholder		
+778	Placeholder	Placeholder	Clerk	0
+779	Placeholder	Placeholder	Scribe	0
+780	Placeholder	Placeholder	Scribe	0
+781	Placeholder	Placeholder	Scribe	0
+782	Placeholder	Placeholder	Scribe	0
+783	Placeholder	Placeholder	Scribe	0
+784	Tisk's Hut	Placeholder		
+785	Pederton Place	Placeholder		
+786	Placeholder	Placeholder	Clerk	0
+787	Placeholder	Placeholder	Scribe	0
+788	Placeholder	Placeholder	Scribe	0
+789	Placeholder	Placeholder	Scribe	0
+790	Placeholder	Placeholder	Scribe	0
+791	Placeholder	Placeholder	Scribe	0
+792	Thadin's House	Placeholder		
+793	Puddle's Hovel	Placeholder		
+794	Placeholder	Placeholder	Clerk	0
+795	House of Ich	Placeholder		
+796	Forgewright Estate	Placeholder		
+797	Placeholder	Placeholder	Banker	0
+798	Languid's Hut	Placeholder		
+799	Apple Home	Placeholder		
+800	Placeholder	Placeholder	Alchemist	0
+801	Placeholder	Placeholder	Captain	0
+802	Placeholder	Placeholder	Instructor	0
+803	Placeholder	Placeholder	Banker	0
+804	House of Thistle	Placeholder		
+805	Treblid's Home	Placeholder		
+806	Placeholder	Placeholder	Blacksmith	0
+807	Placeholder	Placeholder	Armorsmith	0
+808	Placeholder	Placeholder	Alchemist	0
+809	Placeholder	Placeholder	Captain	0
+810	Placeholder	Placeholder	Healer	0
+811	Placeholder	Placeholder	Instructor	0
+812	Placeholder	Placeholder	Banker	0
+813	Zevah's Hut	Placeholder		
+814	Holden's Hovel	Placeholder		
+815	Placeholder	Placeholder	Blacksmith	0
+816	Placeholder	Placeholder	Armorsmith	0
+817	Placeholder	Placeholder	Magician	0
+818	Placeholder	Placeholder	Alchemist	0
+819	Placeholder	Placeholder	Captain	0
+820	Placeholder	Placeholder	Healer	0
+821	Placeholder	Placeholder	Instructor	0
+822	Placeholder	Placeholder	Banker	0
+823	Isthric's House	Placeholder		
+824	Aznog's Hovel	Placeholder		
+825	Placeholder	Placeholder	Blacksmith	0
+826	Placeholder	Placeholder	Armorsmith	0
+827	Placeholder	Placeholder	Magician	0
+828	Placeholder	Placeholder	Alchemist	0
+829	Placeholder	Placeholder	Captain	0
+830	Placeholder	Placeholder	Healer	0
+831	Placeholder	Placeholder	Instructor	0
+832	Placeholder	Placeholder	Banker	0
+833	Bone's House	Placeholder		
+834	Luodrin House	Placeholder		
+835	Placeholder	Placeholder	Blacksmith	0
+836	Placeholder	Placeholder	Armorsmith	0
+837	Placeholder	Placeholder	Magician	0
+838	Placeholder	Placeholder	Alchemist	0
+839	Placeholder	Placeholder	Captain	0
+840	Placeholder	Placeholder	Healer	0
+841	Placeholder	Placeholder	Instructor	0
+842	Placeholder	Placeholder	Banker	0
+843	Lasatin's Hut	Placeholder		
+844	Applebee Estate	Placeholder		
+845	Placeholder	Placeholder	Blacksmith	0
+846	Placeholder	Placeholder	Armorsmith	0
+847	Placeholder	Placeholder	Magician	0
+848	Placeholder	Placeholder	Alchemist	0
+849	Placeholder	Placeholder	Healer	0
+850	Placeholder	Placeholder	Instructor	0
+851	Placeholder	Placeholder	Innkeep	0
+852	Menasaur's House	Placeholder		
+853	Archibald's Home	Placeholder		
+854	Placeholder	Placeholder	Blacksmith	0
+855	Placeholder	Placeholder	Armorsmith	0
+856	Placeholder	Placeholder	Magician	0
+857	Placeholder	Placeholder	Healer	0
+858	Placeholder	Placeholder	Instructor	0
+859	Placeholder	Placeholder	Innkeep	0
+860	Husk's Hut	Placeholder		
+861	Arius' House	Placeholder		
+862	Placeholder	Placeholder	Blacksmith	0
+863	Placeholder	Placeholder	Armorsmith	0
+864	Placeholder	Placeholder	Healer	0
+865	Placeholder	Placeholder	Innkeep	0
+866	Talimere's Hut	Placeholder		
+867	Deerhunter's House	Placeholder		
+868	Placeholder	Placeholder	Healer	0
+869	Placeholder	Placeholder	Innkeep	0
+870	House of Reshie	Placeholder	 	0
+871	Townsaver Hall	Placeholder		
+872	Placeholder	Placeholder	Innkeep	0
+873	House	Placeholder		
+874	Jobber's Home	Placeholder		
+875	Placeholder	Placeholder	Innkeep	0
+876	Long-Tail's Hut	Placeholder		
+877	Maylander's House	Placeholder		
+878	Placeholder	Placeholder	Innkeep	0
+879	Aislen's House	Placeholder		
+880	Bluesawn Home	Placeholder		
+881	Placeholder	Placeholder	Innkeep	0
+882	House of Grivic	Placeholder		
+883	Quicktongue Estate	Placeholder		
+884	Placeholder	Placeholder	Innkeep	0
+885	Ush's Hut	Placeholder		
+886	Laraselle Estate	Placeholder		
+887	Placeholder	Placeholder	Innkeep	0
+888	Hillsman Cottage	Placeholder		
+889	Caverhill Estate	Placeholder		
+890	Reaver's Home	Placeholder		
+891	Temper Hall	Placeholder		
+892	Putnam's Home	Placeholder		
+893	Karrand's Cottage	Placeholder		
+894	Lathius' Home	Placeholder		
+895	Guild of Bounty Hunters	Placeholder		
+896	Botham Hall	Placeholder		
+897	Neblick's House	Placeholder		
+898	Stonecleaver Hall	Placeholder		
+899	Hostel	Placeholder		
+900	Hostel	Placeholder		
+901	Brigham's Home	Placeholder		
+902	House Memoria	Placeholder		
+903	House of Hawthorne 	Placeholder		
+904	Lott's Family Home	Placeholder		
+905	House of Nosewort	Placeholder		
+906	Hall of the Tracker	Placeholder		
+907	Hunter's Hovel	Placeholder		
+908	Dervish's Cottage	Placeholder		
+909	Dotes Family Hovel	Placeholder		
+910	Guthwulf's Home			
+911	Wolverton Residence			
+912	House 271			
+913	House 272			
+914	House 273			
+915	Castro's House			
+916	Laraselle Residence			
+917	Sourbrow Home			
+918				
+919	Agraynel Residence			
+920	House 282			
+921	Tish Residence			
+922	Talion House			
+923	Ravenhill Residence			
+924	Cardrin Residence			
+925				
+926	Gareth's Home			
+927	Forgewright Residence			
+928	Pretty House			
+929	Lotts Familly Home			
+930				
+931	Julian's Home			
+932	Eversmyle Residence			
+933	Dirthmoore Residence			
+934				
+935				
+936	Heartsworn Home			
+937	Cardron Residence			
+938				
+939	Thrush Residence			
+940	Hillier Residence			
+941	Quixote Residence			
+942	Org House			
+943	Talreish Residence			
+944	Barnes Home			
+945	Havest Residence			
+946	Bith Residence			
+947	Suretrail Home			
+948	Silverpoint Residence			
+949	Miyon's Home			
+950	Green House			
+951	Warlin Residence			
+952	Dotes Residence			
+953	Blueswan Home			
+954	Treasurestone Home			
+955	Windsong House			
+956	Whitecap Residence			
+957	Ottin House			
+958	Black House			
+959	Fiddlebone Residence			
+960	Kerrid Residence			
+961	Willowbark's Home			
+962	House 324			
+963	House 325			
+964	House 326			
+965	Benjamin's Home			
+966	Stonewright Residence			
+967	Weatherson's House			
+968	Sower Residence			
+969	Karrand Residence			
+970	Cleareye's Home			
+971	Foestryke Residence			
+972	Oxhide Residence			
+973	Shadowrunner's Home			
+974	Kedrin Residence			
+975	Botham's Home			
+976	Mogren Residence			
+977	Draken Residence			
+978	Harli's Place			
+979	Nevermore Residence			
+980	Wiseman Residence			
+981	Nightcrawler Residence			
+982	Felburn's House			
+983	Undershadow's Home			
+984	Slicer's House			
+985	Falk Residence			
+986	Caverhill Residence			
+987	Crane Residence			
+988	Smithson Residence			
+989	Riverstone House			
+990	Whitesky Residence			
+991	Elmo's House			
+992	Hostel			
+993	Hostel			
+994	Hostel			
+995	Evander's Home			
+996	Anwyn Residence			
+997	Silk's Home			
+998	Hostel			
+999	Hostel			
+1000	Hostel			
+1001	Hostel			
+1002	Dusk's Home			
+1003	Hostel			
+1004	Hostel			
+1005	Greydawn Residence			
+1006	Stormeye's House			
+1007	Bremen Residence			
+1008	Brightspear Residence			
+1009	Holden Residence			
+1010				
+1011				
+1012				
+1013				
+1014	Featherwind Residence			
+1015	Ravenhair Residence			
+1016	Jillian's House			
+1017	Greenstorm Residence			
+1018				
+1019				
+1020	Snick House			
+1021	Infernon's House			
+1022	Deerhunter Residence			
+1023	Swiftfoot's House			
+1024				
+1025	Steele Residence			
+1026	Conscience Home			
+1027	Everil's House			
+1028				
+1029				
+1030	Tricia's House			
+1031	Isram's House			
+1032	Stonecleaver Residence			
+1033				
+1034	Calindra's Home			
+1035	Brother Bombah's			
+1036	Redding Residence			
+1037				
+1038	Fist's House			
+1039	Wacko's			
+1040	Weldric's Home			
+1041				
+1042	Visconti Residence			
+1043	Arin Residence			
+1044				
+1045				
+1046	Sampson Residence			
+1047				
+1048	Taren's House			
+1049	Moore Residence			
+1050	Rothham's House			
+1051	Keenedge Residence			
+1052	Seline's House			
+1053	Welman Residence			
+1054	Thain's House			
+1055	Gizmo's			
+1056	Spark's House			
+1057	Thorinson Residence			
+1058	Urthsmite Residence			
+1059	House Devine			
+1060	Morningstar Residence			
+1061	House Winterbright			
+1062	Hostel			
+1063	Hostel			
+1064	Hostel			
+1065	Hostel			
+1066	Tarent Residence			
+1067	Ramiez Residence			
+1068	Hostel			
+1069	Hostel			
+1070	Hostel			
+1071	Hostel			
+1072	House Umberpool			
+1073	Darkenmore Residence			
+1074	Sand Residence			
+1075	Hostel			
+1076	Hostel			
+1077				
+1078	Hostel			
+1079	Hostel			
+1080	Hostel			
+1081	Hostel			
+1082				
+1083				
+1084				
+1085				
+1086				
+1087				
+1088				
+1089				
+1090				
+1091				
+1092				
+1093				
+1094				
+1095				
+1096				
+1097				
+1098				
+1099				
+1100				
+1101	Mist Manor			
+1102	Hillsmen Residence			
+1103	Stillwater Residence			
+1104	Mark Manor			
+1105	Bowes Residence			
+1106	Temper Residence			
+1107	Krewlen Residence			
+1108	Withersmythe's Home			
+1109	House 473			
+1110	Smiling Jack's			
+1111	Pederton Residence			
+1112	Applebee Manor			
+1113	Lightsworn Residence			
+1114	Alashandra's Home			
+1115	Gayle's			
+1116	Brigham's Home			
+1117	Rowan's House			
+1118	Brand's Home			
+1119	Benson Residence			
+1120	Zimm's House			
+1121	Kern Residence			
+1122	Chadric's House			
+1123	Weider Residence			
+1124	Skinner's House			
+1125	Torrent's			
+1126	Hume Residence			
+1127	Farswell Residence			
+1128	Ravenswood Residence			
+1129	Blayze's			
+1130	Norris' House			
+1131	Dreamwright Residence			
+1132	Wain Manor			
+1133	Putnam Residence			
+1134	Hawker Residence			
+1135	Avalanche's			
+1136	Stone House			
+1137	Watershed Residence			
+1138	Hollyfield Residence			
+1139	Sweet Residence			
+1140	Tempus' House			
+1141	Kaine's			
+1142	Apple Residence			
+1143	Roggen Residence			
+1144	Elzbet's House			
+1145	Aznog's Place			
+1146	Hollis' Home			
+1147	Lanshee's House			
+1148	Neldon Residence			
+1149	Hawthorne Residence			
+1150	Lasiter's Home			
+1151	Dallia's Home			
+1152	Gemstone Residence			
+1153	Feldspar's Home			
+1154	Fissure Residence			
+1155	Garnet House			
+1156	Rivenrock Residence			
+1157	Thomas Grey			
+1158	Alice Hargreaves			
+1159				
+1160				
+1161				
+1162	Master Thief			0
+1163	Markham's Headquarters	Placeholder		0
+1164	Arbiter	Placeholder		0
+1165	Arbiter	Placeholder		0
+1166	Arbiter	Placeholder		0
+1167	Donna Wyrith's Residence			
+1168	The Lady Margaret	Nelson	Captain	0
+1169	Throne Room	Placeholder		0
+1170	Mia Lucille' Home			
+1171	Vandalir Residence			
+1172	House 227			
+1173	House 228			
+1174	House 229			
+1175	House 230			
+1176	House 231			
+1177	House 232			
+1178	House 233			
+1179	House 234			
+1180	House 235			
+1181	House 236			
+1182	House 237			
+1183	Carolyn Weathers' House			
+1184	Tellmar Residence			
+1185	House 241			
+1186	House 242			
+1187	House 243			
+1188	House 244			
+1189	House 245			
+1190	House 246			
+1191	House 247			
+1192	House 248			
+1193	House 249			
+1194	House 250			
+1195	House 251			
+1196	House 252			
+1197	House 253			
+1198	House 254			
+1199	House 255			
+1200	House 256			
+1201	House 257			
+1202	House 258			
+1203	House 259			
+1204	House 260			
+1205	House 261			
+1206	House 262			
+1207	House 263			
+1208	House 264			
+1209	House 265			
+1210	House 266			
+1211	House 267			
+1212	House 268			
+1213	Traveler's Supply	Rino	Shopkeeper	
+1214	Initiate Guild of the Elements	Jeremy 	Guildmaster	
+1215	King's Library			
+1216	House			
+1217	House			
+1218	House			
+1219	House			
+1220	House			
+1221	House			
+1222	House			
+1223	House			
+1224	House			
+1225	House			
+1226	House			
+1227	House			
+1228	House			
+1229	"Lock, Stock, and Barrel"	Alice	Shopkeeper	
+1230	Adept Guild of the Elements	Hans 	Guildmaster	
+1231	House			
+1232	House			
+1233	House			
+1234	House			
+1235	House			
+1236	House			
+1237	House			
+1238	House			
+1239	House			
+1240	House			
+1241	House			
+1242	House			
+1243	House			
+1244	King's Library			
+1245	Trader Joe's	Joe	Shopkeeper	
+1246	House			
+1247	House			
+1248	House			
+1249	House			
+1250	House			
+1251	House			
+1252	House			
+1253	House			
+1254	House			
+1255	House			
+1256	House			
+1257	House			
+1258	House			
+1259	Abdul's Discount Goods	Michael	Shopkeeper	
+1260	House			
+1261	House			
+1262	House			
+1263	House			
+1264	House			
+1265	House			
+1266	House			Enter
+1267	House			
+1268	House			
+1269	House			
+1270	House			
+1271	House			
+1272	House			
+1273	House			
+1274	General Store	David	Shopkeeper	
+1275	House			
+1276	House			
+1277	House			
+1278	House			
+1279	House			
+1280	House			
+1281	House			
+1282	House			
+1283	House			
+1284	House			
+1285	House			
+1286	House			
+1287	House			
+1288	House			
+1289	Outland Trading Post	Doreen	Shopkeeper	
+1290	House			
+1291	House			
+1292	House			
+1293	House			
+1294	House			
+1295	House			
+1296	House			
+1297	House			
+1298	House			
+1299	House			
+1300	House			
+1301	House			
+1302	House			
+1303	House			
+1304	House			
+1305	House			
+1306	House			
+1307	House			
+1308	House			
+1309	House			
+1310	House			
+1311	House			
+1312	House			
+1313	House			
+1314	House			
+1315	House			
+1316	House			
+1317	House			
+1318	House			
+1319	House			
+1320	House			
+1321	House			Enter
+1322	House			
+1323	House			
+1324	House			
+1325	House			
+1326	House			
+1327	House			
+1328	House			
+1329	House			
+1330	House			
+1331	House			
+1332	House			
+1333	House			
+1334	House			
+1335	House			
+1336	House			
+1337	House			
+1338	House			
+1339	House			
+1340	House			
+1341	House			
+1342	House			
+1343	House			
+1344	House			
+1345	House			
+1346	House			
+1347	House			
+1348	House			
+1349	House			
+1350	House			
+1351	House			
+1352	House			
+1353	House			
+1354	House			
+1355	House			
+1356	House			
+1357	House			
+1358	House			
+1359	House			
+1360	House			
+1361	House			
+1362	House			
+1363	House			
+1364	House			
+1365	House			
+1366	House			
+1367	House			
+1368	House			
+1369	House			
+1370	House			
+1371	House			
+1372	House			
+1373	House			
+1374	House			
+1375	House			
+1376	House			
+1377	House			
+1378	House			
+1379	House			
+1380	House			
+1381	House			
+1382	House			
+1383	House			
+1384	House			
+1385	House			
+1386	House			
+1387	House			
+1388	House			
+1389	House			
+1390	House			
+1391	House			
+1392	House			
+1393	House			
+1394	House			
+1395	House			
+1396	House			
+1397	House			
+1398	House			
+1399	House			
+1400	House			
+1401	House			
+1402	House			
+1403	House			
+1404	House			
+1405	House			
+1406	House			
+1407	House			
+1408	House			
+1409	House			
+1410	House			
+1411	House			
+1412	House			
+1413	House			
+1414	House			
+1415	House			
+1416	House			
+1417	House			
+1418	House			
+1419	House			
+1420	House			
+1421	House			
+1422	House			
+1423	House			
+1424	House			
+1425	House			
+1426	House			
+1427	House			
+1428	House			
+1429	House			
+1430	House			
+1431	House			
+1432	House			
+1433	House			
+1434	House			
+1435	House			
+1436	House			
+1437	House			
+1438	House			
+1439	House			
+1440	House			
+1441	House			
+1442	Free Haven Temple	Nelson	Healer	
+1443	House			
+1444	House			
+1445	House			
+1446	House			
+1447	House			
+1448	House			
+1449	House			
+1450	House			
+1451	Hermit's Hut	Hermit		
+1452	House			
+1453	House			
+1454	House			
+1455	House			
+1456	House			
+1457	House			
+1458	House			
+1459	House			
+1460	House			
+1461	House			
+1462	House			
+1463	House			
+1464	House			
+1465	House			
+1466	House			
+1467	House			
+1468	House			
+1469	House			
+1470	House			
+1471	House			
+1472	House			
+1473	House			
+1474	House			
+1475	House			
+1476	House			
+1477	House			
+1478	House			
+1479	House			
+1480	House			
+1481	House			
+1482	House			
+1483	House			
+1484	House			
+1485	House			
+1486	House			
+1487	House			
+1488	House			
+1489	House			
+1490	House			
+1491	House			
+1492	House			
+1493	House			
+1494	House			
+1495	House			
+1496	House			
+1497	House			
+1498	House			
+1499	House			
+1500	House			
+1501	House			
+1502	House			
+1503	House			
+1504	House			
+1505	House			
+1506	House			
+1507	House			
+1508	House			
+1509	House			
+1510	House			
+1511	House			
+1512	House			
+1513	House			
+1514	House			
+1515	House			
+1516	House			Enter
+1517	House			
+1518	House			
+1519	House			
+1520	House			
+1521	House			
+1522	House			
+1523	House			
+1524	House			
+1525	House			
+1526	House			
+1527	House			
+1528	House			
+1529	House			
+1530	House			
+1531	House			
+1532	House			Enter
+1533	House			
+1534	House			
+1535	House			
+1536	House			
+1537	House			
+1538	House			
+1539	House			
+1540	House			
+1541	House			
+1542	House			
+1543	House			
+1544	House			
+1545	House			
+1546	House			
+1547	House			
+1548	House			Enter
+1549	House			
+1550	House			
+1551	House			
+1552	House			
+1553	House			
+1554	House			
+1555	House			
+1556	House			
+1557	House			
+1558	House			
+1559	House			
+1560	House			Enter
+1561	House			
+1562	House			
+1563	House			
+1564	Rites of Passage	Nishton	Instructor	0
+1565	Gymnasium	Yarin	Instructor	0
+1566	Guild Training Hall	Barin	Instructor	0
+1567	Godric's Gauntlet	Godric	Instructor	0
+1568	Assassin's School	Lehava	Instructor	0
+1569	Balthazar Academy	Gierd	Instructor	0
+1570	Island Training Grounds	Trajan	Instructor	0
+1571	Basic Principles	Hadrian	Instructor	0
+1572	In Her Majesty's Service	Tiberius	Instructor	0
+1573	The Proving Grounds	Claudius	Instructor	0
+1574	Trial of Honor	Nero	Instructor	0
+1575	Perdition's Flame	Kahn	Instructor	0
+1576	Applied Instruction	Augustus	Instructor	0
+1577	Training Essentials	Vespasian	Instructor	0
+1578	Avlee Gymnaisium	Justinian	Instructor	0
+1579	War College	Angus	Instructor	0
+1580	Placeholder	Constantine	Instructor	0
+1581	Placeholder	Constantine	Instructor	0
+1582	Placeholder	Constantine	Instructor	0
+1583	New Sorpigal Training Grounds	Nathan	Instructor	
+1584	Free Haven Academy	Hollis	Instructor	
+1585	Abdul's Discount Training Center	Richard	Instructor	
+1586	The Sparring Ground	Charlemagne	Instructor	
+1587	Training-by-the-Sea	Gabriel	Instructor	
+1588	Wolf's Den	Simon	Instructor	
+1589	Royal Gymnasium	Earl of Grey	Instructor	
+1590	Island Testing Center	Marid	Instructor	
+1591	Lone Tree Training	Jonas	Instructor	
+1592	Riverside Academy	Ged	Instructor	
+1593	Prison	Placeholder		0
+1594	Prison			
+1595	Circus			
+1596	Tent			
+1597	Wagon			
+1598	Tent			
+1599	Wagon			
+1600	Wagon			
+1601	Tent			
+1602	Tent			
+1603	Tent			
+1604	Tent			
+1605	Tent			
+1606	Tent			
+1607	The Adventurer's Inn	Placeholder		0

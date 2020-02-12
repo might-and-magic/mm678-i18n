@@ -1,0 +1,12 @@
+def t(_, _x): return ('[Settings]\r\n'
+'QuickSavesName=' + _x("mm_lang.ini", "Quicksave") + '\r\n'
+'SpaceBeforeQuicksaveDigit=0\r\n'
+'RecoveryTimeInfo=' + _x("mm_lang.ini", "Recovery time: %d") + '\r\n'
+'PlayerNotActive=' + _x("mm_lang.ini", "That player is not active") + '\r\n'
+'DoubleSpeed=' + _x("mm_lang.ini", "Double Speed") + '\r\n'
+'NormalSpeed=' + _x("mm_lang.ini", "Normal Speed") + '\r\n'
+'ArmorHalved=' + _x("mm_lang.ini", "Armor Halved") + '\r\n'
+'ArmorHalvedMessage=' + _x("mm_lang.ini", "%s halves armor of %s") + '\r\n'
+'HorsemanSpeakTime=1500\r\n'
+'BoatmanSpeakTime=2500\r\n'
+)

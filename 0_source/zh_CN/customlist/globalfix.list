@@ -1,0 +1,8 @@
+global	Empty	Empty	存档文件名避免用中文
+Remaining stat pts when creating characters	Bonus	剩余属性点
+global	Bonus	附加值
+global	Magic	魔法	魔法、魔系抗性（MM6）共用
+global	Power	能量	神力相助和能量共用
+global	Armor	防御	防具类型的技能、物品属性栏的防御标签共用
+global	Hunter	猎手	NPCprof、class共用，这条没用，真正在global.txt中用class的context
+global	Shield	盾牌	护体神盾和盾牌共用，这条没用，真正在global.txt中用skilldes的context

@@ -1,0 +1,12 @@
+def t(_, _x): return (' \r\n'
+'' + _x("location", "Switch") + '\r\n'
+'' + _x("location", "Chest") + '\r\n'
+'' + _x("location", "Chest") + '\r\n'
+'' + _x("location", "Exit") + '\r\n'
+'' + _x("location", "You easily defeat the lock.") + '\r\n'
+'' + _x("location", "A teleporter!") + '\r\n'
+'' + _x("location", "You are unable to pick the lock.") + '\r\n'
+'' + _x("location", "-50 Speed Temporary") + '\r\n'
+'' + _x("location", "Cage") + '\r\n'
+'' + _x("location", "Temple of the Snake") + '\r\n'
+)

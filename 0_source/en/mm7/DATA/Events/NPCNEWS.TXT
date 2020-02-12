@@ -1,0 +1,52 @@
+News # 	Text	Notes
+0	Group 0.	Default change me text
+1	Good luck in the contest!	Peasant
+2	I wish Brent knew how to make a red potion.	Adventurer
+3	You'd better watch out.	Ambusher
+4	Don't cause any trouble.	Guard
+5	Congratulations!	"Peasant message 2, Emerald Island"
+6	Thanks for trading with us!	"Adventurer message 2, Emerald Island"
+7	Group 7	
+8	Group 8	
+9	Group 9	
+10	So you are the new Lords of Harmondale?  How may I serve you?	Southern Village Group in Harmondale
+11	So you are the new Lords of Harmondale?  How may I serve you?	Main village in Harmondale
+12	Come to study with us under the Masters?	Tent camp in Erathia
+13	Welcome to the capitol of Steadwick! 'Ware the griffins!	Stedwick Group
+14	"You are welcome in Pierpont, the Elven capitol."	Stilt city dwellers in the Tularean Forest
+15	Greetings!  Head up the stairs to Pierpont and enjoy!	Group walkers in the Tularean forest
+16	Beware the Walking Dead in the region!	Northern town on Deyja
+17	Yer welcome here I think…then again…	Southern town in Deyja
+18	Come to learn from the best Wizards in Erathia?	Stable and Tele dwellers in Bracada
+19	Greetings.  Lots of golems around these days!	Eastern village and boat dwellers in Bracada
+20	Study with the best and visit all the buildings here!	Ridge walkers in Bracada
+21	Tranquility and rest await you here in Celeste.	Peasents up till town fountain in Celeste
+22	"Welcome!  Be sure you don’t have a ""falling out"" while you here!"	Peasents after town fountain in Celeste
+23	Welcome to the Pit!  Who says being dead is bad?	Peasents in first area of the pit
+24	The Pit is the only place I know of that lets us live in peace!	Peasents in the second area of the pit
+25	"Greetings! Necromancy is evil?  It’s a relative, don’t you think?"	Peasents in the third area of the pit
+26	Welcome to Mulder!  Enjoy your time with us.	Peasents in main town of nighon
+27	Have you journeyed far?  	Peasents in western town of Nighon
+28	Hello!  Did you come through the tunnels from Stone City?	Peasents in Eastern village of Nighon
+29	Hello there?  Checked your purse lately? Let me check it for you…	Peasents in the Mercenary guild village
+30	"Some Wacko around here has the boat schedule, I'm sure!"	Peasents in the wharf town
+31	"As a citizen of the city of Tidewater, I welcome you."	Peasents in the village area
+32	"Greetings, heard any word of Regnan Pirates?"	Peasents in the Dock area
+33	I heard there was a gate built to the Ancients!  I wonder what they look like.	Peasents good endgame
+34	I've heard rumors of goblins and undead armed with ancient weapons threatening to conquer Erathia!  How dreadful!	Peasents evil endgame
+35	Congratulations on completing the gate!  Erathia is in your debt!	Peasants in 6/7 endgame
+36	Congratulations on completing the forge!  Victory will surely be ours!	Peasants in 5/8 endgame
+37	Hello!	
+38	Hello!	
+39	Hello!	
+40	Hello!	
+41	Hello!	
+42	Hello!	
+43	Hello!	
+44	Hello!	
+45	Hello!	
+46	Hello!	
+47	Hello!
+48	Hello!
+49	Hello!
+50	Hello!

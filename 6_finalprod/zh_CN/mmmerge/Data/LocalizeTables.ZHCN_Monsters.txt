@@ -1,0 +1,653 @@
+Table (of Game struct)	Id	Field	New text
+MonstersTxt	1	Name	 òá òæ ÈË Å© Å«
+MonstersTxt	2	Name	 òá òæ ÈË Å© Ãñ
+MonstersTxt	3	Name	 òá òæ ÈË ´å Ãñ
+MonstersTxt	4	Name	 òá òæ ÈË Ê¿ ±ø
+MonstersTxt	5	Name	 òá òæ ÈË ¾ü ¹Ù
+MonstersTxt	6	Name	 òá òæ ÈË ¶Ó ³¤
+MonstersTxt	7	Name	 Ó× Òí Éß
+MonstersTxt	8	Name	 Òí Éß
+MonstersTxt	9	Name	 ´ó Òí Éß
+MonstersTxt	10	Name	 À× ¸ñ ÄÇ Ç¿ µÁ
+MonstersTxt	11	Name	 À× ¸ñ ÄÇ º£ µÁ
+MonstersTxt	12	Name	 À× ¸ñ ÄÇ ´ó µÁ
+MonstersTxt	13	Name	 À× ¸ñ ÄÇ Ê® ×Ö ¹­ ±ø
+MonstersTxt	14	Name	 À× ¸ñ ÄÇ ¾« Èñ ¹­ ±ø
+MonstersTxt	15	Name	 À× ¸ñ ÄÇ ¶Ó ³¤
+MonstersTxt	16	Name	 À× ¸ñ ÄÇ Î× Ê¦
+MonstersTxt	17	Name	 À× ¸ñ ÄÇ Õ½ ·¨ Ê¦
+MonstersTxt	18	Name	 À× ¸ñ ÄÇ ´ó ·¨ Ê¦
+MonstersTxt	19	Name	 ºÚ °µ ¾« Áé Å© Ãñ
+MonstersTxt	20	Name	 ºÚ °µ ¾« Áé Å© Ãñ
+MonstersTxt	21	Name	 ºÚ °µ ¾« Áé Å© Ãñ
+MonstersTxt	22	Name	 ºÚ °µ ¾« Áé Å© Ãñ
+MonstersTxt	23	Name	 ºÚ °µ ¾« Áé Å© Ãñ
+MonstersTxt	24	Name	 ºÚ °µ ¾« Áé Å© Ãñ
+MonstersTxt	25	Name	 ºÚ °µ ¾« Áé Õ½ Ê¿
+MonstersTxt	26	Name	 ºÚ °µ ¾« Áé ·À ÎÀ Õß
+MonstersTxt	27	Name	 ºÚ °µ ¾« Áé Ê® ×Ö ¾ü
+MonstersTxt	28	Name	 Ê³ ÈË Ñý Å© Ãñ
+MonstersTxt	29	Name	 Ê³ ÈË Ñý Å© Ãñ
+MonstersTxt	30	Name	 Ê³ ÈË Ñý Å© Ãñ
+MonstersTxt	31	Name	 Ê³ ÈË Ñý ¸ñ ¶· Ê¿
+MonstersTxt	32	Name	 Ê³ ÈË Ñý Õ½ Ê¿
+MonstersTxt	33	Name	 Ê³ ÈË Ñý Õ½ ½«
+MonstersTxt	34	Name	 ÊÞ »¯ ÈË
+MonstersTxt	35	Name	 ±ä ÐÎ ÈË
+MonstersTxt	36	Name	 Ñý ÊÞ ÈË
+MonstersTxt	37	Name	 ÈË ÐÍ Êó
+MonstersTxt	38	Name	 Êó ÈË
+MonstersTxt	39	Name	 ´ó Êó ÈË
+MonstersTxt	40	Name	 ¾Þ Êó
+MonstersTxt	41	Name	 Í» ±ä ¾Þ Êó
+MonstersTxt	42	Name	 ÊÞ »¯ Êó Ñý
+MonstersTxt	43	Name	 ÁÔ Áú ÈË
+MonstersTxt	44	Name	 Ê® ×Ö ¾ü
+MonstersTxt	45	Name	 ÍÀ Áú Õß
+MonstersTxt	46	Name	 Ì« Ñô ½Ì ½Ì Í½
+MonstersTxt	47	Name	 Ì« Ñô ½Ì ÄÁ Ê¦
+MonstersTxt	48	Name	 Ì« Ñô ½Ì Ö÷ ½Ì
+MonstersTxt	49	Name	 Å© ·ò
+MonstersTxt	50	Name	 Å© ·ò
+MonstersTxt	51	Name	 Å© ·ò
+MonstersTxt	52	Name	 Îü Ñª ¹í ×¦ ÑÀ
+MonstersTxt	53	Name	 Îü Ñª ¹Ö
+MonstersTxt	54	Name	 ´ó Îü Ñª ¹í
+MonstersTxt	55	Name	 ºÚ °µ Ö® µÀ ÂÃ Õß
+MonstersTxt	56	Name	 Î× Ê¦
+MonstersTxt	57	Name	 ËÀ Áé ´ó ·¨ Ê¦
+MonstersTxt	58	Name	 ¾Þ Ä§ ¹÷ ±ø
+MonstersTxt	59	Name	 ¾Þ Ä§ Õ½ Ê¿
+MonstersTxt	60	Name	 ¾Þ Ä§ Çõ ³¤
+MonstersTxt	61	Name	 ¾Þ Ä§ Å© Ãñ
+MonstersTxt	62	Name	 ¾Þ Ä§ Å© Ãñ
+MonstersTxt	63	Name	 ¾Þ Ä§ Å© Ãñ
+MonstersTxt	64	Name	 Å£ Í· ÈË ÊØ ÎÀ
+MonstersTxt	65	Name	 Å£ Í· ÈË Õ½ Ê¿
+MonstersTxt	66	Name	 Å£ Í· ÈË Õ½ ½«
+MonstersTxt	67	Name	 Å£ Í· ÈË Å© Ãñ
+MonstersTxt	68	Name	 Å£ Í· ÈË Å© Ãñ
+MonstersTxt	69	Name	 Å£ Í· ÈË Å© Ãñ
+MonstersTxt	70	Name	 ·É Áú
+MonstersTxt	71	Name	 ·É Áú Áì Ðä
+MonstersTxt	72	Name	 ³¬ ¼¶ Íþ ÃÍ ÊÞ
+MonstersTxt	73	Name	 ´Î ¼¶ »ð Ôª ËØ
+MonstersTxt	74	Name	 ÁÒ »ð Ôª ËØ
+MonstersTxt	75	Name	 ¸ß µÈ »ð Ôª ËØ
+MonstersTxt	76	Name	 ´Î ¼¶ Ë® Ôª ËØ
+MonstersTxt	77	Name	 Ë® Ôª ËØ
+MonstersTxt	78	Name	 ¸ß µÈ Ë® Ôª ËØ
+MonstersTxt	79	Name	 ´Î ¼¶ ÍÁ Ôª ËØ
+MonstersTxt	80	Name	 Äà ÍÁ Ôª ËØ
+MonstersTxt	81	Name	 ¸ß µÈ ÍÁ Ôª ËØ
+MonstersTxt	82	Name	 ´Î ¼¶ ·ç Ôª ËØ
+MonstersTxt	83	Name	 ·ç Ôª ËØ
+MonstersTxt	84	Name	 ¸ß µÈ ·ç Ôª ËØ
+MonstersTxt	85	Name	 ÃÍ ÀÇ Ó× ÊÞ
+MonstersTxt	86	Name	 ÃÍ ÀÇ
+MonstersTxt	87	Name	 ÃÍ ÀÇ Áì Ðä
+MonstersTxt	88	Name	 Ê¯ »¯ òá òæ Ó× ÊÞ
+MonstersTxt	89	Name	 Ê¯ »¯ òá òæ
+MonstersTxt	90	Name	 ÀÏ Ê¯ »¯ òá òæ
+MonstersTxt	91	Name	 ¶À ÑÛ ¾Þ ÈË
+MonstersTxt	92	Name	 ¶À ÑÛ ¾Þ ÈË ÁÔ ÈË
+MonstersTxt	93	Name	 ¶À ÑÛ ¾Þ ÈË Õ½ Ê¿
+MonstersTxt	94	Name	 Éß ÈË
+MonstersTxt	95	Name	 Éß ÈË ³¤ ÀÏ
+MonstersTxt	96	Name	 Éß ÈË Õ½ Ê¿
+MonstersTxt	97	Name	 Îè ¹â
+MonstersTxt	98	Name	 ¹â Ó°
+MonstersTxt	99	Name	 ¹í »ð
+MonstersTxt	100	Name	 °ë ÈË Âí
+MonstersTxt	101	Name	 °ë ÈË Âí Õ½ Ê¿
+MonstersTxt	102	Name	 °ë ÈË Âí Õ½ ½«
+MonstersTxt	103	Name	 ÒÁ ·ð Èð Ê¿ ±ø
+MonstersTxt	104	Name	 ÒÁ ·ð Èð Æï Ê¿
+MonstersTxt	105	Name	 ÒÁ ·ð Èð ´ó Íõ
+MonstersTxt	106	Name	 Ê³ ÈË Ñý ·¨ Ê¦ Ñ§ Í½
+MonstersTxt	107	Name	 Ê³ ÈË Ñý ·¨ Ê¦
+MonstersTxt	108	Name	 Ê³ ÈË Ñý ·¨ Ê¦ ÖÇ Õß
+MonstersTxt	109	Name	 ¶À ½Ç ÊÞ Ó× ÊÞ
+MonstersTxt	110	Name	 ¶À ½Ç ÊÞ
+MonstersTxt	111	Name	 ¶À ½Ç ÊÞ Áì Ðä
+MonstersTxt	112	Name	 ôä ´ä Áú
+MonstersTxt	113	Name	 À¶ ¾§ Áú
+MonstersTxt	114	Name	 ºì ¾§ Áú
+MonstersTxt	115	Name	 Îí Ó¥
+MonstersTxt	116	Name	 ±© ·ç Ö® Ó¥
+MonstersTxt	117	Name	 À× Äñ
+MonstersTxt	118	Name	 »Æ ·ä ¹¤ ·ä
+MonstersTxt	119	Name	 »Æ ·ä ¾¯ ½ä ·ä
+MonstersTxt	120	Name	 »Æ ·ä ±ø ·ä
+MonstersTxt	121	Name	 Ë« ×ã Òí Áú
+MonstersTxt	122	Name	 ´ó ·É Áú
+MonstersTxt	123	Name	 ·É Áú Íõ
+MonstersTxt	124	Name	 »Æ Í­ Ä§ Å£
+MonstersTxt	125	Name	 Çà Í­ Ä§ Å£
+MonstersTxt	126	Name	 ¸Ö Ìú Ä§ Å£
+MonstersTxt	127	Name	 »ð òÒ òõ
+MonstersTxt	128	Name	 ÁÒ »ð òá òæ
+MonstersTxt	129	Name	 »ð Ñ× òá òæ
+MonstersTxt	130	Name	 »ð Äñ
+MonstersTxt	131	Name	 ·ï »Ë
+MonstersTxt	132	Name	 ¾Þ ÐÍ »ð ·ï »Ë
+MonstersTxt	133	Name	 ´Þ ¶Ù ÈË
+MonstersTxt	134	Name	 ´Þ ¶Ù Õ½ Ê¿
+MonstersTxt	135	Name	 ´Þ ¶Ù Ê® ×Ö ¾ü
+MonstersTxt	136	Name	 Ó× Áú ¹ê
+MonstersTxt	137	Name	 Áú ¹ê
+MonstersTxt	138	Name	 ÀÏ Áú ¹ê
+MonstersTxt	139	Name	 Ñ» ÈË
+MonstersTxt	140	Name	 ÈË Ñ»
+MonstersTxt	141	Name	 ÃÍ Ñ» ÈË
+MonstersTxt	142	Name	 ¾Þ Ê¯
+MonstersTxt	143	Name	 ¾Þ Ê¯
+MonstersTxt	144	Name	 ¾Þ Ê¯
+MonstersTxt	145	Name	 ´Î Ôª ÊØ ÎÀ
+MonstersTxt	146	Name	 ´Î Ôª ±£ ÎÀ Õß
+MonstersTxt	147	Name	 ´Î Ôª Íõ Õß
+MonstersTxt	148	Name	 Ë® ¾§ ÐÐ Õß
+MonstersTxt	149	Name	 Ë® ¾§ ³â ºò
+MonstersTxt	150	Name	 Ë® ¾§ ÊØ ÎÀ
+MonstersTxt	151	Name	 ¿Ö ¾å
+MonstersTxt	152	Name	 Î· ²À
+MonstersTxt	153	Name	 ¶ñ ÃÎ
+MonstersTxt	154	Name	 ÒÔ Ì« Æï Ê¿
+MonstersTxt	155	Name	 ÒÔ Ì« ÓÂ Ê¿
+MonstersTxt	156	Name	 ÒÔ Ì« Íö Õß
+MonstersTxt	157	Name	 ³å ×² Õß
+MonstersTxt	158	Name	 ¾Þ Áé ³µ
+MonstersTxt	159	Name	 Ä§ Ëé ³µ
+MonstersTxt	160	Name	 ÑÌ ¸ç Ä§
+MonstersTxt	161	Name	 ½ý ¸ç Ä§
+MonstersTxt	162	Name	 »ð ¸ç Ä§
+MonstersTxt	163	Name	 ÷¼ ÷Ã Áú
+MonstersTxt	164	Name	 ¹Ç Áú
+MonstersTxt	165	Name	 ²» ËÀ Áú
+MonstersTxt	166	Name	 ÈË Àà Å© Ãñ
+MonstersTxt	167	Name	 ÈË Àà Å© Ãñ
+MonstersTxt	168	Name	 ÈË Àà Å© Ãñ
+MonstersTxt	169	Name	 °ë Éß ÈË
+MonstersTxt	170	Name	 °ë Éß ÈË Õ½ Ê¿
+MonstersTxt	171	Name	 °ë Éß ÈË »Ê ºó
+MonstersTxt	172	Name	 ÷¼ ÷Ã ¹­ ¼ý ±ø
+MonstersTxt	173	Name	 ÷¼ ÷Ã ÁÔ ÈË
+MonstersTxt	174	Name	 ÷¼ ÷Ã ¹­ ¼ý ÊÖ
+MonstersTxt	175	Name	 ºÚ °µ °« ÈË Õ½ Ê¿
+MonstersTxt	176	Name	 ºÚ °µ °« ÈË Ç° ·æ
+MonstersTxt	177	Name	 ºÚ °µ °« ÈË ¿ñ Õ½ Ê¿
+MonstersTxt	178	Name	 Óã
+MonstersTxt	179	Name	 Óã
+MonstersTxt	180	Name	 Óã
+MonstersTxt	181	Name	 º£ µÁ
+MonstersTxt	182	Name	 º£ Ôô
+MonstersTxt	183	Name	 º£ ÉÏ ÂÓ ¶á Õß
+MonstersTxt	184	Name	 À× ¸ñ ÄÇ Ê® ×Ö ¹­ ±ø
+MonstersTxt	185	Name	 À× ¸ñ ÄÇ ¾« Èñ ¹­ ±ø
+MonstersTxt	186	Name	 À× ¸ñ ÄÇ ¶Ó ³¤
+MonstersTxt	187	Name	 º£ µÁ Ô¤ ÑÔ Õß
+MonstersTxt	188	Name	 º£ µÁ ·¨ Ê¦
+MonstersTxt	189	Name	 º£ µÁ Î× Ê¦
+MonstersTxt	190	Name	 Ð¡ Áú
+MonstersTxt	191	Name	 Ó× Áú
+MonstersTxt	192	Name	 ÉÙ Áú
+MonstersTxt	193	Name	 Î´ À´ Õ½ Ê¿
+MonstersTxt	194	Name	 Ó¶ ±ø
+MonstersTxt	195	Name	 Ó¶ ±ø ¶Ó ³¤
+MonstersTxt	196	Name	 »ì ãç ÊØ ÎÀ
+MonstersTxt	197	Name	 »ì ãç ·À ÎÀ Õß
+MonstersTxt	198	Name	 »ì ãç Ö® Íõ
+MonstersTxt	199	Name	 Ìì Ê¹
+MonstersTxt	200	Name	 ³ã Ìì Ê¹
+MonstersTxt	201	Name	 ´ó Ìì Ê¹
+MonstersTxt	202	Name	 ¹­ ¼ý ÊÖ
+MonstersTxt	203	Name	 ¸ß ¼¶ Éä ÊÖ
+MonstersTxt	204	Name	 Éñ Éä ÊÖ
+MonstersTxt	205	Name	 ´ó òù òð
+MonstersTxt	206	Name	 Îü Ñª òù òð
+MonstersTxt	207	Name	 µØ Óü òù òð
+MonstersTxt	208	Name	 ±È ÃÉ Ó× ÊÞ
+MonstersTxt	209	Name	 ±È ÃÉ ¹Ö ÊÞ
+MonstersTxt	210	Name	 ±È ÃÉ ¾Þ ÊÞ
+MonstersTxt	211	Name	 ¶¾ ÑÛ
+MonstersTxt	212	Name	 ¿Ö ²À Ö® ÑÛ
+MonstersTxt	213	Name	 Ð° ÑÛ
+MonstersTxt	214	Name	 ÔÂ ÁÁ ½Ì ½Ì Í½
+MonstersTxt	215	Name	 ÔÂ ÁÁ ½Ì ÄÁ Ê¦
+MonstersTxt	216	Name	 ÔÂ ÁÁ ½Ì Ö÷ ½Ì
+MonstersTxt	217	Name	 Ì« Ñô ½Ì ½Ì Í½
+MonstersTxt	218	Name	 Ì« Ñô ½Ì ÄÁ Ê¦
+MonstersTxt	219	Name	 Ì« Ñô ½Ì Ö÷ ½Ì
+MonstersTxt	220	Name	 Ä§ ¹í ÀÍ ¹¤
+MonstersTxt	221	Name	 Ä§ ¹í ÓÂ Ê¿
+MonstersTxt	222	Name	 Ä§ ¹í Ê× Áì
+MonstersTxt	223	Name	 ÂÌ Áú
+MonstersTxt	224	Name	 À¶ Áú
+MonstersTxt	225	Name	 ºì Áú
+MonstersTxt	226	Name	 Áú Ó¬
+MonstersTxt	227	Name	 »ð Áú Ó¬
+MonstersTxt	228	Name	 Áú Ó¬ »Ê ºó
+MonstersTxt	229	Name	 °« ÈË Õ½ Ê¿
+MonstersTxt	230	Name	 °« ÈË ÓÂ Ê¿
+MonstersTxt	231	Name	 °« ÈË Ê× Áì
+MonstersTxt	232	Name	 ±© ·ç
+MonstersTxt	233	Name	 ì« ·ç
+MonstersTxt	234	Name	 ·ç Ôª ËØ
+MonstersTxt	235	Name	 Äà Ñý
+MonstersTxt	236	Name	 Ê¯ Ñý
+MonstersTxt	237	Name	 Äà ÍÁ Ôª ËØ
+MonstersTxt	238	Name	 »ð ¾« Áé
+MonstersTxt	239	Name	 ÁÒ »ð ¾« Áé
+MonstersTxt	240	Name	 ÁÒ »ð Ôª ËØ
+MonstersTxt	241	Name	 µÍ ¼¶ ¹â Ôª ËØ
+MonstersTxt	242	Name	 ÖÐ ¼¶ ¹â Ôª ËØ
+MonstersTxt	243	Name	 ¹â Ôª ËØ
+MonstersTxt	244	Name	 Ë® Ñý
+MonstersTxt	245	Name	 Ë® ¾« Áé
+MonstersTxt	246	Name	 Ë® Ôª ËØ
+MonstersTxt	247	Name	 ¾« Áé ¹­ ¼ý ÊÖ
+MonstersTxt	248	Name	 ¾« Áé Õì ²ì ±ø
+MonstersTxt	249	Name	 ¾« Áé ÓÎ Æï ±ø
+MonstersTxt	250	Name	 ¾« Áé Õ½ Ê¿
+MonstersTxt	251	Name	 ¾« Áé ÎÀ Ê¿
+MonstersTxt	252	Name	 ¾« Áé ÓÂ Ê¿
+MonstersTxt	253	Name	 Ê¿ ±ø
+MonstersTxt	254	Name	 Õ½ Ê¿
+MonstersTxt	255	Name	 ¶· Ê¿
+MonstersTxt	256	Name	 ½Ù ·Ë
+MonstersTxt	257	Name	 Ç¿ µÁ
+MonstersTxt	258	Name	 ´ó µÁ
+MonstersTxt	259	Name	 ½£ Ê¿
+MonstersTxt	260	Name	 ½£ ¿Í
+MonstersTxt	261	Name	 ½£ ÏÀ
+MonstersTxt	262	Name	 ÑÒ Ê¯ ¶ñ ÊÞ
+MonstersTxt	263	Name	 ´ó Àí Ê¯ ¶ñ ÊÞ
+MonstersTxt	264	Name	 Ê¯ Ïñ ¹Ö
+MonstersTxt	265	Name	 Éñ ¹Ö
+MonstersTxt	266	Name	 µÆ ¹Ö
+MonstersTxt	267	Name	 Ä§ ¹Ö
+MonstersTxt	268	Name	 ¹í »ê
+MonstersTxt	269	Name	 ÓÄ Áé
+MonstersTxt	270	Name	 ¹í »ê
+MonstersTxt	271	Name	 ´ó ¶ú ¹Ö
+MonstersTxt	272	Name	 ´ó ¶ú ¹Ö Ê× Áì
+MonstersTxt	273	Name	 ´ó ¶ú ¹Ö Íõ
+MonstersTxt	274	Name	 Ð¡ ¸ç Ä§
+MonstersTxt	275	Name	 ¸ç Ä§
+MonstersTxt	276	Name	 ´ó ¸ç Ä§
+MonstersTxt	277	Name	 »Æ Í­ ÈË
+MonstersTxt	278	Name	 Çà Í­ ÈË
+MonstersTxt	279	Name	 ½ð ÈË
+MonstersTxt	280	Name	 Ê¨ ðÕ
+MonstersTxt	281	Name	 ´ó Ê¨ ðÕ
+MonstersTxt	282	Name	 »Ê ¼Ò Ê¨ ðÕ
+MonstersTxt	283	Name	 Ó¥ Éí Å® Ñý
+MonstersTxt	284	Name	 Ó¥ Éí Ä§ Å®
+MonstersTxt	285	Name	 Ó¥ Éí Å® »Ê
+MonstersTxt	286	Name	 ÁÒ »ð ¾Å Í· ¹Ö
+MonstersTxt	287	Name	 ±© ·ç ¾Å Í· ¹Ö
+MonstersTxt	288	Name	 ÖÕ ¼¶ ¾Å Í· ¹Ö
+MonstersTxt	289	Name	 Î× Ñý
+MonstersTxt	290	Name	 Ç¿ Á¦ Î× Ñý
+MonstersTxt	291	Name	 Î× Ñý Íõ
+MonstersTxt	292	Name	 Î× Ê¦
+MonstersTxt	293	Name	 ·¨ Ê¦
+MonstersTxt	294	Name	 ´ó ·¨ Ê¦
+MonstersTxt	295	Name	 Ð« Ê¨
+MonstersTxt	296	Name	 Ð« Ê¨ ¹Ö
+MonstersTxt	297	Name	 ¶¾ Ð« Ê¨
+MonstersTxt	298	Name	 ÃÀ ¶Å É¯ Å® Ñý
+MonstersTxt	299	Name	 ÃÀ ¶Å É¯ Å® Íõ
+MonstersTxt	300	Name	 ÃÀ ¶Å É¯ Å® »Ê
+MonstersTxt	301	Name	 Å£ Í· ¹Ö
+MonstersTxt	302	Name	 Å£ Í· ¹Ö Ê× Áì
+MonstersTxt	303	Name	 Å£ Í· Íõ
+MonstersTxt	304	Name	 É® ÂÂ
+MonstersTxt	305	Name	 É³ ÃÖ
+MonstersTxt	306	Name	 ÖÇ Õß
+MonstersTxt	307	Name	 Î× Ê¦
+MonstersTxt	308	Name	 ´ó Î× Ê¦
+MonstersTxt	309	Name	 Î× Ê¦ Íõ
+MonstersTxt	310	Name	 ÂÌ É« Õ³ ÍÁ ¹Ö
+MonstersTxt	311	Name	 ×Ï É« Õ³ ÍÁ ¹Ö
+MonstersTxt	312	Name	 ºì É« Õ³ ÍÁ ¹Ö
+MonstersTxt	313	Name	 Å© ·ò
+MonstersTxt	314	Name	 Å© ·ò
+MonstersTxt	315	Name	 Å© ·ò
+MonstersTxt	316	Name	 Å© ·ò
+MonstersTxt	317	Name	 Å© ·ò
+MonstersTxt	318	Name	 Å© ·ò
+MonstersTxt	319	Name	 Å© ·ò
+MonstersTxt	320	Name	 Å© ·ò
+MonstersTxt	321	Name	 Å© ·ò
+MonstersTxt	322	Name	 Å© ·ò
+MonstersTxt	323	Name	 Å© ·ò
+MonstersTxt	324	Name	 Å© ·ò
+MonstersTxt	325	Name	 Å© ·ò
+MonstersTxt	326	Name	 Å© ·ò
+MonstersTxt	327	Name	 Å© ·ò
+MonstersTxt	328	Name	 Å© ·ò
+MonstersTxt	329	Name	 Å© ·ò
+MonstersTxt	330	Name	 Å© ·ò
+MonstersTxt	331	Name	 Å© ·ò
+MonstersTxt	332	Name	 Å© ·ò
+MonstersTxt	333	Name	 Å© ·ò
+MonstersTxt	334	Name	 Å© ·ò
+MonstersTxt	335	Name	 Å© ·ò
+MonstersTxt	336	Name	 Å© ·ò
+MonstersTxt	337	Name	 Å© ·ò
+MonstersTxt	338	Name	 Å© ·ò
+MonstersTxt	339	Name	 Å© ·ò
+MonstersTxt	340	Name	 Å© ·ò
+MonstersTxt	341	Name	 Å© ·ò
+MonstersTxt	342	Name	 Å© ·ò
+MonstersTxt	343	Name	 Å© ·ò
+MonstersTxt	344	Name	 Å© ·ò
+MonstersTxt	345	Name	 Å© ·ò
+MonstersTxt	346	Name	 Å© ·ò
+MonstersTxt	347	Name	 Å© ·ò
+MonstersTxt	348	Name	 Å© ·ò
+MonstersTxt	349	Name	 Å© ·ò
+MonstersTxt	350	Name	 Å© ·ò
+MonstersTxt	351	Name	 Å© ·ò
+MonstersTxt	352	Name	 Å© ·ò
+MonstersTxt	353	Name	 Å© ·ò
+MonstersTxt	354	Name	 Å© ·ò
+MonstersTxt	355	Name	 Å© ·ò
+MonstersTxt	356	Name	 Å© ·ò
+MonstersTxt	357	Name	 Å© ·ò
+MonstersTxt	358	Name	 Å© ·ò
+MonstersTxt	359	Name	 Å© ·ò
+MonstersTxt	360	Name	 Å© ·ò
+MonstersTxt	361	Name	 Å© ·ò
+MonstersTxt	362	Name	 Å© ·ò
+MonstersTxt	363	Name	 Å© ·ò
+MonstersTxt	364	Name	 Å© ·ò
+MonstersTxt	365	Name	 Å© ·ò
+MonstersTxt	366	Name	 Å© ·ò
+MonstersTxt	367	Name	 Å© ·ò
+MonstersTxt	368	Name	 Å© ·ò
+MonstersTxt	369	Name	 Å© ·ò
+MonstersTxt	370	Name	 Å© ·ò
+MonstersTxt	371	Name	 Å© ·ò
+MonstersTxt	372	Name	 Å© ·ò
+MonstersTxt	373	Name	 Å© ·ò
+MonstersTxt	374	Name	 Å© ·ò
+MonstersTxt	375	Name	 Å© ·ò
+MonstersTxt	376	Name	 Å© ·ò
+MonstersTxt	377	Name	 Å© ·ò
+MonstersTxt	378	Name	 Å© ·ò
+MonstersTxt	379	Name	 Å© ·ò
+MonstersTxt	380	Name	 Å© ·ò
+MonstersTxt	381	Name	 Å© ·ò
+MonstersTxt	382	Name	 Å© ·ò
+MonstersTxt	383	Name	 Å© ·ò
+MonstersTxt	384	Name	 Å© ·ò
+MonstersTxt	385	Name	 ¾Þ ÐÍ ÀÏ Êó
+MonstersTxt	386	Name	 ÉÁ µç Êó
+MonstersTxt	387	Name	 »ð Ñæ Êó
+MonstersTxt	388	Name	 »ú Ðµ ÈË
+MonstersTxt	389	Name	 »ú Ðµ ÊØ ÎÀ
+MonstersTxt	390	Name	 »ú Ðµ É± ÊÖ
+MonstersTxt	391	Name	 ´ó µñ
+MonstersTxt	392	Name	 ¾Þ µñ
+MonstersTxt	393	Name	 À× Äñ
+MonstersTxt	394	Name	 öè Óã
+MonstersTxt	395	Name	 ´ó öè Óã
+MonstersTxt	396	Name	 ¾Þ öè
+MonstersTxt	397	Name	 ÷¼ ÷Ã
+MonstersTxt	398	Name	 ÷¼ ÷Ã ÓÂ Ê¿
+MonstersTxt	399	Name	 ÷¼ ÷Ã ¾ô Ê¿
+MonstersTxt	400	Name	 ¾Þ ÐÍ Ö© Öë
+MonstersTxt	401	Name	 ¶¾ Ö© Öë
+MonstersTxt	402	Name	 Ö© Öë Íõ
+MonstersTxt	403	Name	 ½£ Ê¿
+MonstersTxt	404	Name	 Ê¿ ±ø
+MonstersTxt	405	Name	 Ì½ ÏÕ ¼Ò
+MonstersTxt	406	Name	 µÁ Ôô
+MonstersTxt	407	Name	 ´õ Í½
+MonstersTxt	408	Name	 Éñ Íµ
+MonstersTxt	409	Name	 Ì© Ì¹
+MonstersTxt	410	Name	 Ì© Ì¹ Ê× Áì
+MonstersTxt	411	Name	 Ì© Ì¹ Íõ
+MonstersTxt	412	Name	 ¶´ Ñ¨ ÈË
+MonstersTxt	413	Name	 ¶´ Ñ¨ ÓÂ Ê¿
+MonstersTxt	414	Name	 ¶´ Ñ¨ Å® »Ê
+MonstersTxt	415	Name	 Îü Ñª ¹í
+MonstersTxt	416	Name	 Îü Ñª ¹Ö
+MonstersTxt	417	Name	 Îü Ñª Íõ
+MonstersTxt	418	Name	 »ð Ð° Êõ Ê¦
+MonstersTxt	419	Name	 Ë® Ð° Êõ Ê¦
+MonstersTxt	420	Name	 ¿Õ Æø Ð° Êõ Ê¦
+MonstersTxt	421	Name	 Ò° ¹í
+MonstersTxt	422	Name	 ¹í ¹Ö
+MonstersTxt	423	Name	 ÓÎ »ê
+MonstersTxt	424	Name	 ·É Áú
+MonstersTxt	425	Name	 ´ó ·É Áú
+MonstersTxt	426	Name	 ·É Áú Íõ
+MonstersTxt	427	Name	 ¸¯ Ê¬
+MonstersTxt	428	Name	 É¥ Ê¬
+MonstersTxt	429	Name	 ½© Ê¬
+MonstersTxt	430	Name	 Å© ·ò
+MonstersTxt	431	Name	 Å© ·ò
+MonstersTxt	432	Name	 Å© ·ò
+MonstersTxt	433	Name	 Å© ·ò
+MonstersTxt	434	Name	 Å© ·ò
+MonstersTxt	435	Name	 Å© ·ò
+MonstersTxt	436	Name	 Å© ·ò
+MonstersTxt	437	Name	 Å© ·ò
+MonstersTxt	438	Name	 Å© ·ò
+MonstersTxt	439	Name	 Å© ·ò
+MonstersTxt	440	Name	 Å© ·ò
+MonstersTxt	441	Name	 Å© ·ò
+MonstersTxt	442	Name	 Å© ·ò
+MonstersTxt	443	Name	 Å© ·ò
+MonstersTxt	444	Name	 Å© ·ò
+MonstersTxt	445	Name	 Å© ·ò
+MonstersTxt	446	Name	 Å© ·ò
+MonstersTxt	447	Name	 Å© ·ò
+MonstersTxt	448	Name	 Äà ¹Ö
+MonstersTxt	449	Name	 ºÓ Ñý
+MonstersTxt	450	Name	 É½ Ñý
+MonstersTxt	451	Name	 Ê÷ Ñý
+MonstersTxt	452	Name	 Ê÷ Ñý
+MonstersTxt	453	Name	 Ê÷ Ñý
+MonstersTxt	454	Name	 ³ó ¹Ö
+MonstersTxt	455	Name	 Ê³ Ê¬ ¹í
+MonstersTxt	456	Name	 Íö »ê
+MonstersTxt	457	Name	 ÍÐ ¶û ²® µÙ
+MonstersTxt	458	Name	 ÖÇ Õß ÂÞ ²® ÌØ
+MonstersTxt	459	Name	 Áñ µ¯ Ç¹ ÊÖ
+MonstersTxt	460	Name	 ¾Þ Áú
+MonstersTxt	461	Name	 ¾Þ Áú
+MonstersTxt	462	Name	 ¾Þ Áú
+MonstersTxt	463	Name	 Ã¨A
+MonstersTxt	464	Name	 Ã¨B
+MonstersTxt	465	Name	 Ã¨C
+MonstersTxt	466	Name	 ¼¦A
+MonstersTxt	467	Name	 ¼¦B
+MonstersTxt	468	Name	 ¼¦C
+MonstersTxt	469	Name	 ¹·A
+MonstersTxt	470	Name	 ¹·B
+MonstersTxt	471	Name	 ¹·C
+MonstersTxt	472	Name	 ÊóA
+MonstersTxt	473	Name	 ÊóB
+MonstersTxt	474	Name	 ÊóC
+MonstersTxt	475	Name	 ¹­ ¼ý ÊÖ
+MonstersTxt	476	Name	 ¹­ ¼ý ´ó Ê¦
+MonstersTxt	477	Name	 »ð åó ÊÖ
+MonstersTxt	478	Name	 Âí Ôú ¶û ÈË
+MonstersTxt	479	Name	 Âí Ôú ¶û Ê¿ ±ø
+MonstersTxt	480	Name	 Âí Ôú ¶û Ê× Áì
+MonstersTxt	481	Name	 òù òð
+MonstersTxt	482	Name	 ´ó òù òð
+MonstersTxt	483	Name	 Îü Ñª òù òð
+MonstersTxt	484	Name	 ·É Ïè Ö® ÑÛ
+MonstersTxt	485	Name	 ¿Ö ²À Ö® ÑÛ
+MonstersTxt	486	Name	 ¿ñ ÂÒ Ö® ÑÛ
+MonstersTxt	487	Name	 Îü Ñª Õß
+MonstersTxt	488	Name	 ÊÈ ÄÔ Ëè Õß
+MonstersTxt	489	Name	 ÕÐ »ê Õß
+MonstersTxt	490	Name	 Ñò Ãù ½Ì É® Í½
+MonstersTxt	491	Name	 Ñò Ãù ½Ì ÄÁ Ê¦
+MonstersTxt	492	Name	 Ñò Ãù ½Ì ½Ì ¸¸
+MonstersTxt	493	Name	 ÑÛ ¾µ Éß
+MonstersTxt	494	Name	 ÑÛ ¾µ Éß Ö® Íõ
+MonstersTxt	495	Name	 ÑÛ ¾µ Éß »Ê ºó
+MonstersTxt	496	Name	 °¢ ¼Ó µÄ ¹Ö Îï
+MonstersTxt	497	Name	 °¢ ¼Ó µÄ ¹Ö ÊÞ
+MonstersTxt	498	Name	 °¢ ¼Ó µÄ ³¬ ÊÞ
+MonstersTxt	499	Name	 Ä§ ¹í Ê× Áì
+MonstersTxt	500	Name	 Ä§ ¹í ´ó Ê¦
+MonstersTxt	501	Name	 Ä§ ¹í ¹ú Íõ
+MonstersTxt	502	Name	 Ä§ ¹í Ð¡ ×Ó
+MonstersTxt	503	Name	 Ä§ ¹í ÀÍ ¹¤
+MonstersTxt	504	Name	 Ä§ ¹í ÓÂ Ê¿
+MonstersTxt	505	Name	 ÁÒ »ð òá òæ
+MonstersTxt	506	Name	 ÉÁ µç òá òæ
+MonstersTxt	507	Name	 À× öª òá òæ
+MonstersTxt	508	Name	 »ð ÑÇ Áú
+MonstersTxt	509	Name	 ±ù ÑÇ Áú
+MonstersTxt	510	Name	 Ç¿ Á¦ ÑÇ Áú
+MonstersTxt	511	Name	 Íþ ÃÍ ÊÞ
+MonstersTxt	512	Name	 ¾Þ ÐÍ Íþ ÃÍ ÊÞ
+MonstersTxt	513	Name	 ³¬ ¼¶ Íþ ÃÍ ÊÞ
+MonstersTxt	514	Name	 ºì Áú
+MonstersTxt	515	Name	 À¶ Áú
+MonstersTxt	516	Name	 ½ð Áú
+MonstersTxt	517	Name	 µÂ Â³ ÒÁ
+MonstersTxt	518	Name	 ¸ß ¼¶ µÂ Â³ ÒÁ
+MonstersTxt	519	Name	 ´ó µÂ Â³ ÒÁ
+MonstersTxt	520	Name	 °« ÈË
+MonstersTxt	521	Name	 °« ÈË ÓÂ Ê¿
+MonstersTxt	522	Name	 °« ÈË ¾ô Ê¿
+MonstersTxt	523	Name	 ³¾ ÍÁ ¶ñ Ä§
+MonstersTxt	524	Name	 Â½ Áú ¾í
+MonstersTxt	525	Name	 ·ç Ôª ËØ
+MonstersTxt	526	Name	 Ê¯ ÊÞ
+MonstersTxt	527	Name	 Äà ÍÁ ¾« Áé
+MonstersTxt	528	Name	 Äà ÍÁ Ôª ËØ
+MonstersTxt	529	Name	 »ð ÊÞ
+MonstersTxt	530	Name	 ÁÒ »ð ¾« Áé
+MonstersTxt	531	Name	 ÁÒ »ð Ôª ËØ
+MonstersTxt	532	Name	 Ë® ÊÞ
+MonstersTxt	533	Name	 Ë® ¾« Áé
+MonstersTxt	534	Name	 Ë® Ôª ËØ
+MonstersTxt	535	Name	 ¶· Ê¿
+MonstersTxt	536	Name	 Õ½ Ê¿
+MonstersTxt	537	Name	 ¾« ±ø
+MonstersTxt	538	Name	 ¶ñ Í½
+MonstersTxt	539	Name	 ´õ Í½
+MonstersTxt	540	Name	 ÍÁ ·Ë
+MonstersTxt	541	Name	 ÑÒ Ê¯ ¶ñ ÊÞ
+MonstersTxt	542	Name	 ´ó Àí Ê¯ ¶ñ ÊÞ
+MonstersTxt	543	Name	 ×ê Ê¯ ¹Ö ÊÞ
+MonstersTxt	544	Name	 µÆ ¹Ö
+MonstersTxt	545	Name	 Éñ ¹Ö
+MonstersTxt	546	Name	 Ä§ ¹Ö
+MonstersTxt	547	Name	 ¹í »ê
+MonstersTxt	548	Name	 Ð° ¶ñ ¾« Áé
+MonstersTxt	549	Name	 ÓÄ Áé
+MonstersTxt	550	Name	 ´ó ¶ú ¹Ö
+MonstersTxt	551	Name	 ´ó ¶ú ¹Ö Èø Âú
+MonstersTxt	552	Name	 ´ó ¶ú ¹Ö Ö® Íõ
+MonstersTxt	553	Name	 Ê¿ ±ø
+MonstersTxt	554	Name	 ÖÐ Î¾
+MonstersTxt	555	Name	 ÉÏ Î¾
+MonstersTxt	556	Name	 Ó¥ Éí Å® Ñý
+MonstersTxt	557	Name	 Ó¥ Éí Ä§ Å®
+MonstersTxt	558	Name	 Ó¥ Éí Î× ÆÅ
+MonstersTxt	559	Name	 º£ Éß ¹Ö
+MonstersTxt	560	Name	 ¾ç ¶¾ º£ Éß ¹Ö
+MonstersTxt	561	Name	 ¾Þ ÐÍ º£ Éß ¹Ö
+MonstersTxt	562	Name	 Î¬ À¼ ÎÀ Ê¿
+MonstersTxt	563	Name	 Î¬ À¼ ÊØ ÎÀ
+MonstersTxt	564	Name	 Î¬ À¼ ÊØ »¤ Éñ
+MonstersTxt	565	Name	 ËÀ Íö Æï Ê¿
+MonstersTxt	566	Name	 »Ù Ãð Æï Ê¿
+MonstersTxt	567	Name	 ÖÕ ¼« Æï Ê¿
+MonstersTxt	568	Name	 Î× Ñý
+MonstersTxt	569	Name	 ´ó Î× Ñý
+MonstersTxt	570	Name	 Ç¿ Á¦ Î× Ñý
+MonstersTxt	571	Name	 òá òæ ÈË
+MonstersTxt	572	Name	 òá òæ ¹­ ¼ý ÊÖ
+MonstersTxt	573	Name	 òá òæ Î× Ê¦
+MonstersTxt	574	Name	 ÃÀ ¶Å É¯ Å® Ñý
+MonstersTxt	575	Name	 ÃÀ ¶Å É¯ Ä§ Å®
+MonstersTxt	576	Name	 Éß ·¢ Å® ¹Ö
+MonstersTxt	577	Name	 Å© ·ò
+MonstersTxt	578	Name	 Å© ·ò
+MonstersTxt	579	Name	 Å© ·ò
+MonstersTxt	580	Name	 Å£ Í· ¹Ö
+MonstersTxt	581	Name	 Å£ Í· Ä§ ·¨ Ê¦
+MonstersTxt	582	Name	 Å£ Í· ¹ú Íõ
+MonstersTxt	583	Name	 ³õ ¼¶ É® ÂÂ
+MonstersTxt	584	Name	 µÍ ¼¶ É® ÂÂ
+MonstersTxt	585	Name	 ¸ß ¼¶ É® ÂÂ
+MonstersTxt	586	Name	 ½£ Ê¿
+MonstersTxt	587	Name	 ½£ Êõ ×¨ ¼Ò
+MonstersTxt	588	Name	 ½£ Êõ ´ó Ê¦
+MonstersTxt	589	Name	 Õ³ ÍÁ ¹Ö
+MonstersTxt	590	Name	 Ëá ÐÔ Õ³ ÍÁ ¹Ö
+MonstersTxt	591	Name	 ¸¯ Ê´ Õ³ ÍÁ ¹Ö
+MonstersTxt	592	Name	 Ê³ ÈË Ñý
+MonstersTxt	593	Name	 Õ½ ¶· Ê³ ÈË Ñý
+MonstersTxt	594	Name	 Ê³ ÈË Ñý Ê× Áì
+MonstersTxt	595	Name	 Å© ·ò
+MonstersTxt	596	Name	 Å© ·ò
+MonstersTxt	597	Name	 Å© ·ò
+MonstersTxt	598	Name	 Å© ·ò
+MonstersTxt	599	Name	 Å© ·ò
+MonstersTxt	600	Name	 Å© ·ò
+MonstersTxt	601	Name	 °Ç ÊÖ
+MonstersTxt	602	Name	 ÉÍ ½ð ÁÔ ÈË
+MonstersTxt	603	Name	 ´Ì ¿Í
+MonstersTxt	604	Name	 Ê³ ÈË ×å
+MonstersTxt	605	Name	 ÁÔ ÈË Ê× Áì
+MonstersTxt	606	Name	 Î× Ò½
+MonstersTxt	607	Name	 Å© ·ò
+MonstersTxt	608	Name	 Å© ·ò
+MonstersTxt	609	Name	 Å© ·ò
+MonstersTxt	610	Name	 µÍ ¼¶ Ä§ ·¨ Ê¦
+MonstersTxt	611	Name	 ÓÎ ·½ Ä§ ·¨ Ê¦
+MonstersTxt	612	Name	 Ä§ ·¨ Ê¦
+MonstersTxt	613	Name	 Ñò Ãù ½Ì ½Ì Í½
+MonstersTxt	614	Name	 Ñò Ãù ½Ì Éñ ÃÜ ½Ì Í½
+MonstersTxt	615	Name	 Ñò Ãù ½Ì ¿ñ ÈÈ ½Ì Í½
+MonstersTxt	616	Name	 Ê³ ÈË ×å
+MonstersTxt	617	Name	 ÁÔ ÈË Ê× Áì
+MonstersTxt	618	Name	 Î× Ò½
+MonstersTxt	619	Name	 ÀÏ Êó
+MonstersTxt	620	Name	 ´ó ÀÏ Êó
+MonstersTxt	621	Name	 ¾Þ ÐÍ ÀÏ Êó
+MonstersTxt	622	Name	 Ñ² Âß Õß
+MonstersTxt	623	Name	 Ö´ ÐÐ Õß
+MonstersTxt	624	Name	 ÖÕ ½á Õß
+MonstersTxt	625	Name	 º£ Ñý
+MonstersTxt	626	Name	 º£ ¹Ö
+MonstersTxt	627	Name	 º£ Ä§
+MonstersTxt	628	Name	 ÷¼ ÷Ã
+MonstersTxt	629	Name	 ÷¼ ÷Ã Æï Ê¿
+MonstersTxt	630	Name	 ÷¼ ÷Ã ¾ô Ê¿
+MonstersTxt	631	Name	 Î× Ê¦
+MonstersTxt	632	Name	 Ä§ Êõ Ê¦
+MonstersTxt	633	Name	 Ð° Êõ Ê¦
+MonstersTxt	634	Name	 Ö© Öë
+MonstersTxt	635	Name	 ¾Þ ÐÍ Ö© Öë
+MonstersTxt	636	Name	 ³¬ ¾Þ ÐÍ Ö© Öë
+MonstersTxt	637	Name	 µÁ Ôô
+MonstersTxt	638	Name	 Ò¹ µÁ
+MonstersTxt	639	Name	 ´õ Í½
+MonstersTxt	640	Name	 Ì© Ì¹
+MonstersTxt	641	Name	 ¸ß ¼¶ Ì© Ì¹
+MonstersTxt	642	Name	 ³¬ ¼¶ Ì© Ì¹
+MonstersTxt	643	Name	 ÀÇ ÈË
+MonstersTxt	644	Name	 ¸ß ¼¶ ÀÇ ÈË
+MonstersTxt	645	Name	 ³¬ ¼¶ ÀÇ ÈË
+MonstersTxt	646	Name	 Ä§ ¹í Å® Íõ
+MonstersTxt	647	Name	 ·´ Ó¦ Æ÷
+MonstersTxt	648	Name	 ·´ Ó¦ Æ÷
+MonstersTxt	649	Name	 ÏÉ ÈË ÕÆ
+MonstersTxt	650	Name	 ÏÉ ÈË ÕÆ
+MonstersTxt	651	Name	 ÏÉ ÈË ÕÆ
+MonstersTxt	651	Name	 ·´ Ó¦ Æ÷

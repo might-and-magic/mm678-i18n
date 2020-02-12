@@ -1,0 +1,527 @@
+Text Number From NPC Events.Doc		Notes
+#	标题	
+1	信件	
+2	信件	
+3	大耳怪前哨	
+4	大耳怪前哨	
+5	邪恶祭祀	
+6	邪恶祭祀	
+7	邪恶祭祀	
+8	鸣月	
+9	信件	
+10	科尔本爵士	
+11	科尔本爵士	
+12	高级议会	Need text for speaking with Wilbur Humphrey before talking to the traitor.
+13	十字军	
+14	十字军	
+15	大英雄	
+16	大英雄	
+17	大英雄	
+18	厌倦	
+19	马戏团	
+20	失落的正文20	
+21	请原谅，陛下	
+22	请原谅，陛下	
+23	失落的正文23	
+24	马戏团	
+25	阿基巴德叔叔	
+26	第三只眼	
+27	阿基巴德叔叔	
+28	阿基巴德叔叔	What should we do with the Archibald statue and the release method?
+29	空	
+30	释放阿基巴德	
+31	银舵	
+32	贼盗王子	
+33	贼盗王子	
+34	高级议会	
+35	神父	
+36	神父	
+37	大主教	
+38	大主教	
+39	大主教	
+40	大魔法师	
+41	探险历程	
+42	任务	
+43	任务	
+44	此处放正文44	Shrine event
+45	我丢了重要物件	
+46	暗示	
+47	普渡众生	
+48	普渡众生	
+49	普渡众生	
+50	此处放正文50	Shrine event
+51	议会任务	
+52	议会任务	
+53	此处放正文	Telepathy
+54	议会任务	
+55	巫师	
+56	巫师	
+57	此处放正文57	Fountain event
+58	巫师	
+59	大魔法师	
+60	大魔法师	
+61	议会任务	
+62	议会任务	
+63	此处放正文63	Mini-dungeon event
+64	议会任务	
+65	豪侠	
+66	任命	
+67	豪侠	
+68	豪侠	
+69	豪侠	
+70	勇士	
+71	勇士	
+72	勇士	
+73	水晶地点	
+74	记忆水晶	
+75	此处放正文75	Memory Crystal event
+76	控制中心	
+77	克里根	
+78	古迹	
+79	钱财
+80	钱财
+81	钱财
+82	祭司
+83	祭司
+84	大祭司
+85	大祭司
+86	大祭司
+87	冬天
+88	冬天
+89	冬天
+90	冬天
+91	魔箭手
+92	魔箭手
+93	神箭手
+94	神箭手
+95	冬天
+96	冬天
+97	冬天
+98	我的俘虏
+99	固定价格
+100	神箭手
+101	席尔瓦托恩的拒绝
+102	席尔瓦托恩的治愈
+103	皇冠的服务
+104	规定
+105	价格
+106	指导
+107	花费50金币参加力量比赛
+108	花费50金币参加耐力比赛
+109	花费50金币参加速度比赛
+110	花费50金币参加精确比赛
+111	花费50金币参加运气比赛
+112	花费50金币参加智力比赛
+113	锣
+114	骨头
+115	天然磁石
+116	鹰身女妖的羽毛
+117	金字塔
+118	桶装酒
+119	牙齿
+120	四叶草
+121	琥珀
+122	任务
+123	任务
+124	欢迎
+125	年轻喷泉
+126	指导
+127	指导
+128	指导
+129	用金字塔交换铠甲
+130	用金字塔交换兵器
+131	用金字塔交换物品
+132	用酒桶换铠甲
+133	用酒桶换兵器
+134	用酒桶换物品
+135	用神灯换珠宝
+136	此处放正文
+137	此处放正文
+138	此处放正文
+139	此处放正文
+140	此处放正文
+141	此处放正文
+142	此处放正文
+143	此处放正文
+144	此处放正文
+145	此处放正文
+146	此处放正文
+147	此处放正文
+148	此处放正文
+149	此处放正文
+150	此处放正文
+151	此处放正文
+152	此处放正文
+153	此处放正文
+154	此处放正文
+155	此处放正文
+156	此处放正文
+157	此处放正文
+158	此处放正文
+159	此处放正文
+160	此处放正文
+161	此处放正文
+162	此处放正文
+163	此处放正文
+164	此处放正文
+165	此处放正文
+166	此处放正文
+167	此处放正文
+168	此处放正文
+169	此处放正文
+170	此处放正文
+171	此处放正文
+172	此处放正文
+173	此处放正文
+174	此处放正文
+175	此处放正文
+176	此处放正文
+177	此处放正文
+178	此处放正文
+179	此处放正文
+180	此处放正文
+181	此处放正文
+182	此处放正文
+183	此处放正文
+184	此处放正文
+185	此处放正文
+186	此处放正文
+187	此处放正文
+188	此处放正文
+189	此处放正文
+190	此处放正文
+191	此处放正文	
+192	此处放正文	
+193	此处放正文	
+194	此处放正文	
+195	此处放正文	
+196	此处放正文	
+197	此处放正文	
+198	此处放正文	
+199	此处放正文	
+200	棍棒专家训练	Expert staff training
+201	棍棒大师训练	Master staff training
+202	长剑专家训练	Expert sword training
+203	长剑大师训练	Master sword training
+204	匕首专家训练	Expert dagger training
+205	匕首大师训练	Master dagger training
+206	战斧专家训练	Expert Axe training
+207	战斧大师训练	Master axe training
+208	长矛专家训练	Expert spear training
+209	长矛大师训练	Master spear training
+210	弓箭专家训练	Expert bow training
+211	弓箭大师训练	Master bow training
+212	锤棍专家训练	Expert mace training
+213	锤棍大师训练	Master mace training
+214	上古兵器专家	Expert blaster training
+215	上古兵器大师	Master Blasters
+216	盾牌专家训练	Expert shield training
+217	盾牌大师训练	Master shield training
+218	皮甲专家训练	Expert leather training
+219	皮甲大师训练	Master leather training
+220	锁甲专家训练	Expert chain armor training
+221	锁甲大师训练	Master chain armor training
+222	钢甲专家训练	Expert plate armor training
+223	钢甲大师训练	Master plate armor training
+224	火系魔法专家	Expert Fire magic training
+225	火系魔法大师	Master Fire magic training
+226	空气魔法专家	Expert Air magic training
+227	空气魔法大师	Master Air magic training
+228	水系魔法专家	Expert water magic training
+229	水系魔法大师	Master water magic training
+230	土系魔法专家	Expert earth magic training
+231	土系魔法大师	Master earth magic training
+232	灵魂魔法专家	Expert spirit magic training
+233	灵魂魔法大师	Master spirit magic training
+234	心智魔法专家	Expert mind magic training
+235	心智魔法大师	Master mind magic training
+236	肢体魔法专家	Expert body magic training
+237	肢体魔法大师	Master body magic training
+238	光明魔法专家	Expert light magic training
+239	光明魔法大师	Master light magic training
+240	暗黑魔法专家	Expert dark magic training
+241	暗黑魔法大师	Master dark magic training
+242	鉴定术专家训练	Expert identify item training
+243	鉴定术大师训练	Master identify item training
+244	经商术专家训练	Expert merchant training
+245	经商术大师训练	Master merchant training
+246	修补术专家训练	Expert repair training
+247	修补术大师训练	Master repair training
+248	健身术专家训练	Expert body building training
+249	健身术大师训练	Master body building training
+250	冥想术专家训练	Expert meditation training
+251	冥想术大师训练	Master meditation training
+252	洞察术专家训练	Expert perception training
+253	洞察术大师训练	Master perception training
+254	交际术专家训练	Expert diplomacy training
+255	交际术大师训练	Master diplomacy training
+256	拆卸术专家训练	Expert disarm traps training
+257	拆卸术大师训练	Master disarm traps training
+258	学习术专家训练	Expert learning training
+259	学习术大师训练	Master learning training
+260	杰斯佩·莱斯	Location of Staff Master Teacher
+261	盖·汉普顿	Location of Sword Master Teacher
+262	朱尔斯·米尔斯	Location of Dagger Master Teacher
+263	阿维里·辛西亚	Location of Axe Master Teacher
+264	伯顿·罗德福德	Location of Spear Master Teacher
+265	德斯蒙德·威勒	Location of Bow Master Teacher
+266	埃罗·奥斯特曼	Location of Mace Master Teacher
+267	李克斯拉	Location of Blaster Master Teacher
+268	布朗·梅克	Location of Shield Master Teacher
+269	阿伦·瑟勒	Location of Leather Master Teacher
+270	戴维·费什	Location of Chain Master Teacher
+271	福雷斯特·萨德斯	Location of Plate Master Teacher
+272	杰扎贝尔	Location of Fire Master Teacher
+273	考·萨伦	Location of Air Master Teacher
+274	哈普·科林斯	Location of Water Master Teacher
+275	李维·伯特纳	Location of Earth Master Teacher
+276	毕肖普·因奎斯特	Location of Spirit Master Teacher
+277	坦恩·罗普	Location of Mind Master Teacher
+278	吉尔伯特·汉默	Location of Body Master Teacher
+279	奇罗尼	Location of Light Master Teacher
+280	苏朗满	Location of Dark Master Teacher
+281	汉斯·吉福德	Location of Identify Master Teacher
+282	威尔·奥特曼	Location of Merchant Master Teacher
+283	瑞安·特里克尔	Location of Repair Master Teacher
+284	贾森·泰福勒	Location of Body Building Master Teacher
+285	诺里奥·阿里格纳	Location of Meditation Master Teacher
+286	麦克罗·加里瓜拉	Location of Perception Master Teacher
+287	贾克斯·科霍	Location of Diplomacy Master Teacher
+288	盖贝·莱斯特	Location of Disarm Master Teacher
+289	约翰·特克	Location of Learning Master Teacher
+290	任务	
+291	任务	
+292	任务	
+293	任务	
+294	银舵	
+295	银舵	
+296	任务	
+297	任务	
+298	银色兄弟会	
+299	米拉达	
+300	十字架	
+301	斯纳格的钥匙	
+302	隐藏的文章	
+303	任务
+304	任务
+305	任务
+306	任务
+307	此处放正文307
+308	任务
+309	任务
+310	任务
+311	任务
+312	眼镜蛇蛋
+313	任务
+314	任务
+315	任务
+316	任务
+317	任务
+318	任务
+319	祝贺
+320	祝贺
+321	布莱克郡
+322	任务
+323	任务
+324	任务
+325	任务
+326	阴影教
+327	新索匹格镇
+328	任务
+329	任务
+330	救命！
+331	任务
+332	任务
+333	逃跑
+334	任务
+335	任务
+336	祝贺
+337	祝贺
+338	狼人
+339	纯洁珍珠
+340	任务
+341	任务
+342	纯洁珍珠
+343	此处放正文343
+344	此处放正文344
+345	此处放正文345
+346	此处放正文346
+347	人们
+348	祝贺
+349	忠告
+350	艰苦的工作
+351	任务
+352	任务
+353	阿基巴德
+354	任务 
+355	任务 
+356	任务 
+357	任务 
+358	仆人
+359	怪物
+360	任务
+361	此处放正文361
+362	十字架
+363	十字架
+364	十字架
+365	太阳仪式
+366	月亮仪式
+367	此处放正文367
+368	此处放正文368
+369	此处放正文369
+370	此处放正文370
+371	此处放正文371
+372	此处放正文372
+373	此处放正文373
+374	此处放正文374 
+375	拜见神使
+376	拜见神使
+377	拜见神使
+378	拜见神使
+379	拜见神使
+380	拜见神使
+381	元素教派成员
+382	自我教派成员
+383	海盗之巢成员
+384	保护服务成员
+385	走私者成员
+386	终极利刃成员
+387	双刃剑锋成员
+388	雷霆震怒成员
+389	空气教派成员
+390	泥土教派成员
+391	烈火教派成员
+392	流水教派成员
+393	肢体教派成员
+394	心智教派成员
+395	灵魂教派成员
+396	光明教派成员
+397	暗黑教派成员
+398	任务
+399	寻找悬赏生物
+400	获得竞技场奖励
+401	治疗队伍
+402	生成食物
+403	施展飞行奇术
+404	施展凌波微步
+405	施展时空之门
+406	施展圣灵佑佐
+407	施展天赐神力
+408	无受益
+409	
+410	空桶
+411	一桶红色液体
+412	一桶黄色液体
+413	一桶蓝色液体
+414	一桶橙色液体
+415	一桶绿色液体
+416	一桶紫色液体
+417	一桶白色液体
+418	空锅
+419	蒸汽饮料
+420	冰霜饮料
+421	震颤饮料
+422	毒药饮料
+423	魔力饮料
+424	饭锅
+425	饭锅
+426	饭锅
+427	饭锅
+428	饭锅
+429	面粉袋
+430	面粉袋
+431	大袋子
+432	大袋子
+433	大袋子
+434	大袋子
+435	金币口袋
+436	垃圾堆
+437	垃圾堆
+438	头骨堆
+439	松散头骨堆
+440	诅咒头骨堆
+441	愚蠢头骨堆
+442	死亡头骨堆
+443	水桶
+444	水桶
+445	水桶
+446	水桶
+447	水晶
+448	水晶
+449	水晶
+450	水晶
+451	水晶
+452	水晶
+453	水晶
+454	水晶
+455	水晶
+456	水晶
+457	水晶
+458	
+459	
+460	
+461	
+462	
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495		
+496		
+497		
+498		
+499		
+500		
+501	元素教派成员	I do not believe these topics are currently being used.
+502	自我教派成员	I do not believe these topics are currently being used.
+503	海盗之巢成员	I do not believe these topics are currently being used.
+504	保护服务成员	I do not believe these topics are currently being used.
+505	走私者成员	I do not believe these topics are currently being used.
+506	终极利刃成员	I do not believe these topics are currently being used.
+507	双刃剑锋成员	I do not believe these topics are currently being used.
+508	雷霆震怒成员	I do not believe these topics are currently being used.
+509	空气教派成员	I do not believe these topics are currently being used.
+510	泥土教派成员	I do not believe these topics are currently being used.
+511	烈火教派成员	I do not believe these topics are currently being used.
+512	流水教派成员	I do not believe these topics are currently being used.
+513	肢体教派成员	I do not believe these topics are currently being used.
+514	心智教派成员	I do not believe these topics are currently being used.
+515	灵魂教派成员	I do not believe these topics are currently being used.
+516	光明教派成员	I do not believe these topics are currently being used.
+517	暗黑教派成员	I do not believe these topics are currently being used.
+518		
+519		
+520		
+521		
+522		
+523		
+524		
+525		

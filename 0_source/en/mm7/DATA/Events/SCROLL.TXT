@@ -1,0 +1,281 @@
+Item#	message text	Location	Item Name
+700	"
+Greetings,
+
+Years ago, in a previous war, the Elves stole an artifact from us during a raid.  They've managed to hide this artifact away since, but now they've decided to move it into the Tularean Caves for safekeeping.  We've sent a raiding party of our own to get the artifact from them before they're able to get it in the caves.  I would ask that you assist our forces in assuring the artifact's return.
+
+Thank you,
+
+Ellen Rockway"	Event	Message from Erathia
+701	"
+Y iupj xckox nmw henv ik eoiuyl pwzmjh usv vqwy xjvisfx nmw qeey zwga xjm htlsi. Jn cx fchub yfkh iponm osiu uhi usduyl. Rq xec cm igbu bhx yzs tfvn uswt. Hiii disl."	Event	Cipher
+702	"
+A complex pattern is frequently observed following the relatively rare event of endoplasmic reticuli condensing upon the inner wall of the momentum cantilever wave front formed when endocromancy is performed over improperly prepared arabits.  Since the cube root of i can only be determined by measuring the troughs found amongst the carabine, It is clear that t'was brilling and the slithy toves did gyre and gimble in the wabe during the event.
+
+Obviously, this leads to the inescapable conclusion that all mimsy were the borogoves!  As a matter of fact, when such phenomena are observed, one could further postulate that the cosine A of delta F is positive, and the mome raths outgrabe. 
+
+Of course, this is all elementary!  For a more in depth study, refer to Delphine's classic study of Regolith Whitesinage and Malarkey.  "	"Event, School of Sorcery"	Scroll of Waves
+703	"
+Though cryptography has many forms, the focus of this manual shall be the substituted word form, sometimes known as the ""lesser cipher"".  Simply put, the two parties agree on a word or phrase to act as the 'key'.  This word is then added to the letters of the encrypted message repeatedly, until the message is entirely scrambled.  If the key word, for example, was 'angel', and the encrypted message was 'ucv rmom zjossax', you would decrypt it thus:
+
+ucv rmom  zjossax - 
+ang elan gelange =
+too many secrets
+
+Where u minus a equals t, c minus n equals o, and v minus g also equals o.  Note that the key word repeats itself constantly, and skips over spaces and punctuation.  
+
+The greater cipher would use the entire page of a book, for example, as the key--eliminating key repetition altogether.  It is, obviously, MUCH harder to break.  It is the author's sincere hope that this little cryptography primer has been of service.  Happy espionage!"	"Player Castle, Event (I believe)"	Basic Cryptography
+704	"
+My 'Lords,'
+
+I request your presence at the Mercenary Guild in Tatalia in two weeks to discuss the service you owe an associate of mine, Mr. Malwick.  Failure to adhere to this request could prove most devastating for you and your town.  I look forward to meeting you.
+
+Niles Stantley"	Event	Message from Mr. Stantley
+705	"
+Detailed plans to Fort Riverstride including patrol patterns and duty shifts.  These plans could be devastating in the wrong hands."	Fort Riverstride	Riverstride Plans
+706	"
+Detailed plans to Fort Riverstride including patrol patterns and duty shifts.  Because of the misinformation contained, these plans would be devastating to any enemies planning an attack on the Fort."	Event	False Riverstride Plans
+707	"
+…can't hold on much longer.  The goblins have received assistance from some large flying creature, and they began falling from the skies soon after we took the fort.  I don't think we are going to survive much longer; I'm going to miss my wife and fami…"	Chest in fort in Area 2	Fragment of Soldier's Diary
+708	"
+Jailkeeper Faedril,
+
+We have built a new addition to the caves here in the Tularean Forest; I'm sure you'll like it.  To gain access to the new section, you'll have to cross a bridge we've concealed with magic (who would think to try and walk on air?), then activate a set of teleporters.  One of the teleporters will take you to the prison section; the other two are traps.
+
+To make garrison duty of the prison even more secure, we've managed to capture some wyverns from Avlee and a small tribe of troglodytes to guard the prison section of the caves.  Be sure to keep them well fed if you want to visit that section-- the wyverns can be quite hostile.
+
+Of course, we take no responsibility for your life or the lives of your men-- our job was to supervise prison construction and to minimize the chance of rescue or escape.  Your safety is in your own hands.
+
+Niles Stantley"	Tularean Caves	Letter from Mr. Stantley
+709	"
+…Saint Perci traveled from Avlee to Bracada in search of the missing spear, and many times lost his way.  He was unable to discover its location and wandered most the continent of Erathia.
+
+When he had at last lost all hope, he had a vision:  When the sun sets in the west, when the moon sets in the north, and when the stars fall in the east you shall find that which you seek.
+
+Saint Perci gained hope from his vision, and set out again to sear...
+"	"Grand Temple of Light, somewhere accesible"	Torn Page
+710	"
+…studies in the game of ArcoMage have turned up the following observations:
+
+How you choose to win the game should be based on the victory conditions.  If the towers start small, you stand a good chance of destroying your opponent's tower.  If the towers or walls start large, you should concentrate on your own tower.  If the towers or walls start large, and you need a huge tower to win, a resource victory might be more easily attainable.
+
+Also, note that red cards tend to focus on your wall, blue cards focus on your tower, and green cards focus on your offense.  Keep this in mind when choosing whether to emphasize quarries, magic, or zoos.
+
+I HAVE noticed a prevailing trend in the thinking of most ArcoMage players that could provide an edge against them, if they start to play blue cards, you can counter that wit..."	"White Cliff Caves, near the cards and skeleton"	Remains of a Journal
+711	"
+Scribe's notes (Seljin interrogation, Day 3)
+June 8th, 1120
+
+Interrogator:  Let's go over this again, shall we?  Yesterday, you said the tomb was in Bracada.  Several of my men were slain by golems looking where you had indicated.  I thought we had finally decided to cooperate.  I can see now that you lied to me.
+
+Seljin:  No...Didn't lie...Borders change...
+
+Interrogator:  Fah!  They changed last year!  Apply the instruments!
+
+Interrogator:  Ok, heal him and wake him up.  (pause).  I am your friend.  I can end the pain.  Tell me where the Tomb of the Master lies.
+
+Seljin:  Erathia!  Southern Erathia!  
+
+Interrogator:  Hmm.  Sounds more likely.  Apply the instruments again, just to be sure.  (pause)  Ok, heal him and wake him up again.  I am your friend.  I can end the pain.  Tell me the truth.  Where is the Tomb of the Master?
+
+Seljin:  I told you!  Oh please!  South...South Erathia!  
+
+Interrogator:  Ok, good.  That's a wrap, boys.  Return the prisoner to his cell, and let's get moving!
+
+    "	Torture chamber of Castle Harmondale	Journal Excerpt
+712	"
+Scale
+
+Catherine and Eldrich will never understand our joy over their struggle over disputed Harmondale.  Continue to harvest the benefits of their war.  In the end they shall not be able to stand against us. 
+
+-Archibald"	Message from Archibald to Evil Ambassador	Letter from Archibald
+713	"
+Niles,
+
+I believe I have found a group of ""adventurers"" who will meet your needs.  They have some ability but appear very gullible.  I will do my best to get them to accept a favor from us.  Once duped I am sure we can use this favor owed to our advantage.  If they do not wish to ""repay"" us for this favor, we can always arrange for an accident to befall them.
+
+Hopefully this group will meet your needs and you will arrange transport off of this rock!  I look forward to leaving this accursed island.
+
+-Malwick"	Mercenary Guild	Letter from Malwick
+714	"
+Ambassador Wright,
+
+Its is very important that you speak with the new Lords of Harmondale.  It is my hope that they can end this stupidity between Queen Catherine and King Eldrich. Loren Steel, the carrier of this message, can provide you with further details. If the war continues, it will only serve to strengthen Archibalds position.
+
+Gavin Magnus
+Ruling Wizard"	Tularean Caves	Letter from Gavin Magnus
+715	"
+  …our first day since reaching Emerald Island.  
+
+A strange man named Malwick approached us. His offer seemed strange, a wand for ""future considerations"".  We turned him down.  As we left and headed towards the northeastern area of the island he laughed and yelled that he knew that he ""wouldn't see us again."""	Dragon Cave on Emerald Island	Journal Fragment
+716	"
+-Hairbaugh
+
+Light the signal fires when you know that the humans are at their weakest.  We will arrive within days of seeing your signal!  Do not betray me again!  You must leave your personal interests behind if you wish to survive in my tribe.
+
+Grognard the Great!"	Castle Harmondale either obviously placed or on a goblin	Letter to Hairbaugh
+717	"
+My dear Mister Malwick,
+
+I have not heard from you in some time.  I hope this letter finds you well.  You were supposed to send regular messages to us so that we would be up to date on your ""recruitment drive"".  It is important that you find the right people.  Markham must be handled correctly...and then Harmondale should be ours.
+
+Once you have completed this I am sure we can make arrangements to bring you home and have your debt cleared.
+
+-Niles"	Erathian Sewers	Letter from Mr. Stantley
+718	"
+Journal Entry 23rd of April 1058
+
+May the Sun light my path and guide me this day.
+
+We received word today that the Temple of the Moon has dispatched an armed force to Nighon. It has been decided that I will lead some of my brothers in an attempt to stop what ever vile deed they plan.  May the Sun shine upon us and end this war as soon as possible.  The battles in the north have sundered the plains of Bracada.  If we continue with this war we may destroy the very land we are trying to save..."	Grand Temple of the Sun	"Journal Entry, 23rd April"
+719	"
+Journal Entry 30th of June 1059
+
+May the Sun illuminate the truth and rend the darkness.
+
+The Circle of Stone here in Nighon is no more.  We, in our attempt to stop the followers of the Moon, have aided in the destruction of that which we were sent to protect. Only a few brothers remain.  We will attempt to return to the Grand Temple of the Sun.  If this journal is found, it means we were unsuccessful.  Its is my hope that those who read this will understand that we meant no harm.  We only sought to protect.  May the Sun guide our steps through the darkness ahead..."	Nighon in chest	"Journal Entry, 30th June"
+720	"
+…finally managed to rid myself of that cursed land.  I have enough problems-- I certainly don't need them compounded by a centuries old Elf/Human conflict.  Fortunately, my scheme worked perfectly; that little group accepted a territory I couldn't pay to have someone take.  Now all that's left is to secure my position in Kar..."	Lord Markham's Manor	Excerpt from a Diary
+721	"
+Velatyr,
+
+Our raids have been quite successful; our position allows us to hit two routes, Erathia to Deyja and Erathia to Harmondale.  We've done as you've suggested and kept our activity infrequent enough to prevent direct intervention from Erathian forces.  Also, our cave has been hidden enough that casual observation won't be enough to locate it.  Your payment is being finalized right now, and will be shipped to you soon.
+
+Laerat"	Bandit Caves	Letter
+722	"
+Journal Entry 11th of December 1059
+
+May the Sun smite the darkness and reveal the truth
+
+We have made our way to the Downs.  All has changed.  Ghosts and Gog's over run the area.  Brother Peter was taken by something in the night.  The Barrows seem to have released their evil into the surronding area. Brother Christian and I are attempting to make it to a mansion I know of in the far east of this region.  He and I are the only ones left.  May the Sun guide our path..."	Barrow Downs	"Journal Entry, 11th December"
+723	"
+Captain Harret,
+
+Although we don't expect any direct trouble from Deyja or the elves, I'd like you too keep an eye on bandit activity.  I have a suspicion that the bandits are far more organized than they want us to believe.  Don’t hesitate to destroy them, but do not overly weaken Fort Riverstride to that end.
+
+General Daggerson"	Fort Riverstride	Orders from Steadwick
+724	"
+Journal Entry 2nd of January 1057
+
+The Sun guides my feet upon the path to truth
+
+I have been sent by the Grand Temple on a recruitment drive to Tatalia.  We hope to bolster our faith and swell our ranks.  The disciples of the Moon are moving on some great plan. May the Sun stop them in their darkness..."	Tatalia	"Journal Entry, 2nd January"
+725	"
+Journal Entry 19th of September 1057
+
+The Sun guides me and protects me from falsehood
+
+I have travelled to Deyja to see for myself the vile repercussion of the deeds of the Necromancers.  There are rumors that they have been working with the followers of the Moon.  This cannot be, as their combined power would be unstopable.  May the Sun lead me from the darkness..."	Deyja	"Journal Entry, 19th September"
+726	"
+..going fine.  We managed to find a perfect place for the lift engine, near a continuos supply of steam energy.  With proper maintenance, that engine should work forever.  The metals we've discovered on the lower level are much better quality than the junk upstairs; though we haven't seen a lot of gems or precious metals.  Hopefully the dig tomorrow turns up something better.
+
+August 12th, 1167
+
+We broke through what appeared to be a natural cave, and we discovered a horrible creature with the body of a snake with a female human torso.  The mere gaze of these creatures was enough to turn our miners to stone.  The rest of us fled, and Drathen Keldin, our engineer, stayed back to try and sabotage the lift.  I'm not sure where the creatu..."	Red Dwarf Mines	Journal Entry
+727	Missing Scroll Text 727		Empty Message Scroll
+728	"
+Bill of Sale
+To:  Schmendrick
+From:  ACME Golem's
+
+We have made the golem parts per your request.  Unfortunately our delivery service has, misplaced these parts for you.  We are not responsible for any errors by the delivery service.  We do however know where your parts were delivered and you can go about recovering them at your leisure.
+
+1 part was delivered to The Barrow Downs
+1 part was delivered to Tatalia
+1 part was delivered to Avlee
+2 parts were delivered to Deyja
+2 heads were delivered to Bracada (as we did not know which model you prefered)"	In Chest with Abby Normal Head in Bracada Desert	Bill of Sale
+729	Missing Scroll Text 729		Empty Message Scroll
+730	Missing Scroll Text 730		Empty Message Scroll
+731	Missing Scroll Text 731		Empty Message Scroll
+732	Missing Scroll Text 732		Empty Message Scroll
+733	Missing Scroll Text 733		Empty Message Scroll
+734	"
+My Priests,
+
+I have some bad news.  It appears that our bid in Enroth has failed, and that our gambit against Catherine here in Erathia has also failed.  I don't expect your attempts to gain converts to be successful, so I would advise holing away as best as possible.  I believe that we can regroup our losses and strike back at the appropriate time, but you should not make yourself visible until that time.
+
+Xenofex"	Temple of Baa	Letter from Xenofex
+735	Missing Scroll Text 735		Empty Message Scroll
+736	Missing Scroll Text 736		Empty Message Scroll
+737	Missing Scroll Text 737		Empty Message Scroll
+738	Missing Scroll Text 738		Empty Message Scroll
+739	Missing Scroll Text 739		Empty Message Scroll
+740	"
+A Black Potion of Rejuvenation can be valuable in correcting the effects of aging.  To mix such a potion you need to find the correct combination of three of each of the base reagents. "	Rejuvenation	
+741	"
+A Black Potion of Pure Might is any adventurers dream.  The addition to permanent might can turn ANYONE into a fighting machine.  To mix this potion you need the correct combination of four of any red reagent type plus two of any blue reagent type and one of the yellow reagents.  "	Pure Might	
+742	"
+A Black Potion of Pure Accuracy is any archers dream.  The addition to permanent accuracy can turn ANYONE into a fighting machine.  To mix this potion you need the correct combination of four of any yellow reagent type plus two of any red reagent type and one of the blue reagents.  "	Pure Accuracy	
+743	"
+The Black Potion of Pure Personality will add to permanent Personality increasing the total spell points based off your Personality. To mix this potion you need the correct combination of one of any red reagent type plus four of any blue reagent type and  two of the yellow reagents.  "	Pure Personality	
+744	"
+A Black Potion of Pure Endurance is any adventurers dream.  The addition to permanent endurance can turn ANYONE into a fighting machine, increasing their hit points far beyond normal.  To mix this potion you need the correct combination of two of any red reagent type plus four of any blue reagent type and one of the yellow reagents.  "	Pure Endurance	
+745	"
+The Black Potion of Pure Intellect will add to permanent intellect, increasing the total spell points based off your intellect. To mix this potion you need the correct combination of one of any red reagent type plus two of any blue reagent type and  four of the yellow reagents.  "	Pure Intellect	
+746	"
+The Black Potion of Pure Speed could be the answer for a party who just doesn't get the jump on the monsters.  The addition to permanent speed could be just what is needed to allow you recover and act before the monsters do.  You can never be too quick. To mix this potion you need the correct combination of four of any red reagent type plus two of any blue reagent type and one of the yellow reagents.  "	Pure Speed	
+747	"
+The Black Potion of Pure Luck could be the answer for a party who is Disarm Trap Skill challenged.  The addition to permanent luck could be just what is needed to allow you to duck before a trap goes off.  You can never have too much luck. To mix this potion you need the correct combination of two of any red reagent type plus three of any blue reagent type and  three of the yellow reagents."	Pure Luck
+748	"
+The Black Potion of Slaying can turn any normal weapon into a weapon of dragon slaying.  To mix this potion you need the correct combination of three of any red reagent type plus three of any blue reagent type and  two of the yellow reagents."	Slaying Potion
+749	"
+The Black Potion of Stone to Flesh allows you to cure stoning yourself. To mix this potion you need the correct combination of three of any red reagent type plus two of any blue reagent type and  three of the yellow reagents."	Stone To Flesh
+750	"
+The White Potion of Might Boost temporarily boosts your strength just when you need it. To mix this potion you need the correct combination of three of any red reagent type and two of any blue reagents."	Might Boost
+751	"
+The White Potion of Intellect Boost temporarily boosts your intellect just when you need it. To mix this potion you need the correct combination of two of any blue reagent type and three of any yellow reagents."	Intellect Boost
+752	"
+The White Potion of Personality Boost temporarily boosts your personality just when you need it. To mix this potion you need the correct combination of three of any blue reagent type and two of any yellow reagents."	Personality Boost
+753	"
+The White Potion of Endurance Boost temporarily boosts your endurance just when you need it. To mix this potion you need the correct combination of two of any red reagent type and three of any blue reagents."	Endurance Boost
+754	"
+The White Potion of Speed Boost temporarily boosts your speed just when you need it. To mix this potion you need the correct combination of three of any red reagent type and two of any yellow reagents."	Speed Boost
+755	"
+The White Potion of Accuracy Boost temporarily boosts your accuracy just when you need it. To mix this potion you need the correct combination of two of any red reagent type and three of any yellow reagents."	Accuracy Boost
+756	"
+The White Flaming Potion turns any normal weapon into a weapon of Flame. To mix this potion you need the correct combination of two of any red reagent type plus one of any blue reagent type and  two of the yellow reagents."	Flaming Potion
+757	"
+The White Freezing Potion turns any normal weapon into a weapon of Frost. To mix this potion you need the correct combination of two of any red reagent type plus two of any blue reagent type and  one of the yellow reagents."	Freezing Potion
+758	"
+The White Noxious Potion turns any normal weapon into a weapon of Poison. To mix this potion you need the correct combination of one of any red reagent type plus two of any blue reagent type and  two of the yellow reagents."	Noxious Potion
+759	"
+The White Shocking Potion turns any normal weapon into a weapon of Sparks. To mix this potion you need the correct combination of three of any red reagent type plus one of any blue reagent type and  one of the yellow reagents."	Shocking Potion
+760	"
+The White Swift Potion turns any normal weapon into a weapon of Swiftness. To mix this potion you need the correct combination of one of any red reagent type plus three of any blue reagent type and  one of the yellow reagents."	Swift Potion
+761	"
+The White Potion of Cure Paralysis eliminates the Paralysis condition. To mix this potion you need the correct combination of one of any red reagent type plus one of any blue reagent type and  three of the yellow reagents."	Cure Paralysis
+762	"
+The White Potion of Divine Restoration eliminates all conditions except stoned, dead or eradicated. To mix this potion you need the correct combination of one of any red reagent type plus one of any blue reagent type and  three of the yellow reagents."	Divine Restoration
+763	"
+The White Potion of Divine Cure is more powerful than the Potion of Cure Wounds. To mix this potion you need the correct combination of three of any red reagent type and any three of the yellow reagents."	Divine Cure
+764	"
+The White Potion of Divine Power is more powerful than the Magic Potion. To mix this potion you need the correct combination of three of any blue reagent type and any three of the yellow reagents."	Divine Power
+765	"
+The White Potion of Luck Boost temporarily boosts your luck just when you need it. To mix this potion you need the correct combination of three of any red reagent type and three of any blue reagents."	Luck Boost
+766	"
+The White Potion of Fire Resistance temporarily raises your resistance to fire inflicted damage.  To mix this potion you need the correct combination of two of any red reagent type plus one of any blue reagent type and  three of the yellow reagents."	Fire Resistance
+767	"
+The White Potion of Air Resistance temporarily raises your resistance to air inflicted damage.  To mix this potion you need the correct combination of three of any red reagent type plus two of any blue reagent type and  one of the yellow reagents."	Air Resistance
+768	"
+The White Potion of Water Resistance temporarily raises your resistance to water inflicted damage.  To mix this potion you need the correct combination of one of any red reagent type plus three of any blue reagent type and two three of the yellow reagents."	Water Resistance
+769	"
+The White Potion of Earth Resistance temporarily raises your resistance to earth inflicted damage.  To mix this potion you need the correct combination of three of any red reagent type plus one of any blue reagent type and  two of the yellow reagents."	Earth Resistance
+770	"
+The White Potion of Mind Resistance temporarily raises your resistance to damage inflicted by Mind Magic.  To mix this potion you need the correct combination of two of any red reagent type plus three of any blue reagent type and  one of the yellow reagents."	Mind Resistance
+771	"
+The White Potion of Body Resistance temporarily raises your resistance to damage inflicted by Body Magic.  To mix this potion you need the correct combination of one of any red reagent type plus two of any blue reagent type and  three of the yellow reagents."	Body Resistance
+772		
+773		
+774		
+775		
+776		
+777		
+778		
+779			
+780			Ritual of Dark Containment
+781			
+			
+			
+			
+			

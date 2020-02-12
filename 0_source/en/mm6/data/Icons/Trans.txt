@@ -1,0 +1,234 @@
+2D#	Transition Description
+1	A large dragon obviously makes his residence in these caves.  The undead near his home might have been adventurers seeking the dragon's treasure.
+2	The faint smell of brimstone and the sound of creatures talking in a strange language drift from the entrance of this cave.
+3	
+4	
+5	
+6	
+7	
+8	
+9	
+10	
+11	
+12	
+13	
+14	
+15	
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144	
+145	
+146	
+147	
+148	
+149	
+150	
+151	
+152	
+153	"Regent Wilbur Humphrey, Foremost Paladin, and Prince Nicolai Ironfist, heir to the throne of Enroth, both reside in Castle Ironfist."
+154	
+155	"Lord Albert Newton, High Sorcerer of Enroth, resides in Castle Newton."
+156	
+157	"Lord Osric Temper, Foremost Knight, resides in Castle Temper."
+158	
+159	"Lord Anthony Stone, High Priest of Free Haven, resides in Castle Stone."
+160	
+161	"Lady Loretta Fleise, Chancellor of the Treasury, resides in Castle Fleise."
+162	
+163	"Lord Eric von Stromgard, Marquis of the Northern Marches, resides in Castle Stromgard."
+164	
+165	The Oracle has provided the rulers of Enroth with wisdom for as long as anyone can remember.
+166	
+167	
+168	
+169	
+170	"The Control Center has been closed since the Silence, nearly twelve centuries ago."
+171	The weathered stones of this old keep shelter empty buildings in an unused courtyard.  Faint sounds echo from a worn stairway that leads down below the keep.
+172	"Strange squeaking echoes from behind the front doors.  At one time a temple of Baa, a foul curse caused the old inhabitants to move away."
+173	"This area appears to be abandoned.  However, fresh footprints lead in and out from a recently repaired door.  Perhaps it isn’t so abandoned after all."
+174	Ancient runes above the entrance attempt to scare away the casual visitor.  Fresh goblin tracks lead into and out of the doorway.
+175	"These caverns once belonged to the exiled King Rocklin, but now they are home to the new Dwarven King, Snergle."
+176	"The original name of these caverns has been lost in time.  Now, it is named for the group of bandits that base their operations from it."
+177	"This small post acts as an advance base for the Fraternal Order of Silver.  From here, they are able to patrol Mist in their conquest of evil."
+178	"Home to the so-called Prince of Thieves, the Shadow Guild operates outside of Anthony Stone's jurisdiction.  This Guildhall is not open to the public."
+179	"The largest dwarven mine in Enroth, Snergle has claimed it in his succession to the dwarven throne."
+180	"The Dragoons rebuilt and refurbished this keep to serve as their headquarters.  From here, they prey on traffic to and from Free Haven."
+181	"Once the residence of Archmage Terrax, Corlagon received the Estate from Archibald for his services during the Succession Wars."
+182	The headquarters of the Fraternal Order of Silver and Sir John Silver's home.  Silver Helms from this Stronghold patrol Silver Cove in search of evil.
+183	This forboding structure radiates magical power.  Druids from all over Enroth make periodic pilgrimages to visit this sacred place.
+184	"Ethric, the first Sorcerer seeking life after death, still walks about his tomb, the leader of a host of undead servants.  At least, that’s how the rumor goes..."
+185	"Originally used to keep creatures from escaping the Frozen Wastelands, now the keep prevents traffic to and from Castle Stromgard and town of White Cap."
+186	Muted sounds of clashing metal and loud voices emanate from this imposing fortress.  No one would dare assault the Warlord’s home.
+187	A foul smell wafts from the entrance to these caves.  The howl of a wolf can be heard from the distance.
+188	Fire Elementals assisted Gharik in his attempts to create powerful items here.  A handful of his students continue his experiments.
+189	This laboratory is the birthplace for countless horrid experiments.  Its remote location was chosen for both safety and secrecy.
+190	These caves house a strange alliance between human warriors and dragons.  The Dragon Towers were built in the towns to ward off these raiders.
+191	Faint chanting can be heard from beyond the doors of this Temple.  Visitors do not appear to be welcome here.
+192	This large but simple structure has become the center of worship for a small religious group called the Order of the Fist.
+193	The smells of death and decay seem to fill the air near this structure.  The temple's original purpose has long since been forgotten by the new worshippers.
+194	"This forgotten shrine of the Church of the Sun still stands.  For all of its time in the humid jungle, the temple remains in surprisingly good condition."
+195	"Originally a place of worship for the Church of the Moon, this old sanctuary is now home to Cedric Drother’s group of Druids."
+196	"The temperature rises steadily as you approach the doors, the smell of sulfur and ash strong.  This place resembles a hideout more than a temple."
+197	"The focal point of all Baa worship in Enroth, the Superior Temple only allows followers of Baa inside."
+198	"The forest of statues scattered about seems to magnify the silence on Star Island.  Certainly, the rumors of medusas living in this temple are true."
+199	"The first fortress dedicated to magical research, its remote location provided secrecy for the mages and protection for the populace in the event of an accident."
+200	The temperature drops as you approach the gates to this castle.  Legend holds that this castle contains the knowledge of how to transcend death as undead.
+201	"Kriegspire no longer rests between its lakes, the earth around the castle was raised to prevent the creatures inside from escaping."
+202	"This pyramid seems to be made of a strange, weathered metal.  It appears to be partially buried in the sand."
+203	This strange structure commands a spectacular view of Paradise Valley.  The outer walls are constructed from an unknown material.
+204	
+205	
+206	
+207	
+208	
+209	
+210	Enter Tomb of VARN
+211	Enter Hive
+212	
+213	
+214	
+215	
+216	
+217	Enter Dungeon
+218	Enter Dungeon
+219	
+220	Enter Dungeon
+221	
+222	
+223	
+224	Enter Dungeon
+225	
+226	
+227	Enter Dungeon
+228	
+229	
+230	
+231	Enter Dungeon
+232	Enter Dungeon
+233	Enter Castle Ironfist

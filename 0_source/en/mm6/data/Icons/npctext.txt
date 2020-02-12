@@ -1,0 +1,526 @@
+Text Number From NPC Events.Doc		
+#	Text	Notes
+1	"Oh!  The Seal.  Here, I'm supposed to give you this money.  Now, go away before we're seen together!  Someone will get suspicious."	
+2	Don't try to say I didn't pay you!  You got your gold!  	
+3	"My instructions are quite clear.  I am to pay the person carrying the letter that bears the Seal.  Since you don't have a letter with a Seal, you get no money!"	
+4	"Just south of town is an old keep called Goblinwatch.  It was originally built to help keep the town safe from goblin raids, but times have been so peaceful recently that we haven't been taking care of it.  You can imagine our embarrassment when we realized that the very monsters we were guarding against have moved into the keep!  They also changed the lock on a very important door leading to the caves below the dungeon level.  We have a standing reward of 2000 gold pieces to the ones who can figure out the combination and tell us what it is."	
+5	How can you find the combination to that lock by standing around here?  Get going!	
+6	"Ah, thank you for taking care of that little detail for us.  Here's your gold!  Feel free to return to Goblinwatch any time to finish clearing out the rest of the monsters.  We can't pay you, but you can have anything you find there.  "	
+7	"You did such a fine job with the Goblinwatch assignment that we would like to employ you again.  A cult has moved into an old abandoned temple a few day's journey west of here.  To pay for their blasphemous activities, they've been robbing travelers using the road that leads to Castle Ironfist.  We've appealed to the regent to do something about these horrible cultists, but he says all his forces are occupied in the west, or some such nonsense.  We want it gone now, so we're willing to pay you 5000 gold pieces to get rid of them and bring us back the Chime of Harmony as proof you've done the deed."	
+8	"Without the Chime of Harmony, I'm not authorized to pay the reward money.  "	
+9	Good work!  Here's your gold!  I can't thank you enough for ruining that temple.  Now the road to Ironfist will be safe for travel again.	
+10	The road to Ironfist is much safer thanks to you.  You have our gratitude.	
+11	The proprietor of the Howling Moon is George Caniss.  It's a wonderful place.  Tell him I said hi!	
+12	"Thank you so much for bringing me these letters! <Wilbur begins reading the letters> I’ve been so worried…I see… This is not good news…Oh, no.  Traitors!  Traitors and conspirators everywhere!  I must organize an expedition at once! <Wilbur lowers his voice> I trust you will not speak to the prince about these letters– he is already too depressed and unhappy to hear more bad news.  And now I must see to the organization of the expedition.  Here is a bag of gold as a reward– you’ve earned it and my gratitude.  Now, if only I could find someone to finish looking for Lord Kilburn…"	
+13	"<Wilbur snaps his fingers> Say, you wouldn’t happen to be interested in taking care of a little detail for me, would you?  Lord Kilburn disappeared near Blackshire.  Find out what you can and return to me with the information.  If it is true that he has been slain by devils, return his shield to me if at all possible.  I will grant you my favor with the High Council, should you require it, and you can rest assured your compensation will be generous."	
+14	"Hmm.  No luck finding the shield yet, eh?  Well, do keep looking, will you?  It really is important that someone accounts for his whereabouts."	
+15	"If his shield was in my Castle, I think I’d be aware of it.  Perhaps if you were to leave, you may have better luck finding it…"	
+16	"Ah.  ‘Tis a sad day when so noble a Knight should fall to such foul monsters!  You have done a good thing, bringing his shield to me.  I shall ensure that he and his men receive all the honors due them.  I am in your debt, and you have my favor with the council.  Here is your reward."	
+17	"Well, you have my vote on the High Council.  I trust you implicitly.  I've sent a messenger instructing Slicker Silvertongue to vote for you on my behalf.  Now I'm quite busy, and must attend to other duties.  I'm sure you can take care of any problems and miscommunications that may arise in this matter.  Yes.  Quite right."	
+18	"I cannot thank you enough for uncovering that horrible traitor and his crimes against the throne.  I understand you are on a mission of some importance, so for Services Rendered to the Crown, it behooves me to offer you free use of the royal yacht for your travels.  It will take you as far as Hermit's Isle, if you need it to.  Once again, thank you!"	
+19	"I am the Foremost Paladin, and as such, I am the one charged with the promotion and keeping of the titles and responsibilities of paladinhood.  Those paladins who wish to perform a quest for the official promotion to crusader must rescue a damsel in distress.  Those of you who are not paladins will be awarded the title of honorary crusader, and all will be given a sizeable gold reward.  Return to me with said damsel and I will promote any paladins aiding in her rescue to the status of crusader."	
+20	"I know there is a shortage of damsels in distress, but this quest is the traditional test.  I really can’t bend the rules here.  Keep looking– I’m sure you’ll find someone.  If it helps, I hear Melody Silver, daughter of the noble John Silver, is being held captive by ruffians on the Island of Mist."	
+21	"I have heard stories of the daring rescue, and I am delighted that you have returned with Miss Silver.  I shall arrange to have her returned to her family at once.  Exemplary work!  I hereby officially promote all paladins to the status of crusader, and all non-paladins to honorary crusaders!"	
+22	"Well, then!  It is a fine thing to be promoted to crusader, but even finer a thing to be promoted to hero.  As you may have guessed by now, the condition for hero status is to slay a dragon.  I know this seems difficult, but tradition has its demands.  What’s worse, you can’t slay just any dragon, but must slay a named dragon.  Your task is to slay Longfang Witherhide and return with a claw or tooth as proof.  Fortunately, we know that Longfang lives in a cave in the mountains behind Castle Darkmoor.  He has slain at least twelve would-be heroes, so be careful!"	
+23	There is no use returning to me to talk about your quest.  I cannot change the rules or your quest.  Longfang awaits your avenging sword.  Now get to it!	
+24	"Well done!  One less horrible monster in the world is a good thing.  I hereby officially promote all crusaders to heroes, and all honorary crusaders to the status of honorary hero! May you long continue to live up to the title!"	
+25	It is always good to speak with heroes of the realm!  Come back in some less troubled time and we'll swap tales of honor and courage by the fire!	
+26	"The palace is deadly dull, and everyone tells me what to do.  Being royalty isn’t really worth much and no one will let me go outside the walls while my father is gone.  I haven’t left the castle for months!  Anyway, you people look pretty important.  What if you helped me sneak out and stay with you for a couple of days?  I can’t give you much in return yet, but I’ll owe you a favor.  Someday I’ll be able to repay you.  I am the prince, after all!  I’ll go out the secret door and meet you outside."	
+27	Let’s go see the circus!	
+28	It seems that Prince Nicolai disappeared while you were resting.	
+29	"Um.  Hi. <smiling weakly> Would you believe I got lost and these nice people were taking me home?  No?  I guess I wouldn’t either.  I suppose it’s time we got back to the castle, then."	
+30	We should go back to Castle Ironfist.	Bringing Nicolai home
+31	"<Nicolai speaks to you> Well, thanks for sneaking me out of the castle.  Sorry about the circus thing– I hope I wasn’t too much trouble to find.  I’ll go in myself so no one will see that it was you who kidnapped me.  Thanks again, and goodbye.  I’ll remember this, and I owe you a favor! "	This text can only be accessed via an external event.
+32	Thanks for bringing me home.  I owe you a favor!	
+33	"Everyone says that my Uncle Archibald wasn’t a very nice person, and that he almost usurped the throne from my father, but we defeated him.  Father had Tanir turn him to stone and then locked him in the library.  Nobody’s been in there for years. "	
+34	"You want to free Archibald?!  If the Oracle told you to do it, I guess we should, but he’ll be trouble once he’s loose, that’s for sure.  I know where the bell is that turned him to stone, but I can’t open the family vault that it’s in without the Third Eye.  It’s one of three gems you need to put into the door of the vault in order to open it.  I’ve got two of them– one in my father’s crown and one in his scepter, but my father hid the third one, and he didn’t tell me where it is.  If you could find it, I could open the vault and get the bell."	
+35	"Without the Third Eye, I can’t get into the vault to get you the bell that will release Archibald.  He must have hidden it near the castle, because he used to just go right outside and fetch it whenever he needed to open the vault."	
+36	"You found the Third Eye!  All right, wait here– the bell should be in the vault.  <Nicolai runs out of the throne room, returning a short while later> Ok, here it is! "	
+37	I hope you know what you're doing.  Everyone says my uncle is quite treacherous.	
+38	missing text 38	
+39	"Now wait just a minute Tanir, and I’ll make it worth your while to let me…Oh. <Archibald is silent for a long while> I guess I have you people to thank for releasing me from my prison of stone.  Thank you!  You say you need a spell that I've created?  <reaching to the shelves and removing a library scroll> Well, as a reward, I’ll give you the Ritual of the Void.  Use it in good health.  Now, I’m sure you’re very busy, as am I…<Archibald waves his arms and fades away>"	Archibald speaks
+40	"Thank you for rescuing me from the clutches of those ruffians!  Oh, I wish there was some way for me to reward you!"	
+41	"Mine is the traditional duty to oversee the, um, less than upright business in the Kingdom.  My House has done this for centuries under the philosophy that such business will always exist and is better watched and regulated than not.  Recently, a man styling himself the 'Prince of Thieves' has begun to usurp my authority in Free Haven.  Not only does he challenge my authority, he cooperates with that loathsome new cult that’s sprung up recently…what’s it called?  Moo, or Yak, or Bark…no…whatever.  Some sort of animal sound.  Anyway, my sources tell me that this cult plots to overthrow the King and assume power in Enroth.  This is a bad business, and needs to be stopped.  You can start by arresting the Prince of Thieves and returning him to me in chains.  I will, of course, reward you richly.  "	
+42	missing text 42	
+43	"I have no information on his whereabouts, so it will do you no good to talk to me about it.  Try going to Free Haven and asking around.  He must have a hideout somewhere in or near that town.  <Smiling> if you find where he’s living, be sure to check under the bed and in the closet– you’ll probably find him hiding under a pile of clothes."	
+44	"Ah!  My friends, you have returned with the package!  Well done!  Here is your reward money.  You have my full support at the council. <looking at the Prince> Welcome to my humble home, mighty Prince.  I have a room prepared just for you.  Guards!  Take him away."	
+45	Your work in capturing the Prince of Thieves has been quite beneficial to me.  You have my full support on the High Council.	
+46	"In addition to my duties as overseer of unlicensed business, I am the High Priest of Enroth.  It is my job to promote clerics to priests, and if warranted, priests to high priests.  Right now, the rolls are full of priests, and I am unable to promote new ones without creating new positions.  To do so would be highly irregular, but if someone were to perform an extraordinary service for the kingdom, the promotion would be acceptable.  <Rubbing his temples> Come to think of it, there is a service I need.  A temple in Free Haven was destroyed by fire a few months ago.  If you could get it rebuilt, I would have a reason to promote any clerics among you to priest status.  Since I really want this job done, I am even willing to promote non-priests to an honorary priest status, and I will pay you well for your service.  You’ll need to hire a stonecutter and a carpenter and show them the temple you want them to work on."	
+47	"The temple I asked you to rebuild still stands in ruins.  The people are deprived of their rightful religious solace, and you return to me empty-handed.  Leave here and complete your mission!  "	
+48	"Excellent work!  The temple has been rebuilt and the affront to the gods eased.  For this service, I am happy to promote all clerics to priests, and I grant honorary priest status to all non-clerics.  Congratulations! "	
+49	"It seems a bit quick to promote anyone to high priest, given that the promotion to priest has been so recent.  Why, many wait their entire lives to receive such a promotion, only to be granted it posthumously.  However, an extraordinary service could possibly accelerate that promotion to, well, right now for instance… and I do have such a service in mind.  The heretical monks that live on the islands east of Free Haven have stolen our sacred chalice.  Retrieve it from the monks and put it in the temple you rebuilt.  Then return to me."	
+50	"The monks still have the chalice, and our temple is still without it.  Why do you delay?"	
+51	"I see that you have recovered the chalice!  Good work, but you still need to ensconce it in the temple.  Take it there at once and return to me for your promotion!"	
+52	"You are successful!  It looks like I will have to keep my promise and make more irregular, early promotions.  I do so with pleasure.  I hereby promote all priests to high priests, and all honorary priests to honorary high priests"	
+53	"Though your rise to high priest status was almost unseemly quick, I have never seen finer high priests in all my years.  I am grateful for all you've done for myself and for Enroth."	
+54	"This is %s, the month of %s.  Journey to the Shrine of %s and pray there to be rewarded."	seer unfinished
+55	You must wait until the new month to undergo a pilgrimage.	seer unfinished
+56	performed daring deeds	btb award default
+57	What have you lost?	seer unfinished
+58	1	divine intervention
+59	2	divine intervention
+60	3	divine intervention
+61	"I sometimes have the worst trouble trying to remember things I’ve learned.  I’m not sure why this is, but I’ve discovered a way around the problem.  I am going to create a mirror that will allow me to look back in time, so that I can remember what it is I’ve forgotten.  To do this, I need the Hourglass of Time, but my duties and research prevent me from searching for the hourglass on my own.  The hourglass is said to be in a dark cavern up near area… <pauses a moment>  No, that was the Spear of Darkness…  where is the hourglass?  <pauses again>  I should be able to remember this.  <snaps his fingers>  Of course!  It’s buried in an old fort to the south of here.  I can offer you my support in the council if you will help me in creating my mirror."	
+62	"Did you forget where the way out is?  I sometimes do.  I think it’s the large doors behind you.  Or is that the kitchen?  In any case, I’m sure the hourglass isn’t here, I would have found it by now if it was."	unused.
+63	"I’m still looking for the mirror. <pauses> I mean Hourglass… I keep getting those mixed up.  Did you try the dark cavern– no wait, it was the old fort south of here.  I always seem to mix those up."
+64	"Now all I have to do is remember how to create the mirror.  I wrote down all the important parts so I wouldn’t forget how to do it.  <stops> Where did I put those notes?  <ponders for a minute> I must have left them somewhere obvious, maybe in the laboratory.  Anyway, your part in this is done, and again I thank you.  You will have my complete support in the council for this.  What were your names again? "
+65	"The hourglass wasn’t there?  Oh, that’s right!  I knew I forgot something!  The key is in there!  You use the key to open the Forge of… <pauses>  Well, I can’t remember whose forge it is, but that is the resting place of the Hourglass of Time...I think.  It can’t hurt to look there, especially now that you’ve found the key.  <pauses>  At least I THINK that’s what the key opens.  Anyway, that forge or laboratory or whatever it is can be found on the islands north of New Sorpigal.  Good Luck!"
+66	Thanks again for getting the hourglass for me!  If only I could remember where I put it.  <sighs>  You have my support in the council for as long as you need it.
+67	"I am the magus in charge of training and promoting sorcerers.  Though powerful, sorcerer is not the pinnacle of the elemental magician.  Wizards take the knowledge and ability of a sorcerer, and hone those abilities to a sharper level.  They have greater magical potential than the sorcerer, and demand greater respect.  The way to earn this training, however, is not easy.  Find the Fountain of Magic, drink from its waters, and return here.  If you are able to do this, I will train you in the ways of the wizard."
+68	"I am the magus responsible for  the promotion of sorcerers.  Though none of you are sorcerers, I’m a fair man.  If you are able to locate the Fountain of Magic, I’ll grant you honorary wizard status.  You won’t receive any benefits of the wizards’ training, but you will gain more respect in the eyes of sorcerers and wizards.  "
+69	"Don’t ask me for hints, I’ve already forgotten where the Fountain is.  I know this isn’t an easy task, but if it were not difficult, every sorcerer would already BE a wizard."
+70	"You have done well in finding the Fountain.  It’s location and powers are a secret, do not spread its location around.  Now, let me show you the secrets of the wizard."
+71	"Your training does not end with what you have learned as a wizard, one final step remains.  Arch mage status completes your mastery of elemental magic.  Building on your wizard training, arch mages have vast magical ability– the most efficient and skilled use of magic anywhere.  Earning this training requires a powerful artifact, owned by the powerful Arch Mage Drael-.. no, it was Frundir-… no, that’s not right either.  Actually, I can’t seem to remember what the artifact was or who owned it.  I'd remember it if I saw it, though.  I know it can be found in Corlagon’s Estate near the Mire of the Damned.  Search for it there and return it; I must have it to train you to become an arch mage."
+72	"I’m sorry, but I still haven’t remembered exactly what it is you need.  I know you need to search Corlagon’s Estate.   "
+73	"Great news!  I remember what you need to find!  The Crystal of Terrax!  Oh, you seem to have found it already.  Well, perfect!  I can train you to arch mage, then.  The first arch mage, Terrax, used this Crystal to master the elements.  Fire, earth, water, and air all formed together to make it, and from analyzing it he learned a great deal about elemental magic.  In addition, its effect on light led him to his discoveries of light and dark magic.  Since that time, the study of this crystal has guided every new arch mage.  Let me show you the secrets of the crystal, arch magi. "
+74	"I don’t have much time to talk right now– I have a lot to do.  I’m in the process of organizing a few campaigns to attack the devils along the western coast.  You must realize, as I do, that nothing in all of Enroth poses as much of a threat to our safety as they do.  I only wish the other Lords would assist me by contributing supplies and troops, or just helping in the planning of these attacks.  They spend more time bickering amongst themselves over borders and laws and trade than in helping me deal with the REAL threat.  The devils have an advance post in Kriegspire near the Sentinels.  From here, they are able to base small raids and gather intelligence on our forces.  I need you to sneak in and attack it, find what information you can on the location of any devil strongholds and patrol patterns, and destroy the place.  Do not let any of the devils escape!  Surprise and secrecy are our greatest weapons."
+75	"Still here?  The demons are to the west, near the coast, not in my throne room!  Or are you THAT lost?  You have the information you need to complete this mission, all you need now is to go out and do it."
+76	"Did you fail in your mission?  You didn’t allow the demons to escape, did you?  That post MUST be destroyed for any large attack against them to be successful.  As long as that post exists, your mission still stands. "
+77	"Good job!  With the information you’ve brought back, we now have the intelligence we need to stage an attack on the devils, and with that post out of the way, we can hit them when they won’t expect it. I give you my full support in the council– hopefully the council will actually DO something for once."
+78	"Excellent work in dispatching those devils!  Again, you have my thanks.  My support in the council is yours, at least until the threat of the devils is past.  Hopefully you can spur the council into action.  By the way, the information that you brought back has confirmed our suspicion about the enemy base.  It is definitely near the town of Sweet Water in Paradise Valley."
+79	"I am the Armsmaster in charge of the promotion of all knights in Enroth.  Worthy knights can be promoted to cavaliers.  Cavaliers embody the spirit of action and the power of purpose.  Behind their courageous example, armies charge into battle and enemies flee in terror. However, to become a cavalier, you need to be nominated by a person of authority.  If you could get the nomination of a cavalier, that would be good enough for me.   "
+80	"I am the Armsmaster in charge of the promotion of knights.  Unfortunately, none of you are knights, and therefore the skills I would teach you would be worthless.  However, if you so desire, you can attempt the task of a would-be cavalier.  Seek the nomination of a person of authority, a cavalier, for example, and return to me."
+81	"Well there, you’re looking for a nomination to become cavaliers?  I was once a valiant knight in my day.  I fought with Roland in the Succession wars, though now I’m too old to do much good on the battlefield.  It’s good to see Osric keeping the traditions of the knights alive.  Tell him that I proudly nominate you to become cavaliers, and if he gives you any trouble tell him to come see me himself."
+82	Congratulations!  I know you’ll make fine cavaliers.  I only wish I had my youth again to serve with Osric in a campaign against the devils.
+83	"Come now!  A person of your fame and stature should have no problem being nominated.  Don’t tell me your fame is contrived– are you sure you deserve to be as famous as you are?  <laughs>  I’m jesting, calm down.  Seriously, I'd suggest looking in Free Haven or the village of Rockham.  I've heard a few cavaliers frequent the taverns there."
+84	"Congratulations!  The nomination may not seem important, but we have a tradition that must be followed for this promotion.  As a cavalier, you need to understand that the traditions and values of the people need to be defended.  I gladly promote you to the rank of cavalier!"
+85	"Ah, worthy cavaliers, the final step in your training is to become a champion.  A cavalier is a brave and noble warrior, but a champion is a power to behold.  No force can stand between the champion and victory.  Entire campaigns are decided on the bravery, decisiveness, and powerful example of the champion.  The task to complete this promotion, however, is difficult.  You must defeat a powerful enemy to prove your ability and determination.  The only enemy worthy of this task is a man known only as the Warlord, a dangerous and powerful warrior.  He commands a legion of evil knights, normally based to the northeast of  Icewind Pass.  Defeat him, bring back proof of your victory, and your promotion to champion is assured."
+86	"You’re not scared of the Warlord, are you?  His terror needs to be put to an end.  You can’t become champion hiding underneath your bed or standing around looking at the walls– you need to go out and DO it!"
+87	"Good job!  Excellent!  I wasn’t sure you’d make it back alive.  Kergmond had more potential than I realized, but you’re certainly more than a match for an army of Kergmonds.  You’ve proven yourselves worthy of the rank of champion. You must not be afraid to take up arms to defend what is right.  May your enemies fear your approach and your allies rally behind your courage. And now, I promote you to the rank of champion! "
+88	"Memory Crystal Alpha – Hermit’s Isle.
+Memory Crystal Beta – Alamos.
+Memory Crystal Delta – Darkmoor.
+Memory Crystal Epsilon – Kriegspire."
+89	Place the memory Crystals into the modules above.  All four Crystals are necessary to activate the Oracle.
+90	"I am Melian, Guardian of Enroth.  Thank you for replacing my memory modules.  Archibald took them from here when I refused to give him any help in his battle for succession.  Your timing is impeccable.  The Kreegan have invaded our world, and you must try and stop them.  Unfortunately, Archibald’s attempts at extracting information from me have damaged me enough that I cannot help you directly now.  Instead, I can only give you advice.
+
+While most of the Kreegan can be slain with ordinary weapons and spells, the elite guards and upper echelon breeders have tougher skin and natural defenses that protect them from anything but very powerful weapons.  In the planetary control center beneath me are the weapons and armor you will need to survive battle with the enemy.  My orders, however, will only permit passage to someone with a Control Cube.  My instruments tell me that the only Control Cube left in Enroth can be found somewhere underground in Dragonsand.  "
+91	"You now have access to the Control Center.  Simply ask to be transported and I will oblige.  One warning however– the guardians of the Control Center are no longer under my control, so please exercise caution while visiting the Center."
+92	"As I said, the Kreegan are resistant to most of the weapons available in Enroth, but not all.  To rid the world of them, you will need to find where their vessel crashed and destroy the main reactor.  The only problem is that the resulting explosions from the reactor will destroy this planet.  You will need a powerful spell to prevent the explosion from damaging the planet, but no spell like that exists in the world today.  The only person I can think of that would know of such a spell is Archibald, but he is in no condition to teach you.  To make matters worse, the reactor cannot be harmed by normal weapons or spells– you will need the ancient weapons in the Control Center to destroy the reactor."
+93	"Though my memory has been damaged by Archibald, I can still remember the danger that our ancient enemy, the Kreegan, pose to our world.  The Kreegan first appeared roughly 1500 years ago, attacking outlying colonies and stealing their resources.  It was thought at the time they simply needed certain minerals, and could be reasoned with, but this was not the case.  Their life cycle forces them to breed until the world cannot support their numbers, then they send ships off to other worlds to renew the cycle.  Their attacks against the empire of the Ancients disrupted the network of shipping and communications that held us all together, causing the Silence that marks the first year of our modern calendar.  Without support from the homeworlds, our fledgling technology failed, bringing us to this sorry state.  I would help rebuild our technology, but I seem to have become a religious figure in the minds of many people, and very few visit me or understand what I have to offer.  Perhaps this Kreegan crisis we face will bring people to their senses--as long as we survive it."
+94	"I happen to know that you are amongst a short list of adventurers looking to receive favor from the High Council.  What you want it for I don’t know, nor do I care.  I’ll be blunt:  I love money, and I want more.  Much more.  I have a plan to fix the price of shipping in my favor for a time and I need competent agents to carry it out.  Perform this task well and I will give you my support, not to mention a lot of money.  Here is the plan:  Each of the nine shipping companies in the Kingdom must be convinced to charge at least 48 gold per pound per mile of material they transport.  They are all in competition and they know it, so none will want to make a move before the others.  I don’t care how you convince them– just get the job done and report back to me."
+95	"Not all of the companies have agreed to raise their prices!  Why do you return only to report incompetence?  There are large profits I could be reaping if you had done your job and convinced these idiots to raise their prices!  MUST I DO THIS MYSELF?  Should I send someone else?  Why do I surround myself with MORONS?!  So far I have lost a lot of gold because you haven’t finished your job!  I’ll deduct these losses from your final payment, you can be sure of that!"
+96	"At last!  Thought you would never finish.  Maybe you’re good for something after all.  You have won my support in the council, and of course, your payment. "
+97	"If you're concerned about the suffering of the peasants over my price increase, don't be.  I did it all for a good cause.  I needed to raise money for granaries to store the excess grain we are harvesting this year.  The shipping prices are back down, and the availability of cheap, high quality grain more than makes up for it.  There!  I'm not so horrible, am I?"
+98	"Although it may be hard to believe, I happen to be one of the top druids in the land.  As such I am empowered to promote druids to great and arch druid status, provided they prove themselves worthy.  To be promoted to great druid status, you must perform the Ceremony of the Sun.  Pray at the center of the Circle of Stone during any equinox or solstice– March 20th, June 21st, September 23rd, or December 21st.  If you are there at that time, I will contact you magically and lead you through the Ceremony, thus promoting you to great druid.  Those among you who are not druids will be granted honorary great druid status, and I am sure the experience will be worthwhile."
+99	You must pray at the center of the Circle of Stone during an equinox or solstice to complete the Ceremony of the Sun and be promoted to great druid.  There is nothing I can do for you to be promoted until then.
+100	"<Loretta Fleise contacts you via a telepathy spell> Welcome to the Ceremony of the Sun.  Stand ye in the circle of life and face the north while no shadows stretch before thee.  Meditate upon this truth:  “Money is everything.  I have no truer a friend than money…” <grinning> Just kidding.  Now, close your eyes, and meditate as you stand at the center of the world and time for just this one, sublime moment… <long, silent pause>  Open your eyes.  I hereby promote all druids to great druids and all non-druids to honorary druids. <Loretta fades away> "
+101	"So, you believe you are deserving of the title of arch druid.  You must complete the Ceremony of the Moon to achieve arch druid status.  This used to be rather easy before the factional split amongst the last generation of druids, but now you must fight your way to the sacred altar.  It is in the Temple of the Moon, currently controlled by the evil heretic Cedric Druthers.  There is no way they will just let you complete the ceremony peacefully, so you will probably have to fight your way in.  Like the Ceremony of the Sun, the Ceremony of the Moon must be performed at a certain place and time.  Pray at the Altar of the Moon in the Temple of the Moon at midnight during any full moon.  If you are there at that time, I will contact you magically and lead you through the Ceremony."
+102	"<Loretta Fleise contacts you via a telepathy spell> Welcome to the Ceremony of the Moon.  Stand ye before the altar of the Moon facing south.  Close your eyes and meditate upon the Circle of Seasons and the Wheel of Life.  <long, silent pause>  Open your eyes, my friends.  I hereby promote all great druids to arch druids, and all honorary great druids to honorary arch druids.  <Loretta fades away> "
+103	You must be standing before the altar of the Moon at midnight on any full moon to complete the Ceremony of the Moon and be promoted to arch druid.  There is nothing I can do for you to be promoted until then.
+104	"The earth is wounded in the west.  I can feel it, my fellow druids, and if you put your hand to the ground and listen with your heart, you'll feel it, too.  I am bound here with my responsibilities, but I urge you to investigate the source of this pain.  I am sure the wound and the Night of Shooting Stars are related.  "
+105	"I grow tired of winter.  In my lands, winter seems to last year round.  As a matter of fact, for the last few years, summer didn’t arrive at all.  I have come to believe that something is wrong with the weather, and I want something done about it.  I know your reputation, and I hear you can do anything.  I have a deal for you.  End the winter in my land and I will give you my support in the High Council when it comes time for you to ask for it.  If it's any help at all, I hear there is hermit on a mountaintop somewhere west of here who has studied the weather in detail."
+106	"Do you think you could hurry this miracle thing along?  The snow on the ground is building up, and we are going to have to start putting buildings on stilts!"
+107	I was looking out my window when the weather broke and the snow vanished!  A miracle!  A genuine miracle!  You have done my people and me a great service.  <Slapping his chest> Count Erik Von Stromgard as your friend forever!  
+108	"For your services, I grant you my favor in the High Council!  Long may you live, O enemies of Winter!"
+109	"20 years ago, I won the annual archery competition held at Castle Ironfist, and I have held the championship ever since.  This gives me the right to promote archers to the title of battle mage and warrior mage as I see fit.  I’ll grant the title of battle mage to all the archers amongst you if you do me a little favor. I need the key to the old Dragon Towers set up near every major settlement in Enroth to shoot down flying creatures.  I think that they can be set to shoot down only monsters, instead of shooting anything flying through the air. Since this is something of a pet project, I will reward honorary battle mage status to the rest of you.  The key is in my old keep near the southern entrance to my lands.  I had to leave it there when the ogres and their companions took it from me a few years ago.  Return with that key and be rewarded.  And I won’t be crying in my beer if you kill a lot of those monsters while you’re at it.  They took my keep!"
+110	No key—No reward.  Our deal is simple and straightforward.  Fetch the key from my old keep and return once you have it.  
+111	"Very good!  You got the key, and hopefully slew a large number of those loathsome beasts.  I hereby promote all archers to the status of battle mage, and all non-archers to honorary battle mage."
+112	"The reason I wanted the key was to open the Dragon Towers and make the adjustments to prevent them from shooting flyers indiscriminately.  There is a way to adjust the towers to shoot at only large objects, and I want all of them adjusted for the good of the Kingdom.  Magic is becoming more common, as are stories of young Sorcerers getting shot from the sky because they didn’t know the function of the towers.  You have the key.  If you adjust all of the towers to shoot at only large objects, I will promote all battle mages amongst you to warrior mages and promote any honorary battle Mages to honorary warrior mages."
+113	"Hmm.  Not all of the towers have been reset.  They are easy to find, if a bit long in getting to.  The easiest is in Whitecap to the west of us."
+114	"You’ve had a measure of success in resetting the towers, I see, but the job isn’t done yet.  There are still towers unadjusted.  Finish what you’ve started and return to me to receive your reward."
+115	"I knew my faith in you was well placed!  You have fixed a major problem in our kingdom, not to mention doing yourself a favor—It’s now safe to fly above towns.  It is my pleasure to promote all battle mages to warrior mages, and all honorary battle mages to honorary warrior mages.  "
+116	"Welcome, warrior mages!  You may warm yourself by my hearth any time!"
+117	"I like it up here.  It’s as though I can watch the world turn from up high and all alone.  Serene.  Untouchable.  Almost…Prophetic.  I can see the clouds churn and travel, break apart and mix together.  I can predict the weather almost perfectly.  <Smiling> Right now, I predict more snow."
+118	"So, Stromgard needs a miracle with the weather, eh?  All this time I thought he was the one responsible for making it snow continually.  I can break the enchantment on the weather easily, and if you hurry back to him, I’m sure you can claim responsibility."
+119	"As grateful as I am for your company, I am, in fact, a hermit.  I'm sure you have plenty of important things to do and don't need to be cluttering up my house any longer."
+120	"Well met, champions!  Please, don’t waste your valuable time or mine in times like this.  Use your skills for the good of Enroth and leave me to my planning!  When this battle is over, THEN we can share tales of valor and skill."
+121	"Hello there!  Are you here to tile the floors?  Oh!  Sorry, for a moment I forgot who you were!  Welcome again, arch mages!  Perhaps you can assist me in an experiment or two when you’re less busy?"
+122	"I am only allowed to vote on the issues that Lord Temper specifically instructs me on.  Garner his approval, and on his recommendation, I will vote in your favor."
+123	Osric has instructed me to vote for your cause.  I give you my full support in his name.
+124	Lady Fleise could not possibly care less about your problems and I will therefore not even consider your request.
+125	"You have my vote, in Loretta’s name, to visit the Oracle."
+126	Lord Stone has not authorized me to vote in your behalf.  You will need to take this matter up with him.
+127	"Anthony backs your request to visit the Oracle, and I give you my vote on his behalf."
+128	"I cannot vote on matters that do not concern Lord Stromgard.  Until you have his backing, I cannot vote for you."
+129	"I vote for you to visit the Oracle, as instructed by Eric von Stromgard himself."
+130	"Until I receive favorable word from Lord Newton on your request, I cannot give you my backing."
+131	Albert has given me permission to back your request to visit the Oracle. 
+132	"You have not adequately demonstrated your loyalty to my liege, Lord Humphrey, and I cannot give you my vote."
+133	"As long as I am a member of this council, you will not be permitted to visit the Oracle.  I am not convinced of your sincerity and will not grant your request."
+134	"Do not believe you have won!  Soon the Iron Fist will lose its grip, and I will be your king!  And you can be sure I won't forget you…"
+135	Curses!  Foiled again!
+136	"Well, If Loretta's got a new scheme, count me in!  But you better get all the other companies to sign up!"
+137	You're already a member of this guild.
+138	"I am the one you need to speak with in order to join the Guild of the Elements.  The cost to join is 100 gold pieces.  Only members may purchase spells from our fine library.  The guild has spells from all four of the elemental disciplines, and like all guilds in the kingdom, we have two guild halls.  Membership in one automatically enrolls you in the other."
+139	"It is my sacred duty to accept donations for the Guild of the Self.  If you contribute 100 gold pieces, we will grant you guild member status.  Members are permitted to buy spells from any Guild of the Self in the land."
+140	"Pssst…Wanna buy membership in the Buccaneers' Lair?  We have two chapter houses in the kingdom, and we support our members by teaching them certain valuable skills.  I'm sure you know what I mean.  All we want is 25 gold pieces, and our services are at your disposal."
+141	"Hi.  I'm the guild recruiter for Protection Services, a 'special' guild sanctioned by Lord Anthony Stone to sell protection to merchants, whether they want it or not.  But we aren't all thugs– we offer legitimate services and classes, too.  Membership in the Protection Services Guild costs 50 gold, and entitles you to buy classes in any skill we teach."
+142	The Smugglers' Guild doesn't just run contraband goods past customs inspectors– it offers schooling in all the skills a smuggler needs to excel in his chosen profession.  All our members get access to the finest teachers in the business.  All we ask is a one time guild membership fee of 50 gold pieces.
+143	"HEY!  The Blades' End mercenary's guild wants YOU– provided you're willing to pay a small fee to join.  For 25 gold pieces, we'll give you access to teachers for many of the skills a good sword for hire needs to succeed.  "
+144	"The Duelists' Edge mercenary guild offers valuable teachings in all the skills that a warrior on the go needs to know.  For a one time fee of 50 gold, we'll give you access to not just one of our fine guild halls, but BOTH of them.  Remember, ours is the only guild that teaches the valuable repair skill."
+145	"The only way to get someone to teach you how to properly wear plate armor, short of a four year stint in the Iron Army, is to join the Berserkers' Fury mercenary guild.  We teach many other skills as well, so our modest fee of 50 gold pieces to join for life is really cheap."
+146	"If you already have membership in the Guild of the Elements, I'm sure you've found that their 'fine library' doesn't measure up to your exacting standards.  That's why I urge you to pay your dues at the Guild of Air.  Since we concentrate on air magic, you're more likely to find what you're looking for.  And the price is low, too!  Just 50 gold for a lifetime membership."
+147	"Membership in the Guild of Earth will give you access to our excellent library of earth spells.  Like all the spell guilds, we have two guild houses, and membership in the one automatically enrolls you in the other.  The cost to join is but 50 gold pieces."
+148	You may have noticed all the monsters and hostile people running around the kingdom lately.  Defending yourself can be tough with the simple spells the Guild of the Elements teaches to its members.  What you need is fire power!  The Guild of Fire has the most destructive spells short of dark magic known to man.  50 gold pieces gives you access to our excellent library.
+149	"Membership in the Guild of Water gives you the right to buy our spells of change and movement.  It's my job to recruit new members and collect membership dues from them.  The price is 50 gold, and that includes membership in both our initiate and adept guild halls."
+150	"I am the guild recruiter for the Guild of Body.  We are aware that many people think the simple healing spells available at the Guild of the Self are adequate, but we assure you they're not.  If you join our guild, you'll have the opportunity to purchase much more effect Body magic spells.  The cost is 50 gold pieces."
+151	"The greatest mind magic spells cannot be found in the Guild of the Self– they can only be found at the Guild of the Mind.  I am empowered to sell membership to the Guild of the Mind for 50 gold pieces.  We have two guild halls, and membership in either is one and the same."
+152	"When death strikes, often the measures an individual takes to prevent financial loss to the grieving family are inadequate, resulting in devastating burial costs.  The best way to prevent these costs is to invest in a Raise Dead or Resurrection spell purchased by the friendly folks at the Guild of Spirit Magic.  Yes, members enjoy full access to our luxurious and well stocked libraries for a small one time charge of 50 gold.  Act now and set your mind at ease!"
+153	"Light magic represents the most powerful magic a person can wield without cost to his soul.  Unavailable anywhere else in the kingdom, we feel confident our price of 1000 gold pieces for guild membership is fair."
+154	"I know what you want– power.  You're tired of half-hearted spells that nick and cut your enemies but do no real damage.  Let me introduce you to the Guild of Dark.  Our spells are the strongest in the land, plain and simple.  Membership in our guild costs but 1000 gold."
+155	Join the Elemental Guild for 100 gold
+156	Join the Self Guild for 100 gold
+157	Join Buccaneers' Lair for 25 gold
+158	Join Protection Services for 50 gold
+159	Join Smugglers' Guild for 50 gold
+160	Join Blades' End for 25 gold
+161	Join Duelists' Edge for 50 gold
+162	Join Berserkers' Fury for 50 gold
+163	Join the Air Guild for 50 gold
+164	Join the Earth Guild for 50 gold
+165	Join the Fire Guild for 50 gold
+166	Join the Water Guild for 50 gold
+167	Join the Body Guild for 50 gold
+168	Join the Mind Guild for 50 gold
+169	Join the Spirit Guild for 50 gold
+170	Join the Light Guild for 1000 gold
+171	Join the Dark Guild for 1000 gold
+172	You must be a member of this guild to study here
+173	"For your numerous crimes and evil deeds, you have been sentenced to one year in prison. "
+174	"Followers of Baa and a band of cutpurses have been raiding Mist from the islands to the north.  They come to Mist through a teleporter on the northwest of the island.  I'll activate the teleporter so that you can get to their islands and get rid of them.  I'm sure they have all the things they've stolen on those islands, and you can get back from their teleporter.   "
+175	You never found it.
+176	Here is the %s you have misplaced.  You must be more careful in the future.
+177	"Slicker Silvertongue refused my order?  This must be treason!  Still, I've known him so long, and he's never disobeyed an order before…perhaps he is suffering from delusions.  Yes, that's it.  He's been spending so much time investigating that horrible Baa cult that it's affected his mind– I even found one of their cloaks in his room.  Perhaps you can find a cure for him.  They must surely know what they've done to him!  I would start at their headquarters east of Castle Kriegspire.  Here, take the cloak– perhaps you can find some use for it."
+178	"Oh, my!  It appears that Slicker Silvertongue really is a traitor!  Who ever would have guessed it?  You've done a good thing, bringing this letter to me.  Take it to High Council immediately so we can be rid of this wicked traitor for once and for all!"
+179	Please hurry in your quest to find Slicker Silvertongue's cure!  I am sure the poor man must be suffering horribly under their dreadful mind control spell!
+180	"Welcome to the Circus of the Sun!  We have a variety of games for your amusement.  You can take the prizes you win from the various games and trade them in here for either kegs of wine or golden pyramids.  You need at least 10 points to get a keg of wine, and 30 or more points will win you a golden pyramid.  In case you didn't know, each lodestone is worth 1 point, each harpy feather is worth 3 points, and each four leaf clover is worth 5 points.  "
+181	Missing Text:  Circus Main Tent Trade for Prize
+182	"I'm sorry, but you don't have 10 points yet.  Why don't you try a few more games?"
+183	"Congratulations!  You win a keg of wine!  There are no limits on the prizes here, so keep playing!"
+184	"Congratulations!  You win a golden pyramid!  Good work– remember there are no limits on the prizes, so keep playing!"
+185	"Welcome!  To play my game, simply pay 50 gold and step right up to compete against me.  Depending on how well you do you can win either a lodestone, a harpy feather, or a four leaf clover.  If you do poorly, you win nothing.  You can trade in your lodestones, feathers, and clovers in the main tent."
+186	"Too bad!  You came pretty close.  For 50 gold, I'll give you another chance."
+187	"Good job, I thought I had you there.  You win a lodestone!"
+188	"Excellent work, you win a harpy feather!"
+189	"Incredible!  Are you sure you didn't cheat?  Well, a rule's a rule.  Here's your prize– a four leaf clover!"
+190	"As part of the effort to rebuild the Temple here in Free Haven, I'm collecting temple gongs.  If you have any gongs, I'll pay you 2000 gold for each of them."
+191	"This one's a little dirty, but I suppose it will do.  Here is the gold I promised you for it.  Thanks for your help!"
+192	"I'm looking for bones to use in my rituals.  I prefer bones from humans or humanoids, but I suppose I can make do with whatever you find.  I'm willing to pay up to 1000 gold for bones that I can use."
+193	Hmm...  A leg bone of a human?  This will do nicely.  This bone is certainly worth 1000 gold.  
+194	"Many people aren't able to visit the circus, so I'm collecting circus prizes to give away to those not able to visit it themselves.  I'll buy lodestones for 5 gold each if you want to part with them."
+195	Thank you!  You're too generous– this will make a lovely gift.  Here's the 5 gold I owe you.
+196	"My daughter wants to go to the circus, but we never have the time when the circus is near here.  I'd love to give her a bunch of the pretty harpy feathers for her.  I'll take any harpy feathers you have for 10 gold each."
+197	"Thanks!  Don't tell my daughter about this, I want to surprise her.  Here's the 10 gold."
+198	"I've heard that you can get really nifty things from Abdul's Desert Resort if you pay with golden pyramids.  I'm hoping to go there one day, and I want to stock up on the pyramids now.  I'll take any golden pyramids you have for 1000 gold."
+199	"Welcome, adventurers!  Did you have something for me?  I'm a very busy man, you know.  "
+200	I can help you become an expert in the use of the staff as a weapon.  All you need is an intermediate skill in the staff (Rank 4) and 2000 gold.
+201	"Not to brag, but I'm the best staff fighter in the land.  I will teach any student who is already an expert with the staff and has a high degree of skill (Rank 8) for 5000 gold."
+202	My teaching can improve your sword technique.  You must already be of intermediate skill (Rank 4) to benefit from my advice.  I charge 2000 gold per student.
+203	"I am amongst the finest swordsmen in the land.  I will teach students free of charge who possess a high degree of skill (Rank 8) and are cavaliers in the eyes of Lord Osric Temper, the greatest swordsman ever to live.  I won't waste my time with anyone else."
+204	"Wanna learn a few tricks with the dagger?  You've come to the right place, my friend.  I'll teach you if you already know a thing or two with a dagger (Rank 4), and of course can pay my fee of 2000 gold."
+205	"The dagger is a quick and subtle weapon that needs more brains than brawn to use.  If you're already skilled enough (Rank 8) and quick enough (Speed 40), I can train you to master rank for 5000 gold."
+206	"Using an axe is trickier than you think.  If you've already had some practice with the axe (Rank 4), I'll be happy to show you the finer points of splitting skulls.  My fee is 2000 gold."
+207	"So, you want to train your axe skill the dwarven way?  My tutorage will show you how to dramatically increase the damage you inflict with an axe."
+208	"It takes practice to use a spear right.  You have to know how to keep your enemy from getting past the point, and what to do when he does.  If you have enough skill already (Rank 4), I can show you the right moves.  All I want is 2000 gold for my services."
+209	"A little practice with the spear keeps you from making deadly mistakes in battle, but a lot more practice will help you get the best results from your spear.  I will teach you the secrets of the masters if you've already had a little practice (Rank 8) and have achieved cavalier or honorary cavalier status.  My fee is 5000 gold."
+210	Learning to use a bow quickly and accurately is a skill that can take a lifetime to master.  I can start you down that road if you've already had some basic training (Rank 4) and 2000 gold in your purse.  What do you say?
+211	"Many years ago, I discovered a technique for firing twice as many arrows as the conventionally trained archer can in the same amount of time.  Since all battle mages receive their titles from Lord Stromgard and I know he's a good man, I can rest assured you'll measure up to my standards.  My teaching is free, but you must already be highly skilled (Rank 8) in the bow and, of course, a battle mage. "
+212	"A lot of people think there isn't much finesse in using a mace or hammer, but they're wrong.  Beating something to death with a mace is a lot like playing the drums.  You have to target the hard, bony parts of your enemy so your weapon will bounce back quickly, cocking itself for another strike.  I can teach you this technique if you already have a little skill (Rank 4) for 2000 gold."
+213	"A master of the mace can strike enemies senseless with a single blow.  I've been practicing this technique for years and have it down to a science.  If you have the strength (Might 40) and the skill (Rank 8), I can teach you my technique for 5000 gold."
+214	"No weapon today can match the power of the weapons from the Time of Wonders.  I'm not sure any of those ancient weapons exist anymore, but I can show you some tricks if you find one.  Really!  I'm not crazy!"
+215	"Long ago I found an old weapon that fired sunlight and could kill almost anything I used it against.  I killed so many dragons, it got to be routine.  I could shoot them out of the sky like big, slow ducks.  One day, it just stopped working, and my career as a dragon slayer ended.  If you ever bring me one, I'll show you how to use it right for 5000 gold."
+216	"Used correctly, a shield makes a big difference in a fight.  You have to defend yourself if you're going to have a chance of winning.  I can give you a some advanced training if you've already practiced a little (Rank 4) and have 2000 gold to spend."
+217	"It's easy to use a shield, but hard to use it right.  I can drastically improve your defense if you give me the chance.  Since I only offer extremely advanced training, you have to be an expert student (Rank 10) before I can help you.  All I ask is 5000 gold for my fee."
+218	I can teach expert skill in leather armor for a modest fee of 1000 gold if you already have a little skill (Rank 4).
+219	My teaching will bring you up to master ranking in leather armor for 3000 gold.  My students must already be highly skilled (Rank 10) in the use of leather armor for my teaching to be worth anything to them.
+220	"Using chain armor is a skill that must be developed like any other.  It's not like wearing a heavy coat, that's for sure!  I can train a little expertise into you for 1000 gold, provided you already have some skill (Rank 4) with chain armor."
+221	"Chain armor is a weapon of war, there's no doubt of that, and I'm careful who I train in its use.  I'll only take crusaders recommended by King Roland or his regent, Wilbur Humphrey.  I have no fee, but I do require my students to be well practiced (Rank 10) before I'll train them."
+222	An expert with plate armor can wear it with elegance and style.  I can instill this grace in my students if they already have a little skill (Rank 4) and 1000 gold for my fee.
+223	"One who is a master in the use of plate mail wears it as easily as he wears his own clothes.  Since plate mail is such a militarily important skill, I'll only teach it to people designated heroes by the king or his regent."
+224	"The secrets of the fire are deep indeed, and can only be taught to one well initiated in the art (Rank 4).  I can bring your skill to expert level for 1000 gold."
+225	"Long have I studied the mysteries of fire magic, and have finally come to master the skill.  I can teach the highly skilled (Rank 12) some of the things I've learned for 4000 gold."
+226	"There are ways to draw magical energy from the air to power your spells longer and more efficiently.  If you're practiced in the art of air magic (Rank 4), I can teach you for 1000 gold."
+227	"Air magic is the most subtle and quirky of the elemental magics you can study.  Because of the difficulty involved in learning this skill, I can only teach those who have achieved arch mage status.  My price is 4000 gold."
+228	"Water is the element of movement and change.  Without skill in water magic, it takes forever to get from one side of the kingdom to the other.  I can improve your skill to expert status if you've already had a little practice (Rank 4).  My fee is 1000 gold."
+229	A master of water magic with the Lloyd's Beacon spell can travel about the kingdom as much as he pleases.  I teach the skill to the most advanced students (Rank 12) for 4000 gold.
+230	"If you want to become an expert in earth magic, you've come to the right place.  All you need is a modest level of skill (Rank 4) and 1000 gold for my fee."
+231	"I can teach experts in earth magic to become masters of earth magic.  You must be very highly skilled (Rank 12) before I can help you, and my fee is 4000 gold."
+232	Spirit magic is the magic you need to bring life from death.  I can train you in this important skill if you've already had a little practice (Rank 4) and are willing to pay me 1000 gold.
+233	"The most advanced spells of spirit magic permit the practitioner to raise the dead back to life. The choice of bringing a soul back from its final resting place is a weighty one indeed, and I will only train those sanctioned by Lord Stone as High Priests in the mastery of spirit magic.  In the service of humanity I freely perform this service."
+234	"I can fine tune your skill in mind magic, bringing you up to the level of expert in this vital skill.  You must have had a little practice (Rank 4) and be willing to pay a fee of 1000 gold."
+235	I will train any experts of mind magic sufficiently skilled (Rank 12) to master level for 4000 gold.
+236	Body magic is the magic of healing and strengthening spells.  I will train anyone who is interested up to expert level for 1000 gold.  All you need is a little prior practice (Rank 4) for me to help you.
+237	"The mysteries of the body can be yours all for the low, low price of 4000 gold.  Only highly skilled (rank 12) experts can benefit from my teachings."
+238	I can show you some of the secrets of light magic if you already have a little skill (Rank 4) to start with.  My fee is 2000 gold.
+239	"A master of light magic is amongst the most powerful spell casters in the world.  I can improve nearly any expert to master status, but I do not do this lightly.  I will only teach persons of the highest reputation.  Living saints."
+240	"Ah!  A student of darkness, no doubt!  If you want schooling in dark magic, I can help you if you've already practiced a little (Rank 4).  My fee is 2000 gold."
+241	"I can bring experts of dark magic up to master, provided they meet my standards.  I only teach the genuinely dedicated– those so evil their reputations are as bad as they can get.  The truly notorious.  I make no exceptions, and charge no fee in the interests of spreading darkness throughout the world."
+242	"If you've spent any time adventuring at all, you'll know how important it is to know what your equipment does and how much it's worth.  I can improve your expertise with this skill if you already have a little identify skill to start with (Rank 4).  My price is 500 gold."
+243	"You may already have found that while being an expert in identifying your treasure is good, it's not good enough.  I change  that.  I will teach experts to become masters for 2500 gold.  All you need is sufficient skill (Rank 7) and smarts (Intellect 30)."
+244	"I will happily teach anyone with enough (Rank 4) merchant skill to become an expert merchant for 2000 gold.  It may seem expensive, but it's worth it!"
+245	"Rare is the expert merchant, but rarer still is the master.  I can finish your merchant's education for 4000 gold, provided you have the skill (Rank 7) and the charm (Personality 30)."
+246	"Any blacksmith shop can repair your equipment, but what do you do when something breaks while you're on the road?  I can make you an expert at mending things that are broken.  All you need is a little repair skill (Rank 4) to start with, and the gold to pay me.  My fee is but 500 gold."
+247	"I teach experts in repair skill to be masters in the repair skill.  You must have a high skill (Rank 7), fine agility (Accuracy 30) and 2500 gold for my fee."
+248	"Ja, you want to learn body building, right?  Then you listen to me.  I teach you right for 500 gold, if you have a little meat on your body (Rank 4) to start with."
+249	"If ever I've seen such pathetic weaklings as you, for the life of me I cannot remember!  Starving rats have more meat on their bones!  For a fee of 2500 gold, I'll beat you mercilessly until you become master body builders!  You must, however, already have spent time working out (Rank 7) and be tough enough to take my punishment (Endurance 30) before I'll have anything to do with you!"
+250	"The way to achieve strength in the material realm is to achieve strength in the spiritual realm.  I can show you the way.  For a fee of 500 gold, I will help you attain expert skill in meditation if you have already had a little practice (Rank 4)."
+251	"Who disturbs my meditation, as the pebble disturbs the stillness of the pond?  Ahh, seekers of the True Path.  If you have already traveled the path of meditation for some time (rank 7) and have the strength of character (Personality 30) necessary for my teaching, I can lead you to master status for 2500 gold.  "
+252	The watchful can sometimes see a trap just before it goes off.  The lucky and skillful can sometimes avoid damage altogether.  I can teach you to recognize and avoid these traps provided you've already practiced a little (Rank 4) and have 500 gold for my fee.  
+253	"The lucky person with a well trained eye can often stay out of harm's way when a trap goes off unexpectedly.  If you've already had a lot of practice (Rank 7) and are lucky enough (Luck 30), I'll make you a master of the perception skill.  My fee is but 2500 gold."
+254	Having trouble getting people to talk to you?  That's your reputation speaking!  A little skill in diplomacy will lessen the impact of your past misdeeds.  I can bring you up to expert diplomat if you've already practiced your diplomacy a little (Rank 4) and have 500 gold for my fee.  
+255	"Even a murderer is entitled to his day in court, and a good diplomat can turn a premeditated ambush into a case of desperate self defense.  I specialize in training expert diplomats into master diplomats.  You must have had plenty of practice (Rank 7) and enough fame (200) for my teaching to be of help.  My fee is 2500 gold."
+256	"So much of the treasure of the land is in the hands of monsters and criminals, and they have been getting very clever with their traps.  You really need to know how to get past those traps and live to tell the tale.  I can help.  If you already have a little skill (Rank 4), I can train you to expert rank for just 500 gold.  "
+257	"It's one thing to kill a rich and powerful monster, but it's something else entirely to get past the traps it puts on its treasure chests.  My disarm training is the best in the kingdom.  If you're already an expert and have the skill (Rank 7) and the talent (accuracy 30), I can train you to master rank for 2500 gold."
+258	"You must learn to learn well if you're to enjoy a long and fruitful life.  If you already understand what I'm talking about (Rank 4), I can take you a lot farther.  My teachings cost 2000 gold."
+259	"I am the teacher of teachers, the master of learning.  I can bring your understanding of the world around you to new heights.  I will only train those who have studied under my old students and have a thorough understanding of my precepts (Rank 7).  If you are smart enough (Intellect 30), I can bring you to master rank for 5000 gold.  "
+260	You don't have enough gold!
+261	"You don't meet the requirements, and cannot be taught until you do."
+262	You must know the skill before you can become an expert in it!
+263	You must first be an expert in the skill before you can become a master.
+264	Not in your condition!
+265	You are already an expert in this skill.
+266	You are already a master in this skill.
+267	"The best staff teacher in the land, Jasper Rice, lives up near Silver Cove.  You'll want to talk to him if you wish to continue your training with the staff."
+268	"Guy Hampton in Blackshire taught me everything I know about the sword.  If you're looking to master the blade, he's the one to train under."
+269	"I'm only a novice when compared to someone like Jules Miles.  He lives near Castle Stone, and he can teach anyone how to improve their dagger skills."
+270	"Avinril Smythers mastered the axe before most of us were even born, but he doesn't train humans.  I'm sure if you could do something special for him, he might consider teaching a human how to really swing an axe.  He spends most of his time in the Haunt in the Mire of the Damned."
+271	"The best spearman in Enroth, Burton Rutherford, lives in Darkmoor.  I'm not sure why he picks such a remote place to call his home.  Maybe he doesn't like being bothered with students?"
+272	"As good as Lord Stromgard is with a bow, he won't accept students.  To master the bow, you need to talk to Desmond Weller in Kriegspire."
+273	"If you want to master the mace, you need to speak to Errol Ostermann in Blackshire."
+274	"Very few people even know that these weapons exist.  The only other person I've ever seen using an ancient weapon is Rexella, but she was last living in Paradise Valley– I'm not sure she's even there anymore."
+275	No one can use a shield like Bronwyn Meck in Blackshire.  That's the person to talk to if you want to master the shield.
+276	Arlen Sailor runs the best school in the art of wearing leather armor.  He normally holds his classes near Castle Stone.
+277	"Darkmoor is the home of David Feather, the only person I know of that can teach you to master your skill in chain armor."
+278	"Forrest Suthers, one of the head Paladins in Enroth, teaches how to master plate near Castle Temper."
+279	To master the fire skill you need to speak to Jezebel in Mist.
+280	Caao Salem can show you even more tricks with air magic in Mist.
+281	To gain mastery of the water skill you need to train under Harper Collins in Mist.
+282	Revee Botania can train you to master the earth skill in Silver Cove.
+283	"Spirit can be mastered with the help of Bishop Inquisitorio.  He lives right behind Castle Ironfist, you can't miss him."
+284	Thane Roper can train you to master the mind skill in Silver Cove.
+285	"If you're looking to master body magic, you need to talk to Gilbert Hammer in Silver Cove."
+286	"Light magic is a difficult skill to learn, and the Great Teacher, Ki Lo Nee, can only be found somewhere around Castle Alamos."
+287	Su Lang Manchu was my teacher in dark magic.  He maintains a small house in a village in Paradise Valley.
+288	Hans Gifford can show you even more neat tricks in identifying items in Free Haven.
+289	"The smoothest talking merchant I've ever seen is Will Ottoman in Silver Cove.  If you're looking to improve your merchant skill, he's the man to see."
+290	"If you think I'm good at repairing things, Ryan Treacle is the best around.  I'm sure he can be convinced to assist you in mastering the skill.  He lives up near Castle Stone the last I heard."
+291	"Jason Traveler will coach you in the finest points of body-building.  He works in Free Haven, if you can handle his rigorous training."
+292	"If mastering meditation is your goal, you'll need to see Norio Ariganaka in Mist."
+293	Perception can be mastered with help from Macro Caligula in Darkmoor.
+294	"Jacques Kohl is working with Lord Stromgard to develop the lord's eloquence and tact.  If he has time, perhaps he can assist you as well in mastering the art of diplomacy."
+295	"The greatest trap disarmer, Gabe Lester, is currently teaching his craft near Castle Stone.  He's the person to talk to if you want to learn all the best tricks."
+296	John Tuck can teach you to master the learning skill.  I believe he's still living in Silver Cove.
+297	"The King of the Dwarves, Snergle, usurped Rocklin for leadership of the dwarven clans.  Now Rocklin is in exile somewhere and Snergle is in charge.  Most dwarves don’t like Snergle and would like to see Rocklin back in power.  Unfortunately, Snergle has claimed both Rocklin’s caverns and the largest dwarven Iron Mine.  Snergle, fearing treachery near home, has removed me, the Dwarven Weaponmaster, from my position.  We need someone to get Snergle out of power by any means necessary.  I’d even consider training you humans how to use an axe like a true dwarf if you’ll help us."
+298	"I need proof that Snergle has been defeated.  I’m sorry, but I just can’t take your word for it.  Bring back some personal item of his, like his axe maybe."
+299	"Oh, glorious day!  With Snergle’s passing, we can now search for Rocklin to put him back in power.  Eternal thanks to you for this, and dwarves everywhere owe you a debt of gratitude."
+300	"The Mayor here in Mist is considering allowing the Fraternal Order of Silver to police the town in their battle against evil.  I know the Silver Helm Persecution Squads have murdered innocents in their misguided crusade against ‘evil,’ but there are no living witnesses to their atrocities.  I need you to storm their outpost to the south of here to find proof so that I can convince the mayor to ban them from Mist."
+301	Keep searching– the lives of the mayor and myself could very well be in your hands.  We can’t take action against them without proof.
+302	"Just as I suspected!  I’m surprised the Mayor was number three on their enemies list.  I suppose he IS a tad incompetent, but he’s not a bad person.  Thanks again, please accept this gold and my gratitude as your reward."
+303	I think I might just allow the Fraternal Order of Silver to police the areas around Mist.  Maybe they’d be able to hunt down all the evil people and leave this island a paradise.
+304	"I can’t believe those Silver Helms wanted to kill me!  I’ve never done anything wrong in my life!  Well, nothing more wrong than any other mayor at least.  Thank you again for stopping them."
+305	"Could you do the Temple of Baa a favor?  It appears that my brethren left the old temple to the northwest of here in a little too much of a hurry, and a candelabra necessary for some of our rituals was left behind.  None of the Baa priests want to go back because they’re afraid of whatever curse has been placed on the temple.  If you were to bring back the candelabra to me, however, I could reward you in their place."
+306	"Did the curse frighten you away as well?  I can understand.  Baa is patient, however.  Should you work up the courage to find the candelabra, I’m still prepared to compensate you for it."
+307	Excellent!  Baa be praised!  I see you were not frightened of the curse after all.  Here is your reward and thank you again for your assistance.
+308	"Who would have thought that the evil I sought to fight all across Enroth would be found so close to my own home?  Gerrard Blackames was once my second in command.  Not long before he murdered me he began corresponding with the Temple of Baa, and they began to feed him targets for our Order.  I ended up being one of the targets, and Gerrard took control of the Order.  Now, the Silver Helms are as evil as the people they hunt.  I’m certain the Temple of Baa is responsible for the corruption of our Order.  At the same time, Gerrard’s brother, Marcus the Sorcerer, has been supplying the Silver Helms with high quality equipment.  The last I heard, Marcus was assisting someone in a forge on an island to the southeast."
+309	"My niece, Melody, has been kidnapped from her home in Mist and locked in a Silver Helm outpost near there.  She’s one of the few people who know that I’ve been murdered.  I’m sure Gerrard has her locked up for that reason, but I believe he wants to force her into marriage to eliminate any opposition to his leadership of the Fraternal Order of Silver."
+310	Thank you for saving my niece.  Behind this wall is a secret area I’ve kept hidden from even Gerrard all these years.  You are welcome to take whatever you want; I’d prefer you have this than Gerrard.
+311	"Gerrard has an ankh inscribed with his name given to him by the priests of Baa.  I’m not sure exactly what the ankh is used for, but he may use it to identify himself as a friend of Baa."
+312	"You want to defeat Snergle, do you?  Well, he knows how he stands among most dwarves.  He’s holed up in Rocklin’s old caverns surrounded by a horde of his loyal dwarves.  If anything were to happen in there, he’d just immediately lock himself in his private room and let his followers handle it.  You’ll need a key to get into his room; there’s no way you’ll bash down a high quality dwarven door.  I was a steward for Rocklin– I know that room well and I happen to still have a key to it hidden on me.  Fortunately for you, I’m in this cell because of Snergle, and there’s nothing I’d rather see than his reign put to a quick end.  Here’s the key– think of it as payment for letting me out of this cell."
+313	"Thank you for releasing me.  The only thing keeping the Silver Helms from killing me was the fact I’m a priest.  Frankly, I’m surprised they would show me any mercy at all.  Listen, I’ve heard some strange sounds coming from around here… I think there might be a hidden passage near here.  In any event, I should probably be leaving now; I don’t want to stay in this cell any longer."
+314	"The Dragoons that have been plaguing the roads around here recently stole a harp of mine from one of my caravans.  I’m not strong enough to get it back from them, but I’m willing to pay someone capable to do it for me.  Find the harp and return it, and I’ll reward you."
+315	"My harp is still lost, so the reward is still available for it.  I know the Dragoons base their operations to the south of here near the coast.  Please bring back my harp."
+316	"My gratitude!  My wife loves this harp; I’m so glad you were able to recover it!  Here, take this as a reward.  I’ve heard rumors that the Dragoons were working with the Shadow Guild.  If that’s the case, I’m sure the Mayor of New Sorpigal would love to see proof of it.  Thank you again for your assistance."
+317	"Well, this IS a musical instrument, but it’s not a harp.  Let me explain the difference:  You brought back a flute.  A flute is a pipe with holes in it.  A harp has strings.  Does that help?  I’m sure they still have the harp and I will reward you well for its return."
+318	"I have a few theories about the undead that I would very much like to prove.  What I really need is the remains of an undead creature, preferably a powerful one.  Actually, what I really need is the remains of the FIRST lich, Ethric the Mad.  I am a scholar, however, and don’t have the means to gain such a specimen.  I do have some money saved up, and I’d be willing to pay you well for Ethric’s remains."
+319	"I am well aware of the difficulty of the task, believe me.  Take your time but at the least, do the job properly. "
+320	"Good work! Now I can conclude my research.  If I can learn how the Ritual of Endless Night works, perhaps I can find a way to reverse the process.  Here is the reward I promised you. "
+321	"Our town is periodically plagued by giant spiders.  I’m pretty sure that if the spider queen were killed, the rest of the spiders would go away.  Currently, I’m offering a reward to the person that can kill the spider queen."
+322	"No one has returned with proof that they’ve killed the spider queen, so the reward is still available."
+323	What a gruesome trophy!  This heart proves you’ve defeated the wicked spider queen.  Hopefully now the spiders won’t plague New Sorpigal anymore.  Here is the reward I promised.
+324	"Cedric Druthers and his Celestial Order have taken over the Monolith, an ancient place sacred to druids.  Their dark rituals are corrupting the Monolith and they need to be stopped– whatever altar they use as the center of their ceremonies needs to be defaced.  Do this for us and we will compensate you for your time and services."
+325	"I’m glad to see you again, but the Celestial Order is still in the Monolith."
+326	Thank you for your help!  Please allow me to compensate you for your efforts.  We can rest more safely knowing that Cedric and his renegade druids are no longer polluting that sacred area. 
+327	"I am a collector of rare and exotic creatures, and I make a living by selling some of these creatures as pets.  Currently, cobras are in great demand, and I don’t have many cobras left to sell.  Therefore, I’m willing to pay handsomely for any cobra eggs you might have.  Remember, if you find any cobra eggs, I’ll give you the best prices."
+328	Excellent specimen!  I should be able to hatch this in no time and help my flagging business.  Here is my payment for this wonderful egg.  I’ll buy any more cobra eggs you have as long as they are in demand.
+329	Removed Bat Guano Message
+330	Removed Bat Guano Message
+331	Removed Bat Guano Message
+332	"Near here is a temple dedicated to the Order of the Fist.  I once belonged to that order, but recently they uncovered a powerful evil crystal.  They hope to use the crystal as a bargaining chip to be accepted into the Temple of Baa.  I don’t want to see the crystal fall into Baa’s hands– it must be destroyed.  Please infiltrate the temple and destroy the crystal."
+333	"You must hurry and destroy the crystal before Baa claims it.  I’m not sure how long it will take, so time is of the essence."
+334	Good work!  I’m glad you made it in time.  I don’t like to think about what Baa would have done with that crystal.  You have done all of Enroth a great service.
+335	"My husband, Emmanuel, went to Star Island a few weeks ago with a few friends hoping to find some treasure.  I haven’t seen him since, and I’m worried about him.  I don’t dare go to the island; it’s rumored to be the home of medusas!  If you could find him and bring him home, I would be very grateful."
+336	"No luck?  He must be in grave danger if you did not find him.  If you do happen to find him, please bring him back here.  I’ll be waiting for him."
+337	"Oh, thank you for bringing Emmanuel back to me!  Nothing in this world means as much to me as him!  Please take this as a reward.  I know it’s not much, but you deserve it for bringing him back to me."
+338	"Thank you for turning me back to normal. I’d love to stay and chat, but I really should be getting out of here."
+339	"Thank you for turning me back to normal. I’d love to stay and chat, but I really should be getting out of here."
+340	Could you help me get out of here?  I need to get back to my wife in Blackshire.
+341	"An explorer friend of mine recently uncovered a powerful artifact, Mordred, in his travels.  He wanted to sell it to me, and shipped it here for me to decide if I wanted it.  Unfortunately, raiders attacked the caravan it was on and stole the artifact.  They were last seen headed to an area west of Castle Temper; I’m sure they must have some sort of base there.  If you bring back Mordred for me, I’ll give you a cut of what I’m paying my friend for it."
+342	"Hello again.  No one has found Mordred yet, so our deal is still good.  I’ll give you part of the selling price for the artifact if you return it."
+343	"So this is the legendary Mordred, eh?  Interesting, I was expecting something much grander.  I don’t think I want it, actually.  Why don’t you keep it, and I’ll deal with my friend on the cost."
+344	"Members of the Shadow Guild have moved down south recently, and have been trying to exert their influence over merchants in the area.  I refused them access to our town, so they kidnapped Sharry Carnegie, an old healer loved by the townspeople, in an attempt to ‘convince’ me to let them operate here.  I can’t believe that their extortion has moved so far south, I thought I was safe from that down here.  Please rescue Sharry– I can offer you some money as a reward, and I’m sure the townsfolk would appreciate her return."
+345	Have you found Sharry yet?  No?  I’m sure she’s wherever the Shadow Guild is hiding out.  Find them and you’ll find her.
+346	Thank you so much for saving Sharry!  I can’t tell you how much this means to both New Sorpigal and myself.  You have our gratitude forever.
+347	Interesting.  The Dragoons were hired by the Shadow Guild.  I’m certain Anthony Stone will want to hear about this.  I’ll present this letter when I see him next. Thank you for this.  I’m sure he will want to take action against the Shadow Guild now that we have some proof of their deeds.
+348	Thank you for rescuing me from these horrible ruffians!  I’d like to go back home to New Sorpigal now.
+349	"Oh dear, can you help me?  My daughter Angela is missing!  I think she may have wandered into the abandoned temple near town, and if she did she could be in terrible danger– who knows what kind of horrible things are lurking in that cursed place!  Please find her and bring her back to me."
+350	You didn’t find poor Angela?  Something horrible must have happened to her!
+351	"She’s alive!  Thank you so much for finding Angela!  If I weren’t so happy to see her, she’d be in a lot of trouble.  Please take this as a reward for all you’ve done."
+352	I think I'm lost…<sob>…I want to go home!
+353	"A good friend of mine, Sherell, went with a group of friends to the islands in Bootleg Bay to explore an old temple rumored to be there.  Her friends returned and said she was captured by cannibals on the island and taken to some ancient temple.  I’m sure she doesn’t have much time before they do something dreadful to her, please rescue her!"
+354	"Oh dear!  You haven’t found her yet?  Surely she must have been sacrificed or eaten or something.  Please try to find her, or at least avenge her death."
+355	Wonderful!  She’s not dead after all!  Thank you for all your trouble.  I hope you will accept this token of my gratitude.
+356	"Hello!  Please, oh please, get me out of this temple.  I don’t want to die!"
+357	"Our town is under a terrible curse, though most people don’t believe it.  Under a full moon, we all change into werewolves.  Although none of us are truly evil, we don’t really know what sort of horrible things we do as werewolves.  We can’t approach our lord, Acton Spindler about the problem because he doesn’t realize that we are the werewolves.  Please find a way to turn us back to normal!"
+358	Is there no hope for us?  Please promise me you’ll keep searching for a way to reverse the curse and turn us back to normal people.
+359	"Thank you!  We can now sleep at night without worrying about what kinds of foul acts we will commit as monsters!  It’s a tragedy that our lord was a werewolf himself; he’ll be sorely missed.  Please accept this for your help, and for believing in us."
+360	"Blackshire has been plagued by werewolves lately.  These caves must be where the werewolves are coming from!  However, I will need help destroying them.  You’re welcome to any of the treasure we find.  I’m only concerned with destroying them once and for all!"
+361	"You see, I am a werewolf and soon you will be one too!"
+362	"I was a guest at Lord Spindler's manor when it was attacked by a band of werewolves that had tunneled in from the mountains.  I fought my way back down the tunnels they had created hoping to escape.  Eventually, they cornered me and I was killed at this very spot. "
+363	"In my flight, I managed to hide the Pearl of Purity in these caverns.  The pearl will both protect you from the curse of the werewolves, and will also destroy the Altar of the Wolf if the pearl touches it.  That should free everyone afflicted by the curse these werewolves have caused.  The pearl is at the end of the cavern across from this one.  Please do me one favor, return the Pearl to Wilbur Humphrey.  He is the lord in charge of paladins and the pearl belongs with him."
+364	"The werewolf leader possesses the Pearl of Putrescence, the opposite of my Pearl of Purity.  With this pearl, he has been able to cause the curse.  I was never able to kill him in my retreat.  I will be able to rest in peace knowing that he has been defeated."
+365	"The werewolf leader possesses the Pearl of Putrescence, the opposite of my Pearl of Purity.  With this pearl, he has been able to cause the curse.  I was never able to kill him in my retreat.  I will be able to rest in peace knowing that he has been defeated."
+366	Thank you for defeating the werewolf leader.  I wish that I had been strong enough to stop this from happening.  Please accept my thanks for allowing my spirit to move on.  I will take the pearl away so that it may no longer cause any harm to the people of Enroth.
+367	"What’s this?  You have the Pearl of Purity?  I thought Balthasar– oh, he’s dead is he?  I’ll keep it for now, then, as per his last wishes.  Thank you on behalf of both him and me."	
+368	This month's bounty is on a %s.  Kill it and return before the end of the month to collect the %lu gold reward.	
+369	Congratulations on defeating the %s!  Here is the %lu gold reward.  Come back next month for a new bounty.	
+370	Someone has already claimed the bounty this month.  Come back next month for a new bounty.	
+371	Not used.	
+372	You no goblin!  You leave!  We take castle to watch over humans!  You no more kill us!	
+373	"Good work removing the goblins from this keep.  We have the situation mostly under control now, though your help is always appreciated."	
+374	"Hello again, my pupils!  I'm afraid there is nothing more I can teach you– your experiences must guide you from this point on.  I know nothing more than you do about the devils that destroyed Sweet Water, but I know who you need to ask.  The Oracle in Free Haven will know what to do to rid Enroth of the terrible devils.  Unfortunately, you will need the approval of the six High Council members, each of which represents one of the lords of Enroth.  You must do whatever necessary to speak to the Oracle in Free Haven and rid Enroth of the devils."	
+375	"As you may know, the last members of the Necromancers' Guild in Enroth fled to Castle Darkmoor after their defeat in the Succession War.  Who knows what foul magics they're concocting while we wait around.  I'm certain that the book containing the Ritual of Endless Night, known as the Book of Liches, has been moved into that castle.  If the book were to be destroyed, it would deal a severe blow to whatever evil plans they have.  I've tried a few times to get to the book, but the castle is too well defended.  If you are able to destroy the book, come back to me and I'll reward you personally."	old odd jobs
+376	"There's no rush in destroying the book.  If you manage it, come back and talk to me.  I'm not sure it's even possible to get to the book and destroy it– there are far too many evil creatures in that castle."	old player house 1
+377	"Incredible!  I didn't expect you'd be able to do it.  Now that the Book of Liches is gone, the Necromancers' Guild here in Enroth will slowly fade away.  This is all thanks to you!  Here, take this as a reward and accept my gratitude as well."	old player house 2
+378	"I was once the court magician, long ago.  That all ended when Archibald… disrupted… things.  Archibald had acquired some skill as a sorcerer and had knowledge of spells beyond that taught to magicians today, and therefore didn’t require my services.  Since then, I’ve lived in this little shack, conducted my own research, and have grown old."	
+379	"I’ve discovered a way to reverse the effects of time and make myself young again.  This requires a complex magical ritual, which I’ve worked out.  The problem is that I need to place magical statuettes on various pedestals. The tiger statuette goes on the pedestal near Sweet Water, the bear statuette in Kriegspire, the eagle statuette in Dragonsand, the wolf statuette in the Mire of the Damned, and the dragon statuette in Bootleg Bay.  The distances are too far for me to travel in my old age, and in the meantime I need to prepare the ritual itself.  There is no way I can do all of this on my own; I need your help.  The statuettes are in the chest outside my house.  Place them on the pedestals and return to me.  Even if the ritual is a failure, I'll pay you for your efforts."	
+380	"I was one of the mages studying at Kriegspire when the creatures there went completely out of control.  In my escape from the castle, I left a valuable item behind, a jeweled egg.  This egg is a family heirloom that goes back in my family as far as the Silence.  I have tried a few times to get it back, but the creatures there are too powerful for me.  I’d gladly trade a generous sum of money to get my egg back."	
+381	"Kriegspire is the castle inside the volcano.  We mages were forced to raise the earth around the castle to try and prevent the creatures from overrunning the surrounding towns.  Now they’re contained inside, and that’s where the egg is."	
+382	Thank you for returning this egg to me; it’s the most precious thing I have.	
+383	"I am the Lord of Fire, an immortal earth spirit.  My power is drawn from below the earth.  The channels that I use have been blocked by doors warded with powerful magic in the north.  I need you to unward the doors so that I may awaken again.  Though the enchantments on them are powerful, amber will break the ward on the doors."
+384	"If you get lost in the caverns, you may find assistance from my servants.  If you have a piece of amber, they will assume you are under my care and will teleport you back to me if you talk to them.  If you do not have any amber, they will drain with some of your life force as payment for teleporting you back up here.  Don’t worry, they rarely kill anyone."
+385	"The doors became warded when a strange creature came to reside here.  I am not familiar with this type of being, and I’ve seen many types in my long time here in Enroth.  I do not know why it chose this place as its home, or why there is only one, but I would like to see it destroyed for the trouble it has caused me. "
+386	"As patient as I am, I would like to see the channels I use to sustain me opened again.  Please do not fail."
+387	Thank you for your assistance.  I am grateful to you for returning my source of sustenance to me.  I need to recharge what little power I have left now that I am able to again.
+388	"Thank you again for assisting me, but right now I'm quite busy preparing everything I need to complete the ritual."
+389	"So, Sir John was murdered and the Silver Helms were bought off by the Temple of Baa?  That explains a great deal.  Good work on bringing this to me, but you’ll need to collect your reward from Anthony Stone."
+390	"I should have known Baa was behind this, they seem to be behind everything.  Thank you for bringing this to me.  It answers the questions I had about the Fraternal Order of Silver."
+391	"So Baa was behind the corruption of the Silver Helms and the murder of Sir John Silver?  What a tragedy for Sir John, rest his soul.  <blink> Loretta told you to collect the reward from me?  Greedy witch.  Here, your services should not go unrewarded."
+392	"Good work!  Have you ever thought about assisting me full-time?  I could certainly use reliable help.  I've managed to collect a variety of trinkets over the years, so please help yourself to a few of these in payment for your services.  I need to clean up a few things here, but I think I'll head back to Castle Ironfist in a bit and see if there's an opening for a court magician."
+393	"Thanks!  I can't wait to take this to Abdul's Desert Resort and see what I get!  Oh, here's the money I owe you."
+394	My favorite wine is the stuff they give you for winning at the circus.  I'll pay 300 gold for any keg of wine from the circus that you can bring me.
+395	"My favorite!  Thanks for the wine!  Here's 300 gold, it's well worth the price."
+396	"I have an incredible teeth collection, but I'm always looking for more.  If you find a tooth I don't have in my collection, I'll pay you 500 gold for it."
+397	"I don't believe I have a tooth like this one yet, here's 500 gold."
+398	"I have been to the circus three times, and I can't win anything.  All I really want are the nifty four leaf clovers they use as prizes there.  I'll pay 25 gold for any four leaf clover you bring me."
+399	"I'm so tired of the Shadow Guild, but I don't have any substantial proof of their activities.  I'd love to have something I could show to Anthony Stone proving the Shadow Guild is up to no good down here."	
+400	"One of the few remaining Paladin artifacts left is the Pearl of Purity.  Balthasar was in possession of the pearl the last I heard.  He was visiting Lord Spindler in Blackshire, but I haven't heard anything from him in months."	
+401	I will only speak to the Chosen Ones; those that bring the symbol of fire.	Should never see this
+402	"Recently, the Fraternal Order of Silver has been disrupting my business and my caravans.  I'm not sure why Sir John feels it necessary, but I'd like this to stop.  If you could convince him to leave me alone, I'm sure I could give you a portion of the money you would be saving me."	
+403	"The Fraternal Order of Silver has begun more direct attacks on my legitimate, underworld associates.  I would appreciate it greatly if you could talk to Sir John and learn why he feels these actions are necessary."	
+404	Hurray!  This is much easier and much less embarrasing than going to the circus and losing!  Here's 25 gold!	
+405	"I've heard it's possible to find large chunks of amber in a series of caves north of Castle Ironfist.  I never have the time to leave Free Haven, but I'd love to get my hands on some of that amber.  I'll pay 500 gold for any piece of amber."	
+406	"This will do nicely!  Thank you for the amber, here is the 500 gold I promised you."	
+407	I have almost prepared the entire ritual– all that is left is to place the statuettes.	
+408	"Good work!  I have my youth again, thanks to you– have you ever thought about assisting me full-time?  I could certainly use reliable help.  I've managed to collect a variety of trinkets over the years, so please help yourself to a few of these in the chest outside as payment for your services.  I need to clean up a few things here, but I think I'll head back to Castle Ironfist and see if there's an opening for a court magician."	
+409	Nothing here!	
+410	The barrel is empty	
+411	+1 Might permanent	
+412	+1 Accuracy permanent	
+413	+1 Personality permanent	
+414	+1 Intellect permanent	
+415	+1 Endurance permanent	
+416	+1 Speed permanent	
+417	+1 Luck permanent	
+418	The cauldron is empty	
+419	+1 Fire resistance permanent	
+420	+1 Cold resistance permanent	
+421	+1 Electric resistance permanent	
+422	+1 Poison resistance permanent	
+423	+1 Magic resistance permanent	
+424	The cook pot is empty	
+425	Disease!	
+426	Search Failed!	
+427	You need to give The Letter to Regent Wilbur Humphrey in Ironfist Castle.	Seer Hint 1
+428	I would advise that you perform the promotion quests for the six lords of Enroth until you have advanced a little further.	Seer Hint 2
+429	Empty sack	
+430	"You must satisfy the six High Council members in Free Haven to visit the Oracle.  Each lord will request a task of you to earn their favor.  Perform each of these tasks and then talk to the Council member of that Lord to gain their approval.  Once all the members of the High Council give their permission, you will be allowed to visit the Oracle."	Seer Hint 3
+431	Empty bag	
+432	It appears that Slicker Silvertongue is a traitor on the Council.  You will need proof to convince Regent Humphrey and have Slicker removed from the Council.  Go to the Superior Temple of Baa in Kriegspire and return with proof associating Slicker with the Temple of Baa.	Seer Hint 4
+433	"The Oracle has been asleep since Archibald performed his mischief on it.  You will need the four memory crystals to revive the Oracle.  They can be found on Hermit's Isle, in Castle Alamos, in Castle Kriegspire, and in Castle Darkmoor."	Seer Hint 5
+434	"To gain access to the Control Center, you will need the Control Cube located in the Temple of VARN in Dragonsand.  Bring the Cube back to the Oracle to gain admittance into the Control Center.  The Kreegan reactor is immune to all attacks.  Only the ancient weapons from the Control Center will harm the reactor.  Make sure you have these weapons and the skill to use them."	Seer Hint 6
+435	You should probably show The Letter to Andover Potbello in New Sorpigal.	Seer Hint 7
+436	Nothing here	
+437	"Before you destroy the reactor, you will need a spell capable of containing the resulting explosions.  You must free Archibald from his stone prison.  Talk to Nicolai and bring him the Third Eye– he will allow you to use Tanir's Bell to turn Archibald back to normal.  From there, you should be able to convince Archibald to give you the knowledge you need."	Seer Hint 8
+438	"Now you must destroy the Kreegan Hive.  Destroy the reactor, defeat their queen, and make sure to escape with the Ritual of the Void and you will succeed in your task."	Seer Hint 9
+439	You have no more need of my advice.	Seer Hint 10
+440	"Welcome to my Desert Resort!  You'll notice we don't have the riff-raff associated with the towns and villages of the lands here.  Take a moment to relax and enjoy the serenity of the desert, my friends.  If you're interested, we have a few traders here that will trade rare items for weapons and armor– it may be worth your while to check them out."	
+441	"It seems rumors abound about my little Resort.  Alas, the Fountain of Youth everyone seems to be talking about is not here, it's a few days journey to the west."	
+442	Hello!  I've got great suits of armor that I'll trade for golden pyramids or kegs of wine.	
+443	Empty bucket	
+444	I'll trade high quality weapons for golden pyramids or kegs of wine.	
+445	I have a wide variety of magical accessories I'll gladly trade for golden pyramids or kegs of wine.	
+446	"Great to do business with you, here's your armor!"	
+447	Useless Crystal
+448	"I'm afraid you don't have a golden pyramid, so I can't make a deal with you."
+449	You don't have a keg of wine to trade!
+450	"Great to do business with you, here's your weapon!"
+451	"Great to do business with you, here's your accessory!"
+452	"I'm collecting used magic lamps, but I don't have any money.  I'll trade you some of these pretty stones for the lamps, though."
+453	Thanks for the lamp!  Here are your stones.
+454	High Detail is only available with 32MB of RAM or greater.
+455	
+456	
+457	
+458	
+459	
+460	
+461	
+462	
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+501
+502
+503
+504
+505
+506
+507
+508
+509
+510
+511	
+512	
+513	
+514	
+515	
+516	
+517	Not Used
+518	
+519	

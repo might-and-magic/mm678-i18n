@@ -1,0 +1,195 @@
+_创作：
+Jon Van Caneghem
+
+
+
+
+
+_执行制作人：
+Mark Caldwell
+
+
+
+
+
+_制作人：
+Peter Ryu
+
+
+
+
+
+_游戏总监：
+Paul Rattner
+
+
+
+
+
+_游戏设计：
+John Van Caneghem
+Bryan Farina
+James Dickinson
+Tom Ono
+
+
+
+
+
+_首席程序员：
+Bob Young
+
+_程序员：
+Dean Gibson
+George Ruof
+
+
+
+
+
+_首席关卡设计：
+Riki Corredera
+
+_关卡设计：
+David Vela
+Lisa Whitman
+Tom Zeliff
+
+
+
+
+
+_首席艺术家：
+John Slowsky
+
+_艺术总监 @ Hypnotix：
+John Philip Sousa 
+
+_首席艺术家 @ Hypnotix：
+Jason Timmons
+
+_协调人：
+Kate Vanover
+
+_艺术家 @ New World Computing：
+George Almond 
+Jeff Bigman 
+Becky Crystal 
+Brian DeMetz
+John Gibson
+Louis Henderson
+Edward Hudson
+Steve Jasper
+Joel Kelly
+Brian Kemper	 
+April Lee 
+Bonnie Long-Hemsath	
+Kurt McKeever		
+Adam McCarthy		
+Bill Nesemeier	
+Bill Stoneham	
+Phelan Sykes		
+Ken Thomson				
+Julia Ulano		
+Steve Wasaf
+
+_艺术家 @ 3DO：
+Marc Apablaza 
+Inna Cherneykina 
+Nikolay Chigirev 
+Paul Forest 
+Vadim Grigoriev 
+Shao Wei Liu 
+Andrey Rubetskoy 
+Leonid Starkov 
+David Wells 
+
+_艺术家 @ Hypnotix：
+Michael Ballezzi
+Ruben J. Carbonell
+Carlos Cheek
+Joel Eckert
+Scott Lange
+Jason Marcil
+William Rooks
+Robert Santiago
+Richard Strongi
+Anthony Pereira
+
+
+
+
+
+_音乐制作人：
+Rob King
+
+_冒险主题和音乐：
+Paul Romero
+
+_其他音乐：
+Rob King
+Steve Baca
+
+_声音设计和语音编辑：
+Rob King
+Steve Baca
+Chuck Russom
+
+_配音：
+Mari Devon
+Mike Sorich
+Lex Lang
+Melissa Faulkner
+Mona Marshall
+Dave Krauss
+Barry Stigler
+Dan Warren
+John Gofe
+Jeff Sorenson
+Danny Fehsenfeld
+Rick Stone
+Richard Epcar
+Rob King
+Barbara Goodson
+Aric Devone
+Catherine Battistone
+Steve Kramer
+Roger Lubin
+Briana Gordon
+Ellen Stern
+Doug Stone
+Holly Willard
+Wendee Lee
+
+
+
+
+
+_品质监控管理：
+Karl Drown
+
+_品质监控 @ New World Computing：
+Mary Ellen Babson 
+Joseph Buron
+Devin Chapman
+Ernie Gallardo
+Chris Miller
+Todd Smailes
+Eric Williamson
+Rich Holmes
+
+_品质监控 @ 3DO：
+Kim Dang
+Tamsen Mitchell
+Jack Osorno
+Tony Lee
+
+
+
+
+
+_特别感谢：
+Debbie Van Caneghem
+Sheldon Borenstein
+Kate Hedstrom
+Rosanne Banez

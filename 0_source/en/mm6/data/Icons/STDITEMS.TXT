@@ -1,0 +1,31 @@
+Standard Bonuses by Group														
+
+Bonus Stat	Of Name	Arm	Shld	Helm	Belt	Cape	Gaunt	Boot	Ring	Amul				
+														
+Might	of Might	5	0	10	10	10	10	5	10	10				
+Intellect	of Thought	5	0	10	10	10	10	5	10	10				
+Personality	of Charm	5	0	10	10	10	10	10	10	10				
+Endurance	of Vigor	5	0	10	10	10	10	5	10	10				
+Accuracy	of Precision	5	0	10	10	10	10	5	10	10				
+Speed	of Speed	5	0	10	10	10	10	25	10	10				
+Luck	of Luck	5	0	10	10	10	10	10	10	10				
+Hit Points	of Health	10	5	5	0	10	5	10	10	10				
+Spell Points	of Magic	10	5	10	0	10	10	10	10	10				
+Armor Class	of Defense	20	20	10	0	10	10	5	10	10				
+Fire Resistance	of Fire Resistance	10	10	5	0	10	15	5	10	10				
+Elec Resistance	of Elec Resistance	10	10	5	0	10	15	5	10	10				
+Cold Resistance	of Cold Resistance	10	10	5	0	10	15	5	10	10
+Poison Resistance	of Poison Resistance	10	10	5	0	10	15	5	10	10
+
+		115	70	115	70	140	155	110	140	140
+
+	Bonus range for Standard by Level					Value Mod= (+100 / Plus of Item)				
+	lvl	min	max							
+	1	0	0							
+	2	1	5							
+	3	3	8							
+	4	6	12							
+	5	10	17							
+	6	15	25							
+
+	(note weapons can only have Special Bonuses)									

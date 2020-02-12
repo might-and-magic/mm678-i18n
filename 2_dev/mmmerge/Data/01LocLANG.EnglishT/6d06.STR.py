@@ -1,0 +1,10 @@
+def t(_, _x): return (' \r\n'
+'' + _x("location", "Door") + '\r\n'
+'' + _x("location", "Switch") + '\r\n'
+'' + _x("location", "Chest") + '\r\n'
+'' + _x("location", "Double Door") + '\r\n'
+'' + _x("location", "The door won't budge") + '\r\n'
+'' + _x("location", "Lever") + '\r\n'
+'' + _x("location", "Exit") + '\r\n'
+'' + _x("location", "Dragoons' Caverns") + '\r\n'
+)

@@ -1,0 +1,580 @@
+#	Topic	Requires	Notes	Text #	Owner(s)	Owner #
+1	哈蒙代尔城堡	0	Praise for Glorious Castle Harmondale	6	Lord Markham	1
+2	寻宝	0	Isn't this hunt exciting?	5	Lord Markham	1
+3	祝贺	0	Speech for winning the contest (replace with topic 8)	7	Lord Markham	1
+4	你的船	0	(replaces topic 7) go to castle Harmondale now	8	Lord Markham	1
+5	寻宝规则	0	Basic Rules	25	Judge	2
+6	你拿到了什么？	0	"Check for quest items + returns for each one, all, and none"	26-33	Judge	2
+7	招呼	0	Gives Questbit 1	2	Docent	3
+8	翡翠岛	0		1	Docent	3
+9	竞赛	0		4	Docent	3
+10	“寻宝”竞赛	0		34	Bard	4
+11	乐器	0		35	Bard	4
+12	拨弦琴	0		36	Bard	4
+13	500个金币买拨弦琴	0		"37,38"	Bard	4
+14	海洋	0	Blahblahblah	12	Sally	5
+15	贝壳	0	Wanna buy a seashell (there are more elsewhere)	13	Sally	5
+16	100个金币买贝壳		Wanna buy a seashell (there are more elsewhere)	"14,15"	Sally	5
+17	哈蒙代尔	0	Blahblahblah	10	Mr. Malwick	6
+18	提议	0	Give proposal	9	Mr. Malwick	6
+19	接受权杖	0	Give wand	11	Mr. Malwick	6
+20	拒绝接受权杖	0	Offer chance again	3	Mr. Malwick	6
+21	你的帽子，请	0	Blahblahblah	19	Sal Sharktooth	7
+22	神庙	0	Robbery attempt	16	Sal Sharktooth	7
+23	把帽子给绍尔	0	Robbery attempt	17	Sal Sharktooth	7
+24	保留帽子	0	Robbery attempt	18	Sal Sharktooth	7
+25	我警告你	0	Tease	20	Sal Sharktooth	7
+26	很好，那么	0	Blahblahblah	21	Mr. Malwick	6
+27	用帽子交换药剂？	0	"Trade hat for red potion + positive, negative, and no potion returns"	39	Adventurer 1	8
+28	歹徒	0	Bad guys in temple	22	Adventurer 1	8
+29	蓝色药剂	0	Blue potion instructions	23	Adventurer 1	8
+30	用药剂交换帽子	0		"40,42"	Adventurer 1	8
+31	保留药剂	0		41	Adventurer 1	8
+32	坐船航海	0	Not sailing yet	24	William	0
+33	解开缆绳	0	"Won contest, ready to go"	43	William	0
+34	失踪的参赛者	0	Markham's go look for contestants	44	Markham	1
+35	失踪的参赛者		Markham's go look for contestants + Positive and negative returns	"45,46"	Markham	1
+36	失踪者	0	0	47	Donna	0
+37	废庙	0	0	48	Donna	0
+38	龙蝇	0	0	49	Mia Lucille	0
+39	巨龙	0	0	50	Mia Lucille	0
+40	龙穴	0	0	51	Grant	0
+41	参赛者	0	0	52	Grant	0
+42	结束指导	0	Sets questbit 17	53	Docent	3
+43	开始指导	0	removes questbit 17	54	Docent	3
+44	神偷	0	0	55	William Lasker	15
+45	神偷	0	0	"56,57"	William Lasker	15
+46	密探	0	0	60	William Lasker	15
+47	密探	0	0	58-65	William Lasker	15
+48	饮茶	0	0	66	Seknit Undershadow	16
+49	杀手	0	0	67-70	Seknit Undershadow	16
+50	杀手	0	0	71-73	Seknit Undershadow	16
+51	十字军	0	0	74	Sir Charles Quixote	17
+52	十字军	0	0	"75,76"	Sir Charles Quixote	17
+53	英雄	0	0	77	Sir Charles Quixote	17
+54	英雄	0	0	78-82	Sir Charles Quixote	17
+55	英雄？	0	0	83-87	Alice Hargreave	54
+56	魔头	0	0	88-90	William Setag	18
+57	魔头	0	0	"91,92"	William Setag	18
+58	隐士	0	0	93	Bartholomew Hume	38
+59	隐士	0	0	95	Bartholomew Hume	38
+60	隐士	0	0	94	Bartholomew Hume	38
+61	智者	0	0	96	Bartholomew Hume	38
+62	智者	0	0	"97-8,134-6"	Bartholomew Hume	38
+63	忍者	0	0	136-9	Stephan Sand	39
+64	忍者	0	0	140-2	Stephan Sand	39
+65	神箭手	0	0	143-6	Lawrence Mark	40
+66	神箭手	0	0	"147,148"	Lawrence Mark	40
+67	高级弓箭手	0	0		Steagal Snick	41
+68	高级弓箭手	0	0		Steagal Snick	41
+69	魔箭手	0	0		Steagal Snick	41
+70	魔箭手	0	0		Steagal Snick	41
+71	勇士	0	0		Leda Rowan	42
+72	勇士	0	0		Leda Rowan	42
+73	豪侠	0	0		Frederick Org	43
+74	豪侠	0	0		Frederick Org	43
+75	暗黑骑士	0	0		Frederick Org	43
+76	暗黑骑士	0	0		Frederick Org	43
+77	游骑兵	0	0		Lysander Sweet	44
+78	游骑兵	0	0		Lysander Sweet	44
+79	猎手	0	0		ebednezar Sour	45
+80	猎手	0	0		ebednezar Sour	45
+81	赏金猎人	0	0		ebednezar Sour	45
+82	赏金猎人	0	0		ebednezar Sour	45
+83	猎人？	0	Hunter End Promo Quest		Faerie King	52
+84	古树之心	0	Ranger Lord quest		Oldest Tree	53
+85	古树之心	0	Ranger Lord quest		Oldest Tree	53
+86	光明神父	0	0		Rebecca Devine	46
+87	光明神父	0	0		Rebecca Devine	46
+88	神父	0	0		Daedalus Falk	47
+89	神父	0	0		Daedalus Falk	47
+90	暗黑神父	0	0		Daedalus Falk	47
+91	暗黑神父	0	0		Daedalus Falk	47
+92	法师	0	0		Thomas Grey	48
+93	法师	0	0		Thomas Grey	48
+94	光明魔法师	0	0		Thomas Grey	48
+95	光明魔法师	0	0		Thomas Grey	48
+96	暗黑魔法师	0	0		Halfgild Wynac	49
+97	暗黑魔法师	0	0		Halfgild Wynac	49
+98	高级教士	0	0		Anthony Green	50
+99	高级教士	0	0		Anthony Green	50
+100	大主教	0	0		Anthony Green	50
+101	大主教	0	0		Anthony Green	50
+102	邪恶主教	0	0		Tor Anwyn	51
+103	邪恶主教	0	0		Tor Anwyn	51
+104	人偶肢体	0	0		Golem	56
+105	交换人偶头颅	0	0		Golem	56
+106	大耳怪	0	0		Butler	58
+107	营救矮人	0	0		Dwarf King	59
+108	营救矮人	0	0		Dwarf King	59
+109	使用丹药	0	0		Dwarf Engineer	60
+110	使用丹药	0	0		Dwarf Prisoner 1	61
+111	使用丹药	0	0		Dwarf Prisoner 2	62
+112	使用丹药	0	0		Dwarf Prisoner 3	63
+113	使用丹药	0	0		Dwarf Prisoner 4	64
+114	使用丹药	0	0		Dwarf Prisoner 5	65
+115	使用丹药	0	0		Dwarf Prisoner 6	66
+116	一份邀请书	0	See my boss		Ellen Rockway	67
+117	伪造的设计图	0	Good work giving the elves false plans		Ellen Rockway	67
+118	宝物	0	Good work giving me the artifact		Ellen Rockway	67
+119	背叛？	0	You betrayed us?		Ellen Rockway	67
+120	一份邀请书	0	See my boss		Alain Hani	68
+121	假囚犯	0	Good work giving the humans the false prisoner		Alain Hani	68
+122	宝物	0	Good work giving me the artifact		Alain Hani	68
+123	背叛？	0	You betrayed us?		Alain Hani	68
+124	战俘	0	0		Queen Catherine	69
+125	战俘	0	0		Queen Catherine	69
+126	这是假囚犯	0	0		Queen Catherine	69
+127	利文斯德	0	0		Queen Catherine	69
+128	利文斯德	0	0		Queen Catherine	69
+129	我们偷到了设计图	0	0		Queen Catherine	69
+130	宝物	0	0		Queen Catherine	69
+131	利文斯德	0	0		ElfKing	70
+132	利文斯德	0	0		ElfKing	70
+133	这是伪造的设计图	0	0		ElfKing	70
+134	密探	0	0		ElfKing	70
+135	密探	0	0		ElfKing	70
+136	我们营救了劳伦！	0	0		ElfKing	70
+137	宝物	0	0		ElfKing	70
+138	提示	0	0		Arbiter	74
+139	物品	0	0		Arbiter	74
+140	宝物	0	0		Arbiter	74
+141	我选中你了！	0	0		Evil Arbiter	77
+142	提示	0	0		Evil Arbiter	77
+143	我选中你了！	0	0		Judge Fairweather	78
+144	提示	0	0		Judge Fairweather	78
+145	净心堂	0	0		Gavin Magnus	79
+146	净心堂	0	0		Gavin Magnus	79
+147	暗黑神庙	0	0		Resurectra	80
+148	暗黑神庙	0	0		Resurectra	80
+149	打击恶魔	0	0		Resurectra	80
+150	打击恶魔	0	0		Resurectra	80
+151	吸血鬼	0	0		Crag Hack	81
+152	吸血鬼	0	0		Crag Hack	81
+153	灵魂之坛	0	0		Sir Caneghm	82
+154	灵魂之坛	0	0		Sir Caneghm	82
+155	托尔伯蒂	0	0		Robert the Wise	83
+156	托尔伯蒂	0	0		Robert the Wise	83
+157	光明神庙	0	0		Kastore	84
+158	光明神庙	0	0		Kastore	84
+159	打击恶魔	0	0		Kastore	84
+160	打击恶魔	0	0		Kastore	84
+161	灵魂之坛	0	0		Maximus	85
+162	灵魂之坛	0	0		Maximus	85
+163	科兰克的实验室	0	0		Dark Shade	86
+164	科兰克的实验室	0	0		Dark Shade	86
+165	智者罗伯特	0	0		Tolberti	87
+166	智者罗伯特	0	0		Tolberti	87
+167	再生之地	0	0		Archibald	88
+168	再生之地	0	0		Archibald	88
+169	最终任务	0	0		Resurectra	80
+170	最终任务	0	0		Resurectra	80
+171	最终任务	0	0		Kastore	84
+172	最终任务	0	0		Kastore	84
+173	进入光明神庙	0	0		Dungeon Entrance	89
+174	进入暗黑神庙	0	0		Dungeon Entrance	90
+175	托马斯·格雷	0	0		Eric Swarrel	281
+176	书店	0	0		Eric Swarrel	281
+177	书店	0	0		Eric Swarrel	281
+178	佐卡尔的尸骨	0	0		Dwarf King	59
+179	任务	0	0		Tarin Withern	93
+180	任务	0	0		Tarin Withern	93
+181	任务	0	0		Mazim Dusk	
+182	任务	0	0		Mazim Dusk	
+183	任务	0	0		Davrick Peladium	
+184	任务	0	0		Davrick Peladium	
+185	任务	0	0		Norbert Thrush	
+186	西拉丝的信件	0	0		Lord Markham	
+187	任务	0	0		Norbert Thrush	
+188	任务	0	0		Johann Kerrid	
+189	任务	0	0		Faerie King	
+190	任务	0	0		Johann Kerrid	
+191	任务	0	0		Niles Stantley	
+192	任务	0	0		Niles Stantley
+193	任务	0	0		Niles Stantley
+194	任务	0	0		Spark Burnkindle
+195	任务	0	0		Spark Burnkindle
+196	任务	0	0		Seth Drakkson
+197	任务	0	0		Seth Drakkson
+198	任务	0	0		Darron Temper
+199	任务	0	0		Darron Temper
+200	棍术专家				
+201	棍术大师				
+202	棍术宗师				
+203	剑术专家				
+204	剑术大师				
+205	剑术宗师				
+206	匕首专家				
+207	匕首大师				
+208	匕首宗师
+209	战斧专家
+210	战斧大师
+211	战斧宗师
+212	长矛专家
+213	长矛大师
+214	长矛宗师
+215	弓箭专家
+216	弓箭大师
+217	弓箭宗师
+218	锤棍专家
+219	锤棍大师
+220	锤棍宗师
+221	榴弹枪专家
+222	榴弹枪大师
+223	榴弹枪宗师
+224	盾牌专家
+225	盾牌大师
+226	盾牌宗师
+227	皮甲专家
+228	皮甲大师
+229	皮甲宗师
+230	锁甲专家
+231	锁甲大师
+232	锁甲宗师
+233	钢甲专家
+234	钢甲大师
+235	钢甲宗师
+236	火系魔法专家
+237	火系魔法大师
+238	火系魔法宗师
+239	空气魔法专家
+240	空气魔法大师
+241	空气魔法宗师
+242	水系魔法专家
+243	水系魔法大师
+244	水系魔法宗师
+245	土系魔法专家
+246	土系魔法大师
+247	土系魔法宗师
+248	灵魂魔法专家
+249	灵魂魔法大师
+250	灵魂魔法宗师
+251	心智魔法专家
+252	心智魔法大师
+253	心智魔法宗师
+254	肢体魔法专家
+255	肢体魔法大师
+256	肢体魔法宗师
+257	光明魔法专家
+258	光明魔法大师
+259	光明魔法宗师
+260	暗黑魔法专家
+261	暗黑魔法大师
+262	暗黑魔法宗师
+263	物品鉴定术专家
+264	物品鉴定术大师
+265	物品鉴定术宗师
+266	经商术专家
+267	经商术大师
+268	经商术宗师
+269	修补术专家
+270	修补术大师
+271	修补术宗师
+272	健身术专家	
+273	健身术大师	
+274	健身术宗师	
+275	冥想术专家	
+276	冥想术大师	
+277	冥想术宗师	
+278	洞察术专家	
+279	洞察术大师	
+280	洞察术宗师	
+281	外交术专家	
+282	外交术大师	
+283	外交术宗师	
+284	偷窃专家	Not used
+285	偷窃大师	Not used
+286	偷窃宗师	Not used
+287	拆卸术专家	
+288	拆卸术大师
+289	拆卸术宗师
+290	躲避术专家
+291	躲避术大师
+292	躲避术宗师
+293	空手搏斗专家
+294	空手搏斗大师
+295	空手搏斗宗师
+296	怪物鉴定专家
+297	怪物鉴定大师
+298	怪物鉴定宗师
+299	武器使用术专家
+300	武器使用术大师
+301	武器使用术宗师
+302	偷窃术专家
+303	偷窃术大师
+304	偷窃术宗师		
+305	炼金术专家		
+306	炼金术大师		
+307	炼金术宗师		
+308	学习术专家		
+309	学习术大师		
+310	学习术宗师		
+311	赏金猎手		
+312	交罚款		
+313	任务		
+314	任务		
+315	艾尔希·培顿		James Teacher Hints
+316	基里安·米斯瑞特		James Teacher Hints
+317	 特格·斯莱瑟		James Teacher Hints
+318	查德科·唐瑟夫		James Teacher Hints
+319	埃兹诺格·斯莱什		James Teacher Hints
+320	托肯·费斯特		James Teacher Hints
+321	德林·卡内基		James Teacher Hints
+322	卡恩·斯通科利夫		James Teacher Hints
+323	科拉德林·西尔普		James Teacher Hints
+324	希林·法尔科内		James Teacher Hints
+325	兰希·拉弗赛特		James Teacher Hints
+326	凯德拉克·斯蒂德		James Teacher Hints
+327	布拉泽·罗斯汉姆		James Teacher Hints
+328	帕特文·费尔本		James Teacher Hints
+329	伊斯拉姆·格洛威尔		James Teacher Hints
+330	费德文·斯密森		James Teacher Hints
+331	拉比萨·尼德伦		James Teacher Hints
+332	米尔扬·奎克		James Teacher Hints
+333	麦德沃里		James Teacher Hints
+334	哈利安·那夫莫尔		James Teacher Hints
+335	德坎·富德来特		James Teacher Hints
+336	工匠布朗达		James Teacher Hints
+337	阿什·坦普		James Teacher Hints
+338	布雷泽		James Teacher Hints
+339	瑞斯林·革林斯道		James Teacher Hints
+340	格利		James Teacher Hints
+341	托伯伦·瑞恩谢德		James Teacher Hints
+342	特伦		James Teacher Hints
+343	兰拉·斯通莱特		James Teacher Hints
+344	埃兰奇		James Teacher Hints
+345	希瑟·德姆利忒		James Teacher Hints
+346	本杰明		James Teacher Hints
+347	米莱斯·菲德文特		James Teacher Hints
+348	克维尔·布里门		James Teacher Hints
+349	邦布大哥		James Teacher Hints
+350	坦普斯		James Teacher Hints
+351	萨缪尔·拜森		James Teacher Hints
+352	佩吉·布鲁斯文		James Teacher Hints
+353	贝特胡德·凯夫希尔		James Teacher Hints
+354	苦行者布里汉姆		James Teacher Hints
+355	托马斯·摩尔		James Teacher Hints
+356	修补匠格里斯		James Teacher Hints
+357	汪达·富斯克		James Teacher Hints
+358	伊万达·托马斯		James Teacher Hints
+359	特萨·格林斯沃德		James Teacher Hints
+360	克因		James Teacher Hints
+361	嘉瑞特·多迪斯		James Teacher Hints
+362	佩特拉·克莱利亚		James Teacher Hints
+363	李诺德·斯格那		James Teacher Hints
+364	快嘴斯尔克		James Teacher Hints
+365	奥伯瑞克·克雷恩		James Teacher Hints
+366	科尼斯·威尔那		James Teacher Hints
+367	安伯莱赫特·布劳勒		James Teacher Hints
+368	诺里斯		James Teacher Hints
+369	吉尼·斯威夫特		James Teacher Hints
+370	猎人莱文		James Teacher Hints
+371	保拉·布莱斯		James Teacher Hints
+372	拉斯特		James Teacher Hints
+373	里尼·谢德拉那		James Teacher Hints
+374	夜行者伊夫利		James Teacher Hints
+375	埃兹贝特·温特斯普恩		James Teacher Hints
+376	鲁西德·埃普		James Teacher Hints
+377	道洛希·森加卡		James Teacher Hints
+378	威廉姆·戴维斯		James Teacher Hints
+379	晨星海伦娜		James Teacher Hints
+380	格文·玛格努斯		James Teacher Hints
+381	塞斯·达克莫		James Teacher Hints
+382	阿基巴德		James Teacher Hints
+383	空桶		
+384	红色酒桶
+385	黄色酒桶
+386	蓝色酒桶
+387	橙色酒桶
+388	绿色酒桶
+389	紫色酒桶
+390	白色酒桶
+391	空锅
+392	蒸汽锅
+393	冷霜锅
+394	惊怵锅
+395	脏锅
+396	垃圾堆
+397	垃圾堆
+398	垃圾堆
+399	开始竞技场决斗
+400	元素魔法行会成员
+401	自我魔法行会成员
+402	空气魔法行会成员
+403	土系魔法行会成员
+404	火系魔法行会成员
+405	水系魔法行会成员
+406	肢体魔法行会成员
+407	心智魔法行会成员
+408	灵魂魔法行会成员
+409	光明魔法行会成员
+410	暗黑魔法行会成员
+411	垃圾堆
+412	营火
+413	营火
+414	餐碟
+415	空桶
+416	酒桶		
+417	蘑菇		
+418	马克汉姆爵士		James Quest Hint
+419	盗贼大师		James Quest Hint
+420	了望塔		James Quest Hint
+421	比尔·拉斯克		James Quest Hint
+422	卡米尔夫人		James Quest Hint
+423	杀手		James Quest Hint
+424	劳斯莱克		James Quest Hint
+425	十字军		James Quest Hint
+426	倾国倾城		James Quest Hint
+427	恶棍		James Quest Hint
+428	僧侣训练		James Quest Hint
+429	美杜莎		James Quest Hint
+430	羊鸣教神庙		James Quest Hint
+431	失踪的羊群		James Quest Hint
+432	编密码		James Quest Hint
+433	粘土怪的弱点		James Quest Hint
+434	美杜莎		James Quest Hint
+435	泰坦巨人营地		James Quest Hint
+436	竞技场		James Quest Hint
+437	竞技场决斗		James Quest Hint
+438	鬼宅		James Quest Hint
+439	幽灵		James Quest Hint
+440	密道		James Quest Hint
+441	神仙		James Quest Hint
+442	疯狂的森林		James Quest Hint
+443	古树		James Quest Hint
+444	悬赏捕猎		James Quest Hint
+445	悬赏捕猎		James Quest Hint
+446	潮水洞穴		James Quest Hint
+447	埃弗蒙岛		James Quest Hint
+448	航海图		James Quest Hint
+449	诅咒		James Quest Hint
+450	人偶肢体		James Quest Hint
+451	人偶		James Quest Hint
+452	普渡众生魔法		James Quest Hint
+453	普渡众生魔法		James Quest Hint
+454	灵魂之坛		James Quest Hint
+455	转职仪式		James Quest Hint
+456	石圈		James Quest Hint
+457	夏季之圈		James Quest Hint
+458	墓地		James Quest Hint
+459	探索墓地		James Quest Hint
+460	巨人领地		James Quest Hint
+461	巨龙		James Quest Hint
+462	任务		Statuette
+463	任务		Statuette
+464	任务		Painting
+465	任务		Painting
+466	任务		Arcomage
+467	任务		Arcomage
+468	石头城		James Quest Hint
+469	石头城		James Quest Hint
+470	尼根之路		James Quest Hint
+471	邪恶主教的隧道		James Quest Hint
+472	墓地		James Quest Hint
+473	美杜莎女妖		James Quest Hint
+474	红矮人矿井		James Quest Hint
+475	石像		James Quest Hint
+476	石头城		James Quest Hint
+477	哈蒙代尔		James Quest Hint
+478	暴动		James Quest Hint
+479	哈蒙代尔城堡		James Quest Hint
+480	图拉利昂洞穴		James Quest Hint
+481	悬崖洞穴		James Quest Hint
+482	利文斯德要塞		James Quest Hint
+483	战利品		James Quest Hint
+484	调解人		James Quest Hint
+485	收获与失落		James Quest Hint
+486	抉择		James Quest Hint
+487	净心堂		James Quest Hint
+488	塞莱斯特		James Quest Hint
+489	地狱城		James Quest Hint
+490	塞莱斯特		James Quest Hint
+491	神秘的杀手		James Quest Hint
+492	克里根恶魔		James Quest Hint
+493	战争失败		James Quest Hint
+494	被赶出迪雅		James Quest Hint
+495	恩洛斯的罗兰德		James Quest Hint
+496	灵魂之坛		James Quest Hint
+497	邪恶主教		James Quest Hint
+498	科兰克的防护盾		James Quest Hint
+499	专家级教师		James Quest Hint
+500	失踪的人们		James Quest Hint
+501	制造武器		
+502	制造盔甲		
+503	制造物品		
+504	打招呼		James Hint
+505	龙蝇		James Hint
+506	枯树林		James Hint
+507	布拉卡达的远距离传送器		James Hint
+508	城堡升级		Butler Text
+509	魔法柱		Butler Text
+510	争议之地		Butler Text
+511	哈蒙代尔城堡		Butler Text
+512	烽火		Spy Text
+513	付1000个金币		Ambush
+514	拒绝支付		Ambush
+515	200个金币买箭头		Trading Triangle
+516	卖出图拉利昂木料		Trading Triangle
+517	200个金币买狮鹫羽毛		Trading Triangle
+518	卖出箭头		Trading Triangle
+519	200个金币买图拉利昂木料		Trading Triangle
+520	卖出狮鹫羽毛		Trading Triangle
+521	2000个金币买矿砂	1	Trading Triangle
+522	卖出恩洛斯美酒	1	Trading Triangle
+523	2000个金币买玻璃瓶	2	Trading Triangle
+524	卖出矿砂	2	Trading Triangle
+525	2000个金币买恩洛斯美酒	3	Trading Triangle
+526	卖出玻璃瓶	3	Trading Triangle
+527	船期		James Hint
+528	尼根隧道		James Hint
+529	做买卖		James Hint
+530	加速魔法柱		
+531	大地之柱		
+532	众神之柱		
+533	防御之柱		
+534	流水之柱		
+535	烈火之柱		
+536	英雄之柱		
+537	不朽之柱		
+538	心智之柱		
+539	肢体之柱		
+540	石肤之柱		
+541	空气之柱		
+542	力量之战		
+543	耐力之战		
+544	智力之战					
+545	个性之战					
+546	精确之战					
+547	速度之战					
+548	幸运之战					
+549	力量之争					
+550	耐力之争					
+551	智力之争					
+552	个性之争					
+553	精确之争					
+554	速度之争					
+555	幸运之争					
+556	力量考验					
+557	耐力考验					
+558	智力考验					
+559	个性考验					
+560	 命中率考验
+561	速度考验
+562	幸运考验
+563	比试力量
+564	比试耐力
+565	比试智力
+566	比试个性
+567	比试命中率
+568	比试速度
+569	比试幸运
+570	叛徒！
+571	神庙
+572	比赛
+573	
+574	
+575	
+576						
+577						
+578						
+579						

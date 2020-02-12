@@ -1,0 +1,101 @@
+A Bit	Awards	Notes
+1	Returned the Prince	
+2	Retrieved Lord Kilburn's Shield	
+3	Retrieved the Hourglass of Time	
+4	Destroyed the Devil's Post	
+5	Captured the Prince of Thieves	
+6	Fixed the Stable Prices	
+7	Ended Winter	
+8	Received Promotion to Crusader	
+9	Received Promotion to Honorary Crusader	
+10	Received Promotion to Hero	
+11	Received Promotion to Honorary Hero	
+12	Received Promotion to Wizard	
+13	Received Promotion to Honorary Wizard	
+14	Received Promotion to Archmage	
+15	Received Promotion to Honorary Archmage	
+16	Received Promotion to Cavalier
+17	Received Promotion to Honorary Cavalier
+18	Received Promotion to Champion
+19	Received Promotion to Honorary Champion
+20	Received Promotion to Priest
+21	Received Promotion to Honorary Priest
+22	Received Promotion to High Priest
+23	Received Promotion to Honorary High Priest
+24	Received Promotion to Great Druid
+25	Received Promotion to Honorary Great Druid
+26	Received Promotion to Arch Druid
+27	Received Promotion to Honorary Arch Druid
+28	Received Promotion to Battle Mage
+29	Received Promotion to Honorary Battle Mage
+30	Received Promotion to Warrior Mage
+31	Received Promotion to Honorary Warrior Mage
+32	Exposed the Traitor on the High Council
+33	Awakened the Oracle
+34	Gained Access to the Control Center
+35	Freed Archibald
+36	Destroyed the Hive and Saved Enroth
+37	Killed Snergle
+38	Saved the Mayor of Mist
+39	Retrieved the Baa Candelabra
+40	Retrieved Andrew's Harp
+41	Retrieved Ethric's Skull
+42	Killed the Spider Queen
+43	Saved the Monolith
+44	Gave Bat Guano to Barad
+45	Destroyed the Wicked Crystal
+46	Rescued Emmanuel
+47	Found Zoltan's Artifact
+48	Rescued Sharry
+49	Rescued Angela
+50	Rescued Sherell
+51	Broke the Blackshire Curse
+52	Killed the Werewolf Leader
+53	Solved the Goblinwatch Combination
+54	Returned with the Chime of Harmony
+55	Retrieved Emil's Egg
+56	Placed Twillen's statuettes
+57	Aided the Lord of Fire
+58	Delivered 6th Letter to Wilbur Humphry
+59	Allowed to use the Royal Yacht
+60	Destroyed the Book of Liches
+61	Super-Goober
+62	Solved the Obelisk Puzzle
+63	
+64	Joined the Elemental Guild
+65	Joined the Self Guild
+66	Joined the Buccaneer's Lair Guild
+67	Joined the Protection Services Guild
+68	Joined the Smugglers' Guild
+69	Joined the Blade's End Guild
+70	Joined the Duelists' Edge Guild
+71	Joined the Berserker's Fury Guild
+72	Joined the Air Guild
+73	Joined the Earth Guild
+74	Joined the Fire Guild
+75	Joined the Water Guild
+76	Joined the Body Guild
+77	Joined the Mind Guild
+78	Joined the Spirit Guild
+79	Joined the Light Guild
+80	Joined the Dark Guild
+81	Collected %u bounties
+82	%u Deaths
+83	Served %u Prison Terms
+84	%u Page Arena Victories
+85	%u Squire Arena Victories
+86	%u Knight Arena Victories
+87	%u Lord Arena Victories
+88	
+89	
+90	
+91	
+92	
+93	
+94	
+95	
+96	
+97	
+98	
+99	
+100	

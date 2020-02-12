@@ -1,0 +1,527 @@
+2D Events by Type ( NPC's present are from NPC database)																		Schedules		Other Exits		Questbit	Enter																																										
+#	#	Type	Map	Picture	Name	Proprieter Name	Title	Picture	State	Rep	Per	Val	A	B	C	Notes:	Notes(2):	Open	Closed	Pic	Map	Restrictions	Text																																										
+1	1	Weapon Shop	1	6	真勇	克尔文	铁匠	2109	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+2	2	Weapon Shop	2	36	锐锋	利斧	铁匠	2130	0	0	0	1.5	1		14			6	18	0	0	0	0																																										
+3	3	Weapon Shop	3	20	磨钢	卡修	铁匠	2119	0	0	0	2.5	1		14			6	18	0	0	0	0																																										
+4	4	Weapon Shop	5	49	蓝斯之矛	蓝斯	铁匠	2139	0	0	0	3	1.5		21			6	18	0	0	0	0																																										
+5	5	Weapon Shop	6	63	沾血匕首与刀刃	艾瑞其	铁匠	2146	0	0	0	3	2		21			6	18	0	0	0	0																																										
+6	6	Weapon Shop	35	36	爱煞之斧	爱煞	铁匠	2130	0	0	0	4	2		28			6	18	0	0	0	0																																										
+7	7	Weapon Shop	13	86	定作匕首	克理提雅斯	铁匠	2177	0	0	0	4	2		28			6	18	0	0	0	0																																										
+8	8	Weapon Shop	0	0	Placeholder	Placeholder	铁匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+9	9	Weapon Shop	0	0	Placeholder	Placeholder	铁匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+10	10	Weapon Shop	0	0	Placeholder	Placeholder	铁匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+11	11	Weapon Shop	0	0	Placeholder	Placeholder	铁匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+12	12	Weapon Shop	0	0	Placeholder	Placeholder	铁匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+13	13	Weapon Shop	0	0	Placeholder	Placeholder	铁匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+14	14	Weapon Shop	0	0	Placeholder	Placeholder	铁匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+15	1	Armor Shop	1	7	皮革店	里斯那克	盔甲工匠	2110	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+16	2	Armor Shop	2	50	打磨盾牌	瓦维斯	盔甲工匠	2140	0	0	0	1.5	1		14			6	18	0	0	0	0																																										
+17	3	Armor Shop	3	21	盔甲之店	其那尔	盔甲工匠	2128	0	0	0	2.5	1		14			6	18	0	0	0	0																																										
+18	4	Armor Shop	5	50	钢甲防御	巴尔佛	盔甲工匠	2140	0	0	0	3	1.5		21			6	18	0	0	0	0																																										
+19	5	Armor Shop	6	64	超凡皮革	波罗斯批罗	盔甲工匠	2147	0	0	0	3	1.5		21			6	18	0	0	0	0																																										
+20	6	Armor Shop	35	37	连接锁子甲	戴李奥斯	盔甲工匠	2131	0	0	0	4	2		28			6	18	0	0	0	0																																										
+21	7	Armor Shop	13	87	卡尔的战斗装备	卡尔	盔甲工匠	2173	0	0	0	4	2		28			6	18	0	0	0	0																																										
+22	8	Armor Shop	0	0	Placeholder	Placeholder	盔甲工匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+23	9	Armor Shop	0	0	Placeholder	Placeholder	盔甲工匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+24	10	Armor Shop	0	0	Placeholder	Placeholder	盔甲工匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+25	11	Armor Shop	0	0	Placeholder	Placeholder	盔甲工匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+26	12	Armor Shop	0	0	Placeholder	Placeholder	盔甲工匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+27	13	Armor Shop	0	0	Placeholder	Placeholder	盔甲工匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+28	14	Armor Shop	0	0	Placeholder	Placeholder	盔甲工匠	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+29	1	Magic Shop	1	9	恐怖魔法	希斯	魔法师	2112	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+30	2	Magic Shop	2	66	有用之物	杰德	魔法师	2149	0	0	0	1.5	1		14			6	18	0	0	0	0																																										
+31	3	Magic Shop	3	23	魔法物品	爱蓝雅	魔法师	2102	0	0	0	2	1		14			6	18	0	0	0	0																																										
+32	4	Magic Shop	5	51	结界和饰品	可尔萨斯	魔法师	2141	0	0	0	3	1		21			6	18	0	0	0	0																																										
+33	5	Magic Shop	6	66	神秘大屠杀	耐德	魔法师	2149	0	0	0	3	1.5		21			6	18	0	0	0	0																																										
+34	6	Magic Shop	35	39	力量护身符	梭尔	魔法师	2167	0	0	0	4	1.5		28			6	18	0	0	0	0																																										
+35	7	Magic Shop	13	89	雷格那之礼物	佛林恩	魔法师	2174	0	0	0	4	1.5		28			6	18	0	0	0	0																																										
+36	8	Magic Shop	2	23	卡欧里的奇妙物品	卡欧里	魔法师	2102	0	0	0	2	1		14			6	18	0	0	0	0																																										
+37	9	Magic Shop	0	0	Placeholder	Placeholder	魔法师	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+38	10	Magic Shop	0	0	Placeholder	Placeholder	魔法师	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+39	11	Magic Shop	0	0	Placeholder	Placeholder	魔法师	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+40	12	Magic Shop	0	0	Placeholder	Placeholder	魔法师	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+41	13	Magic Shop	0	0	Placeholder	Placeholder	魔法师	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+42	1	Alchemist	1	8	药草灵药	夏尔文	炼金术师	2111	0	0	0	2	1		7			6	18	0	0	0	0																																										
+43	2	Alchemist	2	8	药剂师	崔丝坦	炼金术师	2111	0	0	0	3	1		7			6	18	0	0	0	0																																										
+44	3	Alchemist	3	22	完工的药剂	那瓦瑞	炼金术师	2121	0	0	0	3	1		7			6	18	0	0	0	0																																										
+45	4	Alchemist	6	65	恶狼克星	米兰沙	炼金术师	2148	0	0	0	4	1		7			6	18	0	0	0	0																																										
+46	5	Alchemist	13	88	治病灵药	欧丽霞	炼金术师	2172	0	0	0	5	1.5		14			6	18	0	0	0	0																																										
+47	6	Alchemist	35	38	派瑞呃斯的药粉	派瑞呃斯	炼金术师	2166	0	0	0	5	1.5		14			6	18	0	0	0	0																																										
+48	7	Alchemist	0	0	Placeholder	Placeholder	炼金术师	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+49	8	Alchemist	0	0	Placeholder	Placeholder	炼金术师	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+50	9	Alchemist	0	0	Placeholder	Placeholder	炼金术师	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+51	10	Alchemist	0	0	Placeholder	Placeholder	炼金术师	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+52	11	Alchemist	0	0	Placeholder	Placeholder	炼金术师	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+53	12	Alchemist	0	0	Placeholder	Placeholder	炼金术师	0	0	0	0	0	0		0			6	18	0	0	0	0																																										
+54	1	Stables	2	94	马车队公会	威蓝	马厩主人	1249	0	0	0	2	1					6	18	0	0	0	0																																										
+55	2	Stables	3	94	马车队公会	坦普顿	马厩主人	1249	0	0	0	3	1					6	18	0	0	0	0																																										
+56	3	Stables	4	94	马车队公会	艾尔新纳	马厩主人	1249	0	0	0	3	1					6	18	0	0	0	0																																										
+57	4	Stables	5	94	马车队公会	达拉斯	马厩主人	1249	0	0	0	5	1					6	18	0	0	0	0																																										
+58	5	Stables	6	94	马车队公会	特洛伊	马厩主人	1249	0	0	0	5	1					6	18	0	0	0	0																																										
+59	6	Stables	0	94	马车队公会	Placeholder	马厩主人	0	0	0	0	10	1					6	18	0	0	0	0																																										
+60	7	Stables	0	94	马车队公会	Placeholder	马厩主人	0	0	0	0	10	1					6	18	0	0	0	0																																										
+61	8	Stables	0	94	马车队公会	Placeholder	马厩主人	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+62	9	Stables	0	94	马车队公会	Placeholder	马厩主人	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+63	1	Boats	1	29	顺风号	卡拉马	船长	2127	0	0	0	1.5	1					6	18	0	0	0	0																																										
+64	2	Boats	2	29	勇进号	阿利诺	船长	2127	0	0	0	2	1					6	18	0	0	0	0																																										
+65	3	Boats	6	80	烟雾号	迷斯克	船长	2180	0	0	0	2	1					6	18	0	0	0	0																																										
+66	4	Boats	8	80	迷雾号	巴尔 	船长	2180	0	0	0	5	1					6	18	0	0	0	0																																										
+67	5	Boats	2	80	强风号	皮尔	船长	2180	0	0	0	10	1					6	18	0	0	0	0																																										
+68	6	Boats	13	29	漂流号	马提	船长	2127	0	0	0	1.5	1					6	18	0	0	0	0																																										
+69	7	Boats	0	0	Placeholder	Placeholder	船长	0	0	0	0	5	1					6	18	0	0	0	0																																										
+70	8	Boats	0	0	Placeholder	Placeholder	船长	0	0	0	0	5	1					6	18	0	0	0	0																																										
+71	9	Boats	0	0	Placeholder	Placeholder	船长	0	0	0	0	10	1					6	18	0	0	0	0																																										
+72	10	Boats	0	0	Placeholder	Placeholder	船长	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+73	11	Boats	0	0	Placeholder	Placeholder	船长	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+74	1	Temple	1	5	秘药	皮许	医者	2108	0	0	0	10	1					1	24	0	0	0	0																																										
+75	2	Temple	2	48	圣殿	马西亚	医者	1138	0	0	0	25	1					1	24	0	0	0	0																																										
+76	3	Temple	3	19	医疗之屋	米格兰	医者	2118	0	0	0	30	1.5					1	24	0	0	0	0																																										
+77	4	Temple	5	48	神圣钢铁	罗德拉	医者	1138	0	0	0	30	1.5					1	24	0	0	0	0																																										
+78	5	Temple	6	62	夜之教堂	伊凡尼雅	医者	2145	0	0	0	40	1.5					1	24	0	0	0	0																																										
+79	6	Temple	35	35	巫医	魏克斯	医者	2171	0	0	0	40	1.5					1	24	0	0	0	0																																										
+80	7	Temple	13	85	受祝福之海	伊尼德	医者	1228	0	0	0	50	2					1	24	0	0	0	0																																										
+81	8	Temple	0	0	Placeholder	Placeholder	医者	0	0	0	0	50	2					1	24	0	0	0	0																																										
+82	9	Temple	0	0	Placeholder	Placeholder	医者	0	0	0	0	100	2.5					1	24	0	0	0	0																																										
+83	10	Temple	0	0	Placeholder	Placeholder	医者	0	0	0	0	30	1.5					1	24	0	0	0	0																																										
+84	11	Temple	0	0	Placeholder	Placeholder	医者	0	0	0	0	30	1.5					1	24	0	0	0	0																																										
+85	12	Temple	0	0	Placeholder	Placeholder	医者	0	0	0	0	40	1.5					1	24	0	0	0	0																																										
+86	13	Temple	0	0	Placeholder	Placeholder	医者	0	0	0	0	5	1					1	24	0	0	0	0																																										
+87	14	Temple	0	0	Placeholder	Placeholder	医者	0	0	0	0	1.5	1					1	24	0	0	0	0																																										
+88	15	Temple	0	0	Placeholder	Placeholder	医者	0	0	0	0	1.5	1					1	24	0	0	0	0																																										
+89	1	Training	1	11	进步之仪式	尼许顿	指导者	2114	0	0	0	10	1				5	6	18	0	0	0	0																																										
+90	2	Training	2	25	健身房	雅林	指导者	2124	0	0	0	20	1				15	6	18	0	0	0	0																																										
+91	3	Training	3	25	训练公会	巴林	指导者	2124	0	0	0	25	1				25	6	18	0	0	0	0																																										
+92	4	Training	5	52	歌瑞克的铁手套	歌瑞克	指导者	2142	0	0	0	25	1				25	6	18	0	0	0	0																																										
+93	5	Training	6	68	杀手学校	拉哈瓦	指导者	1149	0	0	0	30	1.5				200	6	18	0	0	0	0																																										
+94	6	Training	35	41	巴尔萨煞学院	吉尔德	指导者	2170	0	0	0	30	1.5				200	6	18	0	0	0	0																																										
+95	7	Training	0	0	Placeholder	Placeholder	指导者	0	0	0	0	50	2.5				No Max	6	18	0	0	0	0																																										
+96	8	Training	0	0	Placeholder	Placeholder	指导者	0	0	0	0	40	2				50	6	18	0	0	0	0																																										
+97	9	Training	0	0	Placeholder	Placeholder	指导者	0	0	0	0	80	2				50	6	18	0	0	0	0																																										
+98	10	Training	0	0	Placeholder	Placeholder	指导者	0	0	0	0	40	3				100	6	18	0	0	0	0																																										
+99	11	Training	0	0	Placeholder	Placeholder	指导者	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+100	12	Training	0	0	Placeholder	Placeholder	指导者	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+101	13	Training	0	0	Placeholder	Placeholder	指导者	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+102	1	Town Hall	2	0	Placeholder	Placeholder	书记官	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+103	2	Town Hall	3	0	Placeholder	Placeholder	书记官	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+104	3	Town Hall	4	0	Placeholder	Placeholder	书记官	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+105	4	Town Hall	7	0	Placeholder	Placeholder	书记官	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+106	5	Town Hall	8	0	Placeholder	Placeholder	书记官	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+107	1	Tavern	1	13	葛卢格和葛卢伯	土伯瑞克	旅店主人	2116	0	0	0	6	1					5	2	0	0	0	0																																										
+108	2	Tavern	2	27	凯所的凯提纳	凯所	旅店主人	2126	0	0	0	10	1					5	2	0	0	0	0																																										
+109	3	Tavern	3	27	获利之屋	坦尼林安	旅店主人	2126	0	0	0	15	1					5	2	0	0	0	0																																										
+110	4	Tavern	4	79	干渴的喉咙	瑞斯纳	旅店主人	2158	0	0	0	15	1					5	2	0	0	0	0																																										
+111	5	Tavern	5	53	龙血旅店	美乐地	旅店主人	1138	0	0	0	25	1					1	24	0	0	0	0																																										
+112	6	Tavern	6	70	黑色伙伴	费提许	旅店主人	2153	0	0	0	50	1					1	24	0	0	0	0																																										
+113	7	Tavern	7	95	旅行者休息站	瓦维斯	旅店主人	2178	0	0	0	35	1.5					5	2	0	0	0	0																																										
+114	8	Tavern	8	43	牛眼旅店	葛尔妮	旅店主人	2169	0	0	0	40	1.5					1	24	0	0	0	0																																										
+115	9	Tavern	13	91	海盗休息站	长胡	旅店主人	2176	0	0	0	60	1					5	2	0	0	0	0																																										
+116	10	Tavern	2	53	跳舞食人魔	崔西雅	旅店主人	1138	0	0	0	17	2					1	24	0	0	0	0																																										
+117	11	Tavern	3	27	米和的休息站	米和	旅店主人	2126	0	0	0	20	1					5	2	0	0	0	0																																										
+118	12	Tavern	0	0	Placeholder	Placeholder	旅店主人	0	0	0	0	1	1.5					5	2	0	0	0	0																																										
+119	13	Tavern	0	0	Placeholder	Placeholder	旅店主人	0	0	0	0	1	1.5					5	2	0	0	0	0																																										
+120	14	Tavern	0	0	Placeholder	Placeholder	旅店主人	0	0	0	0	1	1.5					5	2	0	0	0	0																																										
+121	15	Tavern	0	0	Placeholder	Placeholder	旅店主人	0	0	0	0	1	1					8	2	0	0	0	0																																										
+122	16	Tavern	0	0	Placeholder	Placeholder	旅店主人	0	0	0	0	1	1					8	2	0	0	0	0																																										
+123	17	Tavern	0	0	Placeholder	Placeholder	旅店主人	0	0	0	0	1	1					8	2	0	0	0	0																																										
+124	18	Tavern	0	0	Placeholder	Placeholder	旅店主人	0	0	0	0	1	1					8	2	0	0	0	0																																										
+125	19	Tavern	0	0	Placeholder	Placeholder	旅店主人	0	0	0	0	1	1					8	2	0	0	0	0																																										
+126	20	Tavern	0	0	Placeholder	Placeholder	旅店主人	0	0	0	0	1	1					8	2	0	0	0	0																																										
+127	21	Tavern	0	0	Placeholder	Placeholder	旅店主人	0	0	0	0	1	1					8	2	0	0	0	0																																										
+128	1	Bank	1	12	安全之处	伊许	银行家	2115	0	0	0	1	1					6	18	0	0	0	0																																										
+129	2	Bank	2	26	史提尔的金库	史提尔	银行家	2125	0	0	0	1	1					6	18	0	0	0	0																																										
+130	3	Bank	3	26	金融公会聚会所	伊斯朗	银行家	2125	0	0	0	1	1					6	18	0	0	0	0																																										
+131	4	Bank	6	69	血之银行	为杰	银行家	2152	0	0	0	1	1					6	18	0	0	0	0																																										
+132	5	Bank	35	42	巴尔萨煞之银行	伊格纳斯	银行家	2136	0	0	0	1	1					6	18	0	0	0	0																																										
+133	6	Bank	0	0	Placeholder	Placeholder	银行家	0	0	0	0	1	1					6	18	0	0	0	0																																										
+134	7	Bank	0	0	Placeholder	Placeholder	银行家	0	0	0	0	1	1					6	18	0	0	0	0																																										
+135	8	Bank	0	0	Placeholder	Placeholder	银行家	0	0	0	0	1	1					6	18	0	0	0	0																																										
+136	9	Bank	0	0	Placeholder	Placeholder	银行家	0	0	0	0	1	1					6	18	0	0	0	0																																										
+137	10	Bank	0	0	Placeholder	Placeholder	银行家	0	0	0	0	1	1					6	18	0	0	0	0																																										
+138	11	Bank	0	0	Placeholder	Placeholder	银行家	0	0	0	0	1	1					6	18	0	0	0	0																																										
+139	1	Elemental Guild	1	139	诅咒和治疗	雅新	书记 	2113	0	0	0	2	1		14	4		6	18	0	0	0	0																																										
+140	2	Elemental Guild	2	143	维克沙新的六角形	维克沙新	书记 	2123	0	0	0	3	1.5		14	7		6	18	0	0	0	0																																										
+141	3	Self Guild	3	148	自我学习	赖林	书记 	2168	0	0	0	4	2		28	4		6	18	0	0	0	0																																										
+142	4	Light Guild	5	145	光明公会	雪维	书记 	2123	0	0	0	5	2.5		28	"4,7,10,11"		6	18	0	0	0	0																																										
+143	1	Dark Guild	6	154	黑暗公会	拉西亚	书记 	2150	0	0	0	2	1		14	"4,7,10,11"		6	18	0	0	0	0																																										
+144	2	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+145	3	Self Guild	35	148	心系公会	迪多斯	书记 	2168	0	0	0	4	2		28	7		6	18	0	0	0	0																																										
+146	4	Elemental Guild	13	155	防护性魔法	逵雅纳	书记 	2175	0	0	0	5	2.5		28	10		6	18	0	0	0	0																																										
+147	1	Elemental Guild	3	143	元素系公会	雅迪雅	书记 	2123	0	0	0	2	1		14	11		6	18	0	0	0	0																																										
+148	2	Self Guild	2	148	自系公会	葛求	书记 	2168	0	0	0	3	1.5		14	"10,11"		6	18	0	0	0	0																																										
+149	3	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+150	4	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	5	2.5		28			6	18	0	0	0	0																																										
+151	1	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	2	1		14			6	18	0	0	0	0																																										
+152	2	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+153	3	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+154	4	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	5	2.5		28			6	18	0	0	0	0																																										
+155	1	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	2	1		14			6	18	0	0	0	0																																										
+156	2	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+157	3	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+158	4	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	5	2.5		28			6	18	0	0	0	0																																										
+159	1	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	2	1		14			6	18	0	0	0	0																																										
+160	2	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+161	3	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+162	4	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	5	2.5		28			6	18	0	0	0	0																																										
+163	1	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	2	1		14			6	18	0	0	0	0																																										
+164	2	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+165	3	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+166	4	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	5	2.5		28			6	18	0	0	0	0																																										
+167	1	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	4	2		14			6	18	0	0	0	0																																										
+168	2	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	5	2.5		14			6	18	0	0	0	0																																										
+169	1	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	4	2		14			6	18	0	0	0	0																																										
+170	2	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	5	2.5		14			6	18	0	0	0	0																																										
+171	1	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	1.5	1		14			6	18	0	0	0	0																																										
+172	2	Spell Shop	0	0	Placeholder	Placeholder	书记 	0	0	0	0	1.5	1		14			6	18	0	0	0	0																																										
+173	1	Castle Entrance	1	14	部落酋长厅堂	Placeholder	布拉克许·单牙	117	0	0	0	1.5				129		 	 	0	0	0	0																																										
+174	2	Castle Entrance	2	81	半鼠人走私贩子头子的房间	Placeholder	半鼠人走私贩子	160	0	0	0	1.5				168		  	 	0	0	0	0																																										
+175	1	Castle Entrance	2	30	议会	Placeholder	商人	102	0	0	0	1.5				133		 	 	0	0	0	0																																										
+176	2	Castle Entrance	3	28	商人公会之屋	Placeholder	商人	0	0	0	0	1.5				169		 	 	0	0	0	0																																										
+177	1	Castle Entrance	4	77	欧瓦都的房间	Placeholder	欧瓦都	101	0	0	0	1.5				134		 	 	0	0	0	0																																										
+178	2	Castle Entrance	5	72	飞龙领袖的洞穴	Placeholder	飞龙	104	0	0	0	1.5				170		 	 	0	0	0	0																																										
+179	1	Castle Entrance	5	54	查尔斯·吉科德的屋子	Placeholder	查尔斯·吉科德	105	0	0	0	1.5				1		 	 	0	0	0	0																																										
+180	2	Castle Entrance	6	71	山德罗/谭特的谒见室	Placeholder	山德罗	0	0	0	0	1.5				172		 	 	0	0	0	0																																										
+181	1	Castle Entrance	6	61	戴森·李蓝的房间	Placeholder	戴森·李蓝	0	0	0	0	1.5				1		 	 	0	0	0	0																																										
+182	2	Castle Entrance	7	57	太阳神殿领袖的房间	Placeholder	Placeholder	0	0	0	0	1.5				171		 	 	0	0	0	0																																										
+183	1	Castle Entrance	8	44	牛头人领袖的房间	Placeholder	Placeholder	106	0	0	0	1.5				1		 	 	0	0	0	0																																										
+184	2	Castle Entrance	14	93	爱斯卡顿的谒见室	Placeholder	爱斯卡顿	100	0	0	0	1.5				Kastore		 	 	0	0	0	0																																										
+185	1	The Adventurer's Inn	2	96	冒险者的旅店	Placeholder		0	0	0	0	1.5				1		  	  	0	0	0	0																																										
+186	1	The Adventurer's Inn	1	0	冒险者的旅店	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+187	1	Seer	2	0	先知	Placeholder		0	0	0	0	1.5								0	0	0	0																																										
+188	1	The Adventurer's Inn	6	0	冒险者的旅店	Placeholder		0	0	0	0	1.5				1				0	0	0	0																																										
+189	1	The Adventurer's Inn	13	0	冒险者的旅店	Placeholder		0	0	0	0	1.5				1				0	0	0	0																																										
+190	1	The Adventurer's Inn	35	0	冒险者的旅店	Placeholder		0	0	0	0	1.5				1				0	0	0	0																																										
+191	1	Dungeon Ent	1	102	被废弃的神殿	Placeholder		0	0	0	0	1.5						 	 	3	0	0	0																																										
+192	2	Dungeon Ent	1	103	海盗前哨站	Placeholder		0	0	0	0	1.5						 	 	3	0	0	0																																										
+193	3	Dungeon Ent	2	104	走私者的聚会所	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+194	4	Dungeon Ent	2	105	猛狼洞窟	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+195	5	Dungeon Ent	2	106	艾尔瓦的商人公会	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+196	6	Dungeon Ent	2	107	水晶内部	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+197	7	Dungeon Ent	3	108	黄蜂巢	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+198	8	Dungeon Ent	3	109	食人魔劫掠堡垒	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+199	9	Dungeon Ent	4	110	食人魔墓穴	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+200	10	Dungeon Ent	4	111	独眼巨人聚集处	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+201	11	Dungeon Ent	4	112	火焰之炼	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+202	12	Dungeon Ent	5	113	猎龙人营地	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+203	13	Dungeon Ent	5	114	龙穴	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+204	14	Dungeon Ent	5	115	半蛇人洞窟	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+205	15	Dungeon Ent	7	116	太阳神殿	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+206	16	Dungeon Ent	7	117	废弃的督伊德圣圈	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+207	17	Dungeon Ent	8	118	牛头人巢穴	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+208	18	Dungeon Ent	8	119	野蛮人要塞	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+209	19	Dungeon Ent	13	120	海盗堡垒	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+210	20	Dungeon Ent	13	121	废弃的海盗要塞	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+211	21	Dungeon Ent	13	122	小潜艇停泊处	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+212	22	Dungeon Ent	6	123	死灵法师公会	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+213	23	Dungeon Ent	6	124	疯狂死灵法师实验室	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+214	24	Dungeon Ent	9	125	风之城堡	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+215	25	Dungeon Ent	9	126	献祭墓穴	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+216	26	Dungeon Ent	11	127	火之城堡	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+217	27	Dungeon Ent	11	128	战士营地	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+218	28	Dungeon Ent	14	129	爱斯卡顿的宫殿	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+219	29	Dungeon Ent	14	130	风之王的监狱	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+220	2	Dungeon Ent	4	131	前往火元素界的传送门	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+221	3	Dungeon Ent	1	132	前往地元素界的传送门	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+222	1	Dungeon Ent	7	133	前往风元素界的传送门	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+223	1	Dungeon Ent	8	134	前往水元素界的传送门	Placeholder		0	0	0	0	1.5						 	 	0	0	0	0																																										
+224	1	L_Poor 224	1	3	希斯的小屋	Placeholder		0	0	0	0	1.5																																																					
+225	2	L_Poor 225	1	3	罗特奈克斯的屋子	Placeholder		0	0	0	0	1.5																																																					
+226	3	L_Poor 226	1	3	提斯克的小屋	Placeholder		0	0	0	0	1.5																																																					
+227	4	L_Poor 227	1	3	泰丁的屋子	Placeholder		0	0	0	0	1.5																																																					
+228	5	L_Poor 228	1	3	伊奇的屋子	Placeholder		0	0	0	0	1.5																																																					
+229	6	L_Poor 229	1	3	蓝贵德的小屋	Placeholder		0	0	0	0	1.5																																																					
+230	7	L_Poor 230	1	3	希斯妥的屋子	Placeholder		0	0	0	0	1.5																																																					
+231	8	L_Poor 231	1	3	赛瓦的小屋	Placeholder		0	0	0	0	1.5																																																					
+232	9	L_Poor 232	1	3	埃斯瑞克的屋子	Placeholder		0	0	0	0	1.5																																																					
+233	10	L_Poor 233	1	3	朋恩的屋子	Placeholder		0	0	0	0	1.5																																																					
+234	11	L_Poor 234	1	3	拉沙庭的小屋	Placeholder		0	0	0	0	1.5																																																					
+235	12	L_Poor 235	1	3	曼纳梭尔的屋子	Placeholder		0	0	0	0	1.5																																																					
+236	13	L_Poor 236	1	3	哈斯克的屋子	Placeholder		0	0	0	0	1.5																																																					
+237	14	L_Medium 237	1	56	塔力米尔的小屋	Placeholder		0	0	0	0	1.5																																																					
+238	15	L_Medium 238	1	1	瑞西的房子	Placeholder	 	0	0	0	0	1.5						 	 	0	0	0	0																																										
+239	16	L_Medium 239	1	1	房子	Placeholder		0	0	0	0	1.5				76
+240	17	L_Medium 240	1	1	长尾的小屋	Placeholder		0	0	0	0	1.5				76
+241	18	L_Medium 241	1	1	埃斯兰的屋子	Placeholder		0	0	0	0	1.5				76
+242	19	L_Medium 242	1	1	葛瑞维克的屋子	Placeholder		0	0	0	0	1.5				76
+243	20	L_Medium 243	1	1	乌许的小屋	Placeholder		0	0	0	0	1.5				76
+244	0	T_Poor 244	2	77	威尔伯的陋居	Placeholder		0	0	0	0	1.5				76
+245	1	T_Poor 245	2	77	杰课的陋居	Placeholder		0	0	0	0	1.5				76
+246	2	DE_Rich 246	2	15	艾佛斯的房屋	Placeholder		0	0	0	0	1.5				76
+247	3	C_Poor 247	2	56	派德东的宫殿	Placeholder		0	0	0	0	1.5				76
+248	4	T_Poor 248	2	77	普多的陋居	Placeholder		0	0	0	0	1.5				76
+249	5	DE_Rich 249	2	15	佛吉爱特的华宅	Placeholder		0	0	0	0	1.5				76
+250	6	DE_Rich 250	2	15	爱波的家	Placeholder		0	0	0	0	1.5				76
+251	7	C_Poor 251	2	56	崔比力的家	Placeholder		0	0	0	0	1.5				76
+252	8	T_Poor 252	2	77	何顿的陋居	Placeholder		0	0	0	0	1.5				76
+253	9	T_Poor 253	2	77	阿兹诺格的陋居	Placeholder		0	0	0	0	1.5				76
+254	10	DE_Medium 254	2	17	卢欧林的屋子	Placeholder		0	0	0	0	1.5				79
+255	11	DE_Rich 255	2	15	苹蜂的屋子	Placeholder		0	0	0	0	1.5				79
+256	12	C_Poor 256	2	56	阿奇巴德的家	Placeholder		0	0	0	0	1.5				79
+257	13	MIN_Rich 257	2	31	艾瑞恶斯的屋子	Placeholder		0	0	0	0	1.5				79
+258	14	DE_Medium 258	2	17	猎鹿人的屋子	Placeholder		0	0	0	0	1.5				79
+259	15	DH_Rich 259	2	15	陶恩赛佛的大厅	Placeholder		0	0	0	0	1.5				79
+260	16	C_Poor 260	2	56	乔波的家	Placeholder		0	0	0	0	1.5				79
+261	17	C_Poor 261	2	56	卖蓝德的屋子	Placeholder		0	0	0	0	1.5				79
+262	18	DH_Medium 262	2	46	蓝天鹅的家	Placeholder		0	0	0	0	1.5				79
+263	19	DE_Rich 263	2	15	快舌的豪宅	Placeholder		0	0	0	0	1.5				79
+264	20	DE_Rich 264	2	15	拉来色尔的豪宅	Placeholder		0	0	0	0	1.5				79
+265	21	DE_Rich 265	2	15	海尔斯曼的小屋	Placeholder		0	0	0	0	1.5				79
+266	22	DE_Rich 266	2	15	卡佛希尔的豪宅	Placeholder		0	0	0	0	1.5				79
+267	23	DH_Medium 267	2	46	利斧的家	Placeholder		0	0	0	0	1.5				79
+268	24	DE_Rich 268	2	15	谈普的大厅	Placeholder		0	0	0	0	1.5				79
+269	25	DH_Medium 269	2	46	普特南的家	Placeholder		0	0	0	0	1.5				73
+270	26	DE_Medium 270	2	17	凯兰德的小屋	Placeholder		0	0	0	0	1.5				73
+271	27	C_Poor 271	2	56	拉西亚斯的家	Placeholder		0	0	0	0	1.5				73
+272	28	DE_Rich 272	2	15	赏金猎人公会	Placeholder		0	0	0	0	1.5				73
+273	29	DH_Medium 273	2	46	波散恩的大厅	Placeholder		0	0	0	0	1.5				73
+274	30	DE_Rich 274	2	15	耐布力克的屋子	Placeholder		0	0	0	0	1.5				73
+275	31	DH_Medium 275	2	46	石刀的大厅	Placeholder		0	0	0	0	1.5				73
+276	32	DE_Rich 276	2	15	招待所	Placeholder		107	0	0	0	1.5				73
+277	33	DH_Medium 277	2	46	招待所	Placeholder		170	0	0	0	1.5				73
+278	34	DE_Medium 278	2	17	布理汉的家	Placeholder		0	0	0	0	1.5				73
+279	35	NEC_Rich 279	2	58	麦莫瑞亚的屋子	Placeholder		0	0	0	0	1.5				73
+280	36	C_Poor 280	2	56	何索恩的屋子	Placeholder		0	0	0	0	1.5				73
+281	37	C_Poor 281	2	56	拉兹一家人的房子	Placeholder		0	0	0	0	1.5				73
+282	38	DE_Rich 282	2	15	诺斯沃的屋子	Placeholder		0	0	0	0	1.5				73
+283	39	DH_Poor 283	2	47	追迹者的大厅	Placeholder		0	0	0	0	1.5				73
+284	40	T_Poor 284	2	77	韩特的小屋	Placeholder		0	0	0	0	1.5				73
+285	41	C_Poor 285	2	56	代为瑞许的小屋	Placeholder		0	0	0	0	1.5				73
+286	42	T_Poor 286	2	77	多兹一家人的陋居	Placeholder		0	0	0	0	1.5				73
+287		DE_Rich 287	3	15	惠瑟史密斯的豪宅	Placeholder		0	0	0	0	1.5				73
+288		DE_Med 288	3	17	维斯波的大厅	Placeholder		0	0	0	0	1.5				73
+289		DE_Rich 289	3	17	索力斯的大厅	Placeholder		0	0	0	0	1.5				73
+290		DE_Med 290	3	17	艾佛斯麦的大厅	Placeholder		0	0	0	0	1.5				73
+291		DE_Med 291	3	17	摩尔的小屋	Placeholder		0	0	0	0	1.5				76
+292		DE_Med 292	3	17	克鲁兰的屋子	Placeholder		0	0	0	0	1.5				76
+293		DE_Rich 293	3	15	达肯摩尔的大厅	Placeholder		0	0	0	0	1.5				76
+294		DE_Rich 294	3	15	代为瑞许的豪宅	Placeholder		0	0	0	0	1.5				76
+295		DE_Rich 295	3	15	爱格瑞尼尔的大厅	Placeholder		0	0	0	0	1.5				76
+296		DE_Med 296	3	17	来特芬格的屋子	Placeholder		0	0	0	0	1.5				76
+297		DE_Med 297	3	17	夜行者的小屋	Placeholder		0	0	0	0	1.5				76
+298		DE_Med 298	3	17	史巴克曼的家	Placeholder		0	0	0	0	1.5				76
+299		DE_Med 299	3	17	赛百物的大厅	Placeholder		0	0	0	0	1.5				76
+300		DE_Rich 300	3	15	史提尔的豪宅	Placeholder		0	0	0	0	1.5				76
+301		DE_Med 301	3	17	赏金猎人公会	Placeholder		0	0	0	0	1.5				76
+302		DE_Med 302	3	17	瓦特沙的小屋	Placeholder		0	0	0	0	1.5				76
+303		DE_Rich 303	3	15	佛罗马哥的大宅	Placeholder		0	0	0	0	1.5				79
+304		DE_Rich 304	3	15	黑王座的豪宅	Placeholder		0	0	0	0	1.5				79
+305		DE_Med 305	3	17	耐芙莫尔的屋子	Placeholder		0	0	0	0	1.5				79
+306		DE_Med 306	3	17	伊塔力的小屋	Placeholder		0	0	0	0	1.5				79
+307		DE_Med 307	3	17	哈维斯特的大厅	Placeholder		0	0	0	0	1.5				79
+308		DE_Med 308	3	17	艾佛森的豪宅	Placeholder		0	0	0	0	1.5				82
+309		DE_Med 309	3	17	欧斯克理顿的住家	Placeholder		0	0	0	0	1.5				82
+310		DE_Med 310	3	17	赛尔鹏的家	Placeholder		0	0	0	0	1.5				82
+311		DE_Med 311	3	17	灰晨的家	Placeholder		0	0	0	0	1.5				82
+312		DE_Med 312	3	17	史塔拉尔的屋子	Placeholder		0	0	0	0	1.5				82
+313		DE_Med 313	3	17	白兰地的家	Placeholder		0	0	0	0	1.5				82
+314		DE_Med 314	3	17	包威的住家	Placeholder		0	0	0	0	1.5				82
+315		DE_Med 315	3	17	布理曼的住家	Placeholder		0	0	0	0	1.5				82
+316	 	DH_Med 316	5	46	暴风枪的住家	Placeholder		0	0	0	0	1.5				82
+317	 	DH_Med 317	5	47	晨星的住家	Placeholder		0	0	0	0	1.5				82
+318	 	DH_Med 318	5	46	佛斯太克的家	Placeholder		0	0	0	0	1.5				82
+319	 	DH_Med 319	5	47	铁拳的住所	Placeholder		0	0	0	0	1.5				85
+320	 	DH_Med 320	5	46	瑞佛斯顿的住所	Placeholder		0	0	0	0	1.5				85
+321	 	GM_Fire 321	11	98	伯恩的家	Placeholder		0	0	0	0	1.5				85
+322	 	GM_Earth 322	10	100	House 322	Placeholder		0	0	0	0	1.5				85
+323	  	GM_Water 323	12	99	黑流得屋子	Placeholder		0	0	0	0	1.5				85
+324	 	GM_Air 324	9	101	House 324	Placeholder		0	0	0	0	1.5				85
+325		DE_Med 325	3	17	 瑞汉西的家 	Placeholder		0	0	0	0	1.5				85
+326		DE_Med 326	3	17	庞巴的大厅	Placeholder		0	0	0	0	1.5				85
+327		DE_Med 327	3	17	凯尔顿的小屋	Placeholder		0	0	0	0	1.5				88
+328		DE_Med 328	3	17	维尔顿的小屋	Placeholder		0	0	0	0	1.5				88
+329		DE_Med 329	3	17	法斯威尔的屋子	Placeholder		0	0	0	0	1.5				88
+330		DE_Med 330	3	17	羽风的屋子	Placeholder		0	0	0	0	1.5				88
+331		T_Poor 331	4	77	史东的陋居	Placeholder		0	0	0	0	1.5				109
+332		T_Poor 332	4	77	贺斯沃的陋居	Placeholder		0	0	0	0	1.5				109
+333		T_Poor 333	4	77	塔力安的陋居	Placeholder		0	0	0	0	1.5				109
+334		T_Poor 334	4	77	迷雾的陋居	Placeholder		0	0	0	0	1.5				109
+335		T_Poor 335	4	77	贺伯特的陋居	Placeholder		0	0	0	0	1.5				109
+336		T_Poor 336	4	77	葛林史东的陋居	Placeholder		0	0	0	0	1.5				109
+337		T_Poor 337	4	77	波尔的陋居	Placeholder		0	0	0	0	1.5				112
+338		T_Poor 338	4	77	塔兰的陋居	Placeholder		0	0	0	0	1.5				112
+339		T_Poor 339	4	77	史麦克的陋居	Placeholder		0	0	0	0	1.5				112
+340		DH_Medium 340	5	47	阿瓦龙的居所	Placeholder		0	0	0	0	1.5				112
+341		DH_Medium 341	5	46	爱林的居所	Placeholder		0	0	0	0	1.5				112
+342		DH_Medium 342	5	47	来特史汪的居所	Placeholder		0	0	0	0	1.5				112
+343		DH_Medium 343	5	46	欧特顿的居所	Placeholder		0	0	0	0	1.5				112
+344		DH_Medium 344	5	47	卡兰崔尔的居所	Placeholder		0	0	0	0	1.5				112
+345		DH_Medium 345	5	46	马克的居所	Placeholder		0	0	0	0	1.5				115
+346		DH_Medium 346	5	47	杀手的居所	Placeholder		0	0	0	0	1.5				115
+347		DH_Medium 347	5	46	科恩的居所	Placeholder		0	0	0	0	1.5				115
+348		DH_Medium 348	5	47	珍妮的居所	Placeholder		0	0	0	0	1.5				
+349		DH_Medium 349	5	46	威瑞克的家	Placeholder		0	0	0	0	1.5				
+350		Dragon 350	28	160	伊斯顿的洞穴	Placeholder		0	0	0	0	1.5				
+351		Dragon 351	28	160	伊斯希尔歌尔的洞穴	Placeholder		0	0	0	0	1.5				
+352		Dragon 352	28	160	疤翅的洞穴	Placeholder		0	0	0	0	1.5				118
+353		House 353	0	0	Tell James you see this 353	Placeholder		0	0	0	0	1.5				118
+354		House 354	0	0	Tell James you see this 354	Placeholder		0	0	0	0	1.5				118
+355		NEC_Rich 355	6	58	塔尔希尔大厅	Placeholder		0	0	0	0	1.5				118
+356		NEC_Rich 356	6	61	夜行者的豪宅	Placeholder		0	0	0	0	1.5				118
+357		NEC_Rich 357	6	58	雾春的居所	Placeholder		0	0	0	0	1.5				121
+358		NEC_Rich 358	6	58	阿拉尼雅的屋子	Placeholder		0	0	0	0	1.5				121
+359		NEC_Rich 359	6	58	德斯摩尔的小屋	Placeholder		0	0	0	0	1.5				121
+360		NEC_Rich 360	6	61	拉席安的屋子	Placeholder		0	0	0	0	1.5				121
+361		NEC_Rich 361	6	61	光矛大厅	Placeholder		0	0	0	0	1.5				121
+362		NEC_Rich 362	6	58	夜木的豪宅	Placeholder		0	0	0	0	1.5				121
+363		NEC_Rich 363	6	58	沙达的屋子	Placeholder		0	0	0	0	1.5				121
+364		NEC_Rich 364	6	61	摩枯妥拉的屋子	Placeholder		0	0	0	0	1.5				124
+365		NEC_Rich 365	6	58	络真的屋子	Placeholder		0	0	0	0	1.5				124
+366		NEC_Rich 366	6	61	海林安的小屋	Placeholder		0	0	0	0	1.5				124
+367		NEC_Rich 367	6	58	罗伯兹的居所	Placeholder		0	0	0	0	1.5				
+368		NEC_Rich 368	6	58	因佛史塔斯的屋子	Placeholder		0	0	0	0	1.5				
+369		NEC_Rich 369	6	58	乔尼的小屋子	Placeholder		0	0	0	0	1.5				
+370		NEC_Rich 370	6	61	惠斯伯的大厅	Placeholder		0	0	0	0	1.5				82
+371		NEC_Rich 371	6	61	钢眼的豪宅	Placeholder		0	0	0	0	1.5				82
+372		NEC_Rich 372	6	58	班耐费斯的屋子	Placeholder		0	0	0	0	1.5				82
+373		NEC_Rich 373	6	58	安伯普尔的屋子	Placeholder		0	0	0	0	1.5				82
+374		NEC_Rich 374	6	58	凯尔文的家	Placeholder		0	0	0	0	1.5				82
+375		NEC_Rich 375	6	61	卡佛希尔的大厅	Placeholder		0	0	0	0	1.5				82
+376		NEC_Rich 376	6	58	维瑞塔斯的豪宅	Placeholder		0	0	0	0	1.5				85
+377		NEC_Rich 377	6	61	止水的豪宅	Placeholder		0	0	0	0	1.5				85
+378		NEC_Rich 378	6	61	克兰恩的小屋	Placeholder		0	0	0	0	1.5				85
+379		NEC_Rich 379	6	58	比斯的豪宅	Placeholder		0	0	0	0	1.5				85
+380		NEC_Rich 380	6	58	费尔朋的居所	Placeholder		0	0	0	0	1.5				85
+381		NEC_Rich 381	6	58	加罗史威的大宅	Placeholder		0	0	0	0	1.5				85
+382		NEC_Rich 382	6	61	费多朋的屋子	Placeholder		0	0	0	0	1.5				88
+383		NEC_Rich 383	6	58	代佛贝罗的屋子	Placeholder		0	0	0	0	1.5				88
+384		NEC_Rich 384	6	58	坦尼林安的屋子	Placeholder		0	0	0	0	1.5				88
+385		NEC_Rich 385	6	58	费斯特的居所	Placeholder		0	0	0	0	1.5				88
+386		NEC_Rich 386	6	61	瓦尔格林的实验室	Placeholder		0	0	0	0	1.5				88
+387		NEC_Rich 387	6	58	华勒斯的屋子	Placeholder		0	0	0	0	1.5				73
+388		C_Rich 388	7	56	鸦眼的居所	Placeholder		0	0	0	0	1.5				73
+389		C_Rich 389	7	56	梦妖的居所	Placeholder		0	0	0	0	1.5				73
+390		C_Rich 390	7	56	雪树的居所	Placeholder		0	0	0	0	1.5				73
+391		C_Rich 391	7	56	坦尼林安的居所	Placeholder		0	0	0	0	1.5				73
+392		C_Rich 392	7	56	密斯瑞的居所	Placeholder		0	0	0	0	1.5				73
+393		C_Rich 393	7	56	东克的居所	Placeholder		0	0	0	0	1.5				73
+394		C_Rich 394	7	56	锐锋的居所	Placeholder		0	0	0	0	1.5				73
+395		C_Rich 395	7	56	宝石的居所	Placeholder		0	0	0	0	1.5				73
+396		C_Rich 396	7	56	山普森的居所	Placeholder		0	0	0	0	1.5				73
+397		T_Poor 397	8	77	夕维恶斯的居所	Placeholder		0	0	0	0	1.5				73
+398		T_Poor 398	8	77	维许的居所	Placeholder		0	0	0	0	1.5				73
+399		T_Poor 399	8	77	赛尔的遮风避雨处	Placeholder		0	0	0	0	1.5				73
+400		T_Poor 400	8	77	波尔多的陋居	Placeholder		0	0	0	0	1.5				73
+401		T_Poor 401	8	77	加文那斯的家	Placeholder		0	0	0	0	1.5				73
+402		MIN_Rich 402	35	33	坦尼斯的屋子	Placeholder		0	0	0	0	1.5				76
+403		MIN_Rich 403	35	33	费瑞斯的屋子	Placeholder		0	0	0	0	1.5				76
+404		MIN_Rich 404	35	34	淹水的屋子	Placeholder		0	0	0	0	1.5				76
+405		MIN_Rich 405	35	34	淹水的商店	Placeholder		0	0	0	0	1.5				76
+406		MIN_Rich 406	35	31	Weapon shop placeholder	Placeholder		0	0	0	0	1.5				76
+407		MIN_Rich 407	35	31	确尾的屋子	Placeholder		0	0	0	0	1.5				76
+408		MIN_Rich 408	35	31	瑞欧耐尔的屋子	Placeholder		0	0	0	0	1.5				76
+409		MIN_Rich 409	35	31	Armor shop placeholder	Placeholder		0	0	0	0	1.5				76
+410		MIN_Rich 410	35	31	Magic shop placeholder	Placeholder		0	0	0	0	1.5				79
+411		MIN_Rich 411	35	31	Spell shop placeholder	Placeholder		0	0	0	0	1.5				79
+412		MIN_Rich 412	35	31	乌布理契的屋子	Placeholder		0	0	0	0	1.5				79
+413		MIN_Rich 413	35	33	森杰克的屋子	Placeholder		0	0	0	0	1.5				91
+414		MIN_Rich 414	35	31	Alchemist placeholder	Placeholder		0	0	0	0	1.5				91
+415		MIN_Rich 415	35	31	Temple placeholder	Placeholder		0	0	0	0	1.5				91
+416		MIN_Rich 416	35	31	拉兹的屋子	Placeholder		0	0	0	0	1.5				91
+417		MIN_Rich 417	35	31	荷力菲尔德的屋子	Placeholder		0	0	0	0	1.5				94
+418		MIN_Rich 418	35	33	泰沙拉的屋子	Placeholder		0	0	0	0	1.5				94
+419		MIN_Rich 419	35	31	暴风眼的屋子	Placeholder		0	0	0	0	1.5				94
+420		MIN_Rich 420	35	31	Bank placeholder	Placeholder		0	0	0	0	1.5				97
+421		MIN_Rich 421	35	31	Training hall placeholder	Placeholder		0	0	0	0	1.5				97
+422		MIN_Rich 422	35	34	Flooded House	Placeholder		0	0	0	0	1.5				100
+423		Pirate 423	13	84	追龙者的大厅	Placeholder		0	0	0	0	1.5				100
+424		Pirate 424	13	82	诺瑟斯的屋子	Placeholder		0	0	0	0	1.5				103
+425		Pirate 425	13	84	伯更斗的屋子	Placeholder		0	0	0	0	1.5				103
+426		Pirate 426	13	82	明眼的大厅	Placeholder		0	0	0	0	1.5				103
+427		Pirate 427	13	84	影跑者的宝库	Placeholder		0	0	0	0	1.5				103
+428		Pirate 428	13	82	理夫特的金库	Placeholder		0	0	0	0	1.5				103
+429		Pirate 429	13	84	史提尔克夫的大厅	Placeholder		0	0	0	0	1.5				103
+430		Pirate 430	13	82	吹瓶者的大宅	Placeholder		0	0	0	0	1.5				106
+431		Pirate 431	13	84	马蒙的屋子	Placeholder		0	0	0	0	1.5				106																																																	
+432		Pirate 432	13	82	单眼的住所	Placeholder		0	0	0	0	1.5				106																																																	
+433		Pirate 433	13	84	保罗的大宅	Placeholder		0	0	0	0	1.5				109																																																	
+434		Pirate 434	13	82	特伦斯的家	Placeholder		0	0	0	0	1.5				109																																																	
+435		Pirate 435	13	84	佛恩的巢穴	Placeholder		0	0	0	0	1.5				109																																																	
+436		Pirate 436	13	82	帕佛的宫殿	Placeholder		0	0	0	0	1.5				109																																																	
+437		Pirate 437	13	84	娜拉尼的大厅	Placeholder		0	0	0	0	1.5				109																																																	
+438		Pirate 438	13	82	摩色的家	Placeholder		0	0	0	0	1.5				109																																																	
+439		House 439	14	76	风之王的监狱	Placeholder		0	0	0	0	1.5				109	For Tomo																																																
+440		House 440	14	75	水之王的监狱	Placeholder		0	0	0	0	1.5				109	For Tomo																																																
+441		House 441	14	74	地之王的监狱	Placeholder		0	0	0	0	1.5				112	For Tomo																																																
+442		House 442	14	73	火之王的监狱	Placeholder		0	0	0	0	1.5				112	For Tomo																																																
+443		House 443	9	101	翅帆的屋子	Placeholder		0	0	0	0	1.5				115																																																	
+444		House 444	9	101	瓦波的屋子	Placeholder		0	0	0	0	1.5				115																																																	
+445	 	House 445	9	101	风神的屋子	Placeholder		0	0	0	0	1.5																																																					
+446		House 446	9	101	空屋	Placeholder		0	0	0	0	1.5																																																					
+447		House 447	9	101	空屋	Placeholder		0	0	0	0	1.5																																																					
+448		House 448	9	101	空屋	Placeholder		0	0	0	0	1.5																																																					
+449		House 449	9	101	空屋	Placeholder		0	0	0	0	1.5																																																					
+450		House 450	9	101	耐德龙的屋子	Placeholder		0	0	0	0	1.5																																																					
+451		House 451	8	0	Tell James if you see this 451	Placeholder		0	0	0	0	1.5																																																					
+452		House 452	8	0	卡格纳的商店	Placeholder		0	0	0	0	1.5																																																					
+453		House 453	8	0	Tell James if you see this 453	Placeholder		0	0	0	0	1.5																																																					
+454		Dungeon Ent	14	136	地之王的监狱	Placeholder		0	0	0	0	1.5																																																					
+455		Dungeon Ent	14	137	火之王的监狱	Placeholder		0	0	0	0	1.5																																																					
+456		Dungeon Ent	14	138	水之王的监狱	Placeholder		0	0	0	0	1.5																																																					
+457		House 457	10	100	罗姆沃克的屋子	Placeholder		0	0	0	0	1.5																																																					
+458		Hosue 458	10	100	所一尔的屋子	Placeholder		0	0	0	0	1.5																																																					
+459		House 459	10	100	空屋	Placeholder		0	0	0	0	1.5																																																					
+460		House 460	10	100	空屋	Placeholder		0	0	0	0	1.5																																																					
+461		House 461	10	100	空屋	Placeholder		0	0	0	0	1.5																																																					
+462		House 462	10	100	空屋	Placeholder		0	0	0	0	1.5																																																					
+463		House 463	10	100	空屋	Placeholder		0	0	0	0	1.5																																																					
+464		House 464	10	100	空屋	Placeholder		0	0	0	0	1.5																																																					
+465		House 465	10	100	空屋	Placeholder		0	0	0	0	1.5																																																					
+466		House 466	10	100	空屋	Placeholder		0	0	0	0	1.5																																																					
+467		House 467	11	98	安伯的屋子	Placeholder		0	0	0	0	1.5																																																					
+468		House 468	11	98	暮光的屋子	Placeholder		0	0	0	0	1.5																																																					
+469		House 469	11	98	空屋	Placeholder		0	0	0	0	1.5																																																					
+470		House 470	11	98	空屋	Placeholder		0	0	0	0	1.5																																																					
+471		House 471	11	98	空屋	Placeholder		0	0	0	0	1.5																																																					
+472		House 472	12	99	河玻璃的屋子	Placeholder		0	0	0	0	1.5																																																					
+473		House 473	12	99	清溪的屋子	Placeholder		0	0	0	0	1.5																																																					
+474		House 474	12	99	空屋	Placeholder		0	0	0	0	1.5																																																					
+475		House 475	12	99	空屋	Placeholder		0	0	0	0	1.5																																																					
+476		House 476	12	99	空屋	Placeholder		0	0	0	0	1.5																																																					
+477		House 477	10	100	格瑞文的屋子	Placeholder		0	0	0	0	1.5																																																					
+478		House 478	2	77	石下的屋子	Placeholder		0	0	0	0	1.5																																																					
+479		House 479	4	77	夕索朋的住家	Placeholder		0	0	0	0	1.5
+480		House 480	5	46	耐力克斯的屋子	Placeholder		0	0	0	0	1.5
+481		House 481	5	46	坦帕斯的屋子	Placeholder		0	0	0	0	1.5
+482		House 482	7	56	维瑞许的屋子	Placeholder		0	0	0	0	1.5
+483		House 483	59	160	佛蓝林的洞穴	Placeholder		0	0	0	0	1.5
+484		House 484	60	160	布尔史东的洞穴	Placeholder		0	0	0	0	1.5
+485		House 485	58	160	土洛斯的洞穴	Placeholder		0	0	0	0	1.5
+486		House 486	0	0	PLACEHOLDER	Placeholder		0	0	0	0	1.5
+487		House 487	0	0	House 487	Placeholder		0	0	0	0	1.5
+488		House 488	0	0	House 488	Placeholder		0	0	0	0	1.5
+489		House 489	0	0	House 489	Placeholder		0	0	0	0	1.5
+490		House 490	0	0	House 490	Placeholder		0	0	0	0	1.5
+491		House 491	0	0	House 491	Placeholder		0	0	0	0	1.5
+492		House 492	0	0	House 492	Placeholder		0	0	0	0	1.5
+493		House 493	0	0	House 493	Placeholder		0	0	0	0	1.5
+494		House 494	0	0	House 494	Placeholder		0	0	0	0	1.5
+495		House 495	0	0	House 495	Placeholder		0	0	0	0	1.5
+496		House 496	0	0	House 496	Placeholder		0	0	0	0	1.5
+497		House 497	0	0	House 497	Placeholder		0	0	0	0	1.5
+498		House 498	0	0	House 498	Placeholder		0	0	0	0	1.5
+499		Dungeon Ent	8	159	巴尔萨煞的巢穴	Placeholder		0	0	0	0	1.5
+500		Dungeon Ent	1	135	废弃神殿的后门	Placeholder		0	0	0	0	1.5
+501		House 501	0	0	House 501	Placeholder		0	0	0	0	1.5
+502		House 502	0	0	House 502	Placeholder		0	0	0	0	1.5
+503		House 503	0	0	House 503	Placeholder		0	0	0	0	1.5
+504		House 504	0	0	House 504	Placeholder		0	0	0	0	1.5
+505		House 505	0	0	House 505	Placeholder		0	0	0	0	1.5
+506		House 506	0	0	House 506	Placeholder		0	0	0	0	1.5
+507		House 507	0	0	House 507	Placeholder		0	0	0	0	1.5
+508		House 508	0	0	House 508	Placeholder		0	0	0	0	1.5
+509		House 509	0	0	House 509	Placeholder		0	0	0	0	1.5
+510		House 510	0	0	House 510	Placeholder		0	0	0	0	1.5
+511		House 511	0	0	House 511	Placeholder		0	0	0	0	1.5
+512		House 512	0	0	House 512	Placeholder		0	0	0	0	1.5
+513		House 513	0	0	House 513	Placeholder		0	0	0	0	1.5
+514		House 514	0	0	House 514	Placeholder		0	0	0	0	1.5
+515		House 515	0	0	House 515	Placeholder		0	0	0	0	1.5
+516		House 516	0	0	House 516	Placeholder		0	0	0	0	1.5
+517		House 517	0	0	House 517	Placeholder		0	0	0	0	1.5
+518		House 518	0	0	House 518	Placeholder		0	0	0	0	1.5
+519		House 519	0	0	House 519	Placeholder		0	0	0	0	1.5
+520		House 520	0	0	House 520	Placeholder		0	0	0	0	1.5
+521		House 521	0	0	House 521	Placeholder		0	0	0	0	1.5
+522		House 522	0	0	House 522	Placeholder		0	0	0	0	1.5
+523		House 523	0	0	House 523	Placeholder		0	0	0	0	1.5
+524		House 524	0	0	House 524	Placeholder		0	0	0	0	1.5
+525		House 525	0	0	House 525	Placeholder		0	0	0	0	1.5

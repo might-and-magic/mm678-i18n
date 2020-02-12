@@ -1,0 +1,105 @@
+A Bit	Awards	Sort	Notes
+1	Current Fines Due: %lu	1	
+2	Won the Scavenger Hunt on Emerald Island	2	
+3	Found the missing contestants on Emerald Island	3	
+4	Removed goblins from Castle Harmondale	2	
+5	Rescued the dwarves from the Red Dwarf Mine	2	
+6	Rescued Loren Steel	2	
+7	Gave Loren Imposter to Catherine	2	
+8	Retrieved Fort Riverstride Plans	2	
+9	Gave false plans to Elfking	2	
+10	Promoted to Rogue	4	
+11	Promoted to Honorary Rogue	4	
+12	Promoted to Spy	4	
+13	Promoted to Honorary Spy	4	
+14	Promoted to Assassin	4	
+15	Promoted to Honorary Assassin	4	
+16	Promoted to Cavalier	4
+17	Promoted to Honorary Cavalier	4
+18	Promoted to Champion	4
+19	Promoted to Honorary Champion	4
+20	Promoted to Black Knight	4
+21	Promoted to Honorary Black Knight	4
+22	Promoted to Initiate	4
+23	Promoted to Honorary Initiate	4
+24	Promoted to Master	4
+25	Promoted to Honorary Master	4
+26	Promoted to Ninja	4
+27	Promoted to Honorary Ninja	4
+28	Promoted to Hunter	4
+29	Promoted to Honorary Hunter	4
+30	Promoted to Ranger Lord	4
+31	Promoted to Honorary Ranger Lord	4
+32	Promoted to Bounty Hunter	4	
+33	Promoted to Honorary Bounty Hunter	4	
+34	Promoted to Warrior Mage	4	
+35	Promoted to Honorary Warrior Mage	4	
+36	Promoted to Master Archer	4	
+37	Promoted to Honorary Master Archer	4	
+38	Promoted to Sniper	4	
+39	Promoted to Honorary Sniper	4	
+40	Promoted to Crusader	4	
+41	Promoted to Honorary Crusader	4	
+42	Promoted to Hero	4	
+43	Promoted to Honorary Hero	4	
+44	Promoted to Villain	4	
+45	Promoted to Honorary Villain	4	
+46	Completed Wizard Proving Grounds	2	
+47	Retrieved Both Temple Pieces	2	Used on two sides
+48	Slayed Xenofex	2	Used on two sides
+49	Solved the Mystery of the Wine Cellar	2	
+50	Joined the Elemental Guild	5	
+51	Joined the Self Guild	5	
+52	Joined the Air Guild	5	
+53	Joined the Earth Guild	5	
+54	Joined the Fire Guild	5	
+55	Joined the Water Guild	5	
+56	Joined the Body Guild	5	
+57	Joined the Mind Guild	5	
+58	Joined the Spirit Guild	5	
+59	Joined the Light Guild	5	
+60	Joined the Dark Guild	5	
+61	Retrieved the Heart of the Wood	3	
+62	Promoted to Priest	4	
+63	Promoted to Honorary Priest	4	
+64	Promoted to Priest of the Light	4
+65	Promoted to Honorary Priest of the Light	4
+66	Promoted to Priest of the Dark	4
+67	Promoted to Honorary Priest of the Dark	4
+68	Promoted to Great Druid	4
+69	Promoted to Honorary Great Druid	4
+70	Promoted to Arch Druid	4
+71	Promoted to Honorary Arch Druid	4
+72	Promoted to Warlock	4
+73	Promoted to Honorary Warlock	4
+74	Promoted to Wizard	4
+75	Promoted to Honorary Wizard	4
+76	Promoted to Archmage	4
+77	Promoted to Honorary Archmage	4
+78	Promoted to Lich	4
+79	Promoted to Honorary Lich	4
+80	Retrieved Soul Jars	2	Used on two sides
+81	Assassinated Tolberti	2	
+82	Cleaned out Clanker's Laboratory	2	
+83	Assassinated Robert the Wise	2	
+84	Completed Necromancer Breeding Pit	2	
+85	%u Deaths	1	
+86	Collected %u in bounties	1	
+87	Served %u Prison Terms	1	
+88	%u Page Arena Victories	1	
+89	%u Squire Arena Victories	1	
+90	%u Knight Arena Victories	1	
+91	%u Lord Arena Victories	1	
+92	Returned Withern's Lantern	3	
+93	Returned Haldar's Remains	3	
+94	Returned Lord Davrik's signet Ring	3	
+95	Returned Parson's Quill to Norbert Thrush	3	
+96	Returned Faerie Pipes to Johann Kerrid	3
+97	Troglodyte Slayer	3
+98	Griffin Slayer	3
+99	Retrieved the Seasons' Stole	3
+100	Found and placed all the statuettes	3
+101	Retrieved the complete set of paintings	3
+102	ArcoMage Champion	3
+103	ArcoMage wins: %lu	1
+104	ArcoMage losses: %lu	1

@@ -1,0 +1,129 @@
+Note bit	Autonote Text	Category
+1	5 Hit points cured by the central fountain in New Sorpigal.	Stat
+2	5 Spell points restored by the northwest fountain in New Sorpigal.	Stat
+3	10 Points of temporary might from the northeast fountain in New Sorpigal.  	Stat
+4	Completed Goblin Quest	Award
+5	Destroyed alter in Temple of Baa	Award
+6	Delivered Sixth Letter to Wilber Humphry	Award
+7	Revealed Traitor	Award
+8	Allowed to use Yacht	Award
+9	20 Spell points restored by the Fountain of Magic in Bootleg Bay.	Stat
+10		misc
+11	10 Spell points restored by the central fountain in Mist.	Stat
+12	20 Points of temporary luck from the fountain west of the Imp Slapper in Mist.	Stat
+13	10 Points of temporary intellect and personality from the west fountain at Castle Newton.	Stat
+14	"5 Points of temporary fire, electricity, cold, and poison resistance from the east fountain at Castle Newton."	Stat
+15		
+16		
+17	"20 Points of temporary fire, electricity, cold, and poison resistance from the southwest fountain in the Eel Infested Waters."	Stat
+18	20 Points of temporary magic resistance from the southeast fountain in the Eel Infested Waters.	Stat
+19	10 Points of temporary accuracy from the west fountain at Castle Ironfist.	Stat
+20	10 Points of temporary speed from the east fountain at Castle Ironfist.	Stat
+21	10 Hit points restored from the fountain in the Arena.	Stat
+22	20 Points of temporary might from the well near the Goblin's Tooth in Bootleg Bay.	Stat
+23	2 Points of permanent intellect from the north fountain in Bootleg Bay.	Stat
+24	2 Points of permanent personality from the south fountain in Bootleg Bay.	Stat
+25	20 Points of temporary intellect and personality from the fountain in the north side of Silver Cove.	Stat
+26	25 Spell points restored by the fountain outside of Town Hall in Silver Cove.	Stat
+27	2 Points of permanent accuracy from the north fountain west of Silver Cove.	Stat
+28	2 Points of permanent speed from the south fountain west of Silver Cove.	Stat
+29	2 Points of permanent endurance from the fountain in the south of the Mire of the Damned.	Stat
+30	2 Points of permanent might from the fountain in the northeast of Free Haven.	Stat
+31	25 Hit points restored from the central fountain in Free Haven.	Stat
+32	20 Points of temporary speed and accuracy from the west fountain in Icewind Lake.	Stat
+33	20 Points of temporary armor class from the east fountain in Icewind Lake.	Stat
+34	10 Temporary levels from the fountain northeast of Castle Stone.	Stat
+35	30 Points of temporary might from the fountain west of Castle Stromgard.	Stat
+36	5 Points of permanent might from the north fountain east of White Cap Temple.	Stat
+37	5 Points of permanent endurance from the south fountain east of White Cap Temple.	Stat
+38	"10 Points of permanent fire, electricity, cold, and poison resistance from the fountain on the east island in Dragonsand."	Stat
+39	"10 Points of permanent might, accuracy, speed, endurance, personality, intellect, and luck from the fountain on the south island in Dragonsand."	Stat
+40	50 Hit points restored from fountain on the northwest island in Dragonsand.	Stat
+41	50 Points of temporary luck from the well in the north of Blackshire.	Stat
+42	5 Points of permanent magic resistance from the well in the southeast of Blackshire.	Stat
+43	5 Points of permanent intellect and personality from the fountain north of the Temple of the Snake.	Stat
+44	30 Points of temporary magic resistance from the fountain in the south side of Blackshire.	Stat
+45	50 Spell points restored from the central fountain in Blackshire.	Stat
+46	5000 Experience and minus 5000 gold from the southern well in the town of Kriegspire.	Stat
+47	30 Temporary levels from the western well in the town of Kriegspire.	Stat
+48	10 Points of permanent magic resistance from the fountain north of the Dragon Tower in the town of Kriegspire.	Stat
+49	40 Points of temporary armor class from the fountain outside of Castle Kriegspire.	Stat
+50	"5 Points of permanent fire, electricity, cold, and poison resistance from the fountain northwest of the Superior Temple of Baa."	Stat
+51	Unnatural aging cured at fountain to the east of Hermit's Isle.	misc
+52	100 Hit points and spell points from fountain in the desert in Paradise Valley.	Stat
+53	"50 Points of temporary might, accuracy, endurance, speed, personality, intellect, and luck from the fountain southwest of the village of Sweet Water."	Stat
+54	Cure Wounds (Red) = Widoweeps Berries + Empty Bottle	potion
+55	Magic Potion (Blue) = Phirna Root + Empty Bottle	potion
+56	Energy (Yellow) = Poppysnaps + Empty Bottle	potion
+57	Protection (Orange) = Yellow + Red	potion
+58	Resistance (Green) = Yellow + Blue	potion
+59	Cure Poison (Purple) = Blue + Red	potion
+60	Supreme Protection (White) = Orange + Green	potion
+61	Restoration(White) = Purple + Green	potion
+62	Extreme Energy (White) = Orange + Yellow	potion
+63	Super Resistance (White) = Green + Blue	potion
+64	Heroism (White) = Orange + Red	potion
+65	Haste (White) = Green + Yellow	potion
+66	Stone Skin (White) = Orange + Blue	potion
+67	Bless (White) = Purple + Blue	potion
+68	Divine Power (Black) = Extreme Energy + Purple	potion
+69	Divine Cure (Black) = Restoration + Orange	potion
+70	Divine Magic (Black) = Super Resistance + Green	potion
+71	Essence of Might (Black) = Heroism + Red	potion
+72	Essence of Intellect (Black) = Stone Skin + Blue	potion
+73	Essence of Personality (Black) = Restoration + Blue	potion
+74	Essence of Endurance (Black) = Supreme Protection + Yellow	potion
+75	Essence of Accuracy (Black) = Bless + Yellow	potion
+76	Essence of Speed (Black) = Haste + Red	potion
+77	Essence of Luck (Black) = Super Resistance + Purple	potion
+78	Rejuvenation (Black) = Extreme Energy + Green	potion
+79	Obelisk Message # 1:  Itotecthothesaip	obelisk
+80	Obelisk Message # 2:  nhrh_aherheatvdi	obelisk
+81	Obelisk Message # 3:  _etecpe__ersoede	obelisk
+82	Obelisk Message # 4:  t_haat_lt__en_lc	obelisk
+83	Obelisk Message # 5:  hd_scawehSfdewee	obelisk
+84	"Obelisk Message # 6:  erbthieaeuu,_o'd"	obelisk
+85	"Obelisk Message # 7:  _ay,enis_nn_ans."	obelisk
+86	Obelisk Message # 8:  lg____gtS_cln;__	obelisk
+87	Obelisk Message # 9:  aoflo'h.hbtid_p_	obelisk
+88	Obelisk Message # 10: nnaifnt_ieif_tu_	obelisk
+89	Obelisk Message # 11: d_re_e_Hpfotyhz_	obelisk
+90	Obelisk Message # 12: _t_staoi_on_oiz_	obelisk
+91	Obelisk Message # 13: oon_htfdorstusl_	obelisk
+92	Obelisk Message # 14: f_oteh__fe_h__e_	obelisk
+93	Obelisk Message # 15: _nrh__tf__cehr__	obelisk
+94	10 Hit points cured by the right side pool in Snergle's Iron Mines.	
+95	10 Spell points restored by the left side pool in Snergle's Iron Mines.	
+96	+10 Hit points restored south west of the main Sewer chamber.	
+97	Hejaj Mawsil will buy cobra eggs for 300 gold each in New Sorpigal.	misc
+98	Lawrence Aleman will buy temple gongs for 2000 gold each in Free Haven.	misc
+99	Lon Miller will buy bones for 1000 gold each in Free Haven.	misc
+100	Davis Carp will buy lodestones for 5 gold each in Free Haven.	misc
+101	Bonnie Rotterdam will buy feathers for 10 gold each in Free Haven.	misc
+102	Renee Blackburn will buy pyramids for 1000 gold each in Free Haven.	misc
+103	Nick Fenstar will buy kegs of wine for 300 gold each in Free Haven.	misc
+104	Sy Roth will buy teeth for 500 gold each in Free Haven.	misc
+105	Geoff Southy will buy clovers for 25 gold each in Free Haven.	misc
+106	Dillan Robinson will buy amber for 500 gold each in Free Haven.	misc
+107	Bandar Jahrom will trade gems for lamps in Abul's Desert Resort in Dragonsand.	misc
+108	"Now you must destroy the Kreegan Hive.  Destroy the reactor, defeat their queen, and make sure to escape with the Ritual of the Void and you will succeed in your task."	seer
+109	"Before you destroy the reactor, you will need a spell capable of containing the resulting explosions.  You must free Archibald from his stone prison.  Talk to Nicolai and bring him the Third Eye– he will allow you to use Tanir's Bell to turn Archibald back to normal.  From there, you should be able to convince Archibald to give you the knowledge you need."	seer
+110	"To gain access to the Control Center, you will need the Control Cube located in the Temple of VARN in Dragonsand.  Bring the Cube back to the Oracle to gain admittance into the Control Center.  The Kreegan reactor is immune to all attacks.  Only the ancient weapons from the Control Center will harm the reactor.  Make sure you have these weapons and the skill to use them."	seer
+111	"The Oracle has been asleep since Archibald performed his mischief on it.  You will need the four memory crystals to revive the Oracle.  They can be found on Hermit's Isle, in Castle Alamos, in Castle Kriegspire, and in Castle Darkmoor."	seer
+112	It appears that Slicker Silvertongue is a traitor on the Council.  You will need proof to convince Regent Humphrey and have Slicker removed from the Council.  Go to the Superior Temple of Baa in Kriegspire and return with proof associating Slicker with the Temple of Baa.	seer
+113	"You must satisfy the six High Council members in Free Haven to visit the Oracle.  Each lord will request a task of you to earn their favor.  Perform each of these tasks and then talk to the Council member of that Lord to gain their approval.  Once all the members of the High Council give their permission, you will be allowed to visit the Oracle."	seer
+114	I would advise that you perform the promotion quests for the six lords of Enroth until you have advanced a little further.	seer
+115	You need to give The Letter to Regent Wilbur Humphrey in Ironfist Castle.	seer
+116	You should probably show the sixth letter to Andover Potbello in New Sorpigal.	seer
+117	Red liquid grants Might.	misc
+118	Orange liquid grants Intellect.	misc
+119	Blue liquid grants Personality.	misc
+120	Green liquid grants Endurance.	misc
+121	Yellow liquid grants Accuracy.	misc
+122	Purple liquid grants Speed.	misc
+123	White liquid grants Luck.	misc
+124	Steaming liquid grants Fire Resistance.	
+125	Frosty liquid grants Cold Resistance.	
+126	Shocking liquid grants Electricity Resistance.	
+127	Noxious liquid grants Poison Resistance.	
+128	Magical liquid grants Magic Resistance.

@@ -7,6 +7,7 @@
 non_text/sound/
 tools/input/
 tools/output/
+*.baiduyun.uploading.cfg
 
 
 # Byte-compiled / optimized / DLL files

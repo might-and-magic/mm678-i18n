@@ -1,0 +1,527 @@
+Text Number From NPC Events.Doc		Notes
+#	Topic	
+1	The Letter	
+2	The Letter	
+3	Goblinwatch	
+4	Goblinwatch	
+5	Evil Cults	
+6	Evil Cults	
+7	Evil Cults	
+8	The Howling Moon	
+9	The Letter	
+10	Lord Kilburn	
+11	Lord Kilburn	
+12	The High Council	Need text for speaking with Wilbur Humphrey before talking to the traitor.
+13	Crusaders	
+14	Crusaders	
+15	Heroes	
+16	Heroes	
+17	Heroes	
+18	Boredom	
+19	The Circus	
+20	Missing Text 20	
+21	"Excuse me, your Highness…"	
+22	"Excuse me, your Highness…"	
+23	Missing Text 23	
+24	The Circus	
+25	Uncle Archibald	
+26	The Third Eye	
+27	Uncle Archibald	
+28	Uncle Archibald	What should we do with the Archibald statue and the release method?
+29	Empty	
+30	Release Archibald	
+31	Silver Helms	
+32	The Prince of Thieves	
+33	The Prince of Thieves	
+34	The High Council	
+35	Priests	
+36	Priests	
+37	High Priests	
+38	High Priests	
+39	High Priests	
+40	Arch Mages	
+41	Pilgrimage	
+42	Quest	
+43	Quest	
+44	Put Text Here 44	Shrine event
+45	I lost it	
+46	Hint	
+47	Divine Intervention	
+48	Divine Intervention	
+49	Divine Intervention	
+50	Put Text Here 50	Shrine event
+51	Council Quest	
+52	Council Quest	
+53	Put Text Here	Telepathy
+54	Council Quest	
+55	Wizards	
+56	Wizards	
+57	Put Text Here 57	Fountain event
+58	Wizards	
+59	Arch Mages	
+60	Arch Mages	
+61	Council Quest	
+62	Council Quest	
+63	Put Text Here 63	Mini-dungeon event
+64	Council Quest	
+65	Cavaliers	
+66	Nomination	
+67	Cavaliers	
+68	Cavaliers	
+69	Cavaliers	
+70	Champions	
+71	Champions	
+72	Champions	
+73	Crystal Locations	
+74	Memory Crystal	
+75	Put Text Here 75	Memory Crystal event
+76	Control Center	
+77	Kreegan	
+78	Ancients	
+79	Money
+80	Money
+81	Money
+82	Great Druids
+83	Great Druids
+84	Arch Druids
+85	Arch Druids
+86	Arch Druids
+87	Winter
+88	Winter
+89	Winter
+90	Winter
+91	Battle Mages
+92	Battle Mages
+93	Warrior Mages
+94	Warrior Mages
+95	Winter
+96	Winter
+97	Winter
+98	My Capture
+99	Price Fixing
+100	Warrior Mages
+101	Silvertongue's Refusal
+102	Silvertongue's Cure
+103	Service to the Crown
+104	Rules
+105	Prizes
+106	Instructions
+107	Play Might Game for 50 Gold
+108	Play Endurance Game for 50 Gold
+109	Play Speed Game for 50 Gold
+110	Play Accuracy Game for 50 Gold
+111	Play Luck Game for 50 Gold
+112	Play  Intellect Game for 50 Gold
+113	Gongs
+114	Bones
+115	Lodestones
+116	Harpy Feathers
+117	Golden Pyramids
+118	Kegs of Wine
+119	Teeth
+120	Four Leaf Clovers
+121	Amber
+122	Quest
+123	Quest
+124	Welcome
+125	Fountain of Youth
+126	Instructions
+127	Instructions
+128	Instructions
+129	Trade Pyramid for Armor
+130	Trade Pyramid for Weapon
+131	Trade Pyramid for Accessory
+132	Trade Keg for Armor
+133	Trade Keg for Weapon
+134	Trade Keg for Accessory
+135	Trade Lamp for Gems
+136	Put Text Here
+137	Put Text Here
+138	Put Text Here
+139	Put Text Here
+140	Put Text Here
+141	Put Text Here
+142	Put Text Here
+143	Put Text Here
+144	Put Text Here
+145	Put Text Here
+146	Put Text Here
+147	Put Text Here
+148	Put Text Here
+149	Put Text Here
+150	Put Text Here
+151	Put Text Here
+152	Put Text Here
+153	Put Text Here
+154	Put Text Here
+155	Put Text Here
+156	Put Text Here
+157	Put Text Here
+158	Put Text Here
+159	Put Text Here
+160	Put Text Here
+161	Put Text Here
+162	Put Text Here
+163	Put Text Here
+164	Put Text Here
+165	Put Text Here
+166	Put Text Here
+167	Put Text Here
+168	Put Text Here
+169	Put Text Here
+170	Put Text Here
+171	Put Text Here
+172	Put Text Here
+173	Put Text Here
+174	Put Text Here
+175	Put Text Here
+176	Put Text Here
+177	Put Text Here
+178	Put Text Here
+179	Put Text Here
+180	Put Text Here
+181	Put Text Here
+182	Put Text Here
+183	Put Text Here
+184	Put Text Here
+185	Put Text Here
+186	Put Text Here
+187	Put Text Here
+188	Put Text Here
+189	Put Text Here
+190	Put Text Here
+191	Put Text Here	
+192	Put Text Here	
+193	Put Text Here	
+194	Put Text Here	
+195	Put Text Here	
+196	Put Text Here	
+197	Put Text Here	
+198	Put Text Here	
+199	Put Text Here	
+200	Expert Staff Defense 	Expert staff training
+201	Master of the Staff	Master staff training
+202	Expert Swordsmanship	Expert sword training
+203	Master Swordsmanship	Master sword training
+204	Expert Knife Fighting	Expert dagger training
+205	Master Knife Fighting	Master dagger training
+206	Expert Axe Fighting	Expert Axe training
+207	Master Axe Fighting	Master axe training
+208	Expert Spear Training	Expert spear training
+209	Master Spear Training	Master spear training
+210	Expert Bowmanship	Expert bow training
+211	Master Bowmanship	Master bow training
+212	Expert Mace Training	Expert mace training
+213	Master Mace Training	Master mace training
+214	Ancient Weapon Expertise	Expert blaster training
+215	Master of Ancient Weapons	Master Blasters
+216	Expert Shield Defense	Expert shield training
+217	Master Shield Defense	Master shield training
+218	Expert Leather Armor Training	Expert leather training
+219	Master Leather Armor Training	Master leather training
+220	Expert Chain Armor Training	Expert chain armor training
+221	Master Chain Armor Training	Master chain armor training
+222	Expert Plate Armor Training	Expert plate armor training
+223	Master Plate Armor Training	Master plate armor training
+224	Fire Magic Expertise	Expert Fire magic training
+225	Master of Fire 	Master Fire magic training
+226	Air Magic Expertise	Expert Air magic training
+227	Master of Air	Master Air magic training
+228	Water Magic Expertise	Expert water magic training
+229	Master of Water	Master water magic training
+230	Earth Magic Expertise	Expert earth magic training
+231	Master of Earth	Master earth magic training
+232	Spirit Magic Expert	Expert spirit magic training
+233	Master of the Spirit	Master spirit magic training
+234	Mind Magic Expert	Expert mind magic training
+235	Master of the Mind	Master mind magic training
+236	Body Magic Expert	Expert body magic training
+237	Master of the Body	Master body magic training
+238	Light Magic Expert	Expert light magic training
+239	Master of Light	Master light magic training
+240	Dark Magic Expert	Expert dark magic training
+241	Master of the Dark	Master dark magic training
+242	Identification Expertise	Expert identify item training
+243	Identification Mastery	Master identify item training
+244	Expert Merchant Training	Expert merchant training
+245	Master Merchant Training	Master merchant training
+246	Repair Expertise	Expert repair training
+247	Repair Mastery	Master repair training
+248	Expert Body Building	Expert body building training
+249	Master Body Building	Master body building training
+250	Expert Meditation	Expert meditation training
+251	Master Meditation	Master meditation training
+252	Expert Perception	Expert perception training
+253	Master Perception	Master perception training
+254	Expert Diplomacy	Expert diplomacy training
+255	Master Diplomacy	Master diplomacy training
+256	Expert Disarm Training	Expert disarm traps training
+257	Master Disarm Training	Master disarm traps training
+258	Expert Learning Training	Expert learning training
+259	Master Learning Training	Master learning training
+260	Jasper Rice	Location of Staff Master Teacher
+261	Guy Hampton	Location of Sword Master Teacher
+262	Jules Miles	Location of Dagger Master Teacher
+263	Avinril Smythers	Location of Axe Master Teacher
+264	Burton Rutherford	Location of Spear Master Teacher
+265	Desmond Weller	Location of Bow Master Teacher
+266	Errol Ostermann	Location of Mace Master Teacher
+267	Rexella	Location of Blaster Master Teacher
+268	Bronwyn Meck	Location of Shield Master Teacher
+269	Arlen Sailor	Location of Leather Master Teacher
+270	David Feather	Location of Chain Master Teacher
+271	Forrest Suthers	Location of Plate Master Teacher
+272	Jezebel	Location of Fire Master Teacher
+273	Caao Salem	Location of Air Master Teacher
+274	Harper Collins	Location of Water Master Teacher
+275	Revee Botania	Location of Earth Master Teacher
+276	Bishop Inquisitorio	Location of Spirit Master Teacher
+277	Thane Roper	Location of Mind Master Teacher
+278	Gilbert Hammer	Location of Body Master Teacher
+279	Ki Lo Nee	Location of Light Master Teacher
+280	Su Lang Manchu	Location of Dark Master Teacher
+281	Hans Gifford	Location of Identify Master Teacher
+282	Will Ottoman	Location of Merchant Master Teacher
+283	Ryan Treacle	Location of Repair Master Teacher
+284	Jason Traveler	Location of Body Building Master Teacher
+285	Norio Ariganaka	Location of Meditation Master Teacher
+286	Macro Caligula	Location of Perception Master Teacher
+287	Jacques Kohl	Location of Diplomacy Master Teacher
+288	Gabe Lester	Location of Disarm Master Teacher
+289	John Tuck	Location of Learning Master Teacher
+290	Quest	
+291	Quest	
+292	Quest	
+293	Quest	
+294	Silver Helms	
+295	Silver Helms	
+296	Quest	
+297	Quest	
+298	Fraternal Order of Silver	
+299	Melody	
+300	Ankh	
+301	Snergle's Key	
+302	Hidden Passages	
+303	Quest
+304	Quest
+305	Quest
+306	Quest
+307	Put Text Here 307
+308	Quest
+309	Quest
+310	Quest
+311	Quest
+312	Cobra Eggs
+313	Quest
+314	Quest
+315	Quest
+316	Quest
+317	Quest
+318	Quest
+319	Greeting
+320	Greeting
+321	Blackshire
+322	Quest
+323	Quest
+324	Quest
+325	Quest
+326	Shadow Guild
+327	New Sorpigal
+328	Quest
+329	Quest
+330	Help!
+331	Quest
+332	Quest
+333	Escape
+334	Quest
+335	Quest
+336	Greeting
+337	Greeting
+338	Werewolves
+339	Pearl of Purity
+340	Quest
+341	Quest
+342	Pearl of Purity
+343	Put Text Here 343
+344	Put Text Here 344
+345	Put Text Here 345
+346	Put Text Here 346
+347	Humans
+348	Greeting
+349	Advice
+350	Odd Jobs
+351	Quest
+352	Quest
+353	Archibald
+354	Quest
+355	Quest
+356	Quest
+357	Quest
+358	Servants
+359	Creature
+360	Quest
+361	Put Text Here 361
+362	Ankh
+363	Ankh
+364	Ankh
+365	Ceremony of the Sun
+366	Ceremony of the Moon
+367	Put Text Here 367
+368	Put Text Here 368
+369	Put Text Here 369
+370	Put Text Here 370
+371	Put Text Here 371
+372	Put Text Here 372
+373	Put Text Here 373
+374	Put Text Here 374
+375	Admission to the Oracle
+376	Admission to the Oracle
+377	Admission to the Oracle
+378	Admission to the Oracle
+379	Admission to the Oracle
+380	Admission to the Oracle
+381	Elemental Guild Membership
+382	Guild of the Self Membership
+383	Buccaneer's Lair Membership
+384	Protection Services Membership
+385	Smuggler's Guild Membership
+386	Blade's End Membership
+387	Duelist's Edge Membership
+388	Berserker's Fury Membership
+389	Air Guild Membership
+390	Earth Guild Membership
+391	Fire Guild Membership
+392	Water Guild Membership
+393	Body Guild Membership
+394	Mind Guild Membership
+395	Spirit Guild Membership
+396	Light Guild Membership
+397	Dark Guild Membership
+398	Quest
+399	Bounty Hunt
+400	Collect Arena Award
+401	Heal Party
+402	Make Food
+403	Cast Fly
+404	Cast Walk on Water
+405	Cast Town Portal
+406	Cast Bless
+407	Cast Heroism
+408	No Benefit
+409	
+410	Empty Barrel
+411	Barrel of Red liquid
+412	Barrel of Yellow liquid
+413	Barrel of Blue liquid
+414	Barrel of Orange liquid
+415	Barrel of Green liquid
+416	Barrel of Purple liquid
+417	Barrel of White liquid
+418	Empty Cauldron
+419	Steaming Brew
+420	Frosty Brew
+421	Shocking Brew
+422	Noxious Brew
+423	Magical Brew
+424	Cook Pot
+425	Cook Pot
+426	Cook Pot
+427	Cook Pot
+428	Cook Pot
+429	Flour Sack
+430	Flour Sack
+431	Large Bag
+432	Large Bag
+433	Large Bag
+434	Large Bag
+435	Bag of Gold
+436	Trash Heap
+437	Trash Heap
+438	Skull Pile
+439	Skull Pile of Weakness
+440	Skull Pile of Curses
+441	Skull Pile of Insanity
+442	Skull Pile of Death
+443	Bucket
+444	Bucket
+445	Bucket
+446	Bucket
+447	Crystals
+448	Crystals
+449	Crystals
+450	Crystals
+451	Crystals
+452	Crystals
+453	Crystals
+454	Crystals
+455	Crystals
+456	Crystals
+457	Crystals
+458	
+459	
+460	
+461	
+462	
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495		
+496		
+497		
+498		
+499		
+500		
+501	Elemental Guild membership	I do not believe these topics are currently being used.
+502	Guild of the Self membership	I do not believe these topics are currently being used.
+503	Buccaneer's Lair membership	I do not believe these topics are currently being used.
+504	Protection Services membership	I do not believe these topics are currently being used.
+505	Smuggler's Guild membership	I do not believe these topics are currently being used.
+506	Blade's End membership	I do not believe these topics are currently being used.
+507	Duelist's Edge membership	I do not believe these topics are currently being used.
+508	Berserker's Fury membership	I do not believe these topics are currently being used.
+509	Air Guild membership	I do not believe these topics are currently being used.
+510	Earth Guild membership	I do not believe these topics are currently being used.
+511	Fire Guild membership	I do not believe these topics are currently being used.
+512	Water Guild membership	I do not believe these topics are currently being used.
+513	Body Guild membership	I do not believe these topics are currently being used.
+514	Mind Guild membership	I do not believe these topics are currently being used.
+515	Spirit Guild membership	I do not believe these topics are currently being used.
+516	Light Guild membership	I do not believe these topics are currently being used.
+517	Dark Guild membership	I do not believe these topics are currently being used.
+518		
+519		
+520		
+521		
+522		
+523		
+524		
+525		

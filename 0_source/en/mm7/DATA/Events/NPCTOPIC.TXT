@@ -1,0 +1,580 @@
+#	Topic	Requires	Notes	Text #	Owner(s)	Owner #
+1	Castle Harmondale	0	Praise for Glorious Castle Harmondale	6	Lord Markham	1
+2	The Hunt	0	Isn't this hunt exciting?	5	Lord Markham	1
+3	Congratulations	0	Speech for winning the contest (replace with topic 8)	7	Lord Markham	1
+4	Your ship…	0	(replaces topic 7) go to castle Harmondale now	8	Lord Markham	1
+5	Rules of the Hunt	0	Basic Rules	25	Judge	2
+6	What do you have?	0	"Check for quest items + returns for each one, all, and none"	26-33	Judge	2
+7	Greetings	0	Gives Questbit 1	2	Docent	3
+8	Emerald Island	0		1	Docent	3
+9	Contest	0		4	Docent	3
+10	Scavenger Hunt	0		34	Bard	4
+11	Instruments	0		35	Bard	4
+12	Lute	0		36	Bard	4
+13	Buy Lute for 500 gold	0		"37,38"	Bard	4
+14	Ocean	0	Blahblahblah	12	Sally	5
+15	Seashell	0	Wanna buy a seashell (there are more elsewhere)	13	Sally	5
+16	Buy Seashell for 100 gold		Wanna buy a seashell (there are more elsewhere)	"14,15"	Sally	5
+17	Harmondale	0	Blahblahblah	10	Mr. Malwick	6
+18	Proposal	0	Give proposal	9	Mr. Malwick	6
+19	Accept Wand	0	Give wand	11	Mr. Malwick	6
+20	Decline Wand	0	Offer chance again	3	Mr. Malwick	6
+21	"Your hat, please…"	0	Blahblahblah	19	Sal Sharktooth	7
+22	Temple	0	Robbery attempt	16	Sal Sharktooth	7
+23	Give Hat to Sal	0	Robbery attempt	17	Sal Sharktooth	7
+24	Keep Hat	0	Robbery attempt	18	Sal Sharktooth	7
+25	I warned you…	0	Tease	20	Sal Sharktooth	7
+26	"Very well, then…"	0	Blahblahblah	21	Mr. Malwick	6
+27	Potion for a Hat?	0	"Trade hat for red potion + positive, negative, and no potion returns"	39	Adventurer 1	8
+28	Brigands	0	Bad guys in temple	22	Adventurer 1	8
+29	Blue Potions	0	Blue potion instructions	23	Adventurer 1	8
+30	Trade Potion for Hat	0		"40,42"	Adventurer 1	8
+31	Keep Potion	0		41	Adventurer 1	8
+32	Boat Travel	0	Not sailing yet	24	William	0
+33	Cast off!	0	"Won contest, ready to go"	43	William	0
+34	Missing Contestants	0	Markham's go look for contestants	44	Markham	1
+35	Missing Contestants		Markham's go look for contestants + Positive and negative returns	"45,46"	Markham	1
+36	Missing People	0	0	47	Donna	0
+37	Abandoned Temple	0	0	48	Donna	0
+38	Dragonflies	0	0	49	Mia Lucille	0
+39	Dragon	0	0	50	Mia Lucille	0
+40	Dragon Cave	0	0	51	Grant	0
+41	Contestants	0	0	52	Grant	0
+42	Tour Off	0	Sets questbit 17	53	Docent	3
+43	Tour On	0	removes questbit 17	54	Docent	3
+44	Rogue 	0	0	55	William Lasker	15
+45	Rogue 	0	0	"56,57"	William Lasker	15
+46	Spy	0	0	60	William Lasker	15
+47	Spy	0	0	58-65	William Lasker	15
+48	Drink Tea	0	0	66	Seknit Undershadow	16
+49	Assassin	0	0	67-70	Seknit Undershadow	16
+50	Assassin	0	0	71-73	Seknit Undershadow	16
+51	Crusader	0	0	74	Sir Charles Quixote	17
+52	Crusader	0	0	"75,76"	Sir Charles Quixote	17
+53	Hero	0	0	77	Sir Charles Quixote	17
+54	Hero	0	0	78-82	Sir Charles Quixote	17
+55	Hello?	0	0	83-87	Alice Hargreave	54
+56	Villain	0	0	88-90	William Setag	18
+57	Villain	0	0	"91,92"	William Setag	18
+58	Initiate	0	0	93	Bartholomew Hume	38
+59	Initiate	0	0	95	Bartholomew Hume	38
+60	Initiate	0	0	94	Bartholomew Hume	38
+61	Master	0	0	96	Bartholomew Hume	38
+62	Master	0	0	"97-8,134-6"	Bartholomew Hume	38
+63	Ninja	0	0	136-9	Stephan Sand	39
+64	Ninja	0	0	140-2	Stephan Sand	39
+65	Master Archer	0	0	143-6	Lawrence Mark	40
+66	Master Archer	0	0	"147,148"	Lawrence Mark	40
+67	Warrior Mage	0	0		Steagal Snick	41
+68	Warrior Mage	0	0		Steagal Snick	41
+69	Sniper	0	0		Steagal Snick	41
+70	Sniper	0	0		Steagal Snick	41
+71	Champion	0	0		Leda Rowan	42
+72	Champion	0	0		Leda Rowan	42
+73	Cavalier	0	0		Frederick Org	43
+74	Cavalier	0	0		Frederick Org	43
+75	Black Knight	0	0		Frederick Org	43
+76	Black Knight	0	0		Frederick Org	43
+77	Ranger Lord	0	0		Lysander Sweet	44
+78	Ranger Lord	0	0		Lysander Sweet	44
+79	Hunter	0	0		ebednezar Sour	45
+80	Hunter	0	0		ebednezar Sour	45
+81	Bounty Hunter	0	0		ebednezar Sour	45
+82	Bounty Hunter	0	0		ebednezar Sour	45
+83	Hunter?	0	Hunter End Promo Quest		Faerie King	52
+84	Heart of the Wood	0	Ranger Lord quest		Oldest Tree	53
+85	Heart of the Wood	0	Ranger Lord quest		Oldest Tree	53
+86	Priest of Light	0	0		Rebecca Devine	46
+87	Priest of Light	0	0		Rebecca Devine	46
+88	Priest	0	0		Daedalus Falk	47
+89	Priest	0	0		Daedalus Falk	47
+90	Priest of Dark	0	0		Daedalus Falk	47
+91	Priest of Dark	0	0		Daedalus Falk	47
+92	Wizard	0	0		Thomas Grey	48
+93	Wizard	0	0		Thomas Grey	48
+94	Archmage	0	0		Thomas Grey	48
+95	Archmage	0	0		Thomas Grey	48
+96	Lich	0	0		Halfgild Wynac	49
+97	Lich	0	0		Halfgild Wynac	49
+98	Great Druid	0	0		Anthony Green	50
+99	Great Druid	0	0		Anthony Green	50
+100	Arch Druid	0	0		Anthony Green	50
+101	Arch Druid	0	0		Anthony Green	50
+102	Warlock	0	0		Tor Anwyn	51
+103	Warlock	0	0		Tor Anwyn	51
+104	Golem Parts	0	0		Golem	56
+105	Swap Heads	0	0		Golem	56
+106	Goblins	0	0		Butler	58
+107	Rescue Dwarves	0	0		Dwarf King	59
+108	Rescue Dwarves	0	0		Dwarf King	59
+109	Use Elixir	0	0		Dwarf Engineer	60
+110	Use Elixir	0	0		Dwarf Prisoner 1	61
+111	Use Elixir	0	0		Dwarf Prisoner 2	62
+112	Use Elixir	0	0		Dwarf Prisoner 3	63
+113	Use Elixir	0	0		Dwarf Prisoner 4	64
+114	Use Elixir	0	0		Dwarf Prisoner 5	65
+115	Use Elixir	0	0		Dwarf Prisoner 6	66
+116	An invitation…	0	See my boss		Ellen Rockway	67
+117	False Plans	0	Good work giving the elves false plans		Ellen Rockway	67
+118	Artifact	0	Good work giving me the artifact		Ellen Rockway	67
+119	Betrayed?	0	You betrayed us?		Ellen Rockway	67
+120	An invitation…	0	See my boss		Alain Hani	68
+121	False Prisoner	0	Good work giving the humans the false prisoner		Alain Hani	68
+122	Artifact	0	Good work giving me the artifact		Alain Hani	68
+123	Betrayed?	0	You betrayed us?		Alain Hani	68
+124	Prisoner of War	0	0		Queen Catherine	69
+125	Prisoner of War	0	0		Queen Catherine	69
+126	Here's a fake prisoner…	0	0		Queen Catherine	69
+127	Riverstride plans	0	0		Queen Catherine	69
+128	Riverstride plans	0	0		Queen Catherine	69
+129	We stole the plans…	0	0		Queen Catherine	69
+130	Artifact	0	0		Queen Catherine	69
+131	Riverstride plans	0	0		ElfKing	70
+132	Riverstride plans	0	0		ElfKing	70
+133	Here's fake plans…	0	0		ElfKing	70
+134	Prison Break	0	0		ElfKing	70
+135	Prison Break	0	0		ElfKing	70
+136	We rescued Loren!..	0	0		ElfKing	70
+137	Artifact	0	0		ElfKing	70
+138	Hint	0	0		Arbiter	74
+139	I lost it	0	0		Arbiter	74
+140	Artifact	0	0		Arbiter	74
+141	I choose you!	0	0		Evil Arbiter	77
+142	Hint	0	0		Evil Arbiter	77
+143	I choose you!	0	0		Judge Fairweather	78
+144	Hint	0	0		Judge Fairweather	78
+145	Proving Grounds	0	0		Gavin Magnus	79
+146	Proving Grounds	0	0		Gavin Magnus	79
+147	Temple of the Dark	0	0		Resurectra	80
+148	Temple of the Dark	0	0		Resurectra	80
+149	Strike the Devils	0	0		Resurectra	80
+150	Strike the Devils	0	0		Resurectra	80
+151	Vampires	0	0		Crag Hack	81
+152	Vampires	0	0		Crag Hack	81
+153	Soul Jars	0	0		Sir Caneghm	82
+154	Soul Jars	0	0		Sir Caneghm	82
+155	Tolberti	0	0		Robert the Wise	83
+156	Tolberti	0	0		Robert the Wise	83
+157	Temple of the Light	0	0		Kastore	84
+158	Temple of the Light	0	0		Kastore	84
+159	Strike the Devils	0	0		Kastore	84
+160	Strike the Devils	0	0		Kastore	84
+161	Soul Jars	0	0		Maximus	85
+162	Soul Jars	0	0		Maximus	85
+163	Clanker's Laboratory	0	0		Dark Shade	86
+164	Clanker's Laboratory	0	0		Dark Shade	86
+165	Robert the Wise	0	0		Tolberti	87
+166	Robert the Wise	0	0		Tolberti	87
+167	Breeding Pit	0	0		Archibald	88
+168	Breeding Pit	0	0		Archibald	88
+169	Final Task	0	0		Resurectra	80
+170	Final Task	0	0		Resurectra	80
+171	Final Task	0	0		Kastore	84
+172	Final Task	0	0		Kastore	84
+173	Enter Temple of Light	0	0		Dungeon Entrance	89
+174	Enter Temple of Dark	0	0		Dungeon Entrance	90
+175	Thomas Grey	0	0		Eric Swarrel	281
+176	Book Shop	0	0		Eric Swarrel	281
+177	Book Shop	0	0		Eric Swarrel	281
+178	Zokarr's Bones	0	0		Dwarf King	59
+179	Quest	0	0		Tarin Withern	93
+180	Quest	0	0		Tarin Withern	93
+181	Quest	0	0		Mazim Dusk	
+182	Quest	0	0		Mazim Dusk	
+183	Quest	0	0		Davrick Peladium	
+184	Quest	0	0		Davrick Peladium	
+185	Quest	0	0		Norbert Thrush	
+186	Thrush's Letter	0	0		Lord Markham	
+187	Quest	0	0		Norbert Thrush	
+188	Quest	0	0		Johann Kerrid	
+189	Pipes	0	0		Faerie King	
+190	Quest	0	0		Johann Kerrid	
+191	Quest	0	0		Niles Stantley	
+192	Quest	0	0		Niles Stantley
+193	Quest	0	0		Niles Stantley
+194	Quest	0	0		Spark Burnkindle
+195	Quest	0	0		Spark Burnkindle
+196	Quest	0	0		Seth Drakkson
+197	Quest	0	0		Seth Drakkson
+198	Quest	0	0		Darron Temper
+199	Quest	0	0		Darron Temper
+200	Expert Staff				
+201	Master of the Staff				
+202	Staff GrandMaster				
+203	Expert Sword Fighting				
+204	Master Sword Fighter				
+205	Sword Grandmaster				
+206	Dagger Expert				
+207	Dagger Master				
+208	Dagger Grandmaster
+209	Axe Expert
+210	Axe Master
+211	Axe Grandmaster
+212	Spear Expert
+213	Spear Master
+214	Spear Grandmaster
+215	Bow Expert
+216	Bow Master
+217	Bow Grandmaster
+218	Mace Expert
+219	Mace Master
+220	Mace Grandmaster
+221	Ancient Weapon Expert
+222	Ancient Weapon Master
+223	Ancient Weapon Grandmaster
+224	Shield Expert
+225	Shield Master
+226	Shield Grandmaster
+227	Leather Expert
+228	Leather Master
+229	Leather Grandmaster
+230	Chain Expert
+231	Chain Master
+232	Chain Grandmaster
+233	Plate Expert
+234	Plate Master
+235	Plate Grandmaster
+236	Fire Magic Expert
+237	Fire Magic Master
+238	Fire Magic Grandmaster
+239	Air Magic Expert
+240	Air Magic Master
+241	Air Magic Grandmaster
+242	Water Magic Expert
+243	Water Magic Master
+244	Water Magic Grandmaster
+245	Earth Magic Expert
+246	Earth Magic Master
+247	Earth Magic Grandmaster
+248	Spirit Magic Expert
+249	Spirit Magic Master
+250	Spirit Magic Grandmaster
+251	Mind Magic Expert
+252	Mind Magic Master
+253	Mind Magic Grandmaster
+254	Body Magic Expert
+255	Body Magic Master
+256	Body Magic Grandmaster
+257	Light Magic Expert
+258	Light Magic Master
+259	Light Magic Grandmaster
+260	Dark Magic Expert
+261	Dark Magic Master
+262	Dark Magic Grandmaster
+263	Identify Item Expert
+264	Identify Item Master
+265	Identify Item Grandmaster
+266	Merchant Expert
+267	Merchant Master
+268	Merchant Grandmaster
+269	Repair Item Expert
+270	Repair Item Master
+271	Repair Item Grandmaster
+272	Body Building Expert	
+273	Body Building Master	
+274	Body Building Grandmaster	
+275	Meditation Expert	
+276	Meditation Master	
+277	Meditation Grandmaster	
+278	Perception Expert	
+279	Perception Master	
+280	Perception Grandmaster	
+281	Diplomacy Expert	
+282	Diplomacy Master	
+283	Diplomacy Grandmaster	
+284	Thievery Expert	Not used
+285	Thievery Master	Not used
+286	Thievery GM	Not used
+287	Disarm Trap Expert	
+288	Disarm Trap Master
+289	Disarm Trap Grandmaster
+290	Dodging Expert
+291	Dodging Master
+292	Dodging Grandmaster
+293	Unarmed Expert
+294	Unarmed Master
+295	Unarmed Grandmaster
+296	Identify Monster Expert
+297	Identify Monster Master
+298	Identify Monster Grandmaster
+299	Armsmaster Expert
+300	Armsmaster Master
+301	Armsmaster Grandmaster
+302	Stealing Expert
+303	Stealing Master
+304	Stealing Grandmaster		
+305	Alchemy Expert		
+306	Alchemy Master		
+307	Alchemy Grandmaster		
+308	Learning Expert		
+309	Learning Master		
+310	Learning Grandmaster		
+311	Bounty Hunt		
+312	Pay Fine		
+313	Quest		
+314	Quest		
+315	Elsie Pederton		James Teacher Hints
+316	Jillian Mithrit		James Teacher Hints
+317	Tugor Slicer		James Teacher Hints
+318	Chadric Townsaver		James Teacher Hints
+319	Aznog Slasher		James Teacher Hints
+320	Tonken Fist		James Teacher Hints
+321	Dalin Keenedge		James Teacher Hints
+322	Karn Stonecleaver		James Teacher Hints
+323	Claderin Silverpoint		James Teacher Hints
+324	Seline Falconeye		James Teacher Hints
+325	Lanshee Ravensight		James Teacher Hints
+326	Cardric the Steady		James Teacher Hints
+327	Brother Rothham		James Teacher Hints
+328	Patwin Fellbern		James Teacher Hints
+329	Isram Gallowswell		James Teacher Hints
+330	Fedwin Smithson		James Teacher Hints
+331	Rabisa Nedlon		James Teacher Hints
+332	Miyon the Quick		James Teacher Hints
+333	Medwari Dragontracker		James Teacher Hints
+334	Halian Nevermore		James Teacher Hints
+335	Dekian Forgewright		James Teacher Hints
+336	Brand the Maker		James Teacher Hints
+337	Ashen Temper		James Teacher Hints
+338	Blayze 		James Teacher Hints
+339	Rislyn Greenstorm		James Teacher Hints
+340	Gayle		James Teacher Hints
+341	Tobren Rainshield		James Teacher Hints
+342	Torrent		James Teacher Hints
+343	Lara Stonewright		James Teacher Hints
+344	Avalanche		James Teacher Hints
+345	Heather Dreamwright		James Teacher Hints
+346	Benjamin the Balanced		James Teacher Hints
+347	Myles Featherwind		James Teacher Hints
+348	Xavier Bremen		James Teacher Hints
+349	Brother Bombah		James Teacher Hints
+350	Tempus		James Teacher Hints
+351	Samuel Benson		James Teacher Hints
+352	Payge Blueswan		James Teacher Hints
+353	Bethold Caverhill		James Teacher Hints
+354	Brigham the Frugal		James Teacher Hints
+355	Thomas Moore		James Teacher Hints
+356	Gareth the Fixer		James Teacher Hints
+357	Wanda Foestryke		James Teacher Hints
+358	Evandar Thomas		James Teacher Hints
+359	Tessa Greensward		James Teacher Hints
+360	Kaine		James Teacher Hints
+361	Garret Dotes		James Teacher Hints
+362	Petra Cleareye		James Teacher Hints
+363	Lenord Skinner		James Teacher Hints
+364	Silk Quicktoungue		James Teacher Hints
+365	Oberic Crane		James Teacher Hints
+366	Kenneth Wain		James Teacher Hints
+367	Ulbrecht the Brawler		James Teacher Hints
+368	Norris 		James Teacher Hints
+369	Jeni Swiftfoot		James Teacher Hints
+370	Raven the Hunter		James Teacher Hints
+371	Paula Brightspear		James Teacher Hints
+372	Lasiter the Slayer		James Teacher Hints
+373	Leane Shadowrunner		James Teacher Hints
+374	Everil Nightwalker		James Teacher Hints
+375	Elzbet Winterspoon		James Teacher Hints
+376	Lucid Apple		James Teacher Hints
+377	Dorothy Senjac		James Teacher Hints
+378	William Davies		James Teacher Hints
+379	Helena Morningstar		James Teacher Hints
+380	Gavin Magnus		James Teacher Hints
+381	Seth Darkenmore		James Teacher Hints
+382	Archibald		James Teacher Hints
+383	Empty Barrel		
+384	Red Barrel
+385	Yellow Barrel
+386	Blue Barrel
+387	Orange Barrel
+388	Green Barrel
+389	Purple Barrel
+390	White Barrel
+391	Empty Cauldron
+392	Steaming Cauldron
+393	Frosty Cauldron
+394	Shocking Cauldron
+395	Dirty Cauldron
+396	Trash Heap
+397	Trash Heap
+398	Trash Heap
+399	Enter Arena Combat
+400	Elemental Guild Membership
+401	Guild of the Self Membership
+402	Air Guild Membership
+403	Earth Guild Membership
+404	Fire Guild Membership
+405	Water Guild Membership
+406	Body Guild Membership
+407	Mind Guild Membership
+408	Spirit Guild Membership
+409	Light Guild Membership
+410	Dark Guild Membership
+411	Trash Heap
+412	Campfire
+413	Campfire
+414	Food Bowl
+415	Empty Cask
+416	Cask		
+417	Mushroom		
+418	Lord Markham		James Quest Hint
+419	The Master Thief		James Quest Hint
+420	Watchtowers		James Quest Hint
+421	Bill Lasker		James Quest Hint
+422	Lady Carmine		James Quest Hint
+423	Assasins		James Quest Hint
+424	Wromthrax the Heartless		James Quest Hint
+425	Crusaders		James Quest Hint
+426	The Fairest of them all		James Quest Hint
+427	Villains		James Quest Hint
+428	Monk Training		James Quest Hint
+429	Medusas		James Quest Hint
+430	Temple of Baa		James Quest Hint
+431	Missing Sheep		James Quest Hint
+432	Ciphers		James Quest Hint
+433	The nature of ooze		James Quest Hint
+434	Medusas		James Quest Hint
+435	Titans' Stronghold		James Quest Hint
+436	The Arena		James Quest Hint
+437	Arena Championships		James Quest Hint
+438	Haunted Mansion		James Quest Hint
+439	Ghosts		James Quest Hint
+440	Secret passage		James Quest Hint
+441	Faeries		James Quest Hint
+442	Mad Forest		James Quest Hint
+443	Oldest Tree		James Quest Hint
+444	Bounty Hunting		James Quest Hint
+445	Professional Bounty Hunting		James Quest Hint
+446	Tidewater Caverns		James Quest Hint
+447	Evenmorn Islands		James Quest Hint
+448	Reef Maps		James Quest Hint
+449	The Curse		James Quest Hint
+450	Golem parts		James Quest Hint
+451	Golems		James Quest Hint
+452	Divine Intervention Book		James Quest Hint
+453	Divine Intervention		James Quest Hint
+454	Soul Jars		James Quest Hint
+455	The Rituals		James Quest Hint
+456	Circle of stone		James Quest Hint
+457	Summer Circle		James Quest Hint
+458	The graveyard		James Quest Hint
+459	Barrow Navigation		James Quest Hint
+460	Land of the Titans		James Quest Hint
+461	The Mega Dragon		James Quest Hint
+462	Quest		Statuette
+463	Quest		Statuette
+464	Quest		Painting
+465	Quest		Painting
+466	Quest		Arcomage
+467	Quest		Arcomage
+468	Stone City		James Quest Hint
+469	Stone City		James Quest Hint
+470	Passage to Nighon		James Quest Hint
+471	Warlock's Tunnels		James Quest Hint
+472	Barrows		James Quest Hint
+473	Medusas		James Quest Hint
+474	Red Dwarf Mines		James Quest Hint
+475	The Statues		James Quest Hint
+476	Stone City		James Quest Hint
+477	Harmondale		James Quest Hint
+478	Rebellions		James Quest Hint
+479	Castle Harmondale		James Quest Hint
+480	Tularean Caves		James Quest Hint
+481	White Cliff Caves		James Quest Hint
+482	Fort Riverstride		James Quest Hint
+483	The Trophy		James Quest Hint
+484	The Arbiter		James Quest Hint
+485	Lost and Found		James Quest Hint
+486	The Choice		James Quest Hint
+487	Proving Grounds		James Quest Hint
+488	Celeste		James Quest Hint
+489	The Pit		James Quest Hint
+490	Celeste		James Quest Hint
+491	Mysterious Murders		James Quest Hint
+492	The Kreegan		James Quest Hint
+493	Losing the War		James Quest Hint
+494	Falling out in Deyja		James Quest Hint
+495	Roland of Enroth		James Quest Hint
+496	Soul Jars		James Quest Hint
+497	Warlocks		James Quest Hint
+498	Clanker's Defenses		James Quest Hint
+499	Expert Teachers		James Quest Hint
+500	Missing People		James Quest Hint
+501	Make Weapon		
+502	Make Armor		
+503	Make Item		
+504	Signal 		James Hint
+505	Dragon Flies		James Hint
+506	Fallen Trees		James Hint
+507	Bracada Teleporters		James Hint
+508	Castle Upgrade		Butler Text
+509	Pedestals		Butler Text
+510	Disputed Land		Butler Text
+511	Castle Harmondale		Butler Text
+512	Beacon Fires		Spy Text
+513	Pay 1000 Gold		Ambush
+514	Don't Pay		Ambush
+515	Buy Arrowheads for 200 Gold		Trading Triangle
+516	Sell Tularean Wood		Trading Triangle
+517	Buy Griffin Feathers for 200 Gold		Trading Triangle
+518	Sell Arrowheads		Trading Triangle
+519	Buy Tularean Wood for 200 Gold		Trading Triangle
+520	Sell Griffin Feathers		Trading Triangle
+521	Buy Sand for 2000 Gold	1	Trading Triangle
+522	Sell Enrothian Wine	1	Trading Triangle
+523	Buy Glass Bottles for 2000 Gold	2	Trading Triangle
+524	Sell Sand	2	Trading Triangle
+525	Buy Enrothian Wine for 2000 Gold	3	Trading Triangle
+526	Sell Glass Bottles	3	Trading Triangle
+527	Boat Schedule		James Hint
+528	Nighon Tunnel		James Hint
+529	Trading		James Hint
+530	Haste Pedestal		
+531	Earth Resistance Pedestal		
+532	Day of the Gods Pedestal		
+533	Shield Pedestal		
+534	Water Resistance Pedestal		
+535	Fire Resistance Pedestal		
+536	Heroism Pedestal		
+537	Immolation Pedestal		
+538	Mind Resistance Pedestal		
+539	Body Resistance Pedestal		
+540	Stone Skin Pedestal		
+541	Air Resistance Pedestal		
+542	Game of Might		
+543	Game of Endurance		
+544	Game of Intellect					
+545	Game of Personality					
+546	Game of Accuracy					
+547	Game of Speed					
+548	Game of Luck					
+549	Contest of Might					
+550	Contest of Endurance					
+551	Contest of Intellect					
+552	Contest of Personality					
+553	Contest of Accuracy					
+554	Contest of Speed					
+555	Contest of Luck					
+556	Test of Might					
+557	Test of Endurance					
+558	Test of Intellect					
+559	Test of Personality					
+560	Test of Accuracy
+561	Test of Speed
+562	Test of Luck
+563	Challenge of Might
+564	Challenge of Endurance
+565	Challenge of Intellect
+566	Challenge of Personality
+567	Challenge of Accuracy
+568	Challenge of Speed
+569	Challenge of Luck
+570	Traitor!
+571	Shrine
+572	Challenges
+573	
+574	
+575	
+576						
+577						
+578						
+579						

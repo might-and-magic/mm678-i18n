@@ -1,0 +1,52 @@
+News # 	Text	Notes
+0	Group 0.	Default change me text
+1	祝你们在竞赛中取得胜利！	Peasant
+2	但愿布兰特知道怎么调配红药剂。	Adventurer
+3	小心点儿。	Ambusher
+4	别惹麻烦。	Guard
+5	祝贺你们！	"Peasant message 2, Emerald Island"
+6	感谢你们和我们做交易。	"Adventurer message 2, Emerald Island"
+7	Group 7	
+8	Group 8	
+9	Group 9	
+10	你们是哈蒙代尔的新领主吗？我可以为你们做些什么？	Southern Village Group in Harmondale
+11	你们是哈蒙代尔的新领主吗？我可以为你们做些什么？	Main village in Harmondale
+12	过来学些知识吧。	Tent camp in Erathia
+13	欢迎来到斯坦德威克！请当心狮鹫！	Stedwick Group
+14	欢迎来到精灵之都匹尔邦特。	Stilt city dwellers in the Tularean Forest
+15	匹尔邦特欢迎你们。	Group walkers in the Tularean forest
+16	请小心丧尸。	Northern town on Deyja
+17	欢迎欢迎。	Southern town in Deyja
+18	想跟着埃拉西亚最好的法师学几招吗？	Stable and Tele dwellers in Bracada
+19	欢迎！店里最近来了许多新的人偶。	Eastern village and boat dwellers in Bracada
+20	四处看看吧。	Ridge walkers in Bracada
+21	在塞莱斯特好好休息吧。	Peasents up till town fountain in Celeste
+22	欢迎你们，我的朋友。	Peasents after town fountain in Celeste
+23	欢迎来到地狱城！谁说死后就不能享受人生？	Peasents in first area of the pit
+24	在地狱城里我们过得很快乐！	Peasents in the second area of the pit
+25	巫师就一定是坏人吗？我可不这么认为。	Peasents in the third area of the pit
+26	欢迎来到尼根，祝你们过得愉快。	Peasents in main town of nighon
+27	旅行了很久吗？	Peasents in western town of Nighon
+28	欢迎！你们是从石头城的地道来这儿的吗？	Peasents in Eastern village of Nighon
+29	你们好，这可是个花钱的地方。	Peasents in the Mercenary guild village
+30	欢迎你们，我的朋友。	Peasents in the wharf town
+31	欢迎你们，我的朋友。	Peasents in the village area
+32	欢迎欢迎！你们听说过李格纳海盗吗？	Peasents in the Dock area
+33	我听说有通往古代世界的门。真想去看看。	Peasents good endgame
+34	我听说许多大耳怪和亡灵装备了古代的神兵利器，准备统治全世界！太可怕了！	Peasents evil endgame
+35	祝贺你们打开了时空之门！埃拉西亚的人民将永远记住你们！	Peasants in 6/7 endgame
+36	祝贺你们建成了天堂铸造厂！胜利将属于我们！	Peasants in 5/8 endgame
+37	你们好！	
+38	你们好！	
+39	你们好！	
+40	你们好！	
+41	你们好！	
+42	你们好！	
+43	你们好！	
+44	你们好！	
+45	你们好！	
+46	你们好！	
+47	你们好！
+48	你们好！
+49	你们好！
+50	你们好！

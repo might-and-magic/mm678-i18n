@@ -1,0 +1,281 @@
+Regional News			
+#	Map	Topic	News Text
+1	40	Goblinwatch	"I've heard that the abandoned keep on the hill is now home to a pack of goblins.  The keep was built to keep the goblins away, so how could this possibly happen?"
+2	40	Baa Temple	A day's travel west of here is a new Temple dedicated to Baa.  I've heard that bad things happen to rich people that travel near there.
+3	40	Bandits	"The passes through the hills to the west are filled with bandits, travelling on foot through there can be dangerous."
+4	40	Sea Travel	Ocean travel around here can be dangerous because of the sea serpents and water elementals that roam the oceans.
+5	40	Oracle	The High Council in Free Haven should really consult the Oracle to find out why the Ironfists have lost the Mandate of Heaven.
+6	40	Prince Nicolai	Prince Nicolai isn't even in charge anymore– Regent Humphrey makes all of the decisions.  It's not fair to blame Nicolai for all the problems.
+7	40	Solstices	"The two solstices are days of considerable magical importance.  The summer solstice is on June 21st, and the winter solstice is on December 21st."
+8	40	Arena	"The stables at Castle Ironfist can take you to the Arena, an ancient place where warriors can test their prowess."
+9	40	Goblins	"Goblins are weak creatures, but they tend to attack in large numbers."
+10	40	Apprentice Mages	"Though their physical attacks are weak, these mages can cast various elemental attack spells."
+11	40	Mordred	"A powerful artifact, Mordred is a dagger that possesses the ability to steal the health of its victim and transfer that vitality to its wielder."
+12	40	Wizards	Albert Newton in Mist handles the promotion of Sorcerers to Wizards.
+13	40	Abandoned Temple	"The abandoned temple northwest of town used to be occupied by the Temple of Baa, but they moved out in a hurry one day last year.  Now there's nothing but snakes, bats, and huge spiders."
+14	40	Temple of Baa	"When the Temple of Baa moved out of that old temple outside of town, all of the little problems we've been having just…went away.  I tell you, there's something unwholesome about those people.  I'm glad they're gone."
+15	40	Curses	"A wizard friend of mine told me the Temple of Baa was laying curses on our town from the abandoned temple just outside town.  One day they tried to lay the Curse of Endless Vermin on us, only they did something wrong and it backfired, infesting their own temple instead.  They moved righty-o quick once that happened."
+16	40	Treasure	"I heard the Temple of Baa abandoned that old temple so quickly they didn't have time to take all their stuff.  It should all still be down there, if you're brave enough to go look for it.  There's a lot of nasty monsters in the way, though, so be careful if you go."
+17	40	Goblinwatch	"It's been quite a while since New Sorpigal was raided by goblins, but with goblins living in the very place meant to protect us from them, it can't be too long before we're attacked again, can it? "
+18	40	Magicians	An evil guild of mages has been searching the southeast end of our peninsula for signs of the fabled Fountain of Magic.  They attack anyone who comes near to scare off potential rivals.  Be very careful if you travel in that direction!
+19	40	Town Fountains	The three fountains we have here in town are said to draw their water from a spring touched by the gods.  Each one is magical and beneficial to drink from.
+20	40	Goblin Raiders	"A raiding party of goblins has staked out the west bridge, hoping to rob and kill travelers.  They aren't very subtle– you can see them from a mile away– but they ARE dangerous.  Watch your step!"
+21	40	New Sorpigal	Our town was founded centuries ago as the last major town in Enroth.  We have historically been a point from which colony ships left for the rest of the world.
+22	40	Fruit Trees	"The fruit on the trees in the orchards of our fair town is quite tasty, and free for all to take.  You should try it sometime!"
+23	40	Islands	"Beware of travelling to the islands just off our north shore.  The waters sometime have dangerous monsters, and the islands are none too hospitable, either.  "
+24	40	Regnan Pirates	"It's been decades since we were last attacked by pirates from the islands of Regna, and I guess it's about time for us to be attacked again, what with the king missing and all."
+25	40	Buccaneers' Lair	"Buccaneers' Lair in New Sorpigal and Mist can teach you dagger, merchant, identify, perception, and disarm trap."
+26	40	Protection Services	"You can learn dagger, merchant, identify, perception, and disarm trap at protection services in Silver Cove and White Cap."
+27	40	Smugglers' Guild	"Blackshire and Free Haven are homes to the Smugglers' Guild, where you can learn dagger, merchant, identify, perception, and disarm trap."
+28	40	Blades' End	"Sword, axe, spear, staff, and leather are all taught in Blades' End in both White Cap and New Sorpigal."
+29	40	Duelists' Edge	"Duelists' Edge in Mist teaches mace, bow, chain, shield, and body building."
+30	40	Berserker's Fury	"Berserker's Fury in Castle Ironfist can teach you bow, shield, chain, plate, and repair item."
+31	39	Silver Helms	"The Fraternal Order of Silver has recently built a keep just south of Mist.  They used to be such nice people, but now they're so intent on killing evil they destroy anything that isn't perfect, and that's just about everything."
+32	39	Taxes	I love living down here!  Lord Newton never remembers to raise taxes.
+33	39	Bootleg Bay	The islands of Bootleg Bay are home to a few cannibal tribes.  People that visit those islands don't return. 
+34	39	Fountain of Magic	"The Fountain of Magic is supposed to be south of Bootleg Bay, but not many people have ever found it."
+35	39	Gharik's Forge	"In the islands south of Mist is the forge of Gharik, one of Archibald's fellow mages.  The place is crawling with elementals– no one ever goes there now."
+36	39	Castle Alamos	"On an island north of Mist is Castle Alamos, one of the centers of magical study in Enroth.  All sorts of summoning and alchemy occurs in that castle– it's a dangerous place for the casual visitor."
+37	39	Temples	A couple of old temples are said to still stand in the jungle islands of Bootleg Bay.  I wonder if anyone still worships in them?
+38	39	Water Elementals	"Water elementals prowl the waters near Mist.  As if their powerful physical attacks aren't enough, they can also fire Ice Bolts from a distance."
+39	39	Conan	"This axe is a hero's dream.  It's enchanted to slay dragons and devils, and does so quite well.  Unfortunately, owners of the axe tend to find such creatures more often then they'd like to."
+40	39	Arch Mages	"Not many people make it to wizard, and even fewer are promoted to arch mages.  Albert Newton must ask the impossible of those looking to be promoted."
+41	39	Mist	"Mist was originally intended to be a customs and trading port for dealings with the Eastern islands and countries.  Piracy has severely cut into that trade, so we're not as prosperous as we should be."
+42	39	Regna	"About 200 miles to the east of us lie the Regnan Islands.  They are inhabited with pirates ruled by an 'emperor' who 'taxes' passing ships that pass near their territory.  The Regnans produce almost nothing on their own, with the exception of weapons and mercenaries."
+43	39	Recipe	I hear you can make a potion of supreme protection by mixing an orange potion with a green potion.
+44	39	Melody Silver	"Melody Silver was recently imprisoned by the Silver Helms in their new outpost south of Mist.  They've been acting awfully strange lately, and it's terrible that they seized such a nice young woman.  Someone's got to do something about those people!"
+45	39	Vigilantes	"The Silver Helms, founded by John Silver, were originally organized to fight brigands and murderers, but they've been harassing citizens for even the most petty crimes recently. "
+46	39	Trade	"Most of the international trade on our island is with the Kingdom of Erathia, homeland of our good Queen Catherine.  Erathia is the source of most of our precious metals and stone."
+47	39	Memory	"Years of practicing high sorcery can erode the memory of the sorcerer severely, and there is no cure for it.  Even if there was, it's unlikely the victim would remember to use it! "
+48	39	Succession War	"Albert Newton was promoted to his current position because of his strong support for Roland during the Succession War, even though Archibald offered him much sorcerous knowledge.  Lord Newton must surely be a good man to have refused to support the wicked Archibald, even though it looked like Archibald was going to win."
+49	39	Lord of Mist	"Although Lord Newton seems weak and forgetful these days, it's good to remember that he was once one of the greatest sorcerers in the land, perhaps the greatest sorcerer ever!  They say that Lord Newton has forgotten more sorcerous knowledge than Archibald ever knew, excepting the school of dark magic."
+50	39	Buccaneers' Lair	"Buccaneers' Lair in New Sorpigal and Mist can teach you dagger, merchant, identify, perception, and disarm trap."
+51	39	Protection Services	"You can learn dagger, merchant, identify, perception, and disarm trap at Protection Services in Silver Cove and White Cap."
+52	39	Smugglers' Guild	"Blackshire and Free Haven are homes to the Smugglers' Guild, where you can learn dagger, merchant, identify, perception, and disarm trap."
+53	39	Blades' End	"Sword, axe, spear, staff, and leather are all taught in Blades' End in both White Cap and New Sorpigal."
+54	39	Duelists' Edge	"Duelists' Edge in Free Haven teaches mace, bow, chain, shield, and repair item."
+55	39	Berserker's Fury	"Berserker's Fury in Silver Cove can teach you sword, bow, shield, plate, and body building."
+56	39	Calvin Black	"If you're skilled enough, Calvin Black can teach you ways to improve your staff skill.  He lives in a house right near the Imp Slapper."
+57	39	Gonzalo Ramirez	"When Gonzalo isn't spending time in the Imp Slapper, he teaches spear expertise."
+58	39	Arthur O'Leery	"If you're looking to gain expertise in leather armor, Arthur teaches right near the Buccaneers' Lair."
+59	39	Bernard Jacobs	Bernard teaches expert repair skill just south of the Duelists' Edge.
+60	38	Alamos	The weird creatures that have been summoned around here make people forget that Alamos was the home of some of the best alchemists in the world.  Powerful items must be kept in that castle.
+61	38	Circle of Stone	"One of the islands to the west has a strange circle of stones.  I think that's used for the Ceremony of the Sun, one of the requirements in Druid promotions."
+62	38	Sea Serpent	The waters around Castle Alamos teem with sea serpents that attack ships with their icy breath.
+63	38	Percival	"Percival is the ultimate ranged attack weapon.  With its rapid fire and dangerous explosive attack, it can wipe out large numbers of enemies at a safe distance."
+64	38	Agar's Pet	"These annoying creatures are immune to magic, but not immune to a good sword blow."
+65	37	Rocklin	"The old Dwarf King is in exile now, but I'll bet he wants his throne back pretty badly."
+66	37	Iron Mines	Snergle hid the key to the innermost chambers of his caverns in the iron mines to the west.
+67	37	Nicolai	"Wilbur Humphrey is so scared that something will happen to Nicolai, the Prince has not been allowed to leave the castle in months."
+68	37	Corlagon	"After Corlagon's defeat in the Succession Wars, he retired to his Estate in the Mire of the Damned to study sorcery.  Rumor has it that he became a lich hoping to survive until Archibald could return."
+69	37	Shadow Guild	"The Shadow Guild, an upstart Thieves' Guild, supposedly has a hideout near Castle Ironfist.  I'm sure Anthony Stone would love to see that hideout destroyed."
+70	37	Oracle	I'm surprised that Nicolai hasn't asked the Oracle for advice; I doubt Regent Humphrey has all the answers.
+71	37	Catherine	There's still no news on when Catherine will be back from her trip to Erathia.
+72	37	Yacht	"King Roland's Yacht, the Queen Catherine, hasn't left port in years.  Is it even still seaworthy?"
+73	37	Lizardmen	"Lizardmen prowl around the swampy areas south of Castle Ironfist.  They use bows, but the most powerful are wizards that will cast Lightning Bolts when threatened."
+74	37	Arena	"The Arena of Enroth can be reached through the stables in Ironfist.  You can fight almost any kind of monster there, if you have the taste for that sort of thing.  Lots of people would go every day, but the Arena is only open on Sundays."
+75	37	Valeria	A useful shield that unerringly blocks missile attacks and makes its user more likely to land blows in battle.
+76	37	Crusaders	"Wilbur Humphrey, in Roland's absence, handles the promotions of all paladins to crusaders."
+77	37	Lord Corlagon	"Lord Corlagon was Archibald's greatest lieutenant during the Succession War, and after his side lost, he retired to his mansion in the swamps somewhere.  It is said that he performed the Ritual of the Endless Night and became a lich a couple of years ago."
+78	37	Wilbur Humphrey	"Wilbur Humphrey is Foremost Paladin of the land.  Though many say he is too naïve and unfit to rule while King Roland is gone, people say he is utterly fearless and honest.  I personally think we couldn't possibly find a better man for the job!"
+79	37	Circus of the Sun	The fabulous Circus of the Sun usually sets up a few day's travel down the trade road leading north from Castle Ironfist.  They are always there in December of each year.
+80	37	Highwaymen	There are highwaymen plying the trade road brazenly near the castle.  The Regent must be mightily distracted to permit these ruffians to rob innocent travelers right beneath his nose!
+81	37	The Seer	"The Seer lives in a hut on a mountain near the source of the Silver River that runs from the Steel Mountains, past Castle Ironfist, and into the ocean.  It is said that he helps those who are lost."
+82	37	Dwarves	"Rocklin, former King of the Dwarves, has been deposed by a dwarf named Snergle.  Snergle renamed the mines and caverns formerly operated by Rocklin to, predictably, Snergle's Mine and Snergle's Caverns.  You can find both of those places west of the mountains near Castle Ironfist called the Steel Mountains."
+83	37	The Swamp	"The swamps of Enroth are home to all manner of unwholesome monsters, many of them undead.  Carry fire and tread lightly if you should ever have to venture there!"
+84	37	Dragoons	"The road between Castle Ironfist and New Sorpigal has become quite unsafe.  Ordinarily, we only have one group of bandits preying upon travelers…but these days we have not one, not two, but THREE groups of bandits!  First, there is that hideous Temple of Baa, then we have the Dragoon hideout near the south shore somewhere, and finally we have an unauthorized Thieves' Guild open for business near the Castle!  "
+85	37	Newt Headrow	Newt teaches expert leather skill south of Castle Ironfist.
+86	37	Rich Hamburg	You can learn expert chain skill from Rich just south of Castle Ironfist.
+87	37	Benito Tellman	A little south of Castle Ironfist are four small houses.  Benito teaches expert plate skill in the northmost one.
+88	37	Edgar Carpenter	Edgar will teach sufficiently skilled shield users expert techniques.
+89	37	Aaron Strongmun	Aaron teaches expert sword wielding right next to the weapon shop in Castle Ironfist.
+90	37	Stephan Biggs	Expert axe is taught by Stephan in the training grounds.
+91	37	Helen Teal	Helen lives with her friend Tracy right between the King's Crown and the Eagle's Eye.
+92	37	Tyler Tailor	Tyler teaches expert disarm right across the street from the training grounds in Castle Ironfist.
+93	37	Leon Lazaru	Leon teaches expert identify right across the street from the training grounds in Castle Ironfist.
+94	37	Olaf Berring	"Olaf lives in a small house behind Castle Ironfist, and teaches expert body building from there."
+95	37	Elton Astrogate	Elton teaches expert learning in one of the towers of Castle Ironfist.
+96	37	Walter Hargreaves	Walter teaches expert diplomacy in one of the towers of Castle Ironfist.
+97	37	Terrance Smith	Behind the King's Crown you can find Terrance Smith.  He'll teach skilled dagger users a few new tricks.
+98	37	Merchants	I hear there's a reward out for the ones who can put down the Dragoon highwaymen plying the road near the south shore.  Some merchant's offering a LOT of money for the return of his stolen merchandise!
+99	36	Order of the Fist	"A small order of monks has grown just south of Bootleg Bay, called the Order of the Fist."
+100	36	Pirate Treasure	"The islands of Bootleg Bay hide a pile of pirate treasure.  That is, if you can get past the cannibals and actually find it…"
+101	36	Fountain of Magic	"The location of the Fountain of Magic is still a mystery.  For some reason, the people that find it never reveal its location."
+102	36	Temple	The Church of the Sun used to have a temple on an island in Bootleg Bay.
+103	36	Arthur	"A powerful crown, Arthur not only boosts all its wearer's physical characteristics, but also their spell points."
+104	36	Heroes	I've heard that you need to slay an elder dragon to be promoted from Crusader to Hero.  No wonder there are so few Heroes around!
+105	36	Temple of Tsantsa	"The temple of Tsantsa can be found on one of the large islands south of Silver Cove.  The people that live on that island like to sacrifice captives to their beastly god Tsantsa, and then shrink their heads in the pools of disgusting chemicals they keep in their temple.  The islanders are quite hostile, so be sure to kiss your loved ones goodbye if you have plans to visit the island."
+106	36	Temple of the Sun	"Long abandoned by the Church of the Sun, their temple still stands on a large island east of Free Haven.  A small order of confused monks, misapprehending the true nature of the temple, have somehow made peace with the islanders and moved into the temple– bringing a stolen holy artifact with them.  Now the old temple's insidious magic has affected their minds, making them believe they must defend the temple to the death.  The monks are very unfriendly these days, and attack all who trespass."
+107	36	Preston Harper	Preston teaches expert chain skill just east of the Goblin's Tooth.
+108	36	Shoshi Pertoniki	Shoshi can teach you new perception tricks from his house just east of the Goblin's Tooth.
+109	36	Winston Schezar	"Winston used to be a member of that new clerical order down here, but he quit.  Apparently he left something behind because he's looking for someone to go back to the Temple of the Fist for him.  He's lives in one of the antechambers of the House of Healing now."
+110	35	Celestial Order	Cedric Druthers' splinter group of druids perform ceremonies in a cave west of Silver Cove.
+111	35	Silver Helms	"The stronghold of the Fraternal Order of Silver is located near Silver Cove.  The Silver Helms seem more violent lately, I wonder why that is?"
+112	35	The Warlord	The Warlord's Fortress is to the northwest of Silver Cove.  Only the strongest warriors are enlisted into his army.
+113	35	Shadow Guild	The Shadow Guild supposedly has a large guild right near Castle Stone.  I'm surprised Anthony Stone hasn’t discovered its location yet.
+114	35	Castle Alamos	Not many ships travel to Castle Alamos.  Most captains are afraid of the strange creatures that prowl around the northern seas.
+115	35	Light and Dark	Guilds of Light can be found in Silver Cove and Blackshire and Guilds of Dark can be found in Winter Cap and Blackshire.
+116	35	Diamond Gargoyle	"Diamond Gargoyles are the toughest gargoyles around.  They're impossible to kill with physical attacks, so you should use magic to kill them."
+117	35	Druids	"Druids can cast a variety of elemental spells when angered, and are often slightly shielded from magical attacks."
+118	35	Lucius	These legendary boots enable their wearer to move faster and react quicker.
+119	35	Arch Druids	"To be promoted to Arch Druid, a Greater Druid needs to perform the Ceremony of the Moon in the Temple of the Moon near Free Haven."
+120	35	Warlord's Fortress	"The fortress of the Warlord watches over the source of the Calimar river as it winds its way past Silver Cove and empties into Bootleg Bay.  Originally established to protect a town planned for that region, the fortress became a magnet for mercenaries and criminals after the town failed and all the settlers moved south to greener pastures."
+121	35	The Monolith	"The Monolith overlooks the Silver road that leads from Silver Cove to Free Haven.  It's been an object of fascination and occasional worship for ages.  A long time ago, some group of druids carved a home out of the giant rock, and it has been inhabited by various groups since then.  The druids who currently live there were experimenting with some kind of new magic, and I think something may have gone wrong.  They've been avoiding contact with the outside world for some time now, and refuse to allow visitors to enter the Monolith."
+122	35	Silver Cove	"The town of Silver Cove got its start as a fishing and trading village a few hundred years ago.  With time, our little village grew up to be a full-fledged town.  We have ample room to expand the town, and the land around us is fertile and easy to farm.  We are just a little distant from the rest of the Kingdom, though."
+123	35	Loretta Fleise	"The Lady of Silver Cove often seems more interested in amassing her fortune than governing well, but I don't think it's so simple.  She often spends a lot of wealth on town improvements and security, so I guess she can't be all bad."
+124	35	Vigilantes	"The Silver Helm vigilantes have occupied a fortress just north of Silver Cove.  Accusing Lady Fleise of the sin of greed, the Silver Helms have begun to attack her caravans travelling between Silver Cove and Free Haven.  I'm sure she's none too happy about it..."
+125	35	Eel Infested Waters	"Be careful of travelling the waters north and east of Silver Cove– they're inhabited by giant, man-eating sea serpents!"
+126	35	Equinoxes	"The Spring Equinox is on March 20th, and the Autumn Equinox is on September 23rd.  It's said that these dates are important magical events."
+127	35	Circle of Stone	"The White Rock Islands north of Silver Cove have long been abandoned by civilized humans, and are now home to the monsters and madmen.  Druids occasionally risk their lives and journey to those islands looking for the fabled Circle of Stones so they can perform the Ceremony of the Sun."
+128	35	Sir John Silver	"The Silver Helms have been attacking everyone they see as less than 100% behind their fight against evil.  I don't know about you, but I think such an extreme position can't be a good thing– what's Sir John Silver thinking?"
+129	35	Netherworld Ties	"The druids of the Monolith have made a pact with the Netherworld– I know, because I met a druid who escaped from there one night.  He says unspeakable things are happening inside the Monolith, and if something isn't done soon, the outside world may soon learn more than it ever wanted to know about the secrets of the ancient place."
+130	35	Tina Sheltan	Tina lives with her daughter just east of Town Hall.  She teaches light expertise to skilled apprentices.
+131	35	Cyrus Montebleu	You can learn expert repair just west of the Mercenary Guild from Cyrus Montebleu.
+132	35	Clyde Dagget	Clyde teaches expert meditation skill right across the street from the Self Guild.
+133	35	Sigriv	Sigriv can teach you expert techniques with the spear just south of the training grounds.
+134	35	Eleanor Vanderbilt	"I heard that Eleanor wants the evil druids kicked out of the Monolith to the west, and she's willing to offer a reward to the people that do it.  She's on the east side of town if you want to know more."
+135	34	Darkmoor	The home of the Necromancers; no one travels to Castle Darkmoor anymore unless they're looking for undead.  I can't imagine the village of Darkmoor surviving much longer without any trade from the rest of Enroth.
+136	34	Dragonsand	The mountains to the west keep all the horrible creatures of Dragonsand from rampaging across the rest of Enroth.
+137	34	Snergle	"Snergle isn't a good leader, but none of the dwarves dare to stand up to him."
+138	34	Terrax	Terrax never left Darkmoor after he became a lich.  He could very well still be inside researching new magical spells.
+139	34	Ghost	The ghosts that haunt the Mire of the Damned can age you past your years with a single touch.
+140	34	Harpy	"Harpies will curse their unlucky victims.  Fortunately, they're pretty easy to kill."
+141	34	Skeleton	"Even though skeletons are the weakest undead monster, some of them can curse you or fill your hearts with unnatural fear."
+142	34	Igraine	"A ring useful for either a cleric or paladin, Igraine boosts the effect of their spells."
+143	34	Champions	Osric requires a test of skill for promotion to champion.  Few ever succeed in that test.
+144	34	Connie Lettering	Connie teaches expert axe skill just outside Darkmoor village.
+145	34	Casey Ludwig	Casey teaches expert merchant skill upstairs in the south of Darkmoor village.
+146	34	Jack Crow	Jack teaches expert mace skill across the street from Smoke and Mirrors.
+147	34	Avinril Smythers	"Avinril was an important dwarf until the new king Snergle kicked him out.  He's looking for revenge now, and needs help.  I know you can find him in the Haunt out by one of the dwarf mines."
+148	33	Old Temple	"The Church of the Moon had a temple to the west.  Now, Cedric Druthers' druids use the temple for their ceremonies."
+149	33	Sewers	The sewers under Free Haven are crawling with thieves and pests.  I can't imagine anyone WANTING to live in a sewer.
+150	33	Ship	I've heard that a strange ship sails in the middle of Temper's lake.
+151	33	Celestial Order	Cedric Druthers' druids now occupy an old temple of the Church of the Moon to the west of Free Haven.
+152	33	Oracle	The High Council has not once visited the Oracle since these disasters have started happening.  The wisdom of the Oracle could certainly be used now.
+153	33	Icewind Pass	The pass to White Cap and Castle Stromgard is now patrolled by renegade ogres and greedy humans.
+154	33	Archer	"No surprise, archers will fire arrows at you.  However, some archers prefer to use flaming arrows, and the best of them can actually cast Fireball."
+155	33	Morgan	"A sorcerer or archer's best friend, this amulet boosts the effect of elemental magic."
+156	33	Cavaliers	Osric Temper handles all the promotions of knights in Enroth.
+157	33	The High Council	"The High Council meets in Free Haven to represent the Lords of Enroth and handle the important business of the Realm.  With trouble brewing in the west, you would think they'd meet more frequently, but they still limit their hours as though nothing were happening!"
+158	33	Osric Temper	"Of all the Lords of Enroth, Osric Temper is the most concerned with handling the devils that have been attacking the western towns and villages.  I personally believe he is the only Lord with his head screwed on straight these days!"
+159	33	Sewer Entrance	I hear there's a Thieves' Guild in the city with a trap door leading into the Free Haven city sewer.  They must use it to distribute all their stolen loot around town.
+160	33	Circus of the Sun	The Circus of the Sun usually sets up a few days south of Castle Temper on the west side of the Crescent River.  They stay there during August of every year.
+161	33	Village of Rockham	"Though small, the village of Rockham serves as a trading post and rest stop for people travelling around the Kingdom.  'Though all roads may lead to Free Haven, nearly every traveler has to pass through Rockham to get there."
+162	33	Ethric's Tomb	"When Ethric the Necromancer…died, he left instructions for his body to be placed in a tomb he had built next to the mountains south of the Pearblossom river.  It's said that he rose from the dead a few days later in a sort of infernal miracle.  Since then, the tomb has become a spiritual sink where all manner of lost souls drift to after death.  There they languish, mindlessly attacking the living in defense of their new master Ethric the Mad."
+163	33	Mercenary Stronghold	"An unsavory company of mercenaries has moved into a fortification built by Roland during the Succession War, near Crescent Lake.  Far as I know, the mercenaries haven't done anything wrong yet, but their presence is ominous, don't you think?"
+164	33	Free Haven	"Free Haven is the oldest and most prosperous city in the Kingdom.  With a natural harbor and the Oracle, it was only common sense for people to gather here since the Silence."
+165	33	Glimmervale Lake	"Glimmervale Lake has been the source of many supernatural sightings lately.  People say the sightings are caused by the tampering of the Necromancer's Guild, disbanded now for ten years.  Who knows what damage they caused before King Roland put a stop to their evil?"
+166	33	Temple Stone	"Temple Stone in Free Haven was recently burnt to the ground by a group of monks trying to steal the sacred chalice from the temple.  They fled east by boat, and nobody's seen them since."
+167	33	Baa in the Sewer	"I don't know if you've noticed, but those creepy followers of Baa keep popping in and out of buildings around town in the strangest manner.  Could be that they've located one of their temples in the city sewer system."
+168	33	Prince of Thieves	"Maybe there really is something to the notion that evil is down, while good is up.  Both the followers of Baa and members of the Shadow Guild can be found in the city sewers.  Would that we have a big flood one day to wash all that trash out to sea!"
+169	33	Bandits	"Beware bandits on the road to Blackshire!  Ever since the King went off to who knows where, criminals have been plying the roads between all the major cities."
+170	33	Liches	"Liches are the only form of the living dead that actually chooses to be living dead.  A lich is the rotting skeleton of a powerful cleric or sorcerer, held together by necromantic rites performed during life.  A relatively new monster, it is said that Ethric the Mad was the first sorcerer to discover and perform the Ritual of the Endless Night, simultaneously becoming the world's first lich and necromancer. <Shuddering> Creepy, huh?"
+171	33	Mercenary Stronghold	"The mercenaries living in that stronghold near Castle Temper seem to have a lot of money, because they keep ordering up weapons and supplies.  Someone must be paying them for some reason, but who?"
+172	33	Rocklin	"I hear the former King of the Dwarves is hiding out in some local tavern, drowning his sorrows after being deposed by Snergle.  A sorry fate for Roland's most steadfast ally during the War!  I'll bet if King Roland were around he would help him out."
+173	33	Timothy O'Hoolihan	Timothy teaches expert body magic southwest of the four elemental guilds.
+174	33	Michael Ogilvy	Michael teaches expert sword skill just northeast of the body guild.
+175	33	Sylvester Moor	Sylvester can show you new diplomacy tricks south of Town Square.
+176	33	Livia Farrel	Livia will teach promising merchants a few expert techniques south of Town Square.
+177	33	Takao	Takao teaches expert shield just west of the Sharpening Stone.
+178	33	Mynasia	Mynasia teaches expert mind magic southwest of the four elemental guilds.
+179	33	Michele Blackshire	Michele teaches expert spirit magic southwest of the four elemental guilds.
+180	33	Ivan Magyar	You can find expert disarm training from Ivan right near the Smugglers' Guild.
+181	33	Logan Dasher	"Logan lives just northeast of the body guild, and he teaches expert dagger skill."
+182	33	Jack Van Imp	Jack teaches expert fire magic just south of Temple Stone.
+183	33	Woodrow Albright	"Woodrow lives just southwest of the mind guild, and he teaches expert plate skill."
+184	33	Hitomi Mirumoto	Hitomi teaches expert water magic just south of Temple Stone.
+185	33	Li Tizare	Li teaches expert earth magic just south of Temple Stone.
+186	33	Zodahn Delphi	Zodahn teaches expert air magic just south of Temple Stone.
+187	33	Zoltan Phelps	"Zoltan was complaining recently that a new artifact for his collection was stolen by the Dragoons to the south of here.  He's put up a bounty for its return, go to his house just south of Town Square for more information."
+188	33	Gabriel Cartman	"Gabriel said he was working on a way to reverse some weird undead ritual.  I don't know much about rituals, but I do know that Gabriel lives just south of Temple Stone if you want to ask him about it."
+189	33	Carlo Tormini	Carlo's good friend Sherell is lost in Bootleg Bay; he's looking for people to help him out near the docks.
+190	32	Shadow Guild	Rumor has it that the main Shadow Guild guildhall is located very close to Castle Stone.  
+191	32	Icewind Pass	The pass to the Frozen Highlands is unsafe to travel now because of the ogres and humans that took over Icewind Keep.
+192	32	Magyar	"Magyars are straightforward fighters, but the magyar matrons can attack with a deadly electrical blast."
+193	32	Ares	"This seemingly simple mace bursts into flames when used, simultaneously dealing a vicious flame attack on its victim and also protecting its wielder from fire."
+194	32	Priests	"Anthony Stone, among other things, promotes deserving Clerics to Priests."
+195	32	Warrior Mages	"Erik Von Stromgard is the finest archer in the lands, and as such is given the task of training and promoting archers."
+196	32	Erik Von Stromgard	"Lord Stromgard is without a doubt the greatest archer in the land.  He always competes in the major competitions, and I've never seen him lose.  "
+197	32	Anthony Stone	"Lord Stone has the dual role of being the High Priest of the Realm and the overseer of underworld activity.  A very strange combination, I suppose, but he certainly does seem to keep the peace.  Long may he live!"
+198	32	Icewind Keep	"Icewind Keep was once Lord Stromgard's first castle, but he lost it to an attack of ogres and evil humans about a year ago.  He's moved to his second castle east of White Cap, but they say he's rather bitter about the loss and thinks only of revenge these days."
+199	32	Shadow Guild	The Shadow Guild is a new Thieves' Guild created to challenge Lord Stone's authority over the underworld.  They have two hideouts– one near Castle Ironfist and the other within spitting distance of Castle Stone.  It looks to me like they're spoiling for a fight!
+200	32	White Cap	"White Cap is the third largest town in Enroth, and it's been suffering ever since Lord Stromgard lost Icewind Keep to the ogres last year.  The ogres keep raiding caravans trying to go through the pass.  If the caravans ever stop, it'll be the end for the town."
+201	32	Long winter	"Sure has been a long time since last summer, I think.  MUCH too long.  Something is wrong with the weather, and I'm beginning to think the gods are punishing us for supporting the Ironfist dynasty!"
+202	32	Shadow Guild	"If tales told be true, the Shadow Guild and the Temple of Baa are in cahoots to ruin the Kingdom.  I hear the Temple has been magically extending winter in these parts, and the ritual materials they need are being supplied by the Shadow Guild."
+203	32	Dragon Towers	"If you've ever seen a sorcerer try to fly near a town, you may have been treated to the sight of the Dragon Towers shooting him down.  Dragon Towers shoot at anything that flies near a town, because they have trouble telling the difference between a man and a dragon.  Be careful!"
+204	32	Icewind Keep	"It sure is a bad thing that those ogres have control over Icewind keep!  Some of their human allies are archers, and they like to shoot at people going through the pass.  They've been real bad for business at White Cap, believe me."
+205	32	Passes	"There are a few important passes in the kingdom, and more and more they're controlled by monsters rather than the king's men.  If things go the way they're going much longer, we'll have to pay taxes to the devils instead of the king!"
+206	32	Winter from Baa	A master of air I spoke with some time ago claims that someone is tinkering with the weather using ritual magic.  He says he traced the magic back to one of those temples of Baa that've been springing up all over the place recently.  
+207	32	Hermits	"The mountains around here have some mighty strange hermits living in them here and there.  Most are crazy, but a few go there to meditate on truths not meant for mortal man to know."
+208	32	Secret Pass	"If you look carefully in the mountains of this Kingdom, you might come across a pass that can cut days off your travel."
+209	32	Succession War	"Both Lord Stromgard and Lord Stone were key supporters of King Roland during the Succession Wars.  They owe their current positions to that support, and I think they have been amongst the most conscientious of the Lords of the Realm."
+210	32	Dickson Parks	Dickson teaches expert mace just west of Castle Stromgard.
+211	32	Jed Morrison	Jed teaches expert bow just west of Castle Stromgard.
+212	32	Morton Holovin	Morton teaches expert dark magic in the southwest of White Cap.
+213	31	Abdul's Resort Isle	I've heard that Abdul has his resort in the south of Dragonsand.  Some resort!  It's probably filled with dragons.
+214	31	Pyramid	"There's a strange pyramid in the middle of Dragonsand.  No one has any idea who built it, though."
+215	31	Wyrm	"Wyrms move very quickly on the ground, but cannot fly.  They attack with a poisonous breath attack."
+216	31	Fire Lizard	Fire Lizards are just one of a variety of draconian creatures found in Dragonsand.
+217	31	Cronos	"Wielders of Cronos gain an incredible boost to their vitality.  They'll need anything they can get, because troubles and misfortune constantly follow this axe."
+218	30	Lair of the Wolf	A cave near Blackshire opened about the same time that people in the town started disappearing.
+219	30	Blackshire	The people of Blackshire have fallen under a terrible curse– they turn into werewolves at night!
+220	30	Star Island	"An old temple sits in the center of Star Island.  Strangely enough, the number of statues on the island has slowly increased over time."
+221	30	Werewolf	"Werewolves are simply people that turn into a half-man, half-beast creature at night.  They are especially powerful under a full moon."
+222	30	Air Elemental	"Air elementals flitter about in the valley between the Frozen Highlands and Dragonsand.  Though the weakest elementals, they're fast and have a nasty electrical attack."
+223	30	Hercules	"The sword of a mighty warrior, Hercules confers a huge boost to might and endurance, but at the cost of the wielder's intellect."
+224	30	High Priests	No one has been promoted to high priest in ages.  I wonder what Anthony Stone requires from Priests for that promotion?
+225	30	Medusas	"The island at the center of Star Lake is home to some monsters straight from the heart of hell!  I heard about someone who rowed out there one night with some friends and these huge snake creatures came boiling up out of the ground.  They had to but look you in the eye to turn you right to stone!  Anyway, this guy was the only one to make it back alive, he says, and he did it by running and not looking back! "
+226	30	Lair of the Wolf	"A terrible curse has befallen the people in this area, and everyone thinks they know the source– it's that new cave that opened itself up in the side of the mountain south of town.  Someone needs to go in there and end the curse, but bravery's at a premium in Blackshire, these days."
+227	30	Dragons	"Dragonsand is the home and breeding ground of the dragons of Enroth.  Never will you find a more fierce or terrible monster than a dragon, and never will you find one that is gentle or kind.  "
+228	30	Circus of the Sun	The Circus of the Sun likes to set up alongside the road between Blackshire and Star Lake.  They're around here every year during April.  It's a good show– well worth the money to go see it!
+229	30	Western Trade Road	"The road leading west from Blackshire has gone from the safest road in the Kingdom to the most dangerous.  West of here lies Pleasant Valley, and the name has long since become a joke.  Now that valley is a barren and ruined land, crawling with those hideous new monsters– the devils."
+230	30	Devils	"Just go west down the road from Blackshire a few days and you're sure to see some devils.  You better be able to run pretty fast, though!"
+231	30	Rangers	"Lord Kilburn disappeared while patrolling the road leading from Blackshire to Pleasant Valley.  At least, that's what people are saying.  If you're looking for him, you might want to start looking around there."
+232	30	Roland	"We all saw the king fleeing from the devils toward Castle Kriegspire a while back.  Haven't heard from him since.  Sad.  I think the devils will take us all, before long."
+233	30	Ambrose Brusse	Ambrose teaches expert dark magic in the town of Blackshire.
+234	29	Kriegspire	"Castle Kriegspire, at one time, was the center of magical experimentation in creating creatures.  Now, it's abandoned and the creatures run rampant inside.  The volcano it rests in was created to keep all the monsters in."
+235	29	Agar	"Agar, one of Archibald's sorcerers, was the most skilled of the experimenters in Kriegspire.  His monsters are the ones crawling around the castle now.  He left with the rest of the mages, but no one knows where he went to."
+236	29	Flame Drake	"Though weaker than dragons, drakes are nothing to sneer at.  These flying reptiles have powerful elemental attacks."
+237	29	Minotaur	Some of the minotaurs escaped from Kriegspire and now roam in and around the volcano surrounding the old castle.
+238	29	Earth Elemental	"Earth elementals prowl around the area of Kriegspire.  Free from the mages that summoned them, theses elementals look to destroy whatever they come across."
+239	29	Apollo	"No armor in the world can match Apollo for protection against elemental spells.  Unfortunately, the armor gains its power from sapping the endurance of its wearer."
+240	29	Superior Temple	"The Superior Temple of Baa was constructed about a year ago against the mountains east of Castle Kriegspire.  Unlike most of their temples, it's closed to the public.  You'll have to join them if you ever want to be let in."
+241	29	Battle of Edenbrook	The village of Edenbrook wouldn't be around these days if it weren't for King Roland and his men.  They saved it from a horde of devils a little while back.
+242	29	Battle at Kriegspire	"When the king fled to Castle Kriegspire he was followed by an enormous army of devils.  A couple of days later a few dozen devils were seen leaving the old volcano the castle occupies, but the King himself hasn't been seen since."
+243	29	Death Knights	"Rarely do humans and dragons get along, but the death knights have formed some sort of pact with a group of dragons in a keep on the north side of the mountains near Kriegspire."
+244	29	Nicholas Roth	Nicholas can show you expert techniques with the magic of light in the village of Kriegspire.
+245	28	Titan	"Titans are second in power only to the mighty dragons.  Not only do titans possess an incredible electric attack, they are skilled in mind magic and favor the Psychic Shock spell."
+246	28	Fire Elemental	"Fire elementals seem to like Hermit's Isle, though who would summon them there is a mystery."
+247	28	Odin	"Although this crown reduces the reaction time of its wearer, it also makes the wearer incredibly resistant to elemental magic."
+248	28	Hermit's Isle	"Hermit's Island has recently become home to the Supreme Temple of Baa.  They have found an ancient installation to put their temple in, and are no doubt performing dark experiments as we speak."
+249	28	Dragonsand	"Dragonsand, the great desert of Enroth, is home to all the worst monsters in the world.  Dragons, titans, and other oversized killer monsters roam the sands freely on whatever errands such creatures find important.  Humans foolish enough to travel the desert learn to run and hide very quickly, or they don't last long."
+250	27	Pleasant valley	"Once the greenest and most fertile of lands in Enroth, Pleasant Valley has fallen under a curse that has caused the plants to wither, the animals to sicken, and the people to leave.  It is a barren land now, and no one wants to live there."
+251	27	The Blight	"Shortly after the Night of Shooting Stars, the blight began to eat away at Pleasant Valley.  In a few short years, nearly all the plants and animals had sickened and died, and the villagers and farmers living in the valley had to move east to find food.  The blight has shown no signs of abating– rather, it has accelerated, and will one day cover the entire continent unless something is done to stop it."
+252	27	Devils	"Most of the devils you see in Pleasant Valley are in fact worker or soldier devils.  They are organized like ants, only they have intelligent leaders.  The leaders can fly, and their best leaders can use human speech and writing."
+253	27	Sweet Water Pass	"Though powerful, the devils are far from invincible.  King Roland fought and won a battle at Sweet Water Pass by outmaneuvering them and outthinking them.  They're tough, but they die like anything else does when you put a sword through it!"
+254	27	Hermes	"These legendary boots make the wearer a blur, able to react instantly to any situation."
+255	26	Hive	The devils seem to swarm around a strange building near the remains of Sweet Water.
+256	26	Sweet Water	"Although the ruins of the buildings are still there, the town is completely destroyed.  No one lives there anymore."
+257	26	Blackwoode	The forest of Blackwoode has been wiped out completely since the night of Shooting Stars.
+258	26	Devils	The devils seem to prefer fire attacks and enjoy attacking in large groups.  Some of the most powerful can cast spells from the fire school.
+259	26	Hera	"This odd amulet will grant its wearer extra vitality, spell points, and luck."
+260	1	Sweet Water	"Sweet Water used to be the most beautiful town in the kingdom, but no news has come from it since the Night of Shooting Stars.  I think the shooting star landed right on top of the town, leaving no survivors to tell the tale."
+261	1	Night of Shooting Stars	"The Oracle had warned of the coming of devils from the sky in writings long ago.  I don't think anyone remembers, and of those who do, no one thinks the Night of Shooting Stars and the devils are connected.  "
+262	1	Lair of the Devils	"I met a man who went to discover the fate of the town of Sweet Water, and he says that the place was burnt to the ground by the devils.  The devils have built a strange tower near the old town, and eerie noises come from it every twenty minutes.  He would have explored further, but there were so many devils near the tower he didn't dare."
+263	1	Agents of Baa	"Have you noticed how Temples of Baa have been sprouting up throughout the kingdom?  They're everywhere, and I for one think it's an ominous development.  Although they offer free healing, they don't seem to be doing it out of kindness– there must be a method to their madness!"
+264	1	Queen Catherine	The queen left quite a while ago for her home country of Erathia.  People are getting worried– what if something happened to her during her trip?
+265	1	Sea Travel	"Most of the shipping in Enroth follows a set schedule.  If you're in the right place at the right time, the shipping companies can take you great distances quickly and cheaply."
+266	1	Tomb of VARN	"The legends say that the great ship used in the Crossing lies buried under a giant stone tomb in the middle of Dragonsand.  There must have been a lake or ocean long ago where the desert is now, for the ship to end up in the middle of the desert!"
+267	1	Obelisks	"If you touch one of the obelisks scattered around the kingdom, you'll get a part of a riddle no one's yet unraveled.  People say that a great treasure lies buried somewhere in Enroth, and the one who finds the answer to the riddle will find the treasure."
+268	1	Dragon Towers	"Beware the Dragon Towers you'll find near every major settlement.  They will shoot a fireball at anyone flying.  I guess they're meant to protect the towns from dragons and other flying monsters, but they can't tell the difference between a man and a monster."
+269	1	Devils and Baa	"Some people are saying the Temple of Baa and the devils are in league!  It makes sense– the temple first appeared a few months after the Night of Shooting Stars, and we all know the devils and that night are related!"
+270	1	Traitor on the Council	"There's a rumor going 'round that Slicker Silvertongue, Wilbur Humphrey's representative on the High Council, is a traitor.  People are saying he's been seen in several Temples of Baa, and everyone knows the temple is against the king!"
+271	1	Weather	"Weather sure has turned sour since the Night of Shooting Stars.  Every summer seems colder than the last.  Why, I'd venture to say last summer was the coldest winter I've ever experienced!  'Course, that's an exaggeration, but you know what I mean.  Something's wrong!"
+272	1	Disasters	Doesn't it seem there's been more floods and earthquakes since the king disappeared?  It's as though the gods are angry with the king and his dynasty.  Perhaps they have lost the Mandate of Heaven.
+273	1	Curses	"Though the Temple of Baa may offer free healing, it seems to me that more things go wrong, and more people get hurt, when one of their temples is nearby.  Could it be they are cursing the people near them, and then healing them for some bizarre reason?"
+274	1	Archibald	Have you ever seen Archibald's statue in the library behind Castle Ironfist?  It is amazingly lifelike… almost as though he was turned to stone rather than sculpted.
+275	1	The Blight	"The western province of Pleasant Valley has undergone a shocking transformation in the last few years.  Once it was a rich, fertile farming region.  Now all the plants have died from a terrible blight, and the water has dried up.  All the animals sickened or died, and all the people had to move away to find food to eat."
+276	1	Legend of the Crossing	"Ancient legends say that all the greatest artifacts from before the Silence came with the ship our distant ancestors used to get here from their homeland.  They say the voyage was so long that three generations of people were born, lived, and died while aboard the ship!  How's that for a whopper of a tale?!"
+277	1	Erathia	"Erathia is the second major continent to be settled in the world.  It is a lot wilder and more unsafe than Enroth, and all the little kingdoms there are always bickering and fighting."
+278	1	Regna	"The islands east of Enroth are all part of the 'Kingdom' of Regna.  They were settled by the most nasty and violent of people hundreds of years ago, and they haven't changed their ways.  They are pirates and mercenaries to a man, and have no regard for the sorrow they cause by siding with petty tyrants and usurpers like Archibald was."
+279	1	Dwarves	"If the old tales are true, the dwarves were once just like the rest of us, but before the Crossing, the dwarves lived in a place where they and everything around them weighed a lot more.  The stories say this made them very short and very strong, and they haven't changed since."

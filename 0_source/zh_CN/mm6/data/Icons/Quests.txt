@@ -1,0 +1,513 @@
+Q Bit	实际任务记录	Notes	过去任务记录
+1		" 1 D09, key to open D05"	" D09, 打开 D05的钥匙"
+2		" 2 D11, given for glass shard for staff of terrax quest"	" D11, 玻璃碎片给予德里克丝任务中全体人员。"
+3		" 3 D06, given when harp is recovered"	" D06,找到竖琴时给予。"
+4		" 4 D10, given when you retreive artifact from chest"	" D10, 从箱子里拿回宝物时给予。"
+5		" 5 D18, questbit for getting hourglass"	" D18, 拿到沙漏时给予。"
+6		" 6 T3, given when you rescue prisoner"	" T3, 你救出牢犯时给予。"
+7		" 7 T5, when you are promoted to archdruid"	" T5, 你升级为大祭司时给予。"
+8		" 8 T7, given when you find the smoking gun"	" T7, 你找到火枪时给予。"
+9		" 9, CD2, given when you destroy Lich book"	" CD2,你毁掉尸巫之书时给予。"
+10		Tim	下水道，擒获贼盗王子。
+11		"11 D7, opens tomb in D18."	"D7, 打开在 D18的坟墓。"
+12		"12 D3, given when you save Mom."	"D3, 你救出姆时给予。"
+13		"13 D13, given when you save the damsel, Melody Silver, in D7."	"D13, 你救出在D7的少女米拉达·席尔瓦时给予。"
+14		"14 D6, given when Message 504 given out."	"D6, 当消息504透露时给予。"
+15		"15 D7, given when chest with evidence for Constable opened."	"D7, 当打开藏着城堡总管的证据的箱子时给予。"
+16		"16 D17, given when party is turned into Werewolves."	"D17, 当队伍变成人狼时给予。"
+17		"17 D17, given when wolf altar is destroyed."	"D17, 当摧毁人狼祭坛时给予。"
+18		"18 D17, given when party buries torture victims."	"D17, 当队伍埋葬被害的好人时给予。"
+19		"19 D17, given when party buries more torture victims."	"D17, 当队伍埋葬更多被害的好人时给予。"
+20		"20 D17, given when party digs up tiger statue quest item."	"D17,当队伍发掘出虎像时给予。"
+21		"21 T2, Given when evil crystal is destroyed"	"T2, 摧毁邪恶水晶时给予。"
+22		"22 D05, Given to find Snergles axe"	"D05, 找到斯纳格战斧时给予。"
+23		"23 D13, Given when Altar is desecrated"	"D13, 当神坛遭受亵渎时给予。"
+24		"24 D14, Given to find Ethrics Skull"	"D14, 当找到埃斯里克的头骨时给予。"
+25		"25 D15, Given to find merchants White pearl"	"D15,当找到商人的白色珍珠时给予。"
+26		"26 D19, Given to find White witches crown"	"D19, 当找到白色的巫师冠冕时给予。"
+27		"27 D05, Given when axe is returned (so door can't be opened)"	"D05, 当归还战斧时给予（此时门无法打开）"
+28		Dave	
+29		Dave	
+30		Dave	
+31		"31 D02, given when spider quest is completed"	"D02, 当完成蜘蛛任务时给予。"
+32		"32 D02, given when kid is rescued"	"D02, 当救出孩子时给予。"
+33		"33 D02, given when egg quest is assigned"	"D02, 当完成蛋的任务时给予。"
+34		"34 D02, given when temple of Baa relic is found"	"D02, 当找到羊鸣庙废墟时该给予。"
+35		35 D17 Brought back Black Pearl and Ghost will no longer show up.	带回黑色珍珠，幽灵将不再出现。
+36		"36 D02, given when bat quano is harvested"	"D02, 当收获蝙蝠粪时给予。"
+37		"37 D02, is given when you get all the dead guys"	"D02, 你得到所有死亡家伙时给予。"
+38		"38 T07, given when you find the smoking gun"	"T07, 你找到火枪时给予。"
+39		"39 CD2, given when you find the oracle gem"	"CD2, 当你发现神谕宝石时给予。"
+40		"40 CD2, given when you get the knowledge to become a lich"	"CD2, 当你知道如何变成尸巫时给予。"
+41		Bruce	
+42		Bruce	
+43		Bruce	
+44		Bruce	
+45		Bruce	
+46		Bruce	
+47		Bruce	
+48		Bruce	
+49		Bruce	
+50		Bruce	
+51		"51 T4, Given when characters find Silver Chalice."	"T4, 当你找到银色高脚杯时给予。"
+52		"52 D16, Given when characters find the Eagle Statuette"	"D16, 当你找到鹰像时给予。"
+53		"53 T6, Given when characters take the Oracle Crystal from the altar."	"T6, 当你的角色把神谕水晶从祭坛上拿走时给予。"
+54		Chris	
+55		Chris	
+56		Chris	
+57		Chris	
+58		Chris	
+59		Chris	
+60		Chris	
+61		Peter	
+62		Peter	
+63		Peter	
+64		Peter	
+65		Peter	
+66		Peter	
+67		Peter	
+68		Peter	
+69		Peter	
+70		Peter	
+71		Walt	当在D4的门没有设防时给予。
+72		Walt	"D20, 当第一个宝物箱子打开时给予。"
+73		Walt	"D20, 当第二个宝物箱子打开时给予。"
+74		Walt	"D17, 当消息卷宗517透露时给予。"
+75		Lisa	
+76		Lisa	
+77		Lisa	
+78		Lisa	
+79		Lisa	
+80		Lisa	
+81	向新索匹格镇的安多弗·波特皮洛出示舒尔曼的信。	Set when the party starts	向在新索匹格的安多弗·波特皮洛出示舒尔曼的信。
+82	把舒尔曼的信带给铁拳城堡的威尔伯·汉弗里摄政王。	Set by Andover after you show him the letter	把舒尔曼的信件带给在铁拳城堡的威尔伯·汉弗里摄政王。
+83	找到大耳怪前哨宝库门的密码并返回新索匹格镇的市政厅。	Set by Town Hall	找到大耳怪前哨密门的密码。
+84	从羊鸣庙里找到美妙钟琴并返回新索匹格镇的市政厅。	Paul	摧毁羊鸣庙的邪恶祭坛并带回美妙钟琴。
+85		Paul	发现大耳怪前哨的密码。
+86	找到科尔本爵士的盾牌并返回铁拳城堡向威尔伯·汉弗里报告。	Paul	找到科尔本爵士的盾牌。
+87		Paul	和叛徒谈话。
+88	营救一名处于危难之中的少女，并带着她一同返回铁拳城堡威尔伯·汉弗里处。	Paul	解救一个少女摆脱困境。
+89	杀死盘踞于黑摩尔城堡附近一洞穴里的长牙巨龙威瑟海德，并返回铁拳城堡威尔伯·汉弗里处。	Paul	除掉巨龙长牙。
+90	哄尼古拉，让他高兴。	Paul	哄尼古拉。
+91		91 D12 John Silver only talks to you once.	D12 约翰·席尔瓦只和你谈一次话。
+92		"92 D17, Given when Paladin Ghost tells party where Tiger Statue is."	"D17, 当游侠幽灵向队伍告知虎像的下落时给予。"
+93		"93 D17, Used when QB 18 corpses buried."	"D17, 当埋葬 QB 18的尸体时使用。"
+94		"94 D17, Used when QB 19 corpses buried."	"D17, 当埋葬 QB 19的尸体时使用。"
+95	找到并把尼古拉王子带回铁拳城堡。	Walt	找到并带回尼古拉。
+96	找到第三只眼并把它交给铁拳城堡的尼古拉王子。	Walt	找到第三只眼。
+97		Walt	图书馆的阿基巴德完成黑暗之神的任务。
+98	擒获贼盗王子并把他押送回斯通城堡安东尼·斯通爵士处。	NPC	擒获贼盗王子。
+99		Oracle	
+100		Oracle	神使，当插入阿尔法记忆水晶。
+101		Oracle	神使，当插入贝塔记忆水晶。
+102		Oracle	神使，当插入德尔塔记忆水晶。
+103		Oracle	神使，当插入伊普斯隆记忆水晶。
+104		CD3	当你得到伊普斯隆水晶时给予。
+105	雇一个石匠和一个木匠，并把他们带到自由天堂的斯通神庙去修复该神庙，然后回到斯通城堡的安东尼·斯通爵士处。	NPC	重建斯通神庙。
+106		NPC	完成重建斯通神庙的工程。
+107	前往自由天堂东面的岛屿的神庙，从众僧侣手中夺得圣杯并把它带回到自由天堂的斯通神庙，然后返回斯通城堡见斯通爵士。	NPC	找到并替换圣杯。
+108		NPC	将圣杯放入神庙。
+109		NPC	马通·费里斯布置牧师任务。
+110	找到时间沙漏，交还给浓雾镇的阿尔伯特·牛顿爵士。	NPC	夺回时间沙漏。
+111	喝下魔法喷泉的泉水并返回浓雾镇的阿尔伯特·牛顿爵士处。	NPC	痛饮魔法喷泉。
+112	找回德里克丝水晶并返回浓雾镇的阿尔伯特·牛顿爵士处。	NPC	夺回德里克丝水晶。
+113	摧毁恶魔据点并返回坦普城堡的奥斯里克·坦普爵士处。	NPC	摧毁恶魔据点。
+114	得到查德威克的剑客提名并返回坦普城堡的奥斯里克·坦普爵士处。	NPC	被查德威克提名。
+115	击败军阀并把证据带给奥斯里克·坦普。	NPC	击败军阀。
+116	稳定王国内所有9个驿站的价格并回到银湾镇的弗丽斯夫人处。	NPC	稳定王国中所有驿站的价格。
+117		NPC	走遍所有驿站完成稳定价格的任务。
+118	在春秋分或冬夏至前往银湾镇北边的石圈拜祭太阳神坛（提示：3月20日是春分）。	NPC	在冬夏至或春秋分来到银湾镇北面的石圈拜祭太阳神坛。
+119	在满月的午夜时分来到月亮庙拜祭月亮神坛。	NPC	在夜晚满月时分来到月亮神庙拜祭月亮神坛。
+120	结束冬天，带着好消息返回斯壮姆嘉德城堡的斯壮姆嘉德爵士处。	NPC	为斯壮姆嘉德爵士结束冬天。
+121	从白帽镇南边的冰风堡垒中找回龙塔钥匙，并把它带给斯壮姆嘉德城堡的斯壮姆嘉德爵士。	NPC	夺回龙塔的钥匙。
+122	重新设置每个镇的龙塔，并返回斯壮姆嘉德城堡的斯壮姆嘉德爵士处。	NPC	重新设置所有的龙塔。
+123		NPC	参观所有的龙塔。
+124	前往斯纳格的岩洞，除掉斯纳格，并把他的战斧交给幽灵沼泽萦绕旅店的阿维里·辛西亚。	NPC	干掉斯纳格并带回他的战斧。
+125	突袭浓雾镇附近的银舵前哨并把他们堕落的证据带给浓雾镇的治安官。	NPC	证明银舵已经堕落得无可救药。
+126	为新索匹格的安多弗·波特皮洛夺回废庙中的蜡烛台。	NPC	为安多弗·波特皮洛夺回蜡烛台。
+127		NPC	解救米拉达。
+128	前往铁拳城堡南面的龙骑兵洞穴，夺回竖琴，并把它交还给铁拳城堡的安德鲁·贝斯普。	NPC	夺回安德鲁·贝斯普的竖琴。
+129	在自由天堂西面的埃斯里克的坟墓中找到埃斯里克的头骨，将它交给自由天堂的盖贝里·卡特曼。	NPC	为自由天堂的盖贝里·卡特曼找到埃斯里克的头骨。
+130	除掉新索匹格的废庙中的蜘蛛女王，并把它的心带给新索匹格镇的布福德·提·奥曼。	NPC	干掉蜘蛛女王。
+131	摧毁在银湾镇西面独立碑中的祭坛并返回银湾镇的埃里诺·范德贝尔特处。	NPC	任务是摧毁祭坛。
+132		NPC	成功的摧毁了祭坛。
+133		NPC	任务是收集蝙蝠。
+134	摧毁神拳庙中的水晶并返回布特雷格湾的温斯顿·舒则处。	NPC	任务是摧毁水晶。
+135		NPC	成功摧毁了水晶。
+136	从布莱克郡附近的巨蛇庙中解救埃曼纽尔，并把他带回布莱克郡的乔安娜·克拉维兹处。	NPC	任务是找到某人的丈夫。
+137	在坦普城堡附近的龙骑兵堡垒里找到失落的神器，并把它交给自由天堂的佐尔丹·菲尔普。	NPC	任务是夺回失落的宝物。
+138	将雪莉从阴影教隐蔽所救出来，并带她前往新索匹格镇的弗兰克·费尔基德处。	NPC	任务是搭救雪莉。
+139	将安吉拉从废庙中救出来，并带她前往新索匹格镇的威尔特·德沃森处。	NPC	任务是搭救安吉拉。
+140	将谢勒尔从布特雷格湾岛屿上的食人族手中解救出来，并带她前往自由天堂的卡尔罗·托米尼处。	NPC	任务是解救被监禁者。
+141	摧毁狼穴中的狼人祭坛并返回布莱克郡的玛利亚·特里潘处。	NPC	狼人任务
+142		NPC	发挥珍珠的威力
+143	在狼穴中找到腐败珍珠，交给同在狼穴中的幽灵巴塞萨。	NPC	任务是交还珍珠。
+144	在克里格斯城堡中找回宝石蛋，交还给克里格斯镇的埃米尔·利姆。	NPC	任务是交还蛋。
+145	解开烈火爵士的大厅中被魔力锁住的门，然后返回烈火爵士处。	NPC	任务是解除大门守卫。
+146		NPC	为烈火爵士解除大门守卫。
+147		NPC	到达驿站1
+148		NPC	到达驿站2
+149		NPC	到达驿站3
+150		NPC	到达驿站4
+151		NPC	到达驿站5
+152		NPC	到达驿站6
+153		NPC	到达驿站7
+154		NPC	到达驿站8
+155		NPC	到达驿站9
+156		NPC	龙塔1
+157		NPC	龙塔2
+158		NPC	龙塔3
+159		NPC	龙塔4
+160		NPC	龙塔5
+161		NPC	龙塔6
+162	前往超级羊鸣庙，找到阿尔法记忆水晶，把它放回到高级议会地下的恩洛斯神使的模块坛处。	NPC	夺回阿尔法记忆水晶。
+163	前往阿拉莫斯城堡，找到贝塔记忆水晶，把它放回到高级议会地下的恩洛斯神使的模块坛处。	NPC	夺回贝塔记忆水晶。
+164	前往黑摩尔城堡，找到德尔塔记忆水晶，把它放回到高级议会地下的恩洛斯神使的模块坛处。	NPC	夺回记忆水晶德尔塔。
+165	前往克里格斯城堡，找到伊普斯隆记忆水晶，把它放回到高级议会地下的恩洛斯神使的模块坛处。	NPC	夺回伊普斯隆记忆水晶。
+166	从飞龙沙漠的维兰坟墓中找回控制块，并返回高级议会地下的恩洛斯神使处。	NPC	夺回控制块。
+167		NPC	使议会满意，揭发叛徒（你被允许进入神使处）
+168		NPC	揭发叛徒
+169		NPC	你拥有控制块，可以进入地牢。
+170		NPC	擒获贼盗王子。
+171		NPC	解救米拉达·席尔瓦。
+172		NPC	在d7和僧侣交谈。
+173		NPC	升级为祭司。
+174		NPC	升级为大祭司。
+175		NPC	结束冬天。
+176		NPC	使从T6到自由天堂下水道的远距离传送器发挥作用。
+177		NPC	解救阿基巴德。
+178		NPC	参观 C2
+179		NPC	参观 D1
+180		NPC	摧毁反应器
+181		Quest item bits for seer	第六封信
+182		Quest item bits for seer	科尔本的盾牌
+183		Quest item bits for seer	时间沙漏
+184		Quest item bits for seer	恶魔计划
+185		Quest item bits for seer	龙爪
+186		Quest item bits for seer	德里克丝水晶
+187		Quest item bits for seer	散发文卷
+188		Quest item bits for seer	圣杯
+189		Quest item bits for seer	龙塔钥匙
+190		Quest item bits for seer	火枪
+191		Quest item bits for seer	阿尔法记忆水晶
+192		Quest item bits for seer	贝塔记忆水晶
+193		Quest item bits for seer	德尔塔记忆水晶
+194		Quest item bits for seer	伊普斯隆记忆水晶
+195		Quest item bits for seer	控制块
+196		Quest item bits for seer	第三只眼
+197		Quest item bits for seer	坦耐尔之铃
+198		Quest item bits for seer	黑暗之神
+199		Quest item bits for seer	加里克实验室的钥匙。
+200	在克里格斯城堡东面的顶级羊鸣庙中找到治疗斯里克·席尔瓦托恩的方法，并带着好消息回到威尔伯·汉弗里处。	Wilbur Humphrey	任务是揭发叛徒。
+201	把证明斯里克·席尔瓦托恩叛国的信件交给自由天堂的高级议会。	NPC	
+202		NPC	除掉恶魔女王
+203		NPC	找到埃曼纽尔
+204	在黑摩尔城堡中找到并摧毁尸巫之书，然后返回黑摩尔镇的德里·罗斯处。	NPC	尸巫任务
+205		NPC	先知的要求-本月执行该任务
+206		NPC	先知的要求-本月完成该任务
+207		NPC	先知的要求-一月至少完成一次任务。
+208		NPC	先知的要求-二月至少完成一次任务。
+209		NPC	先知的要求-三月至少完成一次任务。
+210		NPC	先知的要求-四月至少完成一次任务。
+211		NPC	先知的要求-五月至少完成一次任务。
+212		NPC	先知的要求-六月至少完成一次任务。
+213		NPC	先知的要求-七月至少完成一次任务。
+214		NPC	先知的要求-八月至少完成一次任务。
+215		NPC	先知的要求-九月至少完成一次任务。
+216		NPC	先知的要求-十月至少完成一次任务。
+217		NPC	先知的要求-十一月至少完成一次任务。
+218		NPC	先知的要求-十二月至少完成一次任务。
+219	把小雕像放在甜水镇、克里格斯、飞龙沙漠、幽灵沼泽和布特雷格湾，然后返回布莱克郡的特威伦处。	NPC	雕像任务
+220		NPC	给予雕像箱子
+221		NPC	给予报酬箱子
+222		NPC	放置虎像
+223		NPC	放置熊像
+224		NPC	放置鹰像
+225		NPC	放置狼像
+226		NPC	放置龙像
+227		NPC	不再给予雕像箱子。
+228		NPC	隐士“没有雪”
+229		Quest item bits for seer	大副卷宗
+230		Quest item bits for seer	大夫卷宗
+231		Quest item bits for seer	船长卷宗
+232		Quest item bits for seer	导航员卷宗
+233		Quest item bits for seer	工程师卷宗
+234		Quest item bits for seer	通讯员卷宗
+235	从铁拳城堡皇家图书馆阿基巴德处获得神秘的魔法。	NPC	任务是学习阿基巴德的魔法以解救神使。
+236		NPC	任务是点亮巫师的魔力灵光。
+237		NPC	你胜利后蜂房将不复存在。
+238		NPC	
+239		NPC	
+240		NPC
+241		NPC
+242		NPC
+243		NPC
+244		NPC
+245		NPC
+246		NPC
+247		NPC
+248		NPC
+249		NPC
+250		NPC
+251		NPC
+252		NPC
+253		NPC
+254		NPC
+255		NPC
+256		NPC
+257		NPC
+258		NPC
+259		NPC
+260		NPC
+261		NPC
+262		NPC
+263		NPC
+264		NPC
+265		NPC
+266		NPC
+267		NPC
+268		NPC
+269		NPC
+270		NPC
+271		NPC
+272		NPC
+273		NPC
+274		NPC
+275		NPC
+276		NPC
+277		NPC
+278		NPC
+279		NPC
+280		NPC
+281		NPC
+282		NPC
+283		NPC
+284		NPC
+285		NPC
+286		NPC
+287		NPC
+288		NPC	
+289		NPC	
+290		NPC	
+291		NPC	
+292		NPC	
+293		NPC	
+294		NPC	
+295		NPC	
+296		NPC	
+297		NPC	
+298		NPC	
+299		NPC	箱子里没有珠宝蛋了
+300		Peter	用钥匙打开大耳怪前哨
+301		NPC	在浓雾镇模板发挥作用
+302		NPC	巨石中的剑（新索匹格）
+303		NPC	巨石中的剑（铁拳城堡）
+304		NPC	科尔本的盾牌
+305		NPC	铁拳城堡的水井
+306		NPC	运气永久+10
+307		NPC	
+308		NPC	
+309		NPC	
+310		NPC	巨石中的剑（D1外）
+311		NPC	巨石中的剑（D1外）
+312		NPC	巨石中的剑（D1外）
+313		NPC	巨石中的剑（D1外）僧侣
+314		NPC	只有这个从T6发出，从T6到下水道的远距离传送器才能运转。
+315		NPC	T6烈火祭坛
+316		NPC	T6寒冷祭坛
+317		NPC	T6痛楚祭坛
+318		NPC	T6 烈火神殿
+319		NPC	T6 空气神殿
+320		NPC	T6 流水神殿
+321		NPC	T6 泥土神殿
+322		NPC	
+323		NPC	
+324		NPC	
+325		NPC	
+326		NPC	
+327		NPC	
+328		NPC	
+329		NPC	
+330		NPC	
+331		NPC	
+332		NPC	
+333		NPC	
+334		NPC	
+335		NPC	
+336		NPC
+337		NPC
+338		NPC
+339		NPC
+340		NPC
+341		NPC
+342		NPC
+343		NPC
+344		NPC
+345		NPC
+346		NPC
+347		NPC
+348		NPC
+349		NPC
+350		NPC
+351		NPC
+352		NPC	
+353		NPC	
+354		NPC	
+355		NPC	
+356		NPC	
+357		NPC	
+358		NPC	
+359		NPC	
+360		NPC	方尖塔 A1外
+361		NPC	方尖塔 A2外
+362		NPC	方尖塔 A3外
+363		NPC	方尖塔 B1外
+364		NPC	方尖塔 B2外
+365		NPC	方尖塔 B3外
+366		NPC	方尖塔 C1外
+367		NPC	方尖塔 C2外
+368		NPC	方尖塔 C3外
+369		NPC	方尖塔 D1外
+370		NPC	方尖塔 D2外
+371		NPC	方尖塔 D3外
+372		NPC	方尖塔 E1外
+373		NPC	方尖塔 E2外
+374		NPC	方尖塔 E3外
+375		NPC	方尖塔岩石
+376		NPC	d18 门
+377		NPC	烈火爵士任务只奖励一次经验值和金币
+378		NPC	
+379		NPC	
+380		NPC	
+381		NPC	
+382		NPC	
+383		NPC	
+384		NPC
+385		NPC
+386		NPC
+387		NPC
+388		NPC
+389		NPC
+390		NPC
+391		NPC
+392		NPC
+393		NPC
+394		NPC
+395		NPC
+396		NPC
+397		NPC
+398		NPC
+399		NPC
+400		NPC
+401		NPC
+402		NPC
+403		NPC
+404		NPC
+405		NPC
+406		NPC
+407		NPC
+408		NPC
+409		NPC
+410		NPC
+411		NPC
+412		NPC
+413		NPC
+414		NPC
+415		NPC
+416		NPC
+417		NPC
+418		NPC
+419		NPC
+420		NPC
+421		NPC
+422		NPC
+423		NPC
+424		NPC
+425		NPC
+426		NPC
+427		NPC
+428		NPC
+429		NPC
+430		NPC
+431		NPC
+432		NPC
+433		NPC
+434		NPC
+435		NPC
+436		NPC
+437		NPC
+438		NPC
+439		NPC
+440		NPC
+441		NPC
+442		NPC
+443		NPC
+444		NPC
+445		NPC
+446		NPC
+447		NPC
+448		NPC
+449		NPC
+450		NPC
+451		NPC
+452		NPC
+453		NPC
+454		NPC
+455		NPC
+456		NPC
+457		NPC
+458		NPC
+459		NPC
+460		NPC
+461		NPC
+462		NPC
+463		NPC
+464		NPC
+465		NPC
+466		NPC
+467		NPC
+468		NPC
+469		NPC
+470		NPC
+471		NPC
+472		NPC
+473		NPC
+474		NPC
+475		NPC
+476		NPC
+477		NPC
+478		NPC
+479		NPC
+480		NPC
+481		NPC
+482		NPC
+483		NPC
+484		NPC
+485		NPC
+486		NPC
+487		NPC
+488		NPC
+489		NPC
+490		NPC
+491		NPC
+492		NPC
+493		NPC
+494		NPC
+495		NPC
+496		NPC	
+497		NPC	
+498		NPC	
+499		NPC	
+500		marks quest items	黑暗之神卷宗
+501		marks quest items	
+502		marks quest items	
+503		marks quest items	
+504		marks quest items	
+505		marks quest items	
+506		marks quest items	
+507		marks quest items	
+508		marks quest items	
+509		marks quest items	
+510		marks quest items	
+511		marks quest items	
+512		marks quest items

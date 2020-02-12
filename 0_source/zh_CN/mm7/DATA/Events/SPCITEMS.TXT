@@ -1,0 +1,84 @@
+Special Bonuses by Group																			
+
+Bonus Stat	Name Add	W1	W2	Miss	Arm	Shld	Helm	Belt	Cape	Gaunt	Boot	Ring	Amul	Value	Lvl	Description fo special Bonuses and values			
+
+对所有魔法的防御+10。	(防御)	0	0	0	10	10	10	0	10	0	0	10	10	1000	B	(+10) on all four resistances			
+所有属性+10。	(神圣)	5	5	5	10	10	10	10	10	10	10	10	10	3000	D	(+10) on all 7 stats			
+爆炸效果！	(攻击)	0	0	10	0	0	0	0	0	0	0	0	0	5000	D	"projectile explodes (fireball radius,dmg=weapdmg)"			
+增加3-4点冰冻杀伤力。	(霜冻)	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(3-4) cold damage			
+增加6-8点冰冻杀伤力。	(冰冻)	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(6-8) cold damage			
+增加9-12点冰冻杀伤力。	(寒冰)	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(9-12) cold damage			
+增加2-5点电击杀伤力。	(电光)	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(2-5) elec damage			
+增加4-10点电击杀伤力。	(闪电)	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(4-10) elec damage			
+增加6-15点电击杀伤力。	(霹雳)	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(6-15) elec damage			
+增加1-6点火魔法杀伤力。	(火焰)	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(1-6) fire damage			
+增加2-12点火魔法杀伤力。	(怒火)	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(2-12) fire damage			
+增加3-18点火魔法杀伤力。	(地狱火)	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(3-18) fire damage			
+增加5点肢体魔法杀伤力。	(中毒)	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(5) pois damage
+增加8点肢体魔法杀伤力。	(剧毒)	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(8) pois damage
+增加12点肢体魔法杀伤力。	(烈毒)	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(12) pois damage
+从攻击对象身上吸取生命值。	(吸血)	5	5	5	0	0	0	0	0	0	0	0	0	X 2	D	Heal 20% of damage done on attack
+缩短恢复时间。	(恢复)	0	0	0	0	0	0	0	0	0	0	0	0	200	B	(-10) pts on recovery from being hit
+防止疾病。	(免疫)	0	0	0	10	10	10	10	10	0	0	10	10	1000	C	Immune to desease condition
+防止痴狂。	(心智健全)	0	0	0	5	5	5	5	5	0	0	5	5	1000	C	immune to insanity condition
+防止麻痹。	(自由)	0	0	0	10	10	10	10	10	0	0	10	10	2000	D	immune to paralize condition
+防止中毒。	(抗毒)	0	0	0	10	10	10	10	10	0	0	10	10	1000	C	immune to poison condition
+防止睡眠。	(警惕)	0	0	0	10	10	10	10	10	0	0	10	10	500	B	immune to sleep condition
+防止石化。	(美杜莎之力)	0	0	0	5	5	5	5	5	0	0	5	5	2000	D	immune to stone condition
+击中敌人时使之向后退。	(冲击)	0	0	0	0	0	0	0	0	0	0	0	0	500	A	Increase knockback effect (X10)
+等级+5。	(力量)	0	0	0	0	0	0	0	0	0	0	0	0	2500	D	(+5) char level
+增强空气魔法效果。	(空气)	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增强肢体魔法效果。	(肢体)	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增强暗黑魔法效果。	(暗黑)	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增强土系魔法效果。	(土系)	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增强火系魔法效果。	(火系)	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增强光明魔法效果。	(光明)	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增强心智魔法效果。	(心智)	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增强灵魂魔法效果。	(灵魂)	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增强水系魔法效果。	(水系)	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+提高拆卸术。	(偷窃)	0	0	0	0	0	0	0	0	0	0	0	0	2000	B	double chance to perform lockpick and steal skill
+受到远程攻击时杀伤力减半。	(防御)	0	0	0	25	30	0	0	20	0	0	5	5	1000	B	(1/2)dmg from all missle attacks (not cumulative)
+缓慢恢复魔法值。	(恢复)	0	0	0	10	0	0	10	10	0	0	10	10	1000	B	"Regenerate 1hp/x while walking, etc"
+缓慢恢复生命值。	(恢复)	0	0	0	10	0	10	10	10	10	0	10	10	1000	B	"Regenerate 1sp/x while walking, etc"
+攻击恶魔时杀伤力加倍。	(对恶魔有特效)	20	20	20	0	0	0	0	0	0	0	0	0	X 2	A	X 2 damage vs all demons
+攻击巨龙时杀伤力加倍。	(对巨龙有特效)	20	20	20	0	0	0	0	0	0	0	0	0	X 2	A	X 2 damage vs all dragons
+从攻击对象身上吸取生命值。挥舞兵器的速度加快。	(黑暗)	5	5	5	0	0	0	0	0	0	0	0	0	X 3	D	"(-20) pts on weapon speed, Vampiric"
+所有属性值、所有魔法防御值以及生命值和魔法值+1。	(诅咒)	10	10	10	10	10	10	10	10	10	10	10	10	750	B	"(+1) 7stats,hpts,spts,AC,4 resistances"
+耐力、生命值以及防御等级+10。	(土系)	10	10	10	10	10	10	10	10	10	10	10	10	2000	D	"End (+10), AC (+10), HP (+10)"
+生命值+10，同时缓慢恢复生命值。	(生命)	0	0	0	10	10	10	10	10	10	10	10	10	2000	D	"HP (+10), Regen hpts"
+速度和命中率+5。	(神偷)	10	10	10	5	5	5	10	20	20	20	10	10	500	A	"Speed (+5), Acc (+5)"
+增加10-20点火魔法杀伤力和25点力量。	(巨龙)	10	10	10	0	0	0	0	0	0	0	0	0	3000	D	"(10-20) Fire damage, Might (+25)"
+魔法值+10，同时缓慢恢复魔法值。	(日蚀)	0	0	0	0	0	0	10	10	5	10	10	10	2000	D	"SP (+10), Regen spts"
+耐力+15、防御等级+5。	(人偶)	5	5	5	20	20	10	10	10	10	10	10	10	1500	C	"End (+15), AC (+5)"
+智力和幸运+10。	(月亮)	5	5	5	10	10	20	10	10	10	10	10	10	1000	C	"Luck (+10), Int (+10)"
+火魔法防御值+30，缓慢恢复生命值。	(凤凰)	0	0	0	20	20	20	0	0	0	0	0	0	3000	D	"Fire Res (+30), Regen hpts"
+魔法值、速度和智力+10。	(天空)	5	5	5	10	10	20	10	10	10	10	10	10	2500	D	"Int (+10), Spd (+10), SP (+10)"
+耐力和命中率+10。	(繁星)	5	5	5	10	10	10	10	20	20	10	10	10	1000	C	"End (+10), Acc (+10)"
+力量和个性+10。	(太阳)	5	5	5	10	10	10	10	20	20	10	10	10	1000	C	"Might(+10), Per (+10)"
+耐力+15，缓慢恢复生命值。	(巨人)	5	5	5	20	20	10	10	10	10	10	10	10	1500	C	"End (+15), Regen hpts"
+幸运+15，缓慢恢复魔法值。	(独角兽)	5	5	5	10	10	20	10	10	10	10	10	10	1500	C	"Luck (+15), Regen spts"
+力量和耐力+5。	(勇士)	5	5	5	10	10	10	10	10	10	10	10	10	500	A	"Might (+5), End (+5)"
+智力和个性+5。	(法师)	5	5	5	5	5	5	10	10	10	10	10	10	500	A	"Intelect (+5), Per (+5)"
+增加金钱。	(古物)	10	10	10	10	10	10	0	0	10	0	10	10	X 10	B	Gold value increased
+挥舞兵器的速度加快。	(敏捷)	25	25	25	0	0	0	0	0	0	0	0	0	X 2	B	(-20) pts on weapon speed
+空手搏斗术和躲避术+3。	(僧侣)	0	0	0	0	0	0	10	5	15	10	5	5	1500	C	+3 to Dodging and Unarmed skill
+偷窃术和拆卸术+3。	(盗贼)	0	0	0	0	0	0	5	5	20	5	15	5	1500	B	+3 to Stealing and Disarm skill
+物品鉴定术和怪物鉴定术+3。	(鉴定)	0	0	0	0	0	0	5	5	0	5	10	15	1500	A	+3 to ID Monster and ID Item skill
+攻击精灵时杀伤力加倍。	(对精灵有特效)	20	20	20	0	0	0	0	0	0	0	0	0	x2	A	"x2 damage on all Elf Archers, Elf Spearmen, Elf peasants (male and female)."
+攻击亡灵怪物时杀伤力加倍。	(对亡灵有特效)	20	20	20	0	0	0	0	0	0	0	0	0	x2	B	"x2 damage on Liches, Vampires, Zombies, Skeletons, Ghosts, and Wights"
+攻击泰坦巨人时杀伤力加倍。	(对泰坦有特效)	20	20	20	0	0	0	0	0	0	0	0	0	x2	A	x2 damage on all Titans
+缓慢恢复生命值和魔法值。	(恢复)	0	0	0	10	0	5	10	10	5	0	10	10	2500	C	"Regenerate 1 hp/x and 1 sp/x while walking, etc."
+肢体魔法杀伤力+5，拆卸术+2。	(杀手)	20	20	20	0	0	0	0	0	0	0	0	0	1000	B	(5) pois damage and +2 Disarm skill
+增加6-8点冰冻杀伤力，防御等级+5。	(野蛮)	20	20	20	0	0	0	0	0	0	0	0	0	1500	C	(6-8) cold damage and +5 AC
+空气魔法防御值和防御等级+20。	(风暴)	0	0	0	20	20	20	0	0	0	0	0	0	1500	C	+20 Air Resistance and 1/2 damage from missile attacks
+水魔法防御值+10，炼金术+2。	(海洋)	0	0	0	20	20	20	0	0	0	0	0	0	1000	B	+10 Water Resistance and +2 Alchemy skill
+防止溺水。	(凌波微步)	0	0	0	5	5	5	5	5	0	15	5	5	1500	C	Character with item takes no damage from drowning
+防止从高处跌落所受的损伤。	(凌空飞降)	0	0	0	5	0	0	5	5	0	5	15	5	1000	B	Character with item takes no damage from falling
+
+		515	515	525	345	315	310	260	315	235	200	395	380			
+
+Treasure Level	If treasure Level = 3 add all A and B															
+A= 3 to 4	If treasure Level = 4 add all A and B and C
+B= 3 to 5	If treasure Level = 5 add al B and C and D
+C= 4 to 5	If treasure Level = 6 add all D
+D= 5 to 6	

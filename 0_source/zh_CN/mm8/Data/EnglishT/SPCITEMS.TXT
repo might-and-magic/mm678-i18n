@@ -1,0 +1,84 @@
+分类后的特殊加分标准																			
+																			
+增加属性	所增加名称	W1	W2	Miss	Arm	Shld	Helm	Belt	Cape	Gaunt	Boot	Ring	Amul	Value	Lvl	Description fo special Bonuses and values			
+																			
+所有的抵抗力都加十点。	防护之	0	0	0	10	10	10	0	10	0	0	10	10	1000	B	(+10) on all four resistances			
+七种属性都加十点。	诸神之	5	5	5	10	10	10	10	10	10	10	10	10	3000	D	(+10) on all 7 stats			
+碰触之后会爆炸！	屠杀之	0	0	10	0	0	0	0	0	0	0	0	0	5000	D	"projectile explodes (fireball radius,dmg=weapdmg)"			
+增加三到四点的寒冰伤害。	低温之	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(3-4) cold damage			
+增加六到八点的寒冰伤害。	寒霜之	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(6-8) cold damage			
+增加九到十二点的寒冰伤害。	寒冰之	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(9-12) cold damage			
+增加二到五点的电能伤害。	火花之	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(2-5) elec damage			
+增加四到十点的电能伤害。	闪电之	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(4-10) elec damage			
+增加六到十五点的电能伤害。	雷电之	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(6-15) elec damage			
+增加一到六点的火系伤害。	火焰之	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(1-6) fire damage			
+增加二到十二点的火系伤害。	炎火之	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(2-12) fire damage			
+增加三到十八点的火系伤害。	炼狱之	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(3-18) fire damage			
+增加五点的体系伤害。	剧毒之	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(5) pois damage
+增加八点的体系伤害。	猛毒之	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(8) pois damage
+增加十二点的体系伤害。	强酸之	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(12) pois damage
+从被击中的目标身上吸取生命点数。	吸血之	5	5	5	0	0	0	0	0	0	0	0	0	X 2	D	Heal 20% of damage done on attack
+增加恢复的速度。	恢复之	0	0	0	0	0	0	0	0	0	0	0	0	200	B	(-10) pts on recovery from being hit
+穿戴者对疾病免疫。	免疫之	0	0	0	10	10	10	10	10	0	0	10	10	1000	C	Immune to desease condition
+穿戴者对疯狂免疫。	理智之	0	0	0	5	5	5	5	5	0	0	5	5	1000	C	immune to insanity condition
+穿戴者对麻痹免疫。	自由之	0	0	0	10	10	10	10	10	0	0	10	10	2000	D	immune to paralize condition
+穿戴者对剧毒免疫	抗毒之	0	0	0	10	10	10	10	10	0	0	10	10	1000	C	immune to poison condition
+穿戴者对沉睡免疫。	警觉之	0	0	0	10	10	10	10	10	0	0	10	10	500	B	immune to sleep condition
+穿戴者对石化免疫。	蛇发女妖之	0	0	0	5	5	5	5	5	0	0	5	5	2000	D	immune to stone condition
+增加击倒的机会。	强力之	0	0	0	0	0	0	0	0	0	0	0	0	500	A	Increase knockback effect (X10)
+加五个等级。	威力之	0	0	0	0	0	0	0	0	0	0	0	0	2500	D	(+5) char level
+增加所有风系法术的效果。	风系法术属性之	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增加所有体系法术的效果。	体系法术属性之	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增加所有黑暗系魔法的效果。	黑暗系法术属性之	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增加所有地系魔法的效果。	地系法术属性之	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增加所有火系魔法的效果。	火系法术属性之	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增加所有光明系魔法的效果。	光明系法术属性之	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增加所有心系魔法的效果。	心系法术属性之	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增加所有魂系魔法的效果。	魂系法术属性之	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增加所有水系魔法的效果。	水系法术属性之	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+增加解除陷阱的机会。	盗窃之	0	0	0	0	0	0	0	0	0	0	0	0	2000	B	double chance to perform lockpick and steal skill
+将所有远程武器的攻击伤害减半。	护盾之	0	0	0	25	30	0	0	20	0	0	5	5	1000	B	(1/2)dmg from all missle attacks (not cumulative)
+随着时间慢慢的恢复生命点数。	再生之	0	0	0	10	0	0	10	10	0	0	10	10	1000	B	"Regenerate 1hp/x while walking, etc"
+随着时间慢慢的恢复法力点数。	法力之	0	0	0	10	0	10	10	10	10	0	10	10	1000	B	"Regenerate 1sp/x while walking, etc"
+对恶魔的伤害力加倍。	杀魔之	20	20	20	0	0	0	0	0	0	0	0	0	X 2	A	"X 2 damage vs Ogres, Ogre Magi, Trolls, Troll Peasants, and Cyclops"
+对龙的伤害力加倍。	屠龙之	20	20	20	0	0	0	0	0	0	0	0	0	X 2	A	X 2 damage vs all dragons
+吸收目标的生命点数并且增加武器的速度。	暗黑之	5	5	5	0	0	0	0	0	0	0	0	0	X 3	D	"(-20) pts on weapon speed, Vampiric"
+七项属性、生命点数、法力点数、防御等级、抵抗力全部都加一点。 	末日之	10	10	10	10	10	10	10	10	10	10	10	10	750	B	"(+1) 7stats,hpts,spts,AC,4 resistances"
+对耐力防御等级、盔甲、生命点数都增加十点。 	大地之	10	10	10	10	10	10	10	10	10	10	10	10	2000	D	"End (+10), AC (+10), HP (+10)"
+增加十点生命点数，并且会随着时间恢复生命点数。	生命之	0	0	0	10	10	10	10	10	10	10	10	10	2000	D	"HP (+10), Regen hpts"
+增加五点的速度和精确度。	飞贼之	10	10	10	5	5	5	10	20	20	20	10	10	500	A	"Speed (+5), Acc (+5)"
+增加十到二十点的火系伤害力和二十五点的力量。	飞龙之	10	10	10	0	0	0	0	0	0	0	0	0	3000	D	"(10-20) Fire damage, Might (+25)"
+增加十点的法力点数，并且会随着时间让法力点数重生。	日蚀之	0	0	0	0	0	0	10	10	5	10	10	10	2000	D	"SP (+10), Regen spts"
+增加十五点的耐力属性和五点的防御等级。	巨像之	5	5	5	20	20	10	10	10	10	10	10	10	1500	C	"End (+15), AC (+5)"
+增加十点的智力和幸运属性。 	月亮之	5	5	5	10	10	20	10	10	10	10	10	10	1000	C	"Luck (+10), Int (+10)"
+加三十点抗火系能力，随着时间慢慢的恢复生命点数。	凤凰之	0	0	0	20	20	20	0	0	0	0	0	0	3000	D	"Fire Res (+30), Regen hpts"
+加十点的法力点数、速度属性和智力属性。 	天空之	5	5	5	10	10	20	10	10	10	10	10	10	2500	D	"Int (+10), Spd (+10), SP (+10)"
+加十点的耐力属性和精确度属性。	星辰之	5	5	5	10	10	10	10	20	20	10	10	10	1000	C	"End (+10), Acc (+10)"
+加十点的力量属性和人格属性。	太阳之	5	5	5	10	10	10	10	20	20	10	10	10	1000	C	"Might(+10), Per (+10)"
+加十五点的耐力属性和随着时间慢慢的恢复生命点数。	食人魔之	5	5	5	20	20	10	10	10	10	10	10	10	1500	C	"End (+15), Regen hpts"
+加十五点的幸运属性和随着时间慢慢的恢复法力点数。	独角兽之	5	5	5	10	10	20	10	10	10	10	10	10	1500	C	"Luck (+15), Regen spts"
+加五点的力量和耐力属性。	战士之	5	5	5	10	10	10	10	10	10	10	10	10	500	A	"Might (+5), End (+5)"
+加五点的智力和人格属性。 	法师之	5	5	5	5	5	5	10	10	10	10	10	10	500	A	"Intelect (+5), Per (+5)"
+增加价值。	古物	10	10	10	10	10	10	0	0	10	0	10	10	X 10	B	Gold value increased
+增加武器的速度。	快速之	25	25	25	0	0	0	0	0	0	0	0	0	X 2	B	(-20) pts on weapon speed
+增加三点的徒手搏击和闪躲技能。	僧侣之	0	0	0	0	0	0	0	0	0	0	0	0	1500	C	+3 to Dodging and Unarmed skill
+增加三点的偷窃和解除陷阱技能。	小偷之	0	0	0	0	0	0	0	0	0	0	0	0	1500	B	+3 to Stealing and Disarm skill
+增加三点的辨识物品和辨识怪物的技能。	辨识之	0	0	0	0	0	0	5	5	0	5	10	15	1500	A	+3 to ID Monster and ID Item skill
+对精灵的伤害力加倍。	灭精灵之	20	20	20	0	0	0	0	0	0	0	0	0	x2	A	"x2 damage vs Fire, Earth, Water, and Air elementals"
+对不死生物的伤害力加倍。	不死生物克星之	20	20	20	0	0	0	0	0	0	0	0	0	x2	B	"x2 damage on Liches, Vampires, Zombies, Skeletons, Ghosts, and Wights"
+对巨人的伤害力加倍。	大卫之	0	0	0	0	0	0	0	0	0	0	0	0	x2	A	UNUSED x2 damage on all Titans
+随着时间慢慢的恢复生命点数和法力点数。	丰饶之	0	0	0	10	0	5	10	10	5	0	10	10	2500	C	"Regenerate 1 hp/x and 1 sp/x while walking, etc."
+增加五点的体系伤害力和两点的解除陷阱技能。	刺客之	20	20	20	0	0	0	0	0	0	0	0	0	1000	B	(5) pois damage and +2 Disarm skill
+增加六到八点的低温伤害力，增加五点的防御等级。	蛮人之	20	20	20	0	0	0	0	0	0	0	0	0	1500	C	(6-8) cold damage and +5 AC
+增加二十点的风系魔法抵抗力和护盾术的效能。	暴风之	0	0	0	20	20	20	0	0	0	0	0	0	1500	C	+20 Air Resistance and 1/2 damage from missile attacks
+增加十点的水系法术抵抗和两点的的炼金术技能。	海洋之	0	0	0	20	20	20	0	0	0	0	0	0	1000	B	+10 Water Resistance and +2 Alchemy skill
+避免溺水所会受到的伤害。	水上飞之	0	0	0	5	5	5	5	5	0	15	5	5	1500	C	Character with item takes no damage from drowning
+避免从高处落下所会受到的伤害。	羽落之	0	0	0	5	0	0	5	5	0	5	15	5	1000	B	Character with item takes no damage from falling
+
+		495	495	505	345	315	310	245	305	200	185	375	370			
+
+Treasure Level	If treasure Level = 3 add all A and B															
+A= 3 to 4	If treasure Level = 4 add all A and B and C
+B= 3 to 5	If treasure Level = 5 add al B and C and D
+C= 4 to 5	If treasure Level = 6 add all D
+D= 5 to 6	

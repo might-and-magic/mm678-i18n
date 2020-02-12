@@ -1,0 +1,31 @@
+	Placed Monster Names
+1	guard
+2	Cleric of Baa
+3	High Priest of Baa
+4	Morcarack
+5	Super Vampire (fix)
+6	Xenofex
+7	William Setag
+8	Wromthrax
+9	Mega-Dragon
+10	Robert the Wise
+11	Tolberti
+12	Grognard
+13	Hairbaugh
+14	0
+15	0
+16	0
+17	0
+18	0
+19	0
+20	0
+21	0
+22	0
+23	0
+24	0
+25	0
+26	0
+27	0
+28	0
+29	0
+30	0

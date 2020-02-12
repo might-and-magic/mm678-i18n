@@ -1,0 +1,539 @@
+Knight/Cleric Male	Knight/Cleric Female	Dark Elf Pesant Male	Dark Elf Pesant Female	Troll/Minotaur	Vampire/Necro Female	Vampire/Necro Male	Dragon	To make excel work right
+亚龙	阿理马达	艾力顿	阿理马达	阿顿	艾伯伦娜	艾力顿	艾力顿	*end
+亚伯	阿码崔雅	贝轮	阿码崔雅	爱许朋	爱比盖尔	贝轮	贝轮	*end
+亚伯尔	安折亚马	布拉捷克	安折亚马	爱林	阿卡西雅	布拉捷克	布拉捷克	*end
+亚当	安折亚马	布拉黄	安折亚马	巴夏	爱朵吉沙	布拉黄	布拉黄	*end
+雅力安	安娜珠	布拉尔	安娜珠	必煞	爱西林	布拉尔	布拉尔	*end
+雅卓安	艾瑞雅司提	布里德	艾瑞雅司提	布兰	爱力西雅	布里德	布里德	*end
+阿姆德	白玛莉亚	杰赛里昂	白玛莉亚	布鲁克	亚力山德拉	杰赛里昂	杰赛里昂	*end
+阿奇欧	不理达	科瑞温	不理达	布鲁斯	巴西丽雅	科瑞温	科瑞温	*end
+阿奇拉	布里丽	达尔	布里丽	布鲁诺	班乃迪克塔	达尔	达尔	*end
+爱尔	拜尔	达特	拜尔	凯维	布朗温	达特	达特	*end
+阿兰	瑟威	达罗	瑟威	凯瑞安	卡蓝德拉	达罗	达罗	*end
+阿蓝	妾乐威	迪德	妾乐威	杜蓝朵	卡丽斯塔	迪德	迪德	*end
+阿朗	柯威莎	盖文	柯威莎	达斯特	卡瑞沙	盖文	盖文	*end
+亚伯特	戴雅维	哥伯拉	戴雅维	艾尔瓦特	卡山德拉里	哥伯拉	哥伯拉	*end
+亚拉克	戴瑞娜	胡德	戴瑞娜	艾顿	赛勒斯提	胡德	胡德	*end
+阿力詹卓	戴布瑞	杰伦	戴布瑞	阿力顿	达丽雅	杰伦	杰伦	*end
+雅力山大	迪亚力雅	裘单	迪亚力雅	必伦	达马厉丝	裘单	裘单	*end
+阿佛瑞德	迪雅利	珠文	迪雅利	布拉捷克	达米提雅	珠文	珠文	*end
+阿顿	多梅德	珠菲	多梅德	布拉黄	达妮里斯	珠菲	珠菲	*end
+阿崔德	多妮	凯加	多妮	布拉尔	戴尔芬	凯加	凯加	*end
+雅文	迪色丽雅	凯赛	迪色丽雅	布兰特	迪米崔雅	凯赛	凯赛	*end
+安伯罗斯	费欧沙玛	寇司托	费欧沙玛	契斯理安	迪欧琳达	寇司托	寇司托	*end
+阿魔斯	福罗娜	罗瑞克	福罗娜	可瑞温	迪克崔	罗瑞克	罗瑞克	*end
+安德鲁	福拉丽	玛杰	福拉丽	达尔	迪梦娜	玛杰	玛杰	*end
+安迪	加纳	毛尔	加纳	达特	戴兰娜	毛尔	毛尔	*end
+安汤尼	吉玛	摩文	吉玛	达罗	伊朋妮	摩文	摩文	*end
+安顿	吉咪	麦力克斯	吉咪	迪德	依戴尔米拉	麦力克斯	麦力克斯	*end
+阿比	哈雷瑟	那汉	哈雷瑟	盖文	伊及丽娜	那汉	那汉	*end
+阿达	哈娜	那文	哈娜	葛伯拉	伊来克煞	那文	那文	*end
+阿顿	哈拉	耐力克斯	哈拉	胡德	爱蜜林	耐力克斯	耐力克斯	*end
+阿瑞尔	艾瑞丽	尼秋伊塞	艾瑞丽	乔蓝	优多西雅	尼秋伊塞	尼秋伊塞	*end
+阿瑞斯提欧	艾瑞娃	帕哥	艾瑞娃	裘单	费丽西雅	帕哥	帕哥	*end
+阿瑞斯提迪恶斯	伊莎丽	拉胡	伊莎丽	裘凡	费雅米塔	拉胡	拉胡	*end
+雅蓝	伊纱菲	瑞力克斯	伊纱菲	裘菲	佛西细亚	瑞力克斯	瑞力克斯	*end
+阿罗	贾睿	史拖甘	贾睿	凯加	佛瑞亚	史拖甘	史拖甘	*end
+雅曼德	贾瓦妮	史拖肯	贾瓦妮	凯赛	杰尔索米雅	史拖肯	史拖肯	*end
+阿尼	杰莎	塔达	杰莎	寇斯拖	吉力安	塔达	塔达	*end
+阿诺	杰娜	塔裘斯	杰娜	罗瑞克	格丽尼斯	塔裘斯	塔裘斯	*end
+阿瑟	乔纱	塔那特	乔纱	马杰	关达	塔那特	塔那特	*end
+阿叶	卡德	泰络德	卡德	毛尔	汉纳	泰络德	泰络德	*end
+雅许	卡瑞亚德	斯拉克司	卡瑞亚德	莫文	海瑟	斯拉克司	斯拉克司	*end
+雅许顿	凯瑞提	崔理安	凯瑞提	麦力克斯	海拉迪雅	崔理安	崔理安	*end
+傲斯丁	凯瑞亚	崔马克	凯瑞亚	那罕	希伯尼雅	崔马克	崔马克	*end
+贝瑞特	奇丽	瓦恩	奇丽	那文	西德瑞斯	瓦恩	瓦恩	*end
+巴尼	奇拉	维络	奇拉	耐力克斯	埃多娜	维络	维络	*end
+巴特	克尔	瓦勒	克尔	尼秋赛亚	埃麦尔达	瓦勒	瓦勒	*end
+布雷加	凯尔	瓦路克	凯尔	帕歌	伊诺珊西雅	瓦路克	瓦路克	*end
+班	克瑞拉	瓦尼克	克瑞拉	拉呼	伊沙朵拉	瓦尼克	瓦尼克	*end
+班乃迪克	罗瑞丽	赛吉	罗瑞丽	瑞力克斯	爱维	赛吉	赛吉	*end
+班尼多	拉乌娜	*end	拉乌娜	史拖刚	杰可必娜	*end	*end	*end
+班哲明	赖瑞丹		赖瑞丹	史拖肯	杰可林			*end
+班耐特	罗易		罗易	塔达	杰德			*end
+班尼多	丽雅布拉		丽雅布拉	塔裘斯	茉莉			*end
+班诺伊	莱拉		莱拉	塔那特	珍妮李			*end
+伯那德	玛丽		玛丽	泰络德	杰斯提司			*end
+伯纳	玛丽林		玛丽林	斯拉克斯	凯特林			*end
+伯特	玛丽妮		玛丽妮	崔安	卡珊德拉			*end
+伯传	马睿丽		马睿丽	崔马克	凯里			*end
+比利	米娜		米娜	华恩	凯西雅			*end
+必煞	米拉安		米拉安	维龙	金熙雅			*end
+布兰	妮可瑞		妮可瑞	华勒	赖尼			*end
+布雷克	妮可西		妮可西	华路克	赖克霞			*end
+布朗都	倪逵尔		倪逵尔	华尼克	拉塔雅			*end
+波	诺瑞		诺瑞	赛吉	黎雅娜			*end
+鲍伯	欧迪斯		欧迪斯	*end	莉莉斯			*end
+包比	欧迪娃		欧迪娃		罗瑞立			*end
+包多	菲拉比		菲拉比		赖珊德拉			*end
+波里斯	拉马		拉马		马姬			*end
+布拉德	拉瑞		拉瑞		马可拉			*end
+布拉登	拉莎		拉莎		马赛迪斯			*end
+布拉得福	瑞德瑞亚		瑞德瑞亚		耐德拉			*end
+布莱德里	瑞亚卡丽		瑞亚卡丽		耐瑞斯			*end
+布莱恩	瑞亚拉		瑞亚拉		尼尔辛			*end
+布兰敦	瑞丽娜		瑞丽娜		欧迪李雅			*end
+布兰顿	瑞佳		瑞佳		欧力西雅			*end
+布兰特	洛力米拉		洛力米拉		欧菲拉			*end
+布莱特	罗尔		罗尔		帕西菲雅			*end
+布朗温	罗丽兰		罗丽兰		潘朵拉			*end
+布鲁克	萨咪		萨咪		帕西尼雅			*end
+布鲁斯	萨妮娜		萨妮娜		佩恩			*end
+布鲁诺	萨瓦尔		萨瓦尔		波飞克塔			*end
+布莱斯	萨瓦萨拉		萨瓦萨拉		克力娜			*end
+巴得	闪奈		闪奈		雷秋			*end
+巴福德	席亚力		席亚力		瑞根			*end
+伯顿	席咪		席咪		雷文			*end
+巴奇	席甲		席甲		卢克			*end
+拜伦	苏竹		苏竹		罗斯			*end
+卡欧	苏曼奴		苏曼奴		鲁西娜			*end
+卡尔	席菲		席菲		赛布尔娜			*end
+卡拉伯	赛克		赛克		萨曼莎			*end
+卡罗	泰佛拉		泰佛拉		萨菲尔			*end
+卡尔文	塔丽		塔丽		史卡力			*end
+卡麦龙	泰德		泰德		赛尔比			*end
+卡尔	乌艿		乌艿		索菲雅			*end
+卡罗	维雅丝		维雅丝		塔必莎			*end
+卡罗斯	薇安		薇安		塔马拉			*end
+卡特	薇安瑞		薇安瑞		塔尼莎			*end
+卡力	薇拉		薇拉		坦比斯特			*end
+卡赛	萨佛拉		萨佛拉		提维安			*end
+赛斯尔	萨西		萨西		妥帕斯			*end
+赛瑞克	怡娃德西		怡娃德西		乌尔米雅			*end
+凯萨	怡娃络		怡娃络		欧提玛			*end
+查德	怡佛迷		怡佛迷		欧尔苏拉			*end
+查尔斯	怡佛瑞		怡佛瑞		瓦伦提亚			*end
+查理	怡佛瑞亚		怡佛瑞亚		维若尼卡			*end
+契斯特	索丽		索丽		薇薇安			*end
+柴特	*end		*end		汪达			*end
+奇普					维斯里雅			*end
+克理斯					薇诺娜			*end
+克理斯多福					威珊德拉			*end
+恰克					赛里雅			*end
+西恩					雅西卡			*end
+克来伦斯					赛菲尔			*end
+克拉克					*end			*end
+克雷								*end
+克理佛								*end
+克来德								*end
+克迪								*end
+克林								*end
+康那								*end
+康拉德								*end
+康斯坦丁								*end
+克伯特								*end
+科德								*end
+科雷								*end
+科雷力欧斯								*end
+课力								*end
+克雷格								*end
+赛络斯								*end
+达尔								*end
+戴尔								*end
+达拉斯								*end
+达米安								*end
+丹								*end
+丹尼尔								*end
+丹尼 								*end
+丹提								*end
+达朗								*end
+大维								*end
+达维								*end
+大卫								*end
+戴恩								*end
+戴尔								*end
+丹尼斯								*end
+丹尼								*end
+德瑞克								*end
+德斯蒙								*end
+戴冯								*end
+迪雅特								*end
+医生								*end
+夺力奇								*end
+多夫								*end
+多明尼克								*end
+唐								*end
+唐诺								*end
+道格拉斯								*end
+德鲁								*end
+杜克								*end
+邓肯								*end
+达斯丁								*end
+德王								*end
+迪外特								*end
+戴兰								*end
+扼尔								*end
+爱德								*end
+爱迪								*end
+爱德加								*end
+爱迪生								*end
+爱德蒙								*end
+伊立亚								*end
+爱力欧特								*end
+爱尔顿								*end
+爱米尔								*end
+伊曼纽								*end
+伊曼特								*end
+伊诺克								*end
+爱瑞克								*end
+恩尼斯特								*end
+尔尼								*end
+爱若								*end
+尔文								*end
+伊山								*end
+尤金								*end
+伊凡								*end
+费比恩								*end
+费瑞尔								*end
+费力克斯								*end
+费迪南								*end
+费拉扯								*end
+佛络伊德								*end
+佛瑞斯特								*end
+法兰西斯科								*end
+法兰克								*end
+法兰克林								*end
+法兰兹								*end
+佛瑞德								*end
+费德瑞克								*end
+盖伯								*end
+加百列								*end
+加塔诺								*end
+加瑞特								*end
+盖瑞								*end
+盖德								*end
+杰佛瑞								*end
+乔治								*end
+杰拉德								*end
+杰瑞								*end
+吉尔伯特								*end
+吉尔魔								*end
+吉诺								*end
+格兰								*end
+刚萨罗								*end
+葛敦								*end
+葛拉汉								*end
+格兰特								*end
+葛瑞格								*end
+葛瑞格力								*end
+格雷								*end
+吉雷诺								*end
+盖斯								*end
+盖								*end
+哈尔								*end
+韩普敦								*end
+韩 								*end
+汉克								*end
+汉斯								*end
+哈地								*end
+哈蓝								*end
+哈雷								*end
+哈罗								*end
+哈理森								*end
+哈力								*end
+哈维								*end
+海登								*end
+海斯								*end
+哈赛特								*end
+海克特								*end
+哈姆特								*end
+亨利								*end
+贺伯								*end
+贺伯特								*end
+贺曼								*end
+贺兹								*end
+贺克								*end
+贺顿								*end
+贺姆								*end
+和拉斯								*end
+霍华								*end
+修								*end
+雨果								*end
+韩特								*end
+伊安								*end
+伊格那西欧								*end
+伊果								*end
+伊克								*end
+伊拉								*end
+尔文								*end
+尔闻								*end
+爱萨克								*end
+爱索								*end
+伊司马								*end
+伊凡								*end
+伊瓦								*end
+捷克								*end
+杰科布								*end
+杰克								*end
+詹姆司								*end
+詹米								*end
+杰络德								*end
+杰森								*end
+杰斯伯								*end
+贾维尔								*end
+杰								*end
+尚保罗								*end
+尚皮尔								*end
+杰德								*end
+杰络米亚								*end
+杰络米 								*end
+杰络母								*end
+杰斯 								*end
+吉姆								*end
+乔								*end
+乔								*end
+乔尔								*end
+约瑟夫								*end
+约翰								*end
+强								*end
+强								*end
+乔纳								*end
+强那森								*end
+乔丹								*end
+约书亚								*end
+贾德								*end
+朱尔斯								*end
+贾斯丁								*end
+凯								*end
+凯伦								*end
+卡尔								*end
+奇甘								*end
+凯斯								*end
+凯尔								*end
+凯力								*end
+肯								*end
+肯尼斯								*end
+凯恩								*end
+凯文								*end
+喀汉								*end
+科克								*end
+蓝斯								*end
+赖力								*end
+拉斯								*end
+拉萨								*end
+李								*end
+赖夫								*end
+李蓝								*end
+李奥								*end
+里昂								*end
+李奥那德								*end
+李奥络								*end
+李斯特								*end
+路易斯								*end
+李恩								*end
+林赛								*end
+李奥纳								*end
+络伊德								*end
+络根								*end
+龙恩								*end
+龙尼								*end
+卢								*end
+路易 								*end
+路易斯								*end
+罗威尔								*end
+络奇								*end
+陆威格								*end
+路奇								*end
+路克								*end
+路瑟								*end
+赖曼								*end
+林顿								*end
+麦克								*end
+马可罗								*end
+马康母								*end
+曼佛瑞德								*end
+曼尼								*end
+马克								*end
+马赛罗								*end
+马可 								*end
+马克斯								*end
+马力欧								*end
+马里昂								*end
+马克								*end
+马龙								*end
+马修								*end
+马丁								*end
+马文								*end
+马修								*end
+马特								*end
+麦克斯								*end
+麦克威尔								*end
+美尔								*end
+马文								*end
+米克								*end
+麦克								*end
+米尔斯								*end
+米奇								*end
+幕哈幕德								*end
+蒙特								*end
+摩瑞尔								*end
+摩立斯								*end
+莫顿								*end
+莫瑞								*end
+麦尔斯								*end
+耐特								*end
+那坦								*end
+那坦尼尔								*end
+尼尔								*end
+耐德								*end
+耐尔森								*end
+钮特								*end
+尼可拉斯								*end
+尼克								*end
+尼可拉斯								*end
+诺亚								*end
+诺姆								*end
+诺曼								*end
+诺里斯								*end
+欧拉夫								*end
+傲里佛								*end
+傲提斯								*end
+欧文								*end
+帕克								*end
+派特								*end
+派崔克								*end
+保罗								*end
+派佛								*end
+波西佛								*end
+波西 								*end
+派瑞								*end
+皮特								*end
+彼得								*end
+派德罗斯								*end
+菲尔								*end
+菲力普								*end
+皮尔斯								*end
+皮尔 								*end
+普立斯顿								*end
+逵安								*end
+昆丁								*end
+昆恩								*end
+拉杜								*end
+拉菲尔								*end
+拉夫								*end
+拉梅								*end
+兰塞								*end
+蓝道								*end
+蓝道夫								*end
+蓝迪								*end
+拉尔								*end
+雷蒙								*end
+瑞格								*end
+瑞金那								*end
+瑞内								*end
+伦索								*end
+瑞克司								*end
+雷那多								*end
+李查								*end
+瑞奇								*end
+罗伯								*end
+罗比								*end
+罗伯特								*end
+罗宾								*end
+罗奇								*end
+罗德尼								*end
+罗兰								*end
+龙恩								*end
+龙那德								*end
+罗力								*end
+罗斯								*end
+罗伊								*end
+洛迪								*end
+卢伯特								*end
+卢塞尔								*end
+络斯提								*end
+雷恩								*end
+沙德								*end
+沙尔								*end
+萨尔瓦多								*end
+山姆								*end
+山谬								*end
+山迪普								*end
+山多斯								*end
+稍尔								*end
+史卡立斯								*end
+史考特								*end
+西恩								*end
+赛巴西恩								*end
+瑟吉欧								*end
+赛斯								*end
+赛莫尔								*end
+谢尔顿								*end
+谢里								*end
+谢顿								*end
+谢曼								*end
+系蒙								*end
+席德尼								*end
+西门								*end
+史雷德								*end
+桑尼								*end
+史斑瑟								*end
+史塔西								*end
+史丹								*end
+史丹力								*end
+史蒂芬								*end
+史提夫								*end
+史蒂文								*end
+史都华								*end
+苏尔曼								*end
+史文								*end
+希尔为斯特								*end
+泰德								*end
+塔卡								*end
+泰伦斯								*end
+泰丢斯								*end
+泰恩								*end
+希尔多								*end
+汤马斯								*end
+提姆								*end
+提摩西								*end
+托比亚斯								*end
+陶德								*end
+汤姆								*end
+汤尼								*end
+特兰								*end
+崔维斯								*end
+传特								*end
+传顿								*end
+崔佛								*end
+崔普								*end
+泰勒								*end
+泰森								*end
+瓦丁								*end
+瓦尔								*end
+凡斯								*end
+瓦恩								*end
+维蒙								*end
+维克多								*end
+维克多								*end
+文森索								*end
+瓦格								*end
+韦吉尔								*end
+维拉地摩								*end
+维德								*end
+瓦多								*end
+瓦拉斯								*end
+华特								*end
+伟恩								*end
+华伦								*end
+伟伯								*end
+文戴尔								*end
+卫斯理								*end
+威尔伯								*end
+威佛瑞								*end
+威廉								*end
+威尔 								*end
+威拉德								*end
+威廉								*end
+威尔森								*end
+温斯顿								*end
+武德罗								*end
+黄								*end
+彦系								*end
+由力								*end
+伊维司								*end
+塞查力雅								*end
+柴克								*end
+赛布轮								*end
+赛克								*end
+*end								*end

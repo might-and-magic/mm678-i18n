@@ -1,0 +1,239 @@
+_创作：
+Jon Van Caneghem
+
+
+
+
+
+_执行制作人：
+Mark Caldwell
+
+
+
+
+
+_制作人：
+Peter Ryu
+
+
+
+
+
+_游戏总监：
+Keith Francart
+
+
+
+
+
+_游戏设计：
+Jon Van Caneghem
+Paul Rattner
+Bryan Farina
+James Dickinson
+
+
+
+
+
+_首席程序员：
+Robert Young
+
+_程序员：
+Ian Bullard
+Alex Sherman
+L. Dean Gibson II
+John "Mac" Machin
+
+
+
+
+
+_关卡设计：
+David Vela
+Joel Kelly
+Ken Spencer
+Riki Corredera
+Tim Lang
+
+
+
+
+
+_首席艺术家：
+John Slowsky
+
+_艺术家 @ New World Computing：
+Adam McCarthy
+April Lee
+Bill Nesemeier
+Bonita Long-Hemsath
+Brian DeMetz
+Brian Kemper
+Carl Pinder
+Charles Zilm
+Chris Rock
+George Almond
+Jeff Bigman
+John Gibson
+Julia Ulano
+Ken Thomson
+Kurt McKeever
+Lou Henderson
+Rebecca Christel
+Scott White
+Steve Wasaff
+Steve Jasper
+Tracy Iwata
+
+_艺术家 @ Hypnotix Inc.：
+Mike Taramykin
+Jason Shenkman
+John Philip Sousa
+Michael Caydado
+William John Dwyer
+Jason Vaughn
+R. Scott Quick
+Marc Tattersall
+Robert Santiago
+Jason J. Timmons
+John Amos
+Matthew Cornelius
+Chris Okun
+Anthony Pereira
+Kyle Vannoy
+Vivek Saigal
+Peter Sfat
+John Trumbull
+
+_艺术家 @ 3DO：
+Andrew Gilmour
+Carlos Hernandez
+Chris Donovan
+Derek Hauffe
+Kelly Turner.
+Kudo Tsunoda
+Mike Janov
+Mike Marsicano
+Mike O'Rourke
+Ryan Paul
+Steve Tang
+
+
+
+
+
+_音乐制作：
+Rob King
+
+_谱曲：
+Paul Romero
+
+_声音设计：
+Rob King & Steve Baca
+
+_其他声音编辑：
+Chuck Russom
+
+_配音指导：
+Rob King
+
+_配音：
+Mike Sorich
+Catherine Battistone
+Dan Warren
+Barry Stigler
+Richard Epcar
+Brian Cooper
+Rob King
+Mari Devon
+Barbara Goodson
+Rebecca Fourstadt
+Laird McCintosh
+Sara Wallace
+Lex Lang
+Mike McConnohie
+Melodee Spevack
+Brianne Sidall
+Sy Prescott
+Malora Harte
+Steve Kramer
+Joe Romersa
+Mark Arnoutt
+Holly Willard
+Danny FehsenFeld
+Doug Stone
+Stephanie Shane
+Janna Knudson
+
+_工作室服务：
+Green Street Studios, Pasadena Ca
+
+
+
+
+
+
+_品质监控：
+Chris Miller
+David Botan
+David Casso
+David Engberg
+Derek Chester
+Devin Chapman
+Eric Williamson
+Jennifer Bullard
+John Castillo
+Karl Drown
+Karl Fischer
+Marcus Pregent
+Michael Calica
+Michael Wolf
+Richard Campbell
+Randy Ruckel
+Ryan Den
+Tom Zeliff
+Tony Evans
+
+
+
+
+
+_特别感谢：
+Debbie Van Caneghem
+3Dfx
+3Dlabs
+AMD
+ATI Technologies
+Aureal
+Creative Labs
+Cyrix
+Mars Publishing
+Matrox
+nVidia
+Rad Game Tools
+Scott McDaniel
+Chris Bates
+King Louie
+All the significant others for putting up with us gamers...
+
+
+
+
+
+_网站管理：
+Joshua "Guthwolf" Milligan
+
+_网站美工：
+Aaron Castro
+
+_网站程序：
+Robert Belknap
+Peter Hillier
+
+
+
+
+
+_欢迎访问网站：
+www.3do.com

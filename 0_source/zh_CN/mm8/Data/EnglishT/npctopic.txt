@@ -1,0 +1,752 @@
+#	Topic	Requires	Notes	Text #	Owner(s)	Owner #
+1	大灾变	0		1	S'ton	
+2	车队领袖	0		2	S'ton	
+3	雷格那的海盗	0		3	S'ton	
+4	大灾变	0		4	Dadeross	
+5	海盗	0		5	Dadeross	
+6	车队	0		6	Dadeross	
+7	大灾变	0		7	Brekish Onefang	
+8	岩石传送门	0		8	Brekish Onefang	
+9	费德瑞克·塔力米尔	0		9	Brekish Onefang	
+10	岩石传送门	0		10	Fredrick Talimere	
+11	大灾变	0		11	Fredrick Talimere	
+12	能源之石	0		12	Fredrick Talimere	
+13	废弃的神庙	0		13	Fredrick Talimere	
+14	任务	0		14	Rohtnax	James
+15	岩石传送门	0		15	Rohtnax	James
+16	费德瑞克·塔力米尔	0		16	Rohtnax	James
+17	火之山	0		17	Pascella Tisk	James
+18	预言	0		18	Pascella Tisk	James
+19	任务	0		19	Pascella Tisk	James
+20	任务	0		20	Dadeross	
+21	任务	0		21	Brekish Onefang	
+22	如何晋升为暗精尊者	0		22	Dark Elf Elder	
+23	考力·黑王座	0		24	Dark Elf Elder	
+24	多谢！	0		26	Cauri Blackthorne	James
+25	尊者	0		25	Cauri Blackthorne	James
+26	岩石圈	0		28	Cauri Blackthorne	James
+27	考力·黑王座	0		31	Cleric of the Sun	James
+28	信	0			Elgar Fellmoon	
+29	任务	0			Elgar Fellmoon	
+30	黑王座的居所	0		39	Dark Elf Elder	James
+31	考力在哪里？	0		25	Dark Elf Elder	James
+32	勒索	0		40	Arion Hunter	
+33	走私者的船	0		41	Arion Hunter	
+34	古代的食人魔家乡	0		42	TROLL PROMO	James
+35	任务	0		43	TROLL PROMO	James
+36	找到了古代食人魔的家园！	0		45	TROLL PROMO	James
+37	岩石的诅咒	0		46	Volog Sandwind	
+38	多谢你的帮忙！	0		47	Cauri Blackthorne	
+39	多谢你的帮忙！	0		48	TROLL PROMO	
+40	古代的家园	0		49	TROLL PROMO	
+41	送上报告	0			Bastian Loudrin	
+42	任务	0			Bastian Loudrin	
+43	任务	0		54	Bastian Loudrin	
+44	干的好	0		55	Bastian Loudrin	
+45	火焰之湖	0			Overdune Snapfinger	
+46	来艾尔瓦	0			Overdune Snapfinger	
+47	兄弟	0			OVERDUNE'S FATHER	
+48	联盟	0			Deftclaw Redreaver
+49	任务	0			Deftclaw Redreaver
+50	布拉森·暴风枪的治疗方法	0		68	Dervish Chevron
+51	骷髅龙	0		61	Leane Stormlance
+52	如何晋升到英豪	0		62	Leane Stormlance
+53	黑木之矛	0		63	Blazen Stormlance
+54	药方	0		64	Blazen Stormlance
+55	疯狂的死灵法师	0		65	Blazen Stormlance
+56	暴风枪	0		66	Charles Quixote
+57	黑木之矛	0		67	Charles Quixote
+58	如何晋升到英豪	0		"70,71"	Charles Quixote
+59	我的父亲	0		69	Leane Stormlance
+60	如何晋升到巨龙	0		"75,76"	Deftclaw Redreaver
+61	猎龙人	0		"77,78"	Deftclaw Redreaver
+62	杀龙人之剑	0		"79,80"	Deftclaw Redreaver
+63	联盟	0			Charles Quixote
+64	任务	0			Charles Quixote
+65	联盟	0			Masul NPC 13
+66	洪水	0			Thanys
+67	任务	0			Thanys
+68	巴尔萨煞之斧			91	Tessalar
+69	如何晋升为牛人王			92	Tessalar
+70	黑暗矮人			93	Tessalar
+71	任务			"94,95"	Tessalar
+72	残破镇的巴尔萨煞			96	Dadeross
+73	巴尔萨煞之斧			97	Dadeross
+74	多谢你的帮助！			99	Tessalar
+75	快点！			101	Dadeross
+76	太阳之预言			103	Verish
+77	线索			104	Verish
+78	如何晋升到阳之主教			105	Verish
+79	羽蛇之巢穴			106	Verish
+80	太阳之预言			107	Cleric of the Sun
+81	任务			108	Verish
+82	可布			109	Lathean
+83	任务			110	Lathean
+84	可布			152	Korbu clue
+85	可布			153	Korbu clue
+86	巫妖			113	Vetrinus Taleshire
+87	巫妖之瓶			 	Necro Clue
+88	卡尔的失落之书			 	Necro Clue
+89	晋升为巫妖			116	Vetrinus Taleshire
+90	可布的再临			117	Lathean
+91	多谢你的帮助！			121	Verish
+92	多谢你的帮助！			122	Lathean
+93	多谢你的帮助！			151	Vetrinus Taleshire
+94	联盟				Sandro
+95	任务				Sandro
+96	戴森·李蓝				Sandro
+97	死灵法师				Dyson Leland
+98	太阳神殿				Dyson Leland
+99	你自己				Dyson Leland
+100	加入				Dyson Leland
+101	谭特				Sandro
+102	联盟				Oskar Tyre NPC 37
+103	任务				Oskar Tyre NPC 37
+104	联盟		Elgar during form alliance quest		Elgar Fellmoon NPC 53
+105	诡异的信道		Elgar's general subject during alliance quest	170	Elgar Fellmoon NPC 53
+106	铁拳		Elgar tells about contact of ironfists		Elgar Fellmoon NPC 53
+107	任务		sink the regnan fleet		Elgar Fellmoon NPC 53
+108	海盗		general pirate info about pirates		Elgar Fellmoon NPC 53
+109	萨索尔		talks about newly arrived xanthor		Elgar Fellmoon NPC 53
+110	任务		talk to xanthor		Elgar Fellmoon NPC 53
+111	铁拳的抵达		genera info about ironfists		Elgar Fellmoon NPC 53
+112	火元素界		Elgar's subject during find elemental hearts quest	180	Elgar Fellmoon NPC 53
+113	界间次元		Elgar's subject during find the source of conflux	181	Elgar Fellmoon NPC 53
+114	元素之王的监狱		Elgar's subject during free the elemental lords	182	Elgar Fellmoon NPC 53
+115	商人之屋		Elgar's subject after player wins game	183	Elgar Fellmoon NPC 53
+116	猎龙		Quixote while alliance being formed	184	Charles Quixote NPC 65
+117	黑井·古伯		Quixote during sink the fleet	185	Charles Quixote NPC 65
+118	萨索尔		Quixote during talk to xanthor	186	Charles Quixote NPC 65
+119	组织部队		Quixote during find the hearts	187	Charles Quixote NPC 65
+120	界间次元		Quixote during find the source of conflux	188	Charles Quixote NPC 65
+121	萨索尔		Quixote during free the elemental lords	189	Charles Quixote NPC 65
+122	猎龙		Quixote at home after win game	190	Charles Quixote NPC 65
+123	帮助		Deftclaw while alliance being formed	191	Deftclaw Redreaver NPC 66
+124	雷格那岛		Deftclaw during sink the fleet	192	Deftclaw Redreaver NPC 66
+125	吉科德的宝藏		Deftclaw during talk to xanthor	193	Deftclaw Redreaver NPC 66
+126	传送门		Deftclaw during find the hearts	194	Deftclaw Redreaver NPC 66
+127	水晶龙		Deftclaw during find the source of conflux	195	Deftclaw Redreaver NPC 66
+128	毁灭者		Deftclaw during free the elemental lords	196	Deftclaw Redreaver NPC 66
+129	大事		Deftclaw at home after win game	197	Deftclaw Redreaver NPC 66
+130	光明		Tyre while alliance being formed	198	Oskar Tyre NPC 67
+131	太阳之钉头锤		Tyre during sink the fleet	199	Oskar Tyre NPC 67
+132	铁拳		Tyre during talk to xanthor	550	Oskar Tyre NPC 67
+133	风元素界		Tyre during find the hearts	551	Oskar Tyre NPC 67
+134	危机之来源		Tyre during find the source of conflux	552	Oskar Tyre NPC 67
+135	恶魔		Tyre during free the elemental lords	553	Oskar Tyre NPC 67
+136	光之仆人		Tyre at home after win game	554	Oskar Tyre NPC 67
+137	图书馆		Masul while alliance being formed	555	Masul NPC 68
+138	海盗侵略		Masul during sink the fleet	556	Masul NPC 68
+139	凯萨琳·铁拳		Masul during talk to xanthor	557	Masul NPC 68
+140	水元素界		Masul during find the hearts	558	Masul NPC 68
+141	干粮		Masul during find the source of conflux	559	Masul NPC 68
+142	救赎		Masul during free the elemental lords	560	Masul NPC 68
+143	通往城市之钥匙		Masul at home after win game	561	Masul NPC 68
+144	太阳神殿		Sandro while alliance being formed	562	Sandro NPC 69
+145	海盗法师		Sandro during sink the fleet	563	Sandro NPC 69
+146	法师		Sandro during talk to xanthor	654	Sandro NPC 69
+147	次元之戒		Sandro during find the hearts	565	Sandro NPC 69
+148	恶梦		Sandro during find the source of conflux	566	Sandro NPC 69
+149	元素之战		Sandro during free the elemental lords	567	Sandro NPC 69
+150	安全		Sandro at home after win game	568	Sandro NPC 69
+151	萨索尔		XANTHOR's Lackey	569	XANTHOR'S LACKEY NPC 77
+152	水晶 				XANTHOR NPC 23
+153	任务				XANTHOR NPC 23
+154	传送门				XANTHOR NPC 23
+155	元素之王				XANTHOR NPC 23
+156	毁灭者				XANTHOR NPC 23
+157	离开				XANTHOR NPC 23
+158	龙葵炉				Thant
+159	你是谁？				Escaton
+160	大师				Escaton	
+161	大灾变				Escaton	
+162	克理刚				Escaton	
+163	拯救世界				Escaton	
+164	谜题一				Escaton	
+165	谜题二				Escaton	
+166	谜题三				Escaton	
+167	释放地之王				Shalwend	
+168	释放水之王				Acwalander	
+169	释放风之王				Gralkor	
+170	释放火之王				Pyrannaste	
+171	谜题				Escaton	
+172	劫掠者				Thanys	
+173	加入				Thanys	
+174	任务		hint/info about Jungle Feaver	619		James
+175	任务		Begin Cure Disease quest	620		James
+176	你阻止了传染病吗？		Cure Disease quest 2	621		James
+177	任务		Begin Poisoned Water Supply Quest	622		James
+178	你有解毒剂吗？		End Poisoned Water Supply Quest	623		James
+179	纯粹速度之药剂		Recipe and Indgredient quest	624		James
+180	配方		missing ingredients	747		James
+181	你有配方吗？		end of recipie quest	626		James
+182	任务		Begin Idol of the Snake quest	627		James
+183	你有偶像吗？		end Idol of the Snake quest	628		James
+184	任务		Kill all Dire Wolves in/out	629		James
+185	猛狼皮		Pays for Pelts	630		James
+186	终于！		Killed all the Wolves	631		James
+187	任务		Rescue Smugler Family from Ogre Fortress	632		James
+188	任务		Begin deliver false report to pirates quest	633		James
+189	报告送到了吗？		End false report quest	634		James
+190	神选药剂		Hint about anointed potion location	635		James
+191	半蛇人皮		Merchant who pays for Naga Hides	636		James
+192	五百金币！		Payment for Naga Hides	637		James
+193	任务		recover shield from Necromancer's guild for cleric (item#516)	638		James
+194	日蚀		end shield quest	639		James
+195	美食		Jelly Hint			James
+196	一千金币		1000 Gold!			James
+197	黄蜂蜂王胶		Royal Wasp Jelly			James
+198	任务		Begin Kill all Ogres quest outdoor/in Ogre Fortress	643		James
+199	食人魔耳朵的悬赏		Pays for Ogre Ears	644		James
+200	又可以安全的旅行了！		Kill Ogres quest completed	645		James
+201	纯粹幸运之药剂		Recipe and Indgredient quest	646		James
+202	配方		missing ingredients	747		James
+203	你有配方吗？		end of recipie quest	648		James
+204	黄蜂刺		Merchant who pays for Wasp Stingers	649		James
+205	五百金币！		Payment for Wasp Stingers	650		James
+206	生存！		Info for deliver Fire Resistance potions quest	651		James
+207	任务		Begin deliver Fires Resistance Scrolls quest	652		James
+208	没有足够的药剂吗？		Scroll's not delivered to all huts	653		James
+209	这个村庄应该可以挡的住了。		End deliver Fire Resistance Scrolls quest	654		James
+210	纯粹耐力之药剂		Recipe and Indgredient quest	655		James
+211	配方		missing ingredients	747		James
+212	你有配方吗？		end of recipie quest	657		James
+213	任务		Begin Dragon Hunters dragonbane quest	658		James
+214	有毒！		No dragonbane	659		James
+215	多谢你的帮助！		End Dragon Hunters dragonbane quest	660		James
+216	任务		Begin Dragons dragonbane quest	661		James
+217	有毒！		No dragonbane	662		James
+218	多谢你的帮助！		End Dragons dragonbane quest	663		James
+219	任务		Kill all Dragons in outdoor map	664		James
+220	终于！		All dragons in outdoor map killed	665		James
+221	任务		Kill all Dragon Hunters in outdoor map	666		James
+222	现在一切又都回复原状了！		All Dragon Hunters in outdoor map killed	667		James
+223	任务		Begin Drum of Victory quest	668		James
+224	胜利之鼓的历史		Drum of Victory History	669		James
+225	鼓在哪里？		Drum returned!	670		James
+226	任务		Recover the lost bone of doom from the Dire Wolf lair	671		James
+227	骨头的历史		Bone History	672		James
+228	太好了！		Returned Bone	673		James
+229	任务		Recover the cursed puzzle box from the Mad Necro lair	674		James
+230	解谜的历史		Puzzle History	675		James
+231	可以玩上好久了！		Returned the Puzzle Box	676		James
+232	纯粹智力之药剂		Recipe and Indgredient quest	677		James
+233	在公会和神庙之间的战争		hint	885		James
+234	你有配方吗？		end of recipie quest	679		James
+235	任务		Begin recover Vial of Grave Dirt quest!	680		James
+236	墓土之瓶		Dirt History	681		James
+237	你拿到装土的瓶子了吗？		Returned Vial of Grave Dirt	682		James
+238	纯粹人格之药剂		Recipe and Indgredient quest	683		James
+239	配方		missing ingredients	747		James
+240	多谢你的配方		end of recipie quest	685		James
+241	古老的双足翼龙		Info about Wyverns and their horns	686		James
+242	双足翼龙之角的赏金		I will buy Wyvern horns	687		James
+243	一嵌五百金币！		payment for Wyvern Horns	688		James
+244	纯粹准确度之钥记		Recipe and Indgredient quest	689		James
+245	配方		missing ingredients	747		James
+246	你有配方吗？		end of recipie quest	691		James
+247	恐怖海盗史坦力的宝藏		Rumor about legendary Pirate Treasure	692		James
+248	财宝		Rumor about legendary Pirate Treasure	693		James
+249	任务		Begin quest to find Pirate Treasure	694		James
+250	用两百金币购买托伯斯克果		Trading Triangle Simple Buy 1 (area 1)	695		James
+251	卖掉托伯斯克白兰地		Trading Triangle Simple Sell 2 (area 1)	696		James
+252	购买托伯斯克果汁		Trading Triangle Simple Buy 2 (area 2)	697		James
+253	卖掉托伯斯克果		Trading Triangle Simple Sell 3 (area 2)	698		James
+254	以五百金币购买托伯斯克白兰地		Trading Triangle Simple Buy 3 (area 3)	699		James
+255	卖掉托伯斯克果汁		Trading Triangle Simple Sell 1 (area 3)	700		James
+256	花一千金币购买贾丹姆大陆的心之木		Trading Triangle Expensive Buy 1 (area 7)	701		James
+257	卖掉风干翻车于		Trading Triangle Expensive Sell 2 (area 7)	702		James
+258	花一千五百金币购买海盗护身符		Trading Triangle Expensive Buy 2 (area 6)	703		James
+259	卖掉贾丹姆大陆的心之木		Trading Triangle Expensive Sell 3 (area 6)	704		James
+260	花两千金币购买风干翻车鱼		Trading Triangle Expensive Buy 3 (area 13)	705		James
+261	卖掉海盗护身符		Trading Triangle Expensive Sell 1 (area 13)	706		James
+262	以五千金币购买海之银尘		Trading Triangle Mysterious Buy 1 (area 6)	707		James
+263	卖掉地面双足翼龙的角		Trading Triangle Mysterious Sell 2 (area 6)	708		James
+264	以六千五百金币购买伪造凭证		Trading Triangle Mysterious Buy 2 (area 2)	709		James
+265	卖掉海之银尘		Trading Triangle Mysterious Sell 3 (area 2)	710		James
+266	以七嵌五百金币购买地面双足翼龙的角		Trading Triangle Mysterious Buy 3 (area 8)	711		James
+267	卖掉伪造凭证		Trading Triangle Mysterious Sell 1 (area 8)	712		James
+268	空桶子			713		James
+269	红桶子			714		James
+270	黄桶子			715		James
+271	蓝桶子			716		James
+272	橘色桶子			717		James
+273	绿桶子			718		James
+274	紫色桶子			719		James
+275	白色桶子			720		James
+276	空的大锅			721		James
+277	冒蒸汽的大锅			722		James
+278	结霜的大锅			723		James
+279	鲜艳的大锅			724		James
+280	肮脏的大锅			725		James
+281	垃圾堆			726		James
+282	垃圾堆			727		James
+283	垃圾堆			728		James
+284	垃圾堆			729		James
+285	营火			730		James
+286	营火			731		James
+287	装食物的碗			732		James
+288	空罐子			733		James
+289	罐子			734		James
+290	黄热病		Hut 1			James
+291	黄热病		Hut 2			James
+292	黄热病		Hut 3			James
+293	黄热病		Hut 4			James
+294	黄热病		Hut 5			James
+295	黄热病		Hut 6			James
+296	罗斯那克斯					James
+297	再次谢谢你！			531		James
+298	报告！			777		James
+299	贾丹姆大陆的命运					
+300	手杖专家	0		300	Expert Staff (2)	James
+301	手杖大师	0		301	Master Staff (4)	James
+302	手杖大宗师	0		302	Grand Master Staff (6)	James
+303	长剑专家	0		303	Expert Sword (2)	James
+304	长剑大师	0		304	Master Sword (13)	James
+305	长剑大宗师	0		305	Grand Master Sword (5)	James
+306	匕首专家	0		306	Expert Dagger (3)	James
+307	匕首大师	0		307	Master Dagger (2)	James
+308	匕首大宗师	0		308	Grand Master Dagger (13)	James
+309	斧头专家	0		309	Expert Axe (5)	James
+310	斧头大师	0		310	Master Axe (2)	James
+311	斧头大宗师	0		311	Grand Master Axe (7)	James
+312	长矛专家	0		312	Expert Spear (2)	James
+313	长矛大师	0		313	Master Spear (3)	James
+314	长矛大宗师	0		314	Grand Master Spear (1)	James
+315	弓箭专家	0		315	Expert Bow (1)	James
+316	弓箭大师	0		316	Master Bow (2)	James
+317	弓箭大宗师	0		317	Grand Master Bow (3)	James
+318	钉头锤专家	0		318	Expert Mace (2)	James
+319	钉头锤大师	0		319	Master Mace (5)	James
+320	钉头锤大宗师	0		320	Grand Master Mace (4)	James
+321	能源枪专家	0		321	Expert Blaster	James
+322	能源枪大师	0		322	Master Blaster	James
+323	能源枪大宗师	0		323	Grand Master Blaster	James
+324	盾牌专家	0		324	Expert Shield (3)	James
+325	盾牌大师	0		325	Master Shield (6)	James
+326	盾牌大宗师	0		326	Grand Master Shield (5)	James
+327	皮甲专家	0		327	Exper Leather (1)	James
+328	皮甲大师	0		328	Master Leather (7)	James
+329	皮甲大宗师	0		329	Grand Master Leather (4)	James
+330	锁子甲专家	0		330	Expert Chain (2)	James
+331	锁子甲大师	0		331	Master Chain (13)	James
+332	锁子甲大宗师	0		332	Grand Master Chain (3)	James
+333	铠甲专家	0		333	Expert Plate (1)	James
+334	铠甲大师	0		334	Master Plate (2)	James
+335	铠甲大宗师	0		335	Grand Master Plate (5)	James
+336	火系魔法专家	0		336	Expert Fire_Magic (2)	James
+337	火系魔法大师	0		337	Master Fire_Magic (7)	James
+338	火系魔法大宗师	0		338	Grand Master Fire_Magic (11)	James
+339	风系魔法专家	0		339	Expert Air_Magic (1)	James
+340	风系魔法大师	0		340	Master Air_Magic (1)	James
+341	风系魔法大宗师	0		341	Grand Master Air_Magic (9)	James
+342	水系魔法专家	0		342	Expert Water_Magic (2)	James
+343	水系魔法大师	0		343	Master Water_Magic (4)	James
+344	水系魔法大宗师	0		344	Grand Master Water_Magic (12)	James
+345	地系魔法专家	0		345	Expert Earth_Magic (1)	James
+346	地系魔法大师	0		346	Master Earth_Magic (7)	James
+347	地系魔法大宗师	0		347	Grand Master Earth_Magic (10)	James
+348	魂系魔法专家	0		348	Expert Spirit_Magic (2)	James
+349	魂系魔法大师	0		349	Master Spirit_Magic (5)	James
+350	魂系魔法大宗师	0		350	Grand Master Spirit_Magic (8)	James
+351	心系魔法专家	0		351	Expert Mind_Magic (3)	James
+352	心系魔法大师	0		352	Master Mind_Magic (7)	James
+353	心系魔法大宗师	0		353	Grand Master Mind_Magic (8)	James
+354	体系魔法专家	0		354	Expert Body_Magic (1)	James
+355	体系魔法大师	0		355	Master Body_Magic (5)	James
+356	体系魔法大宗师	0		356	Grand Master Body_Magic (8)	James
+357	光系魔法专家	0		357	Expert Light_Magic (2)	James
+358	光系魔法大师	0		358	Master Light_Magic (13)	James
+359	光系魔法大宗师	0		359	Grand Master Light_Magic (8)	James
+360	黑暗系魔法专家	0		360	Expert Dark_Magic (3)	James
+361	黑暗系魔法大师	0		361	Master Dark_Magic (13)	James
+362	黑暗系魔法大宗师	0		362	Grand Master Dark_Magic (6)	James
+363	黑暗精灵技能专家	0		363	Expert Dark Elf	James
+364	黑暗精灵技能大师	0		364	Master Dark Elf (2)	James
+365	黑暗精灵技能大宗师	0		365	Grand Master Dark Elf (3)	James
+366	吸血鬼技能专家	0		366	Expert Vampire	James
+367	吸血鬼技能大师	0		367	Master Vampire (6)	James
+368	吸血鬼技能大宗师	0		368	Grand Master Vampire (6)	James
+369	飞龙技能专家	0		369	Expert Dragon	James
+370	飞龙技能大师	0		370	Master Dragon (5)	James
+371	飞龙技能大宗师	0		371	Grand Master Dragon (5)	James
+372	辨识物品技能专家	0		372	Expert Identify_Item	James
+373	辨识物品技能大师	0		373	Master Identify_Item	James
+374	辨识物品技能大宗师	0		374	Grand Master Identify_Item	James
+375	商贾技能专家	0		375	Expert Merchant (1)	James
+376	商贾技能大师	0		376	Master Merchant (3)	James
+377	商贾技能大宗师	0		377	Grand Master Merchant (2)	James
+378	修护物品专家	0		378	Expert Repair_Item	James
+379	修复物品大师	0		379	Master Reapir_Item	James
+380	修护物品大宗师	0		380	Grand Master Repair_Item	James
+381	健身专家	0		381	Expert Body_building (1)	James
+382	健身大师	0		382	Master Body_Building (5)	James
+383	健身大宗师	0		383	Grand Master Body_Building (4)	James
+384	祈祷技能专家	0		384	Expert Meditation (2)	James
+385	祈祷技能大师	0		385	Master Meditation (7)	James
+386	祈祷技能大宗师	0		386	Grand Master Meditation (6)	James
+387	感应力技能专家	0		387	Expert Perception (3)	James
+388	感应力技能大师	0		388	Master Perception (6)	James
+389	感应力技能大宗师	0		389	Grand Master Perception (7)	James
+390	再生技能专家	0		390	Expert Regeneration	James
+391	再生技能大师	0		391	Master Regeneration	James
+392	再生技能大宗师	0		392	Grand Master Regeneration	James
+393	解除陷阱技能专家	0		393	Expert Disarm_Trap (1)	James
+394	解除陷阱技能大师	0		394	Master Disarm_Trap (13)	James
+395	解除陷阱技能大宗师	0		395	Grand Master Disarm_Trap (3)	James
+396	闪躲技能专家	0		396	Expert Dodging	James
+397	闪躲技能大师	0		397	Master Dodging	James
+398	闪躲技能大宗师	0		398	Grand Master Dodging	James
+399	徒手搏击技能专家	0		399	Expert Unarmed	James
+400	徒手搏击技能大师	0		400	Master Unamred	James
+401	徒手搏击技能大宗师	0		401	Grand Master Unarmed	James
+402	辨识怪物技能专家	0		402	Expert Identify_Monster	James
+403	辨识怪物技能大师	0		403	Master Identify_Monster	James
+404	辨识怪物技能大宗师	0		404	Grand Master Identify_Monster	James
+405	武器大师技能专家	0		405	Expert Armsmaster	James
+406	武器大师技能大师	0		406	Master Armsmaster	James
+407	武器大师技能大宗师	0		407	Grand Master Armsmaster	James
+408	偷窃技能专家	0		408	Expert Stealing	James
+409	偷窃技能大师	0		409	Master Stealing	James
+410	偷窃技能大宗师	0		410	Grand Master Stealing	James
+411	炼金术技能专家	0		411	Expert Alchemy	James
+412	炼金术技能大师	0		412	Master Alchemy	James
+413	炼金术技能大宗师	0		413	Grand Master Alchemy	James
+414	学习技能专家	0		414	Expert Learning (7)	James
+415	学习技能大师	0		415	Master Learning (6)	James
+416	学习技能大宗师	0		416	Grand Master Learning (5)	James	
+417	普多·泰恩	0		417	Expert Staff (2)	teacher hint	James
+418	赛丽雅·史东	0		418	Master Staff (4)	teacher hint	James
+419	崔斯坦·止水	0		419	Grand Master Staff (6)	teacher hint	James
+420	爱利·卢欧林	0		420	Expert Sword (2)	teacher hint	James
+421	杰新·卡卓	0		421	Master Sword (13)	teacher hint	James
+422	麦友·追龙者	0		422	Grand Master Sword (5)	teacher hint	James
+423	罗瑞·维斯波	0		423	Expert Dagger (3)	teacher hint	James
+424	乔波	0		424	Master Dagger (2)	teacher hint	James
+425	卡拉·诺瑟斯	0		425	Grand Master Dagger (13)	teacher hint	James
+426	哈洛·佛斯太克	0		426	Expert Axe (5)	teacher hint	James
+427	杰斯普·韩特	0		427	Master Axe (2)	teacher hint	James
+428	加瑞克·森杰克	0		428	Grand Master Axe (7)	teacher hint	James
+429	麦崔克·陶恩赛佛	0		429	Expert Spear (2)	teacher hint	James
+430	雅山德拉·惠瑟史密斯	0		430	Master Spear (3)	teacher hint	James
+431	雅罗	0		431	Grand Master Spear (1)	teacher hint	James
+432	席瓦·锐眼	0		432	Expert Bow (1)	teacher hint	James
+433	欧伯力克·诺斯沃	0		433	Master Bow (2)	teacher hint	James
+434	索力斯	0		434	Grand Master Bow (3)	teacher hint	James
+435	丽莎·所尔波罗	0		435	Expert Mace (2)	teacher hint	James
+436	罗伯特·晨星	0		436	Master Mace (5)	teacher hint	James
+437	贺斯沃弟兄	0		437	Grand Master Mace (4)	teacher hint	James
+438	奎蓝·摩尔	0		438	Expert Shield (3)	teacher hint	James
+439	谢尔顿·夜木	0		439	Master Shield (6)	teacher hint	James
+440	派林·瑞佛史东	0		440	Grand Master Shield (5)	teacher hint	James
+441	泰丁	0		441	Exper Leather (1)	teacher hint	James
+442	沙漠斯·荷力菲	0		442	Master Leather (7)	teacher hint	James
+443	麦瓦力·爱姆斯麦尔	0		443	Grand Master Leather (4)	teacher hint	James
+444	托伯伦·佛吉爱特	0		444	Expert Chain (2)	teacher hint	James
+445	海立安·艾佛斯麦	0		445	Master Chain (13)	teacher hint	James
+446	赛林·伯更斗	0		446	Grand Master Chain (3)	teacher hint	James
+447	朋恩	0		447	Expert Plate (1)	teacher hint	James
+448	波散恩	0		448	Master Plate (2)	teacher hint	James
+449	赛欣·铁拳	0		449	Grand Master Plate (5)	teacher hint	James
+450	泰伦·谈普	0		450	Expert Fire_Magic (2)	teacher hint	James
+451	所罗门·史提尔	0		451	Master Fire_Magic (7)	teacher hint	James
+452	伯恩	0		452	Grand Master Fire_Magic (11)	teacher hint	James
+453	瑞西	0		453	Expert Air_Magic (1)	teacher hint	James
+454	荷力司·暴风眼	0		454	Master Air_Magic (1)	teacher hint	James
+455	克劳德·耐德龙	0		455	Grand Master Air_Magic (9)	teacher hint	James
+456	乌尔布拉契·派德东	0		456	Expert Water_Magic (2)	teacher hint	James
+457	葛丽果力·迷雾	0		457	Master Water_Magic (4)	teacher hint	James
+458	黑流	0		458	Grand Master Water_Magic (12)	teacher hint	James
+459	奥斯崔恩·葛瑞维克	0		459	Expert Earth_Magic (1)	teacher hint	James
+460	陶乐熙·塞百物	0		460	Master Earth_Magic (8)	teacher hint	James
+461	葛瑞文	0		461	Grand Master Earth_Magic (10)	teacher hint	James
+462	史拉顿·何索恩	0		462	Expert Spirit_Magic (2)	teacher hint	James
+463	贝索德·科恩	0		463	Master Spirit_Magic (5)	teacher hint	James
+464	来西特·鸦眼	0		464	Grand Master Spirit_Magic (8)	teacher hint	James
+465	商恩·克鲁兰	0		465	Expert Mind_Magic (3)	teacher hint	James
+466	芭芭拉·拉兹	0		466	Master Mind_Magic (7)	teacher hint	James
+467	吉拉德·梦妖	0		467	Grand Master Mind_Magic (8)	teacher hint	James
+468	赛瓦·波斯德	0		468	Expert Body_Magic (1)	teacher hint	James
+469	土加·爱林	0		469	Master Body_Magic (5)	teacher hint	James
+470	克理塔斯·雪树	0		470	Grand Master Body_Magic (8)	teacher hint	James
+471	阿奇巴德·曙光	0		471	Expert Light_Magic (2)	teacher hint	James
+472	卢理那斯·破晓者	0		472	Master Light_Magic (13)	teacher hint	James
+473	艾德林·明眼	0		473	Grand Master Light_Magic (8)	teacher hint	James
+474	帕特温·达肯摩尔	0		474	Expert Dark_Magic (3)	teacher hint	James
+475	卡拉·安伯普尔	0		475	Master Dark_Magic (13)	teacher hint	James
+476	西西克斯·影跑者	0		476	Grand Master Dark_Magic (6)	teacher hint	James
+477	其拉·史巴克曼	0		477	Expert Identify_Item	teacher hint	James
+478	爱西恩	0		478	Master Identify_Item	teacher hint	James
+479	艾尔斯伯·络真	0		479	Grand Master Identify_Item	teacher hint	James
+480	费许那·汤伯	0		480	Expert Merchant (1)	teacher hint	James
+481	费顿·艾佛森	0		481	Master Merchant (3)	teacher hint	James
+482	瑞文·快舌	0		482	Grand Master Merchant (2)	teacher hint	James
+483	艾凡达·拉兹	0		483	Expert Repair_Item	teacher hint	James
+484	逵克·珍妮	0		484	Master Reapir_Item	teacher hint	James
+485	逵斯林·东克	0		485	Grand Master Repair_Item	teacher hint	James
+486	曼纳梭尔	0		486	Expert Body_building (1)	teacher hint	James
+487	肯尼斯·欧特顿	0		487	Master Body_Building (5)	teacher hint	James
+488	米凯尔·史密森	0		488	Grand Master Body_Building (4)	teacher hint	James
+489	艾顿·普特南	0		489	Expert Meditation (2)	teacher hint	James
+490	葛拉琴·耐芙莫尔	0		490	Master Meditation (7)	teacher hint	James
+491	蓝诺德·夜行者	0		491	Grand Master Meditation (6)	teacher hint	James
+492	希尔克·夜行者	0		492	Expert Perception (3)	teacher hint	James
+493	海尔加·钢眼	0		493	Master Perception (6)	teacher hint	James
+494	巴兰·确尾	0		494	Grand Master Perception (7)	teacher hint	James
+495	凯斯瑞·塔兰	0		495	Expert Regeneration	teacher hint	James
+496	威廉·山普森	0		496	Master Regeneration	teacher hint	James
+497	多尾乌许	0		497	Grand Master Regeneration	teacher hint	James
+498	其王·为斯特	0		498	Expert Disarm_Trap (1)	teacher hint	James
+499	凯力·来特芬格	0		499	Master Disarm_Trap (13)	teacher hint	James
+500	加拉司·理夫特	0		500	Grand Master Disarm_Trap (3)	teacher hint	James
+501		0		501	Expert Dodging	teacher hint	James
+502		0		502	Master Dodging	teacher hint	James
+503		0		503	Grand Master Dodging	teacher hint	James
+504		0		504	Expert Unarmed	teacher hint	James
+505		0		505	Master Unamred	teacher hint	James
+506		0		506	Grand Master Unarmed	teacher hint	James
+507	泰沙·马克	0		507	Expert Identify_Monster	teacher hint	James
+508	马崔克·锐锋	0		508	Master Identify_Monster	teacher hint	James
+509	布拉肯·石刀	0		509	Grand Master Identify_Monster	teacher hint	James
+510	诺伯特·杀手	0		510	Expert Armsmaster	teacher hint	James
+511	疤面拉沙庭	0		511	Master Armsmaster	teacher hint	James
+512	杰斯伯·史提尔克夫	0		512	Grand Master Armsmaster	teacher hint	James
+513		0		513	Expert Stealing	teacher hint	James
+514		0		514	Master Stealing	teacher hint	James
+515		0		515	Grand Master Stealing	teacher hint	James
+516	塔必煞·瓦特沙	0		516	Expert Alchemy	teacher hint	James
+517	凯斯瑞·宝石	0		517	Master Alchemy	teacher hint	James
+518	伊奇	0		518	Grand Master Alchemy	teacher hint	James
+519	派德拉·密斯瑞	0		519	Expert Learning (7)	teacher hint	James
+520	加瑞特·雾春	0		520	Master Learning (6)	teacher hint	James
+521	汪达·来特史汪	0		521	Grand Master Learning (5)	teacher hint	James
+522	佛林·沙达	0		522	Expert Vampire	teacher hint	James
+523	道格拉斯·德斯摩尔	0		523	Master Vampire (6)	teacher hint	James
+524	佩吉·阿拉尼雅	0		524	Grand Master Vampire (6)	teacher hint	James
+525	费德温·德维禧	0		525	Expert Dark Elf	teacher hint	James
+526	蓝西·卡佛希尔	0		526	Master Dark Elf (2)	teacher hint	James
+527	堂·爱格瑞尼尔	0		527	Grand Master Dark Elf (3)	teacher hint	James
+528	伊斯顿	0		528	Expert Dragon	teacher hint	James
+529	噩欣特	0		529	Master Dragon (5)	teacher hint	James
+530	克兰·疤翅	0		530	Grand Master Dragon (5)	teacher hint	James
+531	加速台座				James		
+532	地系抵抗力台座				James		
+533	诸神之日台座				James		
+534	护盾术台座				James		
+535	水系抵抗力台座				James		
+536	火系抵抗台座				James		
+537	英雄术台座				James		
+538	献祭台座				James		
+539	心系抵抗台座				James		
+540	体系抵抗力台座				James		
+541	石肤术台座				James		
+542	风系抵抗台座				James		
+543	力量游戏				James		
+544	耐力游戏				James
+545	智力游戏				James
+546	人格游戏				James
+547	精确度游戏				James
+548	速度游戏				James
+549	幸运游戏				James
+550	力量竞赛				James
+551	耐力竞赛				James
+552	智力竞赛				James
+553	人格竞赛				James
+554	精确度竞赛				James
+555	速度竞赛				James
+556	幸运竞赛				James
+557	力量测试				James
+558	耐力测试				James
+559	智力测试				James
+560	人格测试				James
+561	精确度测试				James
+562	速度测试				James
+563	幸运测试				James
+564	力量挑战				James
+565	耐力挑战				James
+566	智力挑战				James
+567	人格挑战				James
+568	精确度挑战				James
+569	速度挑战				James
+570	幸运挑战				James
+571	火系抵抗力药剂		House 1		James
+572	火系抵抗力药剂		House 2		James
+573	火系抵抗力药剂		House 3		James
+574	火系抵抗力药剂		House 4		James
+575	火系抵抗力药剂		House 5		James
+576	火系抵抗力药剂		House 6		James
+577	赏金猎人公会				James
+578	赏金				James
+579	这个月的赏金猎物				James
+580	魔幻牌巡回比赛			540	James
+581	牧师死灵法师战争				DARK ELF ADVISOR
+582	猎龙人				DARK ELF ADVISOR
+583	牛头人				DARK ELF ADVISOR
+584	桥梁已断				James
+585	在岛屿之间旅行				James
+586	小船港口				James
+587	克力刚人				Roland Ironfist
+588	元素之王				Roland Ironfist
+589	安罗斯				Roland Ironfist
+590	伊拉西亚				Catherine Ironfist
+591	克力刚人				Catherine Ironfist
+592	元素				Catherine Ironfist
+593	你救出他们了吗？				James
+594	制造武器				James
+595	制造盔甲				James
+596	制造物品				James
+597	魔幻牌巡回赛				James
+598	岩石塔				James
+599	岩石塔				James
+600	加入队员清单事件		NOT USED		NOT USED
+601	加入队员清单事件		Devlin Arcanus		Main PC
+602	加入队员清单事件		Fredrick Talimere		Inn
+603	加入		Simon Templar		Mainline
+604	加入队员清单事件		Overdune Snaprfinger		Abandoned Temple
+605	加入队员清单事件		Masul		Mainline
+606	加入队员清单事件		Rohani Oscleton		Will Always Join
+607	加入队员清单事件		Elsbeth Lamentia		Will Always Join
+608	加入		Ithilgore		Inn
+609	加入队员清单事件		Karanya Memoria		Dragon Cave Always Join
+610	加入队员清单事件		Maylander 		Will Always Join
+611	加入队员清单事件		Leane Stormlance		Will Always Join
+612	加入队员清单事件		Volog Sandwind		James
+613	加入队员清单事件		Thanys		James
+614	加入队员清单事件		Jasp Thelbourne		After Minotaur Alliance
+615	加入队员清单事件		Gethric Mercutura		Will Always Join
+616	加入		Flamdring		Will Always Join
+617	加入队员清单事件		Hevatia Deverbero		"Renegade Dragon Cave, Always Join"
+618	加入队员清单事件		Verish 		Join if Necro Alliance Done
+619	加入队员清单事件		Nelix Uriel		Join if Cleric Alliance Done
+620	加入队员清单事件		Sethrc Thistlebone		Join if D Hunter Alliance Done
+621	加入队员清单事件		Rionel		Join if Form Alliance Done
+622	加入队员清单事件		Adric Stellare		Join if Form Alliance Done
+623	加入队员清单事件		Infaustus 		Join if Form Alliance Done
+624	加入		Brimstone		Join if Form Alliance Done
+625	加入队员清单事件		Vetrinus Taleshire		James
+626	加入队员清单事件		Dervish Chevron		James
+627	加入队员清单事件		Tempus 		Join if Fleet Sunk
+628	加入队员清单事件		Thorne Understone		Join if Fleet Sunk
+629	加入队员清单事件		Ulbrecht		Join if Fleet Sunk
+630	加入队员清单事件		Cauri Blackthorne		Join if Fleet Sunk
+631	加入队员清单事件		Artorius Veritas		James
+632	加入		Duroth the Eternal		Join if Fleet Sunk
+633	加入队员清单事件		Nathaniel Roberts		"Join if Fleet Sunk, Ren Dragon"
+634	加入队员清单事件		Dyson Leyland		Will Always Join
+635	加入队员清单事件		Blazen Stormlance		Mainline
+636	加入队员清单事件		troll		James
+637	加入队员清单事件		minotaur		
+638	加入队员清单事件		darkelf		
+639	加入队员清单事件		vampire		
+640	加入队员清单事件		dragon		
+641	加入队员清单事件		necromancer		
+642	加入队员清单事件		cleric		
+643	加入队员清单事件		knight		
+644	加入队员清单事件		troll		
+645	加入队员清单事件		minotaur		
+646	加入队员清单事件		darkelf		
+647	加入队员清单事件		vampire		
+648	加入队员清单事件		dragon		
+649	加入队员清单事件		dragon		
+650	岩石塔		 		James
+651	岩石塔				James
+652	岩石塔				James
+653	岩石塔				James
+654	我的生活				Asael Fromago
+655	瓦力乳酪大师				Asael Fromago
+656	任务				Asael Fromago
+657	陌生人		Escaton generic text	817	James
+658	水晶之夜		Escaton/crystal generic text	818	James
+659	水晶 		crystal generic text	819	James
+660	漫游法师		Escaton generic text	820	James
+661	海盗劫掠		Pirate generic text/complaint	821	James
+662	雷格那		Pirate generic text/complaint	822	James
+663	无尽之海的帝国		Pirate generic text/complaint	823	James
+664	食人魔和盗匪		Ogre generic text/complaint	824	James
+665	陆地旅游		Ogre generic text/complaint	825	James
+666	走私者		Sumggler generic text/complaint	826	James
+667	半鼠人		Sumggler generic text/complaint	827	James
+668	铁沙漠的独眼巨人		Troll generic text	828	James
+669	火焰之海		Troll generic text	829	James
+670	替我们找个家！		Troll generic text	830	James
+671	矿石商人		Ore generic text	831	James
+672	时光库		Hint	832	Poundlin Deerhunter NPC417
+673	叛逆飞龙		Renegade Dragon clue for Dragon	833	Bazalath NPC 443
+674	其它飞龙		Renegade Dragon clue for D Hunter 1	834	Isram Delver NPC 419
+675	雷格那飞龙		Renegade Dragon clue for D Hunter 2	835	Chadric Benson NPC 407
+676	毁灭者		Ravenshore Destroyer filler 1	836	Elsie Apple NPC 405
+677	毁灭者		Ravenshore Destroyer filler 2	837	Aznog Black NPC 409
+678	伊普神庙		Temple of Eep Clue one	838	Mortie Bith NPC 408
+679	乳酪		Temple of Eep Clue two	839	Jillian Applebee NPC 406
+680	残酷葛瑞格			840	
+681	地元素界			841	
+682	地元素之王			842	
+683	风元素界			843	
+684	水元素界			844	
+685	水元素之王			845	
+686	火元素之王			846	
+687	火元素界			847	
+688	冒险				Hevatia D NPC 466
+689	加入我们				Verish NPC 467
+690	冒险				Nelix Uriel NPC 468
+691	和我们一起来				Sethrc Thistlebone NPC 469
+692	冒险				Rionel NPC 470
+693	冒险				Adric Stellare NPC 471
+694	和我们一起走				Infaustus NPC 472
+695	和我们一起走				Brimstone NPC 473
+696	加入我们				Tempus NPC 476
+697	加入我们				Thorne Understone NPC 477
+698	冒险				Ulbrecht NPC 478
+699	加入我们				Artorius Veritas NPC 480
+700	加入我们				Duroth the Eternal 481
+701	家族墓穴				Overdune Snapfinger NPC 7
+702	你找到盾牌了吗？				Lathius
+703	好好善用日蚀盾牌				Lathius
+704	竞技场				Arean Topic
+705	我弄丢了！				Seer/I lost it
+706	加入我们				K Memoria NPC 458
+707	加入我们				Maylander NPC 459
+708	加入我们				J Thelbourne NPC 463
+709	食人魔强盗				Dekian Farswell NPC 421
+710	黄蜂				Brand Featherwind NPC 422
+711	受过训练的飞龙				W Falconeye NPC 420
+712	散索拉				K Fellburn NPC 423
+713	吸血鬼墓穴				L Gallowswell NPC 428
+714	公会				Ashen Fiddlebone NPC 424
+715	棺材				Sethrik Fist NPC 425
+716	蛹之隧道				Bigfist Slowstepper NPC 426
+717	导航				Zephyr NPC 427
+718	轻松的生活				Davee Sail NPC 503
+719	恐怖海盗史坦力				Erik Jarblower NPC 504
+720	贾丹姆的走私者				Jarrena Marmon NPC 505
+721	史坦力的财宝				Pirate Paul NPC 506
+722	隐藏的财宝				Yoel Wargreen NPC 507
+723	埋葬岗				Pordo NPC 508
+724	伊普的信仰者				Vish NPC 509
+725	水元素界传送门				Ferris NPC 510
+726	海盗要塞				ex-captain terrence NPC 511
+727	雷格那文化				F Ferne NPC 512
+728	龙葵护身符				Dierdra Wallace NPC 513
+729	俗气的珠宝				Nalani NPC 514
+730	翻车鱼				Rhetta Mercer NPC 515
+731	储藏仓库				Elgar Fellmoon NPC 53
+732	暗示				Oracle
+733	晋升黑暗精灵				Jeebes
+734	晋升食人魔				
+735	晋升骑士				
+736	晋升飞龙					
+737	晋升牧师					
+738	晋升死灵法师					
+739	晋升吸血鬼					
+740	晋升牛头人					
+741	多谢你！				Irabelle Hunter	
+742	和你一起旅行！				Vetrinus	
+743	和你一起旅行！				Dervish Chevron	
+744	拯救				Masul	
+745	Placeholder					
+746	Placeholder					
+747	Placeholder					
+748	Placeholder					
+749	Placeholder					
+750	Placeholder					
+						

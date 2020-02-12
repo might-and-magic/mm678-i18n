@@ -1,0 +1,559 @@
+2D Events by Type ( NPC's present are from NPC database)																		Schedules		Other Exits		Questbit	Enter
+#	#	Type	Map	Picture	Name	Proprieter Name	Title	Picture	State	Rep	Per	Val	A	B	C	Notes:		Open	Closed	Pic	Map	Restrictions	Text
+1	1	Weapon Shop	E3	2	The Knife Shoppe	Caine	Blacksmith	0	0	0	0	1.5	L1 Weap	L2 Dagger	2	Weapon Shop gets:		6	18	0	0	0	
+2	2	Weapon Shop	D2	3	Hammer and Tongs	Brand 	Blacksmith	0	0	0	0	1.5	L2 Weap	L2 Mace	2	"""Sell Weapons"""	All Weap	6	18	0	0	0	
+3	3	Weapon Shop	D3	1	Fine Blades	Luke 	Blacksmith	0	0	0	0	2	"L1 Sword,Dagger"	"L2 Sword,Dagger"	5	"""Identify Weapons"""	All Weap	6	18	0	0	0	
+4	4	Weapon Shop	D3	2	The Eagle's Eye	Merlin 	Blacksmith	0	0	0	0	2	L1 Bows	L2 Bows	5	"""Repair Weapons"""	All Weap	6	18	0	0	0	
+5	5	Weapon Shop	E2	3	Arm's Length Spear Shop	Random 	Blacksmith	0	0	0	0	2	"L1 Staff,Spear,Hal,Trid"	"L2 Staff,Spear,Hal,Trid"	5	"""Buy Weapons"""	(see list A)	6	18	0	0	0	
+6	6	Weapon Shop	C3	3	Blunt Trauma Weapons	Martin 	Blacksmith	0	0	0	0	2	"L1 Mace,Axe,Ham,Club"	"L2 Mace,Axe,Ham,Club"	5	"""Specials"""	(see list B)	6	18	0	0	0	
+7	7	Weapon Shop	C2	1	The Sharpening Stone	Corwin 	Blacksmith	0	0	0	0	2.5	"L2 Sword,Dagger"	"L3 Sword,Dagger"	14			6	18	0	0	0	
+8	8	Weapon Shop	C2	2	Feathers and String	Jurt 	Blacksmith	0	0	0	0	2.5	L2 Bows	L3 Bows	14	Refill stock in Days	(see list C)	6	18	0	0	0	
+9	9	Weapon Shop	"C1,R"	2	Haft and Handle Pole arms	Bleys 	Blacksmith	0	0	0	0	2.5	"L2 Staff,Spear,Hal,Trid"	"L3 Staff,Spear,Hal,Trid"	14			6	18	0	0	0	
+10	10	Weapon Shop	D1	1	Abdul's Discount Weapons	Oberon 	Blacksmith	0	0	0	0	2.5	"L2 Mace,Axe,Ham,Club"	"L3 Mace,Axe,Ham,Club"	14			6	18	0	0	0	
+11	11	Weapon Shop	A2	1	Singing Steel	Benedict 	Blacksmith	0	0	0	0	3	"L2 Sword,Dagger"	"L4 Sword,Dagger"	28			6	18	0	0	0	
+12	12	Weapon Shop	C1	2	Mark and Missile	Julian 	Blacksmith	0	0	0	0	3	L2 Bows	L4 Bows	21			6	18	0	0	0	
+13	13	Weapon Shop	B2	1	Stout Heart Staff and Spear	Gerard 	Blacksmith	0	0	0	0	3	"L2 Staff,Spear,Hal,Trid"	"L4 Staff,Spear,Hal,Trid"	21			6	18	0	0	0	
+14	14	Weapon Shop	B1	1	Knight's Paradise	Eric 	Blacksmith	0	0	0	0	3	"L2 Mace,Axe,Ham,Club"	"L4 Mace,Axe,Ham,Club"	21			6	18	0	0	0	
+15	1	Armor Shop	E3	79	The Common Defense	Harry	Armorsmith	0	0	0	0	1.5	"L1 Leat,Chai,Shld,Helm or Gaunt"	"L2 Leat,shd,Helm or Gaunt"	2	Armor Shop gets:		6	18	0	0	0
+16	2	Armor Shop	E2	80	Armor Emporium	Calvin	Armorsmith	0	0	0	0	1.5	"L2 Leat,Chai,Shld,Helm or Gaunt"	"L3 Leat,shd,Helm or Gaunt"	2	"""Sell Armor"""	All Armor	6	18	0	0	0
+17	3	Armor Shop	D3	79	Metalweave Armory	Ulysses	Armorsmith	0	0	0	0	2	"L2 Leat,Chai,Shld,Helm or Gaunt"	"L3 Leat,Helm or Gaunt"	5	"""Identify Armor"""	All Armor	6	18	0	0	0
+18	4	Armor Shop	D2	80	Abraham's Metalworks	Abraham	Armorsmith	0	0	0	0	2	"L2 Leat,Chai,Shld,Helm or Gaunt"	"L3 Chain,Helm or Gaunt"	5	"""Repair Armor"""	All Armor	6	18	0	0	0
+19	5	Armor Shop	C3	80	Mailed fist Armory	Richard	Armorsmith	0	0	0	0	2	"L2 Leat,Chai,Shld,Helm or Gaunt"	"L3 Shld,Helm or Gaunt"	5	"""Buy Armor"""	(see list A)	6	18	0	0	0
+20	6	Armor Shop	C2	79	The Foundry	William	Armorsmith	0	0	0	0	2	"L2 Leat,Chai,Shld,Helm or Gaunt"	"L3 Plate,Helm or Gaunt"	5	"""Specials"""	(see list B)	6	18	0	0	0
+21	7	Armor Shop	D3	78	Iron Defense	Woodrow	Armorsmith	0	0	0	0	2.5	"L3 Leat,Chai,Shld,Plate, H or G"	"L4 Leat,Helm or Gaunt"	14			6	18	0	0	0
+22	8	Armor Shop	D1	80	Abdul's Discount Armor	Andrew	Armorsmith	0	0	0	0	2.5	"L3 Leat,Chai,Shld,Plate, H or G"	"L4 Chain,Helm or Gaunt"	14	Refill stock in Days	(see list C)	6	18	0	0	0
+23	9	Armor Shop	"C1,R"	79	Quality Armor	John	Armorsmith	0	0	0	0	2.5	"L3 Leat,Chai,Shld,Plate, H or G"	"L4 Shld,Helm or Gaunt"	14			6	18	0	0	0
+24	10	Armor Shop	B2	79	Mail and Greaves	Dwight	Armorsmith	0	0	0	0	2.5	"L3 Leat,Chai,Shld,Plate, H or G"	"L4 Plate,Helm or Gaunt"	14			6	18	0	0	0
+25	11	Armor Shop	C2	78	The Footman's Friend	Lyndon	Armorsmith	0	0	0	0	3	"L3 Leat,Chai,Shld,Plate, H or G"	"L4 Leat,Helm or Gaunt"	21			6	18	0	0	0
+26	12	Armor Shop	B1	78	Armorworks 	George	Armorsmith	0	0	0	0	3	"L3 Leat,Chai,Shld,Plate, H or G"	"L4 Chain,Helm or Gaunt"	21			6	18	0	0	0
+27	13	Armor Shop	C1	78	Silver Lining Armor & Shield	Franklin	Armorsmith	0	0	0	0	3	"L3 Leat,Chai,Shld,Plate, H or G"	"L4 Shld,Helm or Gaunt"	21			6	18	0	0	0
+28	14	Armor Shop	A2	78	The Enchanted Hauberk	Theodore	Armorsmith	0	0	0	0	3	"L4 Leat,Chai,Shld,Plate, H or G"	"L5 Plate,Helm or Gaunt"	28			6	18	0	0	0
+29	1	Magic Shop	E3	8	The Seeing Eye	Wilma	Alchemist	0	0	0	0	1.5	L1 Misc All	L2 Misc All	2	Magic Shop gets:		8	16	0	0	0
+30	2	Magic Shop	E2	6	Witch's Brew	Linda	Alchemist	0	0	0	0	1.5	L1 Misc All	L2 Misc All	2	"""Sell Items"""	All Misc	8	16	0	0	0
+31	3	Magic Shop	D2	9	The Little Magic Shop	Wolfgang	Alchemist	0	0	0	0	1.5	L1 Misc All	L2 Misc All	3	"""Identify Items"""	All Misc	8	16	0	0	0
+32	4	Magic Shop	D1	5	Abdul's Discount Magic Supplies	Gundabad	Alchemist	0	0	0	0	1.5	L1 Misc All	L2 Misc All	3	"""Repair Items"""	All Misc	8	16	0	0	0
+33	5	Magic Shop	D3	4	Eye of Newt	Osric	Alchemist	0	0	0	0	2	L2 Misc All	L3 Misc All	7	"""Buy Items"""	(see list A)	8	16	0	0	0
+34	6	Magic Shop	C3	9	Smoke and Mirrors	Celebrimbor	Alchemist	0	0	0	0	2	L2 Misc All	L3 Misc All	7	"""Specials"""	(see list B)	8	16	0	0	0
+35	7	Magic Shop	C1	6	"Apples, Thorns, and Potions"	Virginia	Alchemist	0	0	0	0	2	L2 Misc All	L3 Misc All	7			8	16	0	0	0
+36	8	Magic Shop	B1	5	Unusual Enchantments	Noah	Alchemist	0	0	0	0	3	L3 Misc All	L3 Misc All	14	Refill stock in Days	(see list C)	8	16	0	0	0
+37	9	Magic Shop	C2	7	The Sorcerer's Shoppe	Brenda	Alchemist	0	0	0	0	3	L3 Misc All	L4 Misc All	14			8	16	0	0	0
+38	10	Magic Shop	B2	8	Ty's Trinkets	Ty	Alchemist	0	0	0	0	3	L3 Misc All	L4 Misc All	14			8	16	0	0	0
+39	11	Magic Shop	C2	4	Alchemy and Incantations	Isaac	Alchemist	0	0	0	0	4	L4 Misc All	L4 Misc All	21			8	16	0	0	0
+40	12	Magic Shop	E1	6	Little Charms	Brunhilde	Alchemist	0	0	0	0	4	L4 Misc All	L5 Misc All	21			8	16	0	0	0
+41	13	Magic Shop	A2	7	Mighty Magicks	Alastair	Alchemist	0	0	0	0	4	L5 Misc All	L5 Misc All	28			8	16	0	0	0
+42	1	General Store	E3	12	Traveler's Supply	Rino	Shopkeeper	0	0	0	0	2	"L1 Items, Bottles, herbs"	-	1	General Store gets:		5	22	0	0	0
+43	2	General Store	E2	11	"Lock, Stock, and Barrel"	Alice	Shopkeeper	0	0	0	0	2	"L1 Items, Bottles, herbs"	-	1	"""Sell Anything"""	Value /2	5	22	0	0	0
+44	3	General Store	D1	10	Trader Joe's	Joe	Shopkeeper	0	0	0	0	2	"L1 Items, Bottles, herbs"	-	1	"""Buy Stuff"""	(see list A)	5	22	0	0	0
+45	4	General Store	C2	10	Abdul's Discount Goods	Michael	Shopkeeper	0	0	0	0	2	"L1 Items, Bottles, herbs"	-	1	Refill stock in Days	(see list C)	5	22	0	0	0
+46	5	General Store	C1	12	General Store	David	Shopkeeper	0	0	0	0	2	"L1 Items, Bottles, herbs"	-	1			5	22	0	0	0
+47	6	General Store	B2	11	Outland Trading Post	Doreen	Shopkeeper	0	0	0	0	2	"L1 Items, Bottles, herbs"	-	1			5	22	0	0	0
+48	1	Stables	E3	45	New Sorpigal Coach Company	Aaron	Stablemaster	0	0	0	0	1	"Castle Ironfist D3,M,W,F,2"	-	-			5	18	0	0	0
+49	2	Stables	D3	45	Royal Lines 	Sean	Stablemaster	0	0	0	0	2	"New Sorpigal E3,M,W,F,2"	"Free Haven C2,S,Tu,4"	"Arena, Sun,1"	Stables Get:		5	18	0	0	0
+50	3	Stables	C2	45	Free Haven Travel East	Mark	Stablemaster	0	0	0	0	6	"Blackshire B2,M,Th,3"	"Kriegspire B1,Tu,F,3"	"White Cap C1,W,Sa,3"	"Destination,Area"	Teleport to	5	18	0	0	0
+51	4	Stables	C2	45	Free Haven Travel West	Walter	Stablemaster	0	0	0	0	4	"Silver Cove D1,M,Th,4"	"Castle Ironfist D3,T,F,4"	"Darkmoor C3,W,Sa,5"	"Days leaving,"	Other Stable	5	18	0	0	0
+52	5	Stables	C3	45	Darkmoor Travel	Scott	Stablemaster	0	0	0	0	10	"Free Haven C2,M,F,5"	-	-	Days Travel Time		5	18	0	0	0
+53	6	Stables	D1	45	Abdul's Discount Travel	Todd	Stablemaster	0	0	0	0	8	"Free Haven C2,M,F,4"	-	-	Upto 3 Destinations		5	18	0	0	0
+54	7	Stables	C1	45	White Cap Transport Co.	Peter	Stablemaster	0	0	0	0	8	"Free Haven C2,M,Th,3"	-	-			5	18	0	0	0
+55	8	Stables	B1	45	King's Highway	Ken	Stablemaster	0	0	0	0	10	"Free Haven C2,W,Sa,3"	-	-			5	18	0	0	0
+56	9	Stables	B2	45	Blackshire Coach and Buggy	Anthony	Stablemaster	0	0	0	0	10	"Free Haven C2,Tu,F,3"	-	-			5	18	0	0	0
+57	1	Boats	E3	46	Odyssey	Bryan	Captain	0	0	0	0	2	"Mist E2,Tu,Th,Sa,3"	-	-			5	18	0	0	0
+58	2	Boats	D3	46	Zephyr	Paul	Captain	0	0	0	0	2	"New Sorpigal E3,Tu,Th,Sa,2"	"Mist E3,M,W,F,2"	"Bootleg Bay East,Tu,F,3"	Boats Get:		5	18	0	0	0
+59	3	Boats	D3	46	Queen Catherine	Christian	Captain	0	0	0	0	10	"Volcano E3,Su,2"	"Volcano B3,Su,14"	"Hermit's Isle A3,21"	"Destination,Area"	Teleport to	5	18	0	0	0
+60	4	Boats	E2	46	Adventure	Louis	Captain	0	0	0	0	5	"Castle Ironfist D3,M,W,F,2"	"Silver Cove D1,M,Th,3"	"Bootleg Bay East,Tu,Th,Sa,2"	"Days leaving,"	Dock or	5	18	0	0	0
+61	5	Boats	D1	46	Cerulean Skies	Steven	Captain	0	0	0	0	6	"Mist E2,M,Th,Sa,3"	"Free Haven C2,Tu,F,3"	"Island North,W,1"	Days Travel Time	Land	5	18	0	0	0
+62	6	Boats	C2	46	Windrunner	Robert	Captain	0	0	0	0	6	"Mist E2,M,Th,4"	"Silver Cove D1,Tu,F,3"	"Castle Ironfist D3,W,5"	Upto 3 Destinations		5	18	0	0	0
+63	7	Boats	"D1,N isle"	46	Barracuda	Jym-Bob	Captain	0	0	0	0	4	"Island South E1,Th,2"	-	-			5	18	0	0	0
+64	8	Boats	"E1,S isle"	46	Cirrus	Bly	Captain	0	0	0	0	4	"Island North E1,Sa,1"	-	-			5	18	0	0	0
+65	9	Boats	"E1,N isle"	46	Tigershark	Caleb	Captain	0	0	0	0	8	"Silver Cove D1,M,2"	-	-			5	18	0	0	0
+66	10	Boats	"D2,R isle"	46	Tsunami	Ismael	Captain	0	0	0	0	3	"Bootleg Bay West,M,W,1"	-	-			5	18	0	0	0
+67	11	Boats	"D2,L isle"	46	Valkyrie	Blake	Captain	0	0	0	0	3	"Castle Ironfist D3,Tu,Th,4"	-	-			5	18	0	0	0
+68	12	Boats	"C2, Lake"	46	Enterprise	James	Captain	0	0	0	0	20	"Any outdoor area,""Where to?"", set to start location,1 (name of map to teleport)"					5	18	0	0	0
+69	1	Temple	E3	32	New Sorpigal Temple	Joshua	Healer	0	0	0	0	10	No Errad					5	1	0	0	0
+70	2	Temple	C2	32	Temple Stone	Nelson	Healer	0	0	0	0	40	All OK			Temples Get:		5	1	0	0	0
+71	3	Temple	B2	31	Blackshire Temple	Saul	Healer	0	0	0	0	100	No Errad			"""Heal (cost)"""	Restrict (A)	5	1	0	0	0
+72	4	Temple	E1	30	Abdul's Discount House of Worship	Arnold	Healer	0	0	0	0	50	No Errad			"""Donate (cost)"""		5	1	0	0	0
+73	5	Temple	C1	32	White Cap Temple	Henry	Healer	0	0	0	0	30	No Errad					5	1	0	0	0
+74	6	Temple	E2	31	Mist Island Temple	Johann	Healer	0	0	0	0	20	No Errad					5	1	0	0	0
+75	7	Temple	D1	32	Silver Cove Temple	Geoffrey	Healer	0	0	0	0	30	No Errad					5	1	0	0	0
+76	8	Temple	D3	31	King's Temple	Charles	Healer	0	0	0	0	30	No Errad					5	1	0	0	0
+77	9	Temple	"D2,C3,B1"	30	House of Healing	Adam	Healer	0	0	0	0	40	No Errad					5	1	0	0	0
+78	10	Temple	"D2,D3,C2,C3,A2,B2"	33	Temple Baa	Landrew	Healer	0	0	0	0	2	"No Dead,Stone,Errad"	(see formulas for Neg Rep and Cloak)				5	1	0	0	0
+79	1	Training	E3	85	New Sorpigal Training Grounds	Nathan	Instructor	0	0	0	0	10	Max level = 15					6	18	0	0	0
+80	2	Training	C2	85	Free Haven Academy	Hollis	Instructor	0	0	0	0	30	Max level = 60			Training Gets:		6	18	0	0	0
+81	3	Training	D1	84	Abdul's Discount Training Center	Richard	Instructor	0	0	0	0	25	Max Level = 40			"""Train for Level (#)"	Max Lvl (A)	6	18	0	0	0
+82	4	Training	A2	83	The Sparring Ground	Charlemagne	Instructor	0	0	0	0	50	No Max			"for (cost)"""		6	18	0	0	0
+83	5	Training	D2	83	Training-by-the-Sea	Gabriel	Instructor	0	0	0	0	20	Max level = 20			(not elig)		6	18	0	0	0
+84	6	Training	B2	85	Wolf's Den	Simon	Instructor	0	0	0	0	40	Max Level =100					6	18	0	0	0
+85	7	Training	D3	82	Royal Gymnasium	Earl of Grey	Instructor	0	0	0	0	30	Max Level = 200					6	18	0	0	0
+86	8	Training	E2	83	Island Testing Center	Marid	Instructor	0	0	0	0	15	Max level = 30					6	18	0	0	0
+87	9	Training	B1	81	Lone Tree Training	Jonas	Instructor	0	0	0	0	30	Max level = 80					6	18	0	0	0
+88	10	Training	C1	86	Riverside Academy	Ged	Instructor	0	0	0	0	25	Max level = 50					6	18	0	0	0
+89	1	Town Hall	E3	14	Town Hall	Janice	Clerk	0	0	0	0	1						10	14	0	0	0
+90	2	Town Hall	E2	15	Town Hall	Earnest	Clerk	0	0	0	0	2						10	14	0	0	0
+91	3	Town Hall	D1	13	Town Hall	Jake	Clerk	0	0	0	0	3						10	14	0	0	0
+92	1	Tavern	E3	25	A Lonely Knight	Dirk	Innkeep	0	0	0	0	6						5	2	0	0	0
+93	2	Tavern	E2	24	The Imp Slapper	Martin	Innkeep	0	0	0	0	12				Taverns Get:		5	2	0	0	0
+94	3	Tavern	E1	28	An Arrow's Flight	Stephan 	Innkeep	0	0	0	0	14				"""Rent Room (cost)"""		5	2	0	0	0
+95	4	Tavern	E1	29	A Stone's Throw	G'oroth	Innkeep	0	0	0	0	14				"""Buy Food"""		5	2	0	0	0
+96	5	Tavern	D3	25	The King's Crown	Franco 	Innkeep	0	0	0	0	20				"""Have a Drink"""		5	2	0	0	0
+97	6	Tavern	D3	26	The Will o' Wisp	Roger	Innkeep	0	0	0	0	10				"""Tip Innkeeper"""		5	2	0	0	0
+98	7	Tavern	D2	29	The Goblin's Tooth	Khagul	Innkeep	0	0	0	0	10						5	2	0	0	0
+99	8	Tavern	D2	28	The Broken Cutlass	Erik	Innkeep	0	0	0	0	14						5	2	0	0	0
+100	9	Tavern	D1	28	Anchors Away	Peter 	Innkeep	0	0	0	0	20						5	2	0	0	0
+101	10	Tavern	D1	27	The Grove	Ash 	Innkeep	0	0	0	0	12						5	2	0	0	0
+102	11	Tavern	C3	26	The Haunt	Tony 	Innkeep	0	0	0	0	14						5	2	0	0	0
+103	12	Tavern	C3	24	The Rusted Shield	Aaron 	Innkeep	0	0	0	0	10						5	2	0	0	0
+104	13	Tavern	C2	25	Viktor's Hall	Viktor	Innkeep	0	0	0	0	30						5	2	0	0	0
+105	14	Tavern	C2	27	The Echoing Whisper	Katy	Innkeep	0	0	0	0	20						5	2	0	0	0
+106	15	Tavern	C2	26	Rockham's Pride	Charles	Innkeep	0	0	0	0	20						5	2	0	0	0
+107	16	Tavern	C1	27	Rime and Reason	Cynthia 	Innkeep	0	0	0	0	14						5	2	0	0	0
+108	17	Tavern	C1	24	The Frosty Tankard	Stein	Innkeep	0	0	0	0	30						5	2	0	0	0
+109	18	Tavern	B2	26	The Oasis	A'zaz 	Innkeep	0	0	0	0	60						5	2	0	0	0
+110	19	Tavern	B2	24	The Howling Moon	George	Innkeep	0	0	0	0	30						5	2	0	0	0
+111	20	Tavern	B1	25	The Broken Promise	Royce 	Innkeep	0	0	0	0	20						5	2	0	0	0
+112	21	Tavern	A2	27	The Last Chance	Melissa 	Innkeep	0	0	0	0	40						5	2	0	0	0
+113	1	Bank	E3	44	Savings House	Schmidy	Banker	0	0	0	0	1						9	17	0	0	0
+114	2	Bank	E2	44	The Reserves	Stanley 	Banker	0	0	0	0	1				Bank Gets:		9	17	0	0	0
+115	3	Bank	D1	44	The First Bank of Enroth	James 	Banker	0	0	0	0	1				"""Deposit"""		9	17	0	0	0
+116	4	Bank	C2	44	Foreign Exchange	Andrew 	Banker	0	0	0	0	1				"""Withdraw"""		9	17	0	0	0
+117	5	Bank	C1	44	Secure Trust	Fergus 	Banker	0	0	0	0	1						9	17	0	0	0
+118	6	Bank	B2	44	The Depository	Winston 	Banker	0	0	0	0	1						9	17	0	0	0
+119	1	Fire Guild	E2	54	Initiate Guild of Fire	Marton 	Guildmaster	0	0	0	0	2	"Type = Fire, Spells 1-7"	Skill = Learning	2			6	18	0	0	0
+120	2	Fire Guild	C2	54	Adept Guild of Fire	Dennis 	Guildmaster	0	0	0	0	3	"Type = Fire, Spells 1-11"	Skill = Learning	2	Magic Guilds Get:		6	18	0	0	0
+121	1	Air Guild	E2	56	Initiate Guild of Air	Ardien 	Guildmaster	0	0	0	0	2	"Type = Air, Spells 1-7"	Skill = Learning	2	"""Buy Spells"""	(see list A)	6	18	0	0	0
+122	2	Air Guild	C2	56	Adept Guild of Air	Maurice 	Guildmaster	0	0	0	0	3	"Type = Air, Spells 1-11"	Skill = Learning	2	"""(Type) Magic"""	(see list A)	6	18	0	0	0
+123	1	Water Guild	E2	57	Initiate Guild of Water	Ellis 	Guildmaster	0	0	0	0	2	"Type = Water, Spells 1-7"	Skill = Learning	2	"""(Skill)"""	(see list B)	6	18	0	0	0
+124	2	Water Guild	C2	57	Adept Guild of Water	Terrance 	Guildmaster	0	0	0	0	3	"Type = Water, Spells 1-11"	Skill = Learning	2			6	18	0	0	0
+125	1	Earth Guild	D1	55	Initiate Guild of Earth	Lawrence 	Guildmaster	0	0	0	0	2	"Type = Earth, Spells 1-7"	Skill = Learning	2	Refill stock in Days	(see list C)	6	18	0	0	0
+126	2	Earth Guild	C2	55	Adept Guild of Earth	Katrilim 	Guildmaster	0	0	0	0	3	"Type = Earth, Spells 1-11"	Skill = Learning	2			6	18	0	0	0
+127	1	Spirit Guild	D3	62	Initiate Guild of Spirit	Rosaline	Guildmaster	0	0	0	0	2	"Type = Spirit, Spells 1-7"	Skill = Meditation	2			6	18	0	0	0
+128	2	Spirit Guild	C2	62	Adept Guild of Spirit	Glenna	Guildmaster	0	0	0	0	3	"Type = Spirit, Spells 1-11"	Skill = Meditation	2			6	18	0	0	0
+129	1	Mind Guild	D3	63	Initiate Guild of Mind	Cloud 	Guildmaster	0	0	0	0	2	"Type = Mind, Spells 1-7"	Skill = Meditation	2			6	18	0	0	0
+130	2	Mind Guild	C2	63	Adept Guild of Mind	Penelope	Guildmaster	0	0	0	0	3	"Type = Mind, Spells 1-11"	Skill = Meditation	2			6	18	0	0	0
+131	1	Body Guild	D3	64	Initiate Guild of Body	Karla	Guildmaster	0	0	0	0	2	"Type = Body, Spells 1-7"	Skill = Meditation	2			6	18	0	0	0
+132	2	Body Guild	C2	64	Adept Guild of Body	Veronica	Guildmaster	0	0	0	0	3	"Type =Body, Spells 1-11"	Skill = Meditation	2			6	18	0	0	0
+133	1	Light Guild	D1	59	Initiate Guild of Light	Anson 	Guildmaster	0	0	0	0	3	"Type = Light, Spells 1-6"	-	2			10	14	0	0	0
+134	2	Light Guild	B2	59	Adept Guild of Light	Charm 	Guildmaster	0	0	0	0	4	"Type = Light, Spells 1-10"	-	2			10	14	0	0	0
+135	1	Dark Guild	C1	60	Initiate Guild of Dark	Jermaine 	Guildmaster	0	0	0	0	3	"Type =Dark, Spells 1-6"	-	2			22	2	0	0	0
+136	2	Dark Guild	B2	60	Adept Guild of Dark	Sable 	Guildmaster	0	0	0	0	4	"Type = Dark, Spells 1-10"	-	2			22	2	0	0	0
+137	1	Element Guild	E3	58	Initiate Guild of the Elements	Jeremy 	Guildmaster	0	0	0	0	1.5	"Type = F, A, W, E, Spells = 1-4"	-	2			6	18	0	0	0
+138	2	Element Guild	C1	58	Adept Guild of the Elements	Hans 	Guildmaster	0	0	0	0	2.5	"Type = F, A, W, E, Spells = 1-8"	-	2			6	18	0	0	0
+139	1	Self Guild	E3	65	Initiate Guild of the Self	Teliana 	Guildmaster	0	0	0	0	1.5	"Type = S, M, B, Spells = 1-4"	-	2			6	18	0	0	0
+140	2	Self Guild	D1	65	Adept Guild of the Self	Amarie 	Guildmaster	0	0	0	0	2.5	"Type = S, M, B, Spells = 1-8"	-	2			6	18	0	0	0
+141	1	Merc Guild	E3	53	Blades' End	Dalimar	Guildmaster	0	0	0	0	1.5	"Skills = Sword, Axe, Spear, Staff, Leather"					9	21	0	0	0
+142	2	Merc Guild	E2	52	Duelists' Edge	Vladamir	Guildmaster	0	0	0	0	2	"Skills = Mace, Bow, Chain, Shield, Body Building"			Merc Guilds Get:		9	21	0	0	0
+143	3	Merc Guild	D1	51	Berserkers' Fury	Richard	Guildmaster	0	0	0	0	2.5	"Skills = Chain, Bow, Shield, Plate, Repair Item"			"""(Skill)"" x5"	(see list A)	9	21	0	0	0	
+144	4	Merc Guild	C2	52	Duelists' Edge	Damian 	Guildmaster	0	0	0	0	2.5	"Skills = Mace, Bow, Chain, Shield, Body Building"					9	21	0	0	0	
+145	5	Merc Guild	C1	53	Blades' End	Nathan 	Guildmaster	0	0	0	0	3	"Skills = Sword, Axe, Spear, Staff, Repair Item"					9	21	0	0	0	
+146	6	Merc Guild	D3	51	Berserkers' Fury	Robert 	Guildmaster	0	0	0	0	2	"Skills = Chain, Bow, Shield, Plate, Repair Item"					9	21	0	0	0	
+147	1	Thieves Guild	E3	50	Buccaneers' Lair	Hermit	Guildmaster	0	0	0	0	1.5	"Skills = Dagger, Merchant, Identify, Perception, Disarm Trap"					18	6	0	0	0	
+148	2	Thieves Guild	E2	50	Buccaneers' Lair	Rob	Guildmaster	0	0	0	0	2	"Skills = Leather, Diplomacy, Identify, Perception, Disarm Trap"			Theives Guilds Get:		18	6	0	0	0	
+149	3	Thieves Guild	C1	48	Protection Services	Guido	Guildmaster	0	0	0	0	2.5	"Skills = Dagger, Merchant, Identify, Perception, Disarm Trap"			"""(Skill)"" x5"	(see list A)	18	6	0	0	0	
+150	4	Thieves Guild	D1	48	Protection Services	Luigi	Guildmaster	0	0	0	0	3	"Skills = Leather, Diplomacy, Identify, Perception, Disarm Trap"					18	6	0	0	0	
+151	5	Thieves Guild	C2	49	Smugglers' Guild	Timothy 	Guildmaster	0	0	0	0	2	"Skills = Dagger, Merchant, Identify, Perception, Disarm Trap"					18	6	0	0	0	
+152	6	Thieves Guild	B2	49	Smugglers' Guild	Walter 	Guildmaster	0	0	0	0	2.5	"Skills = Leather, Diplomacy, Identify, Perception, Disarm Trap"					18	6	0	0	0	
+153	1	Castle Entrance	D3	110	Castle Ironfist															Throne	2D 154		Enter
+154	2	Throne	From 153 (D3)	20	Throne Room																		
+155	1	Castle Entrance	E2	110	Castle Newton															Throne	2D 156		Enter
+156	2	Throne	From 155 (E2)	21	Throne Room																		
+157	1	Castle Entrance	C2	110	Castle Temper															Throne	2D 158		Enter
+158	2	Throne	From 157 (C2)	18	Throne Room																		
+159	1	Castle Entrance	"C1, R"	110	Castle Stone															Throne	2D  160		Enter	
+160	2	Throne	"From 159 (C1,R)"	19	Throne Room																			
+161	1	Castle Entrance	D1	110	Castle Fleise															Throne	2D 162		Enter	
+162	2	Throne	From 161 (D1)	22	Throne Room																			
+163	1	Castle Entrance	C1	110	Castle Stromgard															Throne	2D 164		Enter	
+164	2	Throne	From 163 (C1)	23	Throne Room																			
+165	1	City Council	C2	16	High Council															5	49	167	Enter	
+166	1	Circus	"D2,C2,B2,D1"	43	Circus																			
+167	1	Jail	na	47	Prison																			
+168	1	Library	D3	116	King's Library																			
+169	1	The Seer	D3	42	The Seer																			
+170	1	The Oracle	Oracle1 (C2)	41	The Oracle															5	50	169	Enter	Access denied.  You must have the Control Cube to gain access.
+171	1	Dungeon Ent	E3	111	Goblinwatch															Dungeon	16	Need Key	Enter	The doors to this keep are locked.
+172	2	Dungeon Ent	E3	103	Abandoned Temple															Dungeon	17		Enter	
+173	3	Dungeon Ent	D3	96	Shadow Guild Hideout															Dungeon	18		Enter	
+174	4	Dungeon Ent	D2	104	Hall of the Fire Lord															Dungeon	19		Enter	
+175	5	Dungeon Ent	D3	92	Snergle's Caverns															Dungeon	20		Enter	
+176	6	Dungeon Ent	D3	90	Dragoons' Caverns															Dungeon	21		Enter	
+177	7	Dungeon Ent	E2	107	Silver Helm Outpost															Dungeon	22		Enter	
+178	8	Dungeon Ent	C1	109	Shadow Guild															Dungeon	23		Enter	
+179	9	Dungeon Ent	C3	97	Snergle's Iron Mines															Dungeon	24		Enter	
+180	10	Dungeon Ent	C2	101	Dragoons' Keep															Dungeon	25		Enter	
+181	11	Dungeon Ent	D3	102	Corlagon's Estate															Dungeon	26		Enter	
+182	12	Dungeon Ent	D1	98	Silver Helm Stronghold															Dungeon	27		Enter	
+183	13	Dungeon Ent	D1	94	The Monolith															Dungeon	28		Enter	
+184	14	Dungeon Ent	C2	89	Tomb of Ethric the Mad															Dungeon	29		Enter	
+185	15	Dungeon Ent	C1	93	Icewind Keep															Dungeon	30		Enter	
+186	16	Dungeon Ent	D1	91	Warlord's Fortress											Not open until quest 16 set				Dungeon	31		Enter	"The gates to this fortress are sealed from the inside, there is no entrance at this time."
+187	17	Dungeon Ent	B2	95	Lair of the Wolf															Dungeon	32		Enter	
+188	18	Dungeon Ent	E3	105	Gharik's Forge															Dungeon	33		Enter	
+189	19	Dungeon Ent	B1	106	Agar's Laboratory															Dungeon	34		Enter	
+190	20	Dungeon Ent	B1	108	Caves of the Dragon Riders															Dungeon	35		Enter	
+191	1	Temple Ent	D3	37	Temple of Baa															Dungeon	36		Enter
+192	2	Temple Ent	D2	99	Temple of the Fist															Dungeon	37		Enter
+193	3	Temple Ent	D2	100	Temple of Tsantsa															Dungeon	38		Enter
+194	4	Temple Ent	D2	38	Temple of the Sun															Dungeon	39		Enter
+195	5	Temple Ent	C2	39	Temple of the Moon															Dungeon	40		Enter
+196	6	Temple Ent	A3	36	Supreme Temple of Baa															Dungeon	41		Enter
+197	7	Temple Ent	B1	35	Superior Temple of Baa															Dungeon	42		Enter
+198	8	Temple Ent	B2	40	Temple of the Snake															Dungeon	43		Enter
+199	1	Castle Dun Ent	E1	112	Castle Alamos															Dungeon	44		Enter
+200	2	Castle Dun Ent	C3	113	Castle Darkmoor															Dungeon	45		Enter
+201	3	Castle Dun Ent	B1	114	Castle Kriegspire															Dungeon	46		Enter
+202	1	Pyramid Ent	B3	87	Tomb of VARN															Dungeon	48		Enter
+203	1	Hive Ent	A1	88	The Hive															Dungeon	51		Enter
+204	1	House P1	A1	66	House			2 story poor house															
+205	2	House P2	A1	67	House			1 story poor house															
+206	3	Not Used	A1		House																		
+207	4	Not Used	A1		House			
+208	5	Not Used	A1		House			
+209	6	Not Used	A1		House			
+210	7	Not Used	A1		House			
+211	1	House P1	A2	66	House			Tavern side door
+212	2	House P2	A2	67	House			Mid House door
+213	3	House P3	A2	68	House			Poor house next to blacksmith
+214	4	House P4	A2	69	House			Poor house door next to armory
+215	5	House P5	A2	66	House			Mid House door next to magic shop
+216	6	House M1	A2	70	House			mid house
+217	7	House P6	A2	67	House			poor house on corner
+218	8	House P7	A2	68	House			poor house North of # 20
+219	9	House P8	A2	69	House			poor house
+220	10	House P9	A2	66	House			mid House
+221	11	House P10	A2	67	House			poor house
+222	12	House P11	A2	68	House			mid House
+223	13	House M2	A2	71	House			Mid House door
+224	14	House P12	A2	69	House			mid house
+225	15	House M3	A2	72	House			mid house
+226	16	House P13	A2	66	House			poor house
+227	17	House P14	A2	69	House			poor house
+228	18	Not Used	A2		House			
+229	19	Not Used	A2		House			
+230	20	Not Used	A2		House			
+231	21	Not Used	A2		House			
+232	22	Not Used	A2		House			
+233	1	Not Used	A3		House			
+234	2	Not Used	A3		House			
+235	3	House R1	B1	74	House			Rich House
+236	4	House M1	B1	73	House			Mid House
+237	5	House M2	B1	70	House			Mid House
+238	6	House M3	B1	71	House			Mid House
+239	1	House M4	B1	70	House			Mid House
+240	2	House P1	B1	66	House			Mid House
+241	3	House R2	B1	74	House			"31 (3rd floor center tower, north side) (Maser Bow)"
+242	4	House M5	B1	71	House			Mid House
+243	5	House P2	B1	66	House			Poor House
+244	6	House P3	B1	67	House			Poor House
+245	7	House P4	B1	68	House			Poor House
+246	8	House P5	B1	69	House			Poor House
+247	4	House R1	B2	75	House			Mid House
+248	5	House R2	B2	76	House			Mid House
+249	6	House R3	B2	77	House			Poor House
+250	7	House M1	B2	71	House			Mid House
+251	8	House P1	B2	67	House			Poor House
+252	9	House M2	B2	72	House			Mid House
+253	10	House R4	B2	74	House			Rich House main door
+254	11	House P2	B2	68	House			Rich House
+255	12	House R5	B2	67	House			Poor House
+256	13	House P3	B2	68	House			Poor House
+257	14	House P4	B2	69	House			Poor House
+258	15	House P5	B2	66	House			Poor House
+259	16	House P6	B2	67	House			Poor House
+260	12	House M1	B3	70	House			Mid House
+261	13	House P1	B3	66	House			Poor House
+262	14	House P2	B3	67	House			Poor House
+263	15	House M2	B3	71	House			Mid House
+264	16	House P3	B3	68	House			Poor House
+265	17	House P4	B3	69	House			Poor House
+266	18	Tent	B3	115	Tent			Tent
+267	19	Tent	B3	115	Tent			Tent
+268	1	House P1	C1	66	House			Poor House
+269	2	House M1	C1	72	House			"Mid House, left door of officer's quarters"
+270	3	House M2	C1	73	House			"Mid House, right door of officer's quarters"
+271	4	House R1	C1	75	House			"Rich House, upper right door of castle"														
+272	5	House R2	C1	76	House			"Rich House, upper left door of castle"														
+273	6	House P1	C1	67	House			Poor House														
+274	7	House P2	C1	66	House			Poor House														
+275	8	House R3	C1	74	House			"Rich House, lower door of building"														
+276	9	House R4	C1	77	House			"Rich House, upper door of castle"														
+277	10	House P3	C1	67	House			Poor House														
+278	11	House P4	C1	68	House			Poor House														
+279	12	House P5	C1	69	House			Poor House														
+280	13	House M3	C1	70	House			Mid House														
+281	14	House R5	C1	77	House			Rich House														
+282	15	House R6	C1	74	House			Rich House														
+283	1	House M1	C2	70	House			Thief second floor														
+284	2	House P1	C2	66	House			Poor house														
+285	3	House P2	C2	67	House			Poor house														
+286	4	House P3	C2	68	House			Side Door Thief												7	47	-2
+287	5	House P4	C2	69	House			Poor house														
+288	6	House P1	C2	66	House			Rich House														
+289	7	House P2	C2	67	House			Rich House														
+290	8	House P3	C2	68	House			Rich House												7	47	-5
+291	9	House P4	C2	69	House			Mid house														
+292	10	House P1	C2	66	House			Poor house														
+293	11	House P2	C2	67	House			Mid house														
+294	12	House P3	C2	68	House			Poor house														
+295	13	House P4	C2	69	House			Rich House														
+296	14	House P1	C2	66	House			Mid house														
+297	15	House P2	C2	67	House			Poor house														
+298	16	House M1	C2	70	House			Mid house														
+299	17	House M2	C2	71	House			Castle (west door)														
+300	18	House M3	C2	72	House			Mid house														
+301	19	House M4	C2	73	House			Poor house														
+302	20	House M1	C2	70	House			Mid house														
+303	21	House M2	C2	71	House			Mid house														
+304	22	House M3	C2	72	House			Mid house														
+305	23	House M4	C2	73	House			Poor house														
+306	24	House M1	C2	70	House			Mid house														
+307	25	House M2	C2	71	House			Rich House														
+308	26	House M3	C2	72	House			Mid house														
+309	27	House M4	C2	73	House			Poor house														
+310	28	House M1	C2	70	House			Poor house														
+311	29	House M2	C2	71	House			Poor house														
+312	30	House M3	C2	72	House			Rich House N door														
+313	31	House M4	C2	73	House			Rich House S door														
+314	32	House M1	C2	70	House			Rich House														
+315	33	House M2	C2	71	House			Poor house														
+316	34	House M3	C2	72	House			Rich House												7	47	-6
+317	35	House M4	C2	73	House			Poor house														
+318	36	House R1	C2	74	House			Rich House W door														
+319	37	House R2	C2	75	House			Rich House E Door														
+320	38	House R3	C2	76	House			Rich House														
+321	39	House R4	C2	77	House			Rich House W door														
+322	40	House R1	C2	74	House			Rich House E Door														
+323	41	House R2	C2	75	House			Rich House												7	47	-1
+324	42	House R3	C2	76	House			Rich House														
+325	43	House R4	C2	77	House			Rich House W door														
+326	44	House R1	C2	74	House			Rich House E Door														
+327	45	House R2	C2	75	House			Mid house														
+328	46	House R3	C2	76	House			Poor house														
+329	47	House R4	C2	77	House			Poor house														
+330	48	House R1	C2	74	House			Mid house														
+331	49	House R2	C2	75	House			Rich House												7	47	-4
+332	50	House R3	C2	76	House			Poor house														
+333	51	House R4	C2	77	House			Poor house														
+334	1	House M1	C3	66	House			1st floor														
+335	2	House P1	C3	67	House			1st floor
+336	3	House P2	C3	68	House			1st floor
+337	4	House P3	C3	69	House			1st floor
+338	5	House P4	C3	66	House			1st floor
+339	6	House P5	C3	67	House			1st floor
+340	7	House M2	C3	68	House			1st floor
+341	8	House P6	C3	69	House			1st floor
+342	9	House R1	C3	66	House			1st floor
+343	10	House P7	C3	67	House			1st floor
+344	11	House M3	C3	68	House			1st floor
+345	12	House R2	C3	69	House			1st floor
+346	13	House M4	C3	66	House			1st floor
+347	14	House P8	C3	67	House			1st floor
+348	15	House P9	C3	70	House			1st floor with a double door
+349	16	House P10	C3	71	House			1st floor with a double door
+350	17	House P11	C3	72	House			1st floor with a double door
+351	18	House P12	C3	73	House			1st floor with a double door
+352	19	House M5	C3	74	House			2nd floor of the Castle 6
+353	20	House M6	C3	75	House			2nd floor of the Castle 6
+354	21	House M7	C3	70	House			2nd floor
+355	22	House M8	C3	71	House			2nd floor
+356	23	House R3	C3	72	House			2nd floor
+357	24	Hosue M9	C3	73	House			2nd floor
+358	25	House P13	C3	70	House			2nd floor
+359	26	House M10	C3	71	House			2nd floor
+360	27	House M11	C3	72	House			2nd floor with a double door
+361	28	Not Used	C3		House			
+362	29	Not Used	C3		House			
+363	30	Not Used	C3		House			
+364	31	Not Used	C3		House			
+365	32	Not Used	C3		House			
+366	1	House P1	D1	70	House			North Isle Tavern back door
+367	2	House P2	D1	69	House			Poor House
+368	3	House P3	D1	66	House			Poor House
+369	4	House P4	D1	67	House			Poor House
+370	5	House P1	D1	68	House			Poor House
+371	6	House P2	D1	66	House			Poor House
+372	7	House P3	D1	71	House			Mid House
+373	8	House P4	D1	74	House			Rich House W door
+374	9	House P1	D1	67	House			Poor House
+375	10	House P2	D1	68	House			Poor House
+376	11	House P3	D1	75	House			Rich House E Door
+377	12	House P4	D1	69	House			Poor House
+378	13	House P1	D1	70	House			Mid House
+379	14	House P2	D1	66	House			Poor House
+380	15	House P3	D1	71	House			Mid House
+381	16	House P4	D1	72	House			Mid House
+382	17	House P1	D1	76	House			Rich House
+383	18	House P2	D1	77	House			Rich House
+384	19	House P3	D1	67	House			Poor House
+385	20	House P4	D1	71	House			Training house door
+386	21	House P1	D1	68	House			Poor House
+387	22	House P2	D1	69	House			Poor House
+388	23	House P3	D1	66	House			Poor House
+389	24	House M1	D1	67	House			Poor House
+390	25	House M2	D1	70	House			Mid House
+391	26	House M3	D1	72	House			Mid House
+392	27	House M4	D1	73	House			Mid House
+393	28	House M1	D1	73	House			Tavern Back door
+394	29	House M2	D1	68	House			Poor House
+395	30	House M3	D1	69	House			Poor House
+396	31	House M4	D1	66	House			Poor House
+397	32	House M1	D1	72	House			Mid House
+398	33	House M2	D1	73	House			Mid House
+399	34	House M3	D1	70	House			Inner Stable door
+400	35	House M4	D1	77	House			Rich House
+401	36	House R1	D1	67	House			Poor House
+402	37	House R2	D1	75	House			Rich House W door
+403	38	House R3	D1	76	House			Rich House E Door
+404	39	House R4	D1	68	House			Poor House
+405	40	House R1	D1	75	House			Rich House
+406	41	House R2	D1	69	House			Poor House
+407	42	House R3	D1	66	House			Poor House
+408	43	House R4	D1	74	House			Rich House
+409	44	House R1	D1	74	House			Rich House
+410	45	House M1	D1	76	House			Rich House
+411	46	House P4	D1	71	House			Light house
+412	47	Not Used	D1		House			
+413	48	Not Used	D1		House			
+414	1	House M1	D2	70	House			Mid House
+415	2	House M2	D2	71	House			Mid House
+416	3	House P1	D2	69	House			Small door on the left side of the temple inner court.  
+417	4	House P2	D2	66	House			Poor House
+418	5	House P3	D2	67	House			Poor House
+419	6	House P4	D2	68	House			Poor House
+420	7	House M4	D2	72	House			Mid House
+421	8	House M5	D2	73	House			Mid House
+422	9	House P5	D2	66	House			Small door on the right side of the temple inner court.  
+423	10	Not Used	D2		House			
+424	1	House R1	D3	74	House			2 (Learning Expert)
+425	2	House R2	D3	75	House			3 (Diplomacy Expert)
+426	3	House M1	D3	70	House			34 (Spirt Master and Spirit Guild Membership)
+427	4	House R3	D3	76	House			4
+428	5	House M2	D3	71	House			44 (Sword Expert)
+429	6	House P1	D3	66	House			37 (Identify Expert)
+430	7	House P2	D3	67	House			36 (Disarm Expert)
+431	8	House P3	D3	68	House			46 (Dagger Expert)
+432	9	House P4	D3	69	House			26
+433	10	House M3	D3	72	House			38 (Retrieve the Harp Quest)
+434	11	House P5	D3	66	House			40 (Shield Expert)
+435	12	House P6	D3	67	House			41 (Leather Expert)
+436	13	House P7	D3	68	House			43 (Chain Expert)
+437	14	House P8	D3	69	House			42 (Plate Expert)
+438	15	House P9	D3	66	House			39 (Mind Guild Membership
+439	16	House M4	D3	73	House			47 (Axe Expert)
+440	17	House P10	D3	67	House			35 (BodyBuilding Expert)
+441	18	House P11	D3	68	House			45
+442	19	House R4	D3	77	House			33 (Body Guild Membership)
+443	20	Not Used	D3		House			
+444	1	House P1	E1	66	House			"tavern back door, North dock island"
+445	2	House P2	E1	67	House			"Tavern, back door south dock island"
+446	3	House P3	E1	68	House			Poor house
+447	4	House P4	E1	69	House			Poor house
+448	5	House M1	E1	70	House			Mid House
+449	6	House M2	E1	71	House			Poor house
+450	7	House P1	E1	69	House			Poor house
+451	8	House M3	E1	71	House			Mid House
+452	9	Not Used	E1		House			
+453	10	Not Used	E1		House			
+454	11	Not Used	E1		House			
+455	1	House M1	E2	70	House			Mid House
+456	2	House R1	E2	74	House			Mid House
+457	3	House P1	E2	66	House			"Rich House, underneath Thieves Guild"
+458	4	House M2	E2	71	House			Mid House
+459	5	House M3	E2	72	House			Mid House
+460	6	House P2	E2	66	House			Poor House
+461	7	House P3	E2	67	House			Poor House
+462	8	House P4	E2	68	House			Poor House
+463	9	House P1	E2	69	House			Back door of Tavern
+464	10	House P2	E2	69	House			Poor House
+465	1	House P1	E3	66	House			9 (Fire Expert)
+466	2	House P2	E3	67	House			8 (Earth Expert)
+467	3	House P3	E3	68	House			18 (Spirit Expert)
+468	4	House P4	E3	69	House			19 (Mind Expert)
+469	5	House P1	E3	66	House			20 (Body Expert)
+470	6	House P2	E3	67	House			23 (Elemental Guild and kill Spider Queen)
+471	7	House P3	E3	68	House			24 (Self Guild Membership and Rescue Angela)
+472	8	House P4	E3	69	House			34 (Thief Guild Membership and Cobra Eggs)
+473	9	House P1	E3	66	House			35 (Merc Guild Membership and Odd Jobs)
+474	10	House P2	E3	67	House			40
+475	11	House P3	E3	68	House			46
+476	12	House P4	E3	69	House			47
+477	13	House P1	E3	66	House			43 (Water Expert)
+478	14	House P2	E3	67	House			44 (Blaster Expert)
+479	15		E3		House			
+480	16	House P3	E3	68	House			41 (Staff Expert)
+481	17	Hosue M1	E3	70	House			25 (Meditation Expert)
+482	18	House M2	E3	71	House			30 (BodyBuilding Expert)
+483	19	House M3	E3	72	House			32 (Identify Expert)
+484	20	House M4	E3	73	House			33 (Perception Expert)
+485	21	House M1	E3	70	House			15 (Air Expert)
+486	22	House R1	E3	74	House			5 (Goblin Guard in Goblin Watch)
+487	23	House R2	E3	75	House			7 (Learning Expert)
+488	24	Not Used	E3		House			
+489	25	Not Used	E3		House			
+490	26	Not Used	E3		House			
+491	27	Not Used	E3		House			
+492	28	Not Used	E3		House			
+493	29	Not Used	E3		House			
+494	18	House P7	B2	68	House			Poor House
+495	19	House R6	B2	75	House			Rich House main door
+496	20	House R7	B2	76	House			"Rich House Side door.  Exit for D17, not an actual room"
+497	21	House R8	B2	77	House			Rich House main door
+498	22	House M3	B2	70	House			"Mid House, door is the right most door of the building at the southmost side of town."
+499	16	House M4	C1	71	House			Mid House
+500	17	House M5	C1	72	House			Mid House
+501	18	House M6	C1	73	House			Mid House
+502	19	House M7	C1	70	House			Mid House
+503	20	House M8	C1	71	House			Mid House
+504	21	House R7	C1	75	House			"Rich House, inside Stables"
+505	22	House M9	C1	72	House			"Barracks, lock it so no one may enter"
+506	23	House M10	C1	70	House			"Mid house, Barracks back door"
+507	24	House P6	C1	68	House			Poor House
+508	25	House P7	C1	69	House			Poor House
+509	26	House P8	C1	67	House			Poor House
+510	27	House P9	C1	68	House			Poor House
+511	28	House P10	C1	69	House			Poor House
+512	29	House P11	C1	66	House			Poor House
+513	30	House P12	C1	67	House			Poor House
+514	31	House P13	C1	68	House			Poor House
+515	32	House P14	C1	69	House			Poor House
+516	33	House P15	C1	66	House			Poor House
+517	34	House R8	C1	76	House			"Rich House, left tower of castle"
+518	35	House R9	C1	74	House			"Rich House, right tower of castle"
+519	52	House M1	C2	72	House			South tavern side door
+520	53	House M2	C2	73	House			Northwest tavern side door
+521	54	House P1	C2	70	House			East tavern Back door
+522	55	House M3	C2	71	House			SW Stable inside door
+523	56	Hosue M4	C2	72	House			NE Stable inside door/
+524	57	House P2	C2	66	House			Poor house
+525	58	House P3	C2	67	House			Poor house
+526	59	House P4	C2	68	House			Poor house
+527	60	House P5	C2	68	House			Poor house														
+528	61	House P6	C2	69	House			Poor house												7	47	-3
+529	62	House P7	C2	72	House			light house														
+530	63	House P8	C2	66	House			Poor house														
+531	64	House M5	C2	73	House			Mid house														
+532	11	Tent	D2	115	Tent																	
+533	12	Wagon	D2	115	Wagon																	
+534	13	Tent	D2	115	Tent																	
+535	14	Wagon	D2	115	Wagon																	
+536	15	Wagon	D2	115	Wagon																	
+537	16	Tent	D2	115	Tent																	
+538	11	House P1	E2	66	House			Light House on North side of bay														
+539	12	House P2	E2	67	House			Lighthouse on South side of bay														
+540	13	House P3	E2	68	House			"Poor House, left first floor door of the building with the Thieves Guild"														
+541	9	House R1	B1	74	House			24 (2nd level door of left tower)														
+542	10	House R2	B1	75	House			"25 (2nd level door, left side of castel)"														
+543	11	House R3	B1	76	House			26 (2nd level door of right tower)														
+544	12	House R4	B1	77	House			"27 (2nd level door, right side of castle)"														
+545	13	House R5	B1	74	House			"28 (2nd level door, large deck of castle)"														
+546	14	House R6	B1	75	House			"29 (3rd floor door, left tower)"														
+547	15	House R7	B1	76	House			"30 (3rd floor door, right tower)"														
+548	16	House R8	B1	77	House			"32 3rd floor door, center tower south side)"														
+549	17	House R9	B1	74	House																	
+550	18	House R10	B1	75	House																	
+551	19	Temple	C2	34	Free Haven Temple	Nelson	Healer	0	0	0	0	40	All OK			Temples Get:		5	1	0	0	0
+552	20	Hermit	B1	66	Hermit's Hut	Hermit																
+553	2	Library	D3	117	King's Library																	
+554	3	Library	D3	118	King's Library																	
+555	18	Tent	B3	115	Tent			Tent														
+556	19	Tent	B3	115	Tent			Tent														
+557	19	Tent	B3	115	Tent			Tent														

@@ -1,0 +1,513 @@
+Q Bit	Actual Quest Note Text	Notes	Old Quest Note Text
+1		" 1 D09, key to open D05"	" D09, key to open D05"
+2		" 2 D11, given for glass shard for staff of terrax quest"	" D11, given for glass shard for staff of terrax quest"
+3		" 3 D06, given when harp is recovered"	" D06, given when harp is recovered"
+4		" 4 D10, given when you retreive artifact from chest"	" D10, given when you retreive artifact from chest"
+5		" 5 D18, questbit for getting hourglass"	" D18, questbit for getting hourglass"
+6		" 6 T3, given when you rescue prisoner"	" T3, given when you rescue prisoner"
+7		" 7 T5, when you are promoted to archdruid"	" T5, when you are promoted to archdruid"
+8		" 8 T7, given when you find the smoking gun"	" T7, given when you find the smoking gun"
+9		" 9, CD2, given when you destroy Lich book"	" CD2, given when you destroy Lich book"
+10		Tim	"Sewer, Capture Prince of Thieves."
+11		"11 D7, opens tomb in D18."	"D7, opens tomb in D18."
+12		"12 D3, given when you save Mom."	"D3, given when you save Mom."
+13		"13 D13, given when you save the damsel, Melody Silver, in D7."	"D13, given when you save the damsel, Melody Silver, in D7."
+14		"14 D6, given when Message 504 given out."	"D6, given when Message 504 given out."
+15		"15 D7, given when chest with evidence for Constable opened."	"D7, given when chest with evidence for Constable opened."
+16		"16 D17, given when party is turned into Werewolves."	"D17, given when party is turned into Werewolves."
+17		"17 D17, given when wolf altar is destroyed."	"D17, given when wolf altar is destroyed."
+18		"18 D17, given when party buries torture victims."	"D17, given when party buries torture victims."
+19		"19 D17, given when party buries more torture victims."	"D17, given when party buries more torture victims."
+20		"20 D17, given when party digs up tiger statue quest item."	"D17, given when party digs up tiger statue quest item."
+21		"21 T2, Given when evil crystal is destroyed"	"T2, Given when evil crystal is destroyed"
+22		"22 D05, Given to find Snergles axe"	"D05, Given to find Snergles axe"
+23		"23 D13, Given when Altar is desecrated"	"D13, Given when Altar is desecrated"
+24		"24 D14, Given to find Ethrics Skull"	"D14, Given to find Ethrics Skull"
+25		"25 D15, Given to find merchants White pearl"	"D15, Given to find merchants White pearl"
+26		"26 D19, Given to find White witches crown"	"D19, Given to find White witches crown"
+27		"27 D05, Given when axe is returned (so door can't be opened)"	"D05, Given when axe is returned (so door can't be opened)"
+28		Dave	
+29		Dave	
+30		Dave	
+31		"31 D02, given when spider quest is completed"	"D02, given when spider quest is completed"
+32		"32 D02, given when kid is rescued"	"D02, given when kid is rescued"
+33		"33 D02, given when egg quest is assigned"	"D02, given when egg quest is assigned"
+34		"34 D02, given when temple of Baa relic is found"	"D02, given when temple of Baa relic is found"
+35		35 D17 Brought back Black Pearl and Ghost will no longer show up.	Brought back Black Pearl and Ghost will no longer show up.
+36		"36 D02, given when bat quano is harvested"	"D02, given when bat quano is harvested"
+37		"37 D02, is given when you get all the dead guys"	"D02, is given when you get all the dead guys"
+38		"38 T07, given when you find the smoking gun"	"T07, given when you find the smoking gun"
+39		"39 CD2, given when you find the oracle gem"	"CD2, given when you find the oracle gem"
+40		"40 CD2, given when you get the knowledge to become a lich"	"CD2, given when you get the knowledge to become a lich"
+41		Bruce	
+42		Bruce	
+43		Bruce	
+44		Bruce	
+45		Bruce	
+46		Bruce	
+47		Bruce	
+48		Bruce	
+49		Bruce	
+50		Bruce	
+51		"51 T4, Given when characters find Silver Chalice."	"T4, Given when characters find Silver Chalice."
+52		"52 D16, Given when characters find the Eagle Statuette"	"D16, Given when characters find the Eagle Statuette"
+53		"53 T6, Given when characters take the Oracle Crystal from the altar."	"T6, Given when characters take the Oracle Crystal from the altar."
+54		Chris	
+55		Chris	
+56		Chris	
+57		Chris	
+58		Chris	
+59		Chris	
+60		Chris	
+61		Peter	
+62		Peter	
+63		Peter	
+64		Peter	
+65		Peter	
+66		Peter	
+67		Peter	
+68		Peter	
+69		Peter	
+70		Peter	
+71		Walt	Given when doors unwarded in D4.
+72		Walt	"D20, given when 1st artifact chest opened"
+73		Walt	"D20, given when 2nd artifact chest opened"
+74		Walt	"D17, given when message scroll 517 given out"
+75		Lisa	
+76		Lisa	
+77		Lisa	
+78		Lisa	
+79		Lisa	
+80		Lisa	
+81	Show Sulman's letter to Andover Potbello in New Sorpigal.	Set when the party starts	Show Sulman's letter to Andover Potbello in New Sorpigal
+82	Bring Sulman's letter to Regent Wilbur Humphrey at Castle Ironfist.	Set by Andover after you show him the letter	Bring Sulman's letter to Regent Wilbur Humphrey at Castle Ironfist
+83	Find the Combination to the vault door in Goblinwatch and return to the Town Hall in New Sorpigal.	Set by Town Hall	Find the Combination to the vault door in Goblinwatch
+84	Get the Chime of Harmony from the Temple of Baa and return to the New Sorpigal Town Hall.	Paul	Destroy the Altar of Evil in the Temple of Baa and return with the Chime of Harmony
+85		Paul	Discovered Combination in Goblin Watch
+86	Find Lord Kilburn's Shield and return to Wilbur Humphrey in Castle Ironfist to report.	Paul	Find Lord Kilburn's Shield
+87		Paul	Talked to Traitor
+88	Rescue a Damsel in Distress and return with her to Wilbur Humphrey in Castle Ironfist.	Paul	Rescue a Damsel in Distress
+89	Slay Longfang Witherhide in his cave near Castle Darkmoor and return to Wilbur Humphrey in Castle Ironfist.	Paul	Slay Longfang Witherhide
+90	Entertain Nicolai.	Paul	Entertain Nicolai
+91		91 D12 John Silver only talks to you once.	D12 John Silver only talks to you once.
+92		"92 D17, Given when Paladin Ghost tells party where Tiger Statue is."	"D17, Given when Paladin Ghost tells party where Tiger Statue is."
+93		"93 D17, Used when QB 18 corpses buried."	"D17, Used when QB 18 corpses buried."
+94		"94 D17, Used when QB 19 corpses buried."	"D17, Used when QB 19 corpses buried."
+95	Find and return Prince Nicolai to Castle Ironfist.	Walt	Find and return the Prince
+96	Find the Third Eye and bring it to Prince Nicolai in Castle Ironfist.	Walt	Find the Third Eye
+97		Walt	Dark Containment quest taken by Archibald in Library
+98	Capture the Prince of Thieves and bring him to Lord Anthony Stone at Castle Stone.	NPC	Capture the Prince of Thieves
+99		Oracle	
+100		Oracle	"Oracle, when memory crystal alpha inserted"
+101		Oracle	"Oracle, when memory crystal beta inserted"
+102		Oracle	"Oracle, when memory crystal delta inserted"
+103		Oracle	"Oracle, when memory crystal epsilon inserted"
+104		CD3	Given when you get memory crystal epsilon
+105	"Hire a Stonecutter and a Carpenter, bring them to Temple Stone in Free Haven to repair the Temple, and then return to Lord Anthony Stone at Castle Stone."	NPC	Rebuild Temple Stone
+106		NPC	Rebuilt Temple Stone Complete
+107	"Take the Sacred Chalice from the monks in their island temple east of Free Haven, return it to Temple Stone in Free Haven, and then return to Lord Stone at Castle Stone."	NPC	Find and replace the Sacred Chalice
+108		NPC	Placed Chalice in Temple
+109		NPC	Marton Ferris sets cleric quest
+110	Find and return the Hourglass of Time to Lord Albert Newton in Mist.	NPC	Retrieve the Hourglass of Time
+111	Drink from the Fountain of Magic and return to Lord Albert Newton in Mist.	NPC	Drink from the Fountain of Magic
+112	Retrieve the Crystal of Terrax and return to Lord Albert Newton in Mist.	NPC	Retrieve the Crystal of Terrax
+113	Destroy the Devil's Outpost and return to Lord Osric Temper at Castle Temper.	NPC	Destroy the Devil's Outpost
+114	Get Knight's nomination from Chadwick and return to Lord Osric Temper at Castle Temper.	NPC	Get nomination from Chadwick
+115	Defeat the Warlord and bring proof to Osric Temper	NPC	Defeat the Warlord
+116	Fix the prices of all 9 stables in the Kingdom and return to Lady Fleise in Silver Cove.	NPC	Fix the prices of all the stables in the Kingdom
+117		NPC	visited all the stables for price fixing quest
+118	Visit the Altar of the Sun in the circle of stones north of Silver Cove on an equinox or solstice (HINT:  March 20th is an equinox).	NPC	Visit the Altar of the Sun on an equinox or solstice
+119	Visit the Altar of the Moon in the Temple of the Moon at midnight of a full moon.	NPC	Visit the Altar of the Moon at midnight of a full moon
+120	"End winter for Lord Stromgard at Castle Stromgard, and return to him with the good news."	NPC	End winter for Lord Stromgard
+121	"Retrieve the key to the Dragon Towers from Icewind Keep south of Whitecap, and bring it to Lord Stromgard at Castle Stromgard."	NPC	Retrieve the key to the Dragon Towers
+122	Reset all of the Dragon Towers at each town and return to Lord Stromgard in Castle Stromgard.	NPC	Reset all of the Dragon Towers
+123		NPC	visited all the towers
+124	Kill Snergle in Snergle's Caverns and return with his axe to Avinril Smythers at The Haunt tavern in the Mire of the Damned.	NPC	Kill Snergle and return with his axe
+125	Storm the Silver Helm Outpost near Mist and return with evidence of their corruption to the Constable of Mist.	NPC	silver helms are bad quest
+126	Retrieve the candelabra from the Abandoned Temple for Andover Potbello in New Sorpigal.	NPC	Retrieve the candelabra for Andover Potbello
+127		NPC	rescued melody
+128	Retrieve the harp from the Dragoon's Caverns south of Castle Ironfist and return it to Andrew Besper in Castle Ironfist.	NPC	Retreive Andrew Besper's harp 
+129	Retrieve Ethric's skull from his tomb west of Free Haven for Gabriel Cartman in Free Haven.	NPC	Retrieve Ethric's skull for Gabriel Cartman in Free Haven
+130	Kill the Queen of the Spiders in the Abandoned Temple in New Sorpigal and return with her heart to Buford T. Allman in New Sorpigal.	NPC	kill the queen of the spiders
+131	Deface the altar in the Monolith west of Silver Cove and return to Eleanor Vanderbilt in Silver Cove.	NPC	deface the altar quest
+132		NPC	successfully defaced the altar bit
+133		NPC	bat guano quest
+134	Destroy the crystal in the Temple of the Fist and return to Winston Schezar in Bootleg Bay.	NPC	give destroy crystal quest
+135		NPC	destroyed the crystal bit
+136	Rescue Emmanuel from the Temple of the Snake near Blackshire and return him to Joanne Cravitz in Blackshire.	NPC	find the husband quest
+137	Find the lost artifact in the Dragoons' Keep near Castle Temper and return it to Zoltan Phelps in Free Haven.	NPC	give retrieve lost artifact quest
+138	Rescue Sharry from the Shadow Guild Hideout and return with her to Frank Fairchild in New Sorpigal.	NPC	save sharry quest
+139	Rescue Angela from the Abandoned Temple and return her to Violet Dawson in New Sorpigal.	NPC	save angela quest
+140	Rescue Sherell from the cannibals on the islands east of Free Haven and return with her to Carlo Tormini in Free Haven.	NPC	rescue the prisoner quest
+141	Destroy the Werewolf's altar in the Lair of the Wolf and return to Maria Trepan in Blackshire.	NPC	werewolf quest
+142		NPC	set pearl active
+143	"Find the Pearl of Putrescence in the Lair of the Wolf and bring it to the Ghost of Balthasar, also in the Lair of the Wolf."	NPC	give pearl quest
+144	Retrieve the jewelled egg from Castle Kriegspire and return it to Emil Lime in Kriegspire village.	NPC	give egg quest
+145	"Unward the doors in the Hall of the Fire Lord and return to the Lord of Fire, also in the Hall of the Fire Lord."	NPC	unward the doors quest
+146		NPC	unwarded the doors for fire lord
+147		NPC	visited stable 1
+148		NPC	visited stable 2
+149		NPC	visited stable 3
+150		NPC	visited stable 4
+151		NPC	visited stable 5
+152		NPC	visited stable 6
+153		NPC	visited stable 7
+154		NPC	visited stable 8
+155		NPC	visited stable 9
+156		NPC	dragon tower 1
+157		NPC	dragon tower 2
+158		NPC	dragon tower 3
+159		NPC	dragon tower 4
+160		NPC	dragon tower 5
+161		NPC	dragon tower 6
+162	Find Memory Crystal Alpha in the Supreme Temple of Baa and restore it to a module altar at the Oracle beneath the High Council..	NPC	Restore Memory Crystal Alpha
+163	Find Memory Crystal Beta in Castle Alamos and restore it to a module altar at the Oracle beneath the High Council.	NPC	Restore Memory Crystal Beta
+164	Find Memory Crystal Delta in Castle Darkmoor and restore it to a module altar at the Oracle beneath the High Council.	NPC	Restore Memory Crystal Delta
+165	Find Memory Crystal Epsilon in Castle Kriegspire and restore it to a module altar at the Oracle beneath the High Council.	NPC	Restore Memory Crystal Epsilon
+166	Retrieve the Control Cube from the Tomb of Varn in Dragonsand and return to the Oracle beneath the High Council.	NPC	Retrieve the Control Cube
+167		NPC	satisfied the council and exposed the traitor (you're allowed in)
+168		NPC	exposed the traitor
+169		NPC	you have the cube and are allowed to enter the sci fi dungeon
+170		NPC	captured the prince of thieves
+171		NPC	rescued melody silver
+172		NPC	talked to the monk in d7
+173		NPC	promoted to great druid
+174		NPC	promoted to arch druid
+175		NPC	ended winter
+176		NPC	teleporter pad from T6 to Free Haven sewer activated.
+177		NPC	Freed Archibald
+178		NPC	Visited C2
+179		NPC	Visited D1
+180		NPC	killed the reactor
+181		Quest item bits for seer	Sixth Letter
+182		Quest item bits for seer	Kilburn's Shield
+183		Quest item bits for seer	Houglass of Time
+184		Quest item bits for seer	Devil Plans
+185		Quest item bits for seer	Dragon Claw
+186		Quest item bits for seer	Crystal of Terrax
+187		Quest item bits for seer	Discharge Papers
+188		Quest item bits for seer	Sacred Chalice
+189		Quest item bits for seer	Dragon Tower Keys
+190		Quest item bits for seer	Smoking Gun
+191		Quest item bits for seer	Memory Crystal Alpha
+192		Quest item bits for seer	Memory Crystal Beta
+193		Quest item bits for seer	Memory Crystal Delta
+194		Quest item bits for seer	Memory Crystal Epsilon
+195		Quest item bits for seer	Control Cube
+196		Quest item bits for seer	Third Eye
+197		Quest item bits for seer	Tanir's Bell
+198		Quest item bits for seer	Dark Containment
+199		Quest item bits for seer	Key to Gharik's Laboratory
+200	Find a cure for Slicker Silvertongue in the Superior Temple of Baa east of Castle Kriegspire and return to Wilbur Humphrey with the good news.	Wilbur Humphrey	Expose the Traitor Quest
+201	Bring the the letter detailing Silvertongue's treason to the High Council in Free Haven.	NPC	
+202		NPC	Killed Demon Queen
+203		NPC	Once Emmanuel is found.
+204	Find and destroy the Book of Liches in Castle Darkmoor and return to Terry Ros in Darkmoor village.	NPC	Lich Quest
+205		NPC	Seer quest - On the quest for this month
+206		NPC	Seer quest - Completed the quest this month
+207		NPC	Seer quest - Finished January at least once
+208		NPC	Seer quest - Finished February at least once
+209		NPC	Seer quest - Finished March at least once
+210		NPC	Seer quest - Finished April at least once
+211		NPC	Seer quest - Finished May at least once
+212		NPC	Seer quest - Finished June at least once
+213		NPC	Seer quest - Finished July at least once
+214		NPC	Seer quest - Finished August at least once
+215		NPC	Seer quest - Finished September at least once
+216		NPC	Seer quest - Finished October at least once
+217		NPC	Seer quest - Finished November at least once
+218		NPC	Seer quest - Finished December at least once
+219	"Place the statuettes in Sweet Water, Kriegspire, Dragonsand, Mire of the Damned, and Bootleg Bay and return to Twillen in Blackshire."	NPC	Statuette Quest
+220		NPC	Give statuette chest
+221		NPC	Give reward chest
+222		NPC	Placed tiger
+223		NPC	Placed bear
+224		NPC	Placed eagle
+225		NPC	Placed wolf
+226		NPC	Placed dragon
+227		NPC	Don't give statuette chest again
+228		NPC	"Hermit ""no snow"""
+229		Quest item bits for seer	First Mate's Scroll
+230		Quest item bits for seer	Doctor's Scroll
+231		Quest item bits for seer	Captain's Scroll
+232		Quest item bits for seer	Navigator's Scroll
+233		Quest item bits for seer	Engineer's Scroll
+234		Quest item bits for seer	Communication Officer's Scroll
+235	Obtain Arcane Magic from Archibald in the Royal Library in Castle Ironfist	NPC	Archibald bit for Oracle Quest
+236		NPC	Sparkle for Wizard Quest
+237		NPC	No more Hive after you win
+238		NPC	
+239		NPC	
+240		NPC
+241		NPC
+242		NPC
+243		NPC
+244		NPC
+245		NPC
+246		NPC
+247		NPC
+248		NPC
+249		NPC
+250		NPC
+251		NPC
+252		NPC
+253		NPC
+254		NPC
+255		NPC
+256		NPC
+257		NPC
+258		NPC
+259		NPC
+260		NPC
+261		NPC
+262		NPC
+263		NPC
+264		NPC
+265		NPC
+266		NPC
+267		NPC
+268		NPC
+269		NPC
+270		NPC
+271		NPC
+272		NPC
+273		NPC
+274		NPC
+275		NPC
+276		NPC
+277		NPC
+278		NPC
+279		NPC
+280		NPC
+281		NPC
+282		NPC
+283		NPC
+284		NPC
+285		NPC
+286		NPC
+287		NPC
+288		NPC	
+289		NPC	
+290		NPC	
+291		NPC	
+292		NPC	
+293		NPC	
+294		NPC	
+295		NPC	
+296		NPC	
+297		NPC	
+298		NPC	
+299		NPC	No more Jewelled Egg Chest
+300		Peter	Used Key to Open Goblin Watch
+301		NPC	Pad activation in Mist.
+302		NPC	Sword in the Stone (New Sorpigal)
+303		NPC	Sword in the Stone (IronFist)
+304		NPC	Kilburn's Shield
+305		NPC	IronFist Well
+306		NPC	+10 Luck permanent.
+307		NPC	
+308		NPC	
+309		NPC	
+310		NPC	Sword in the Stone (OutD1)
+311		NPC	Sword in the Stone (OutD1)
+312		NPC	Sword in the Stone (OutD1)
+313		NPC	Sword in the Stone (OutE1) Druid
+314		NPC	Sewer teleporter to T6 will not work till this is set from T6
+315		NPC	T6 Alter of Fire
+316		NPC	T6 Alter of Cold
+317		NPC	T6 Alter of Pain
+318		NPC	T6 Shrine of Fire
+319		NPC	T6 Shrine of Air
+320		NPC	T6 Shrine of Water
+321		NPC	T6 Shrine of Earth
+322		NPC	
+323		NPC	
+324		NPC	
+325		NPC	
+326		NPC	
+327		NPC	
+328		NPC	
+329		NPC	
+330		NPC	
+331		NPC	
+332		NPC	
+333		NPC	
+334		NPC	
+335		NPC	
+336		NPC
+337		NPC
+338		NPC
+339		NPC
+340		NPC
+341		NPC
+342		NPC
+343		NPC
+344		NPC
+345		NPC
+346		NPC
+347		NPC
+348		NPC
+349		NPC
+350		NPC
+351		NPC
+352		NPC	
+353		NPC	
+354		NPC	
+355		NPC	
+356		NPC	
+357		NPC	
+358		NPC	
+359		NPC	
+360		NPC	Obelisk OutA1
+361		NPC	Obelisk OutA2
+362		NPC	Obelisk OutA3
+363		NPC	Obelisk OutB1
+364		NPC	Obelisk OutB2
+365		NPC	Obelisk OutB3
+366		NPC	Obelisk OutC1
+367		NPC	Obelisk OutC2
+368		NPC	Obelisk OutC3
+369		NPC	Obelisk OutD1
+370		NPC	Obelisk OutD2
+371		NPC	Obelisk OutD3
+372		NPC	Obelisk OutE1
+373		NPC	Obelisk OutE2
+374		NPC	Obelisk OutE3
+375		NPC	Obelisk Rock
+376		NPC	d18 Door
+377		NPC	Fire Lord gives XP and treasure only once
+378		NPC	
+379		NPC	
+380		NPC	
+381		NPC	
+382		NPC	
+383		NPC	
+384		NPC
+385		NPC
+386		NPC
+387		NPC
+388		NPC
+389		NPC
+390		NPC
+391		NPC
+392		NPC
+393		NPC
+394		NPC
+395		NPC
+396		NPC
+397		NPC
+398		NPC
+399		NPC
+400		NPC
+401		NPC
+402		NPC
+403		NPC
+404		NPC
+405		NPC
+406		NPC
+407		NPC
+408		NPC
+409		NPC
+410		NPC
+411		NPC
+412		NPC
+413		NPC
+414		NPC
+415		NPC
+416		NPC
+417		NPC
+418		NPC
+419		NPC
+420		NPC
+421		NPC
+422		NPC
+423		NPC
+424		NPC
+425		NPC
+426		NPC
+427		NPC
+428		NPC
+429		NPC
+430		NPC
+431		NPC
+432		NPC
+433		NPC
+434		NPC
+435		NPC
+436		NPC
+437		NPC
+438		NPC
+439		NPC
+440		NPC
+441		NPC
+442		NPC
+443		NPC
+444		NPC
+445		NPC
+446		NPC
+447		NPC
+448		NPC
+449		NPC
+450		NPC
+451		NPC
+452		NPC
+453		NPC
+454		NPC
+455		NPC
+456		NPC
+457		NPC
+458		NPC
+459		NPC
+460		NPC
+461		NPC
+462		NPC
+463		NPC
+464		NPC
+465		NPC
+466		NPC
+467		NPC
+468		NPC
+469		NPC
+470		NPC
+471		NPC
+472		NPC
+473		NPC
+474		NPC
+475		NPC
+476		NPC
+477		NPC
+478		NPC
+479		NPC
+480		NPC
+481		NPC
+482		NPC
+483		NPC
+484		NPC
+485		NPC
+486		NPC
+487		NPC
+488		NPC
+489		NPC
+490		NPC
+491		NPC
+492		NPC
+493		NPC
+494		NPC
+495		NPC
+496		NPC	
+497		NPC	
+498		NPC	
+499		NPC	
+500		marks quest items	scroll of dark containment
+501		marks quest items	
+502		marks quest items	
+503		marks quest items	
+504		marks quest items	
+505		marks quest items	
+506		marks quest items	
+507		marks quest items	
+508		marks quest items	
+509		marks quest items	
+510		marks quest items	
+511		marks quest items	
+512		marks quest items

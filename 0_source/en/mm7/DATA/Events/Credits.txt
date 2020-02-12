@@ -1,0 +1,239 @@
+_Created by:
+Jon Van Caneghem
+
+
+
+
+
+_Executive Producer:
+Mark Caldwell
+
+
+
+
+
+_Producer:
+Peter Ryu
+
+
+
+
+
+_Director:
+Keith Francart
+
+
+
+
+
+_Designers:
+Jon Van Caneghem
+Paul Rattner
+Bryan Farina
+James Dickinson
+
+
+
+
+
+_Lead Programmer:
+Robert Young
+
+_Programmers:
+Ian Bullard
+Alex Sherman
+L. Dean Gibson II
+John "Mac" Machin
+
+
+
+
+
+_Level Design:
+David Vela
+Joel Kelly
+Ken Spencer
+Riki Corredera
+Tim Lang
+
+
+
+
+
+_Art Lead:
+John Slowsky
+
+_Artists @ New World Computing:
+Adam McCarthy
+April Lee
+Bill Nesemeier
+Bonita Long-Hemsath
+Brian DeMetz
+Brian Kemper
+Carl Pinder
+Charles Zilm
+Chris Rock
+George Almond
+Jeff Bigman
+John Gibson
+Julia Ulano
+Ken Thomson
+Kurt McKeever
+Lou Henderson
+Rebecca Christel
+Scott White
+Steve Wasaff
+Steve Jasper
+Tracy Iwata
+
+_Artists @ Hypnotix Inc.
+Mike Taramykin
+Jason Shenkman
+John Philip Sousa
+Michael Caydado
+William John Dwyer
+Jason Vaughn
+R. Scott Quick
+Marc Tattersall
+Robert Santiago
+Jason J. Timmons
+John Amos
+Matthew Cornelius
+Chris Okun
+Anthony Pereira
+Kyle Vannoy
+Vivek Saigal
+Peter Sfat
+John Trumbull
+
+_Artists @ 3DO:
+Andrew Gilmour
+Carlos Hernandez
+Chris Donovan
+Derek Hauffe
+Kelly Turner.
+Kudo Tsunoda
+Mike Janov
+Mike Marsicano
+Mike O'Rourke
+Ryan Paul
+Steve Tang
+
+
+
+
+
+_Musical Production:
+Rob King
+
+_Musical Score:
+Paul Romero
+
+_Sound Design:
+Rob King & Steve Baca
+
+_Additional Sound Editing:
+Chuck Russom
+
+_Voice Direction:
+Rob King
+
+_Voice Talent:
+Mike Sorich
+Catherine Battistone
+Dan Warren
+Barry Stigler
+Richard Epcar
+Brian Cooper
+Rob King
+Mari Devon
+Barbara Goodson
+Rebecca Fourstadt
+Laird McCintosh
+Sara Wallace
+Lex Lang
+Mike McConnohie
+Melodee Spevack
+Brianne Sidall
+Sy Prescott
+Malora Harte
+Steve Kramer
+Joe Romersa
+Mark Arnoutt
+Holly Willard
+Danny FehsenFeld
+Doug Stone
+Stephanie Shane
+Janna Knudson
+
+_Studio Services:
+Green Street Studios, Pasadena Ca
+
+
+
+
+
+
+_Quality Assurance:
+Chris Miller
+David Botan
+David Casso
+David Engberg
+Derek Chester
+Devin Chapman
+Eric Williamson
+Jennifer Bullard
+John Castillo
+Karl Drown
+Karl Fischer
+Marcus Pregent
+Michael Calica
+Michael Wolf
+Richard Campbell
+Randy Ruckel
+Ryan Den
+Tom Zeliff
+Tony Evans
+
+
+
+
+
+_Special Thanks To:
+Debbie Van Caneghem
+3Dfx
+3Dlabs
+AMD
+ATI Technologies
+Aureal
+Creative Labs
+Cyrix
+Mars Publishing
+Matrox
+nVidia
+Rad Game Tools
+Scott McDaniel
+Chris Bates
+King Louie
+All the significant others for putting up with us gamers...
+
+
+
+
+
+_Webmaster:
+Joshua "Guthwolf" Milligan
+
+_Web Artist:
+Aaron Castro
+
+_Web Programmers:
+Robert Belknap
+Peter Hillier
+
+
+
+
+
+_Visit us on the Web:
+www.3do.com

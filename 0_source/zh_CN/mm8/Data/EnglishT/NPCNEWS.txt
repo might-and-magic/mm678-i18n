@@ -1,0 +1,52 @@
+News # 	Text	Notes
+0	如果你看到这段讯息，请通知大家。	Ooops text
+1	如果海盗穿过了我们战士的防御网，我们就真的完蛋了！	Peasants on main island of Dagger Wound before the pirate outpost is defeated
+2	多谢你们击败了海盗！真希望你们可以对着火的山脉作些事情！	Peasants on main island of Dagger Wound after the pirate outpost is defeated (Questbit 6)
+3	没有办法回到血滴村去！我根本不知道自己的家人是死是活！	Peasants on smaller islands before teleporters are fixed
+4	你刚穿过岩石传送门？他们可以运作？我们可以回去了！	Peasants on smaller islands after teleporters are fixed (questbit 2)
+5	啊！要嘛就是和我们打一场，要嘛就是滚开！	Pirates on Dagger Wound Island
+6	应该有人去把猛狼占据的洞穴清一清。只要能让我们有比较少的问题担心，一切应该都至少会好一点！	Peasants in Ravenshore city
+7	我听说世界末日已经快到了。看看镇中央的水晶，我想我就忍不住要相信他们！	Peasants in Ravenshore city
+8	昨天晚上又有一群鼠人出现在我家后面。应该有些人去处理这些死家伙。我们的小孩必须面对猛狼和这些鼠人，生活环境实在太差了！	Peasants in Ravenshore city
+9	别伤害我们！爱立安·韩特说我们现在是朋友了！	Were-rats in Smugglers Cove after Fellmoon's letter has been delivered (Questbit 4).  Rats in Dungeon should not be hostile after this questbit is set
+10	我们永远欠你一笔，你救了鸦岸和贾丹姆大陆！	All Peasants after end game
+11	你愿意发射大炮来保护匕伤岛吗？	Lizardman Lookouts/cannons
+12	帮帮我们！如果我们无法把海盗赶开，一切都会完蛋了！	Lizardmen Warriors
+13	在攻破了海盗的前哨站之后，我们终于安全了。	Lzardmen Warriors after Questbit 6
+14	食人魔已经对我们造成了相当严重的威胁。如果有人可以处理要塞里面的食人魔，也许一切会变得好一些！	Peasants in Alvar City
+15	兵蜂在这里东南方的地方有一个巨大的巢穴。如果蜂巢变得太大，可能会对这座城市造成相当大的威胁。	Peasants in Alvar City
+16	贾丹姆大陆其它区域的消息要到达艾尔瓦速度实在很慢。不知道商人们是否知道其它地方发生了什么事情？	Peasants in Alvar City
+17	火海摧毁了我们的村庄！不知道我们还可以活多久！	Peasants in Ironsand/Rust
+18	在村庄被毁之后，我们竟然还又遇到了独眼巨人强盗，我们根本没有希望活下去了！	Peasants in Ironsand/Rust
+19	村庄的北边出现了一个奇怪的洞穴，是在火海吞没村庄之后才出现的，我们看到了许多奇怪的生物进入和离开这座洞穴。不知道里面有些什么东西？	Peasants in Ironsand/Rust
+20	在查尔斯·吉科德爵士的率领之下，我们将会把此地的龙患彻底清除！	Dragon Hunters in Fort
+21	在我们狩猎的时候，蛇人已经变成越来越大的问题，我们不只必须要提防天上降下来的飞龙，还必须要提防从地洞中钻出来的蛇人。	Dragon Hunters in Fort
+22	查尔斯·吉科德爵士派我们出来在惠索朋旗下受训，我希望有一天能够成为像他一样伟大的骑士。	Dragon Hunters at Training Camp
+23	许多天以前北边出现过一怪异的光芒。那个疯狂的死灵法师一定又在计画些什么。我希望那是用来对付死灵法师公会，而不是我们的！	Peasants in Shadowspire
+24	昨天晚上又有一场吸血鬼的突袭，真希望我们能够报复。但是死灵法师公会又和吸血圣王有签订盟约，所以我们根本不能怎么样。	Peasants in Shadowspire
+25	我们已经有许多年没有和太阳神殿作战了，我希望最近也不会有。上次我们光是从大战中恢复就花了好多年的时间。	Peasants in Shadowspire
+26	愿所有走在光之道路中的人都获得荣耀！相信您也是光之道路的拥护者吧！	Peasants in Murmurwoods
+27	北方的森林遭到极大的风暴袭击！这已经把石化蜥蜴、鬼火和独角兽都赶到更靠近神殿的地方！	Peasants in Murmurwoods
+28	滚吧！我们不需要你，除非你想要被双足翼龙给吃掉！	Ogres in Ravage Roaming by Zog's fort
+29	在这个峡谷里面都充满了水之后，我们在巴尔萨煞实在很少看见什么旅行者了。不知道这些牛头人还有没有活着的。	Ogres in Ravage Roaming by boat dock
+30	最好小心一点！恐怖海盗史坦力不喜欢岛上有人走来走去。	Peasant Pirates of Regna
+31	如果我们可以征服匕伤岛，那么就再也没有事情可以阻止我们劫掠艾尔瓦，甚至是鸦岸了！	Peasant Pirates of Regna
+32	我昨天晚上看见湾区对面的老废墟里面有火光闪动，不知道发生了什么事情？	Peasant Pirates of Regna
+33	多谢帮助我们把水排干！	Peasant Minotaurs in Balzathar Lair
+34	现在水已经干了，我们可以把一切事情都恢复到淹水前的情况了。但是，洪水如果再来怎么办？我们安全吗？	Peasant Minotaurs in Balzathar Lair
+35	如果你还没有找到我们的领袖马苏尔，请赶快去找他。他应该会奖赏你协助我们的努力。	Peasant Minotaurs in Balzathar Lair
+36	Group 36	
+37	Group 37	 
+38	这里没什么好看的，快走吧。	 
+39	走在光之道路上，朋友们。	Clerics(area 7)
+40	欢迎来到我们的圣殿。如果你有重要的事情，请找寻我们的首席祭司，奥斯卡·提尔，他的办公室就在神殿里面。	Clerics(area 7)
+41	你吵我干什么？去找公会会长山德罗，他负责应付客人，快滚！	Nercros in guild
+42	别档路，俗人！你干扰了我的思绪，我正在思考重要的事情！	Necros in guild
+43	我希望这场和龙的战争永远不要结束。查尔斯付给我们这些佣兵的钱相当丰厚！	Rogues inside Dragon Hunter's Fort
+44	我们的国王达夫克劳承诺要和你结盟。但是你最好给我小心一点，惹起任何麻烦，我都会把你给当点心吃掉。	dragons when allied
+45	我们的国王达夫克劳承诺要和你结盟。但是你最好给我小心一点，惹起任何麻烦，我都会把你给当点心吃掉。	dragons when allied
+46	Group 46	
+47	Group 47	
+48	Group 48	
+49	Group 49	
+50		Used for the non-talkative friendly monsters

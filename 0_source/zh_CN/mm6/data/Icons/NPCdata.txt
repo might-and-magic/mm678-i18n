@@ -1,0 +1,401 @@
+NPC Data (Special)	Unter		BTB check			Current	Profession	Join	News	Event	Event	Event	
+#	姓名	Pic	State	Fame	Rep	2D Location	 1 - 76	Y / N	Y / N	# A	# B	# C	Notes
+1	安多弗·波特皮洛	81	0	0	0	92	74	0	0	1	296	0	gives money for the sixth letter and retrieve candelabra quest
+2	玛利亚	126	0	0	0	92	48	0	1	8	0	0	gives clue for marketing promotion.
+3	弗兰克·费尔基德	187	0	0	0	89	0	0	1	324	326	0	Gives the save the mom quest and takes letter from d6
+4	威尔伯·汉弗里	553	0	0	0	154	0	0	0	9	13	0	Council Quest and Promotion Quest.
+5	阿尔伯特·牛顿	527	0	0	0	156	0	0	0	51	55	0	Council Quest and Promotion Quest.
+6	奥斯里克·坦普	524	0	0	0	158	0	0	0	61	65	0	Council Quest and Promotion Quest.
+7	查德威克·布莱克普尔	39	0	0	0	106	0	0	1	0	0	0	Gives nomination for Cavalier Quest - is supposed to be in Free Haven inn
+8	神使	523	0	0	0	170	0	0	0	73	74	0	Return the crystals and pyramid quests
+9	先知	522	0	0	0	169	0	0	0	41	45	46	"Seer quest, item return, and hint"
+10	马顿·费里斯	11	0	0	0	249	42	0	1	0	0	396	Divine Intervention quest
+11	米拉达·席尔瓦	164	0	0	0	-1	0	0	0	31	0	0	The damsel in distress for the paladin quest
+12	阿基巴德·艾恩法斯特	554	0	0	0	553	0	0	0	30	0	0	Need picture from heroes 2
+13	尼古拉·艾恩法斯特	526	0	0	0	154	0	0	0	18	25	0	Need a new picture
+14	劳里达·弗丽斯	528	0	0	0	162	0	0	0	79	82	0	
+15	埃里克·冯·斯壮姆嘉德	529	0	0	0	164	0	0	0	87	91	0	
+16	安东尼·斯通	525	0	0	0	160	0	0	0	32	35	0	
+17	贼盗王子	396	0	0	0	-1	0	0	0	98	0	0	
+18		0	0	0	0	0	0	0	0	0	0	0	removed
+19	深山隐士	225	0	0	0	552	0	0	0	95	0	0	winter quest for Stromgard
+20	亚伦·斯壮姆	1	0	0	0	428	13	0	0	202	261	0	"Sword Expert, door next to weaponshop (D3)"
+21	伯纳德·雅各布斯	2	0	0	0	462	13	0	0	246	283	0	Repair expert (E2)
+22	贝尼托·德尔曼	3	0	0	400	437	13	0	0	222	271	0	"Plate expert, 4 buildings south of Ironfist (D3)"
+23	福雷斯特·萨德斯	4	0	0	0	299	14	0	0	223	0	0	Plate Master (C2)
+24	约翰·特克	5	0	800	0	407	14	0	0	259	0	0	Learning master (D1)
+25	凯尔·路特维格	6	0	0	0	268	77	0	1	0	0	0	child
+26	戴维·费什	7	0	0	0	335	14	0	0	221	0	0	chain master (C3)
+27	里奇·汉堡	8	0	0	400	436	13	0	0	220	270	0	"chain expert, 4 buildings south of Ironfist (D3)"
+28	苏珊·汉德勒邦	9	0	0	0	0	77	0	1	0	0	0	child
+29	威尔·奥特曼	10	0	800	0	397	13	0	0	245	289	0	merchant master (D1)
+30	诺亚·怀特	11	0	0	0	260	14	1	1	0	0	0	instructor
+31	卡尔文·布莱克	12	0	0	200	460	13	0	0	200	260	0	staff expert (E2)
+32	阿维里·辛西亚	13	0	0	0	102	15	0	0	290	0	0	"Good dwarf who gives defeat Snergal quest, Master axe (C3)"
+33	哈罗德·赫斯	14	0	0	0	473	55	0	0	0	0	386	Merc Guild Membership (E3)
+34	雅克·科尔	15	0	0	200	276	14	0	0	255	0	0	diplomacy master (C1)
+35	蒂姆·欧胡里汉	16	0	0	0	319	13	0	0	236	278	0	body expert (C2)
+36	弗雷德里克·派尔斯	17	0	0	400	274	46	0	1	0	0	386	Merc Guild Membership (C1)
+37	查尔斯·德索匹格	18	0	0	0	90	15	0	0	292	0	0	Constable in Mist who gives the prove Silver Helms are bad quest
+38	肯特·威廉姆斯	19	0	0	0	301	32	0	1	0	0	0	Person who sells house in Free Haven
+39	戈登·斯泰尔斯	20	0	0	0	441	2	1	1	0	0	0	armorer
+40	多夫	21	0	0	0	480	13	0	0	200	260	0	"staff expert, Bottom middle building (E3)"
+41	特威伦	22	0	0	0	0	41	0	1	354	0	0	"Young Twillen, after the statuette quest"
+42	特伦斯·史密斯	23	0	0	-300	431	13	0	0	204	262	0	"dagger expert, behind tavern below Ironfist  (D3)"
+43	萨穆森·德斯	24	0	0	0	-1	73	0	1	348	0	0	Human guard in Goblinwatch after quest complete
+44	哈珀·柯林斯	25	0	0	400	459	14	0	0	229	0	392	water master (E2)
+45	阿伦·塞勒	26	0	0	0	272	13	0	0	219	0	0	leather master (C1)
+46	贝特朗·斯科里弗纳	27	0	0	0	90	23	0	0	294	0	0	Mayor in Mist Town Hall
+47	彼得·伊万诺维奇	28	0	0	0	432	7	1	1	0	0	0	pathfinder
+48	迈克尔·奥格威	29	0	0	0	321	46	0	0	202	261	0	Sword expert (C2)
+49	伯妮斯·哈特	30	0	0	0	405	3	1	1	0	0	0	alchemist
+50	苔丝·塔克	31	0	0	-300	258	51	0	1	0	0	385	Thief Guild Membership (B2)
+51	赫克托·德拉基德	32	0	0	0	0	0	0	0	0	0	0	
+52	盖·汉普顿	33	0	0	0	250	14	0	0	203	0	0	sword master (B2)
+53	贺拉斯·罗斯	34	0	0	400	370	46	0	1	0	0	388	Merc Guild Membership (D1)
+54	法拉格	35	0	0	0	474	41	0	0	349	0	0	Mage from the intro
+55	吉尔伯特·汉默	36	0	0	0	402	14	0	0	237	0	0	body master (D1)
+56	莱昂·拉扎鲁	37	0	0	-200	429	13	0	0	242	281	0	"identify expert, 2 houses by gate (D3)"
+57	马克罗·卡利古拉	38	0	0	0	336	14	0	0	253	0	0	perception master (C3)
+58	奥维·考威尔	39	0	0	0	476	4	1	1	0	0	0	scholar
+59	拉吉·奥斯特	40	0	0	-300	371	51	0	1	0	0	384	Thief Guild Membership (D1)
+60	贡萨洛·拉米雷斯	41	0	0	200	461	0	0	0	208	264	387	spear expert (E2)
+61	马塞勒斯·路特维格	42	0	0	-300	268	51	0	1	0	0	384	Thief Guild Membership (C1)
+62	埃里克·萨尔茨伯格	43	0	0	0	482	13	0	0	248	284	0	"bodybuilding expert, 2 big houses east (E3)"
+63	艾哈迈德·阿桑兹	44	0	0	0	238	5	1	1	0	0	0	guide
+64	塞尔吉奥·卡林顿	45	0	0	-300	286	51	0	1	0	0	385	Thief Guild Membership (C2)
+65	萨阿德·沙美尔	46	0	0	0	0	0	0	0	0	0	0	
+66	吉姆·哈蒙德	47	0	0	0	-1	0	0	1	301	0	0	Dwarf prisoner that gives key to d5
+67	沃尔特·哈格里夫斯	48	0	0	0	425	13	0	0	254	287	0	"diplomacy expert, upstairs Ironfist (D3)"
+68	维吉尔·霍里德	49	0	0	0	468	13	0	0	234	277	0	"mind expert, west 5 poor houses (E3)"
+69	沃伦·霍尔姆斯	50	0	0	0	278	17	0	1	0	0	381	Elemental Guild Membership (C1)
+70	泰勒·泰勒	51	0	0	-200	430	13	0	0	256	288	0	"disarm expert, 2 houses by gate (D3)"
+71	西尔维斯特·摩尔	52	0	0	0	304	13	0	0	254	287	0	diplomacy expert (C2)
+72	维克多·霍森	53	0	0	0	481	13	0	0	250	285	0	"meditation expert, 2 big houses east (E3)"
+73	坦恩·罗珀	54	0	0	0	401	14	0	0	235	0	0	mind master (D1)
+74	奥利弗·温德尔	55	0	0	0	-1	0	0	0	302	0	0	Monk who gives party info in d7
+75	温斯顿·希斯托里安	56	0	0	400	287	46	0	1	0	0	387	Merc Guild Membership (C2)
+76	佐尔丹·菲尔普	57	0	0	0	296	21	0	0	322	0	0	Gives quest to retrieve lost artifact
+77	安德鲁·贝斯普	58	0	0	0	433	31	0	0	303	0	388	Gives quest to retrieve harp
+78	艾伦·洛克威	59	0	0	0	396	48	1	1	0	0	0	gypsy
+79	欧拉夫·贝林	60	0	0	0	440	13	0	0	248	284	0	bodybuilding expert (D3)
+80	纳丁·海登	0	0	0	0	0	0	0	0	0	0	0	"Guild of light proprietor (npc 61), picture used ?"
+81	伊绍·麦吉斯特鲁斯	62	0	0	0	465	13	0	0	224	272	0	"fire expert, west 5 poor houses (E3)"
+82	利维娅·法雷尔	63	0	0	0	303	13	0	0	244	282	0	merchant expert (C2)
+83	埃诺克·黑格里奇	64	0	0	0	467	13	0	0	232	276	0	"spirit expert, west 5 poor houses (E3)"
+84	埃德加·卡朋特	65	0	0	400	434	13	0	0	216	268	0	"shield expert, 4 buildings south of Ironfist (D3)"
+85	汉斯·吉福德	66	0	0	0	285	14	0	0	243	0	0	identify master (C2)
+86	艾萨克·斯特里曼	67	0	0	0	369	17	0	1	0	0	382	Self Guild Membership (D1)
+87	特温伦	68	0	0	0	253	41	0	0	351	353	0	Statuette Quest
+88	娜奥米·海兰德	69	0	0	0	475	10	1	1	0	0	0	healer
+89	埃罗尔·奥斯特曼	70	0	0	0	252	14	0	0	213	0	0	mace master (B2)
+90	加布·莱斯特	71	0	0	-600	275	14	0	0	257	0	0	disarm master (C1)
+91	迪克森·帕克斯	72	0	0	0	270	13	0	0	212	266	0	mace expert (C1)
+92	塔考	73	0	0	0	323	13	0	0	216	268	0	shield expert (C2)
+93	杰德·莫里森	74	0	0	0	269	13	0	0	210	265	0	bow expert (C1)
+94	道格拉斯·希尔	75	0	0	0	477	13	0	0	228	274	0	"water expert, on luck island (E3)"
+95	埃尔顿·阿斯特罗盖特	76	0	0	0	424	13	0	0	258	289	0	"learning expert, upstairs Ironfist (D3)"
+96	莫顿·霍洛文	77	0	0	-800	273	13	0	0	240	280	0	dark expert (C1)
+97	纽特·海德洛	78	0	0	400	435	13	0	0	218	269	0	"leather expert, 4 buildings south of Ironfist (D3)"
+98	雅斯曼·斯派塞	79	0	0	0	400	11	1	1	0	0	0	expert healer
+99	海伦·蒂尔	80	0	0	0	438	13	0	0	210	265	0	bow expert (D3)
+100	帕特	81	0	0	0	0	0	0	0	0	0	0	Proprietor picture already used.
+101	杰西卡·卡森	82	0	0	0	289	17	0	1	0	0	389	Air Guild Membership (C2)
+102	菲斯·凯伦摩尔	83	0	0	0	260	21	1	1	0	0	0	merchant
+103	金格·阿斯特	84	0	0	0	398	13	1	1	0	0	0	teacher
+104	伊冯娜·达西	85	0	0	0	226	33	1	1	0	0	0	cook
+105	杰扎贝尔	86	0	0	400	455	14	0	0	225	0	391	fire master (E2)
+106	帕特·斯凯拉克	87	0	0	0	448	13	0	0	214	267	0	blaster expert (E1)
+107	多琳·伊斯帕纳	88	0	0	0	332	34	1	1	0	0	0	chef
+108	埃曼纽尔·克拉维兹	89	0	0	0	-1	0	0	1	321	0	0	Husband needed for t8 find the husband quest
+109	李维·博塔尼亚	90	0	0	0	396	14	0	0	231	0	0	earth master (D1)
+110	戴斯·马克布勒	91	0	0	0	0	0	0	0	0	0	0	weird face…not sure what to do with this one.
+111	胡格兄弟	92	0	0	0	351	20	1	1	0	0	0	trader
+112	胡格兄弟	93	0	0	0	406	28	1	1	0	0	0	chimney sweep
+113	胡格兄弟	94	0	0	0	463	8	1	1	0	0	0	sailor
+114	胡格兄弟	95	0	0	0	393	26	1	1	0	0	0	locksmith
+115	格雷厄姆·丹西	96	0	0	0	409	24	1	1	0	0	0	barrister
+116	温迪·费瑟希尔	97	0	0	0	354	47	1	1	0	0	0	psychic
+117	多洛雷斯·科拉夫特	98	0	0	0	355	33	1	1	0	0	0	cook
+118	乔安娜·克拉维兹	99	0	0	0	254	52	0	0	317	0	0	Wife for the t8 find the husband quest
+119	霍莉·斯特拉瑟斯	100	0	0	0	368	17	0	1	0	0	390	Earth Guild Membership (D1)
+120	艾克·帕格鲁	101	0	0	0	291	17	0	1	0	0	390	Earth Guild Membership (C2)
+121	科瑞·鲁兹伯格	102	0	0	0	288	17	0	1	0	0	391	Fire Guild Membership (C2)
+122	普雷斯腾·哈珀	103	0	0	200	414	13	0	0	220	270	0	chain expert (D2)
+123	蒂娜·谢尔丹	104	0	0	800	389	13	0	0	238	279	0	light expert (D1)
+124	罗克珊·谢尔丹	105	0	0	0	389	77	0	0	0	0	0	child
+125	塔拉·德凯赛	106	0	0	0	484	13	0	0	252	286	0	"perception expert, above tavern (E3)"
+126	维拉·格拉斯林	107	0	0	0	388	36	1	1	0	0	0	bard
+127	艾玛·特伦斯	108	0	0	0	387	59	1	1	0	0	0	weaver
+128	奥利维亚·特伦佩特	109	0	0	0	386	58	1	1	0	0	0	potter
+129	丽贝卡·特拉弗勒	110	0	0	0	284	77	0	0	0	0	0	child
+130	李克斯拉	111	0	0	0	223	14	0	0	215	0	0	master blaster (A2)
+131	米里娅姆·古德维夫	112	0	0	0	227	32	1	1	0	0	0	banker
+132	多梅尼克·华雷斯	113	0	0	0	290	17	0	1	0	0	392	Water Guild Membership (C2)
+133	格雷琴·法尔曾	114	0	0	0	384	54	1	1	0	0	0	tailor
+134	埃德娜·哈门诺夫	115	0	0	0	446	55	1	1	0	0	0	laborer
+135	朱莉·库珀	116	0	0	0	395	56	1	1	0	0	0	farmer
+136	埃塞尔·阿姆斯特朗	117	0	0	0	349	70	1	1	0	0	0	scribe
+137	伯妮斯·韦弗	118	0	0	600	442	17	0	1	0	0	393	Body Guild Membership (D3)
+138	毕肖普·因奎斯托里奥	119	0	0	600	426	14	0	0	233	0	395	"spirit master, behind Ironfist (D3)"
+139	伊娃·森普尔	120	0	0	100	350	14	1	1	0	0	0	instructor
+140	盖尔·阿什滕加德	121	0	0	0	447	53	1	1	0	0	0	serf
+141	达芬·卡洛维	122	0	0	0	344	23	1	1	0	0	0	counselor
+142	斯蒂芬·比格斯	123	0	0	0	439	13	0	0	206	263	0	"axe expert, 2nd door in training (D3)"
+143	莉丽·琼	124	0	0	0	345	19	1	1	0	0	0	spell master
+144	佩姬·伍兹	125	0	0	0	294	17	0	1	0	0	393	Body Guild Membership (C2)
+145	玛利亚	126	0	0	0	0	0	0	0	0	0	0	picture already used by maria the gypsy
+146	爱丽丝·奥芬豪斯	127	0	0	0	392	24	1	1	0	0	0	barrister
+147	赛勒斯·蒙特布勒	128	0	0	0	391	13	0	0	246	283	0	repair expert (D1)
+148	唐纳德·莱特泽	129	0	0	0	487	13	0	0	258	289	0	"learning expert, upstairs self guild (E3)"
+149	科迪·里伯	130	0	0	0	419	46	1	1	0	0	0	squire
+150	特雷西·弗劳塔	131	0	0	600	438	17	0	1	0	0	394	Mind Guild Membership (D3)
+151	卡罗尔·罗西尼	132	0	0	0	394	72	1	1	0	0	0	clerk
+152	斯蒂芬妮·帕夫洛夫	133	0	0	0	417	71	1	1	0	0	0	missionary
+153	桑德拉·特鲁多尔	134	0	0	-100	333	74	1	0	0	0	0	follower of Baa
+154	威尔特·德沃森	135	0	0	0	471	58	0	0	328	0	382	(Self Guild Membership and Rescue Angela)
+155	谢勒尔·伊万诺夫	136	0	0	0	-1	0	0	1	333	0	0	Prisoner of the cannibals in the t3 rescue the prisoner quest
+156	艾尔斯·弗里德曼	137	0	0	0	293	17	0	1	0	0	394	Mind Guild Membership (C2)
+157	贝弗利·斯维特沃特	138	0	0	0	218	4	1	1	0	0	0	scholar
+158	弗洛里梅尔·艾维伦	139	0	0	100	220	75	1	1	0	0	0	noble
+159	斯泰西·法兰德斯	140	0	0	0	348	74	1	0	0	0	0	follower of baa
+160	贝琳达·派克曼	141	0	0	0	347	33	1	1	0	0	0	cook
+161	康妮·莱特林	142	0	0	0	340	13	0	0	206	263	0	axe expert (C3)
+162	钱德拉·斯特里普林	143	0	0	0	346	52	1	1	0	0	0	农民
+163	吉恩·阿克顿	144	0	0	0	418	31	1	1	0	0	0	factor
+164	克莱德·达盖特	145	0	0	0	408	13	0	0	250	285	0	meditation expert (D1)
+165	凯瑟琳·美斯特	146	0	0	0	539	18	1	0	398	0	0	mystic - allows the use of the teleporter (E2)
+166	麦尼西亚	147	0	0	0	320	13	0	0	234	277	0	mind expert (C2)
+167	安伯·普拉特	148	0	0	100	331	36	1	1	0	0	0	bard
+168	卡桑德拉·迪蒙	149	0	0	0	381	42	1	1	0	0	0	acolyte
+169	米歇尔·布莱克谢尔	150	0	0	0	318	13	0	0	232	276	0	spirit expert (C2)
+170	卡莉·鹿特丹	151	0	0	0	330	77	0	0	0	0	0	child
+171	盖贝里·卡特曼	152	0	0	0	295	3	0	0	305	0	0	Alchemist who gives retrieve Ethric's skull quest
+172	凯茜·路德维希	153	0	0	0	338	13	0	0	244	282	0	merchant expert (C3)
+173	希拉·鲁姆普斯	154	0	0	0	483	13	0	0	242	281	0	"identify expert, above tavern (E3)"
+174	朱迪思·舒梅克	155	0	0	0	380	60	1	1	0	0	0	cobbler
+175	塞莱娜·菌柄	156	0	0	-100	538	45	1	1	0	0	0	pirate
+176	威尔玛·罗斯文	157	0	0	0	292	17	0	1	0	0	395	Spirit Guild Membership (C2)
+177	伊万·马格亚	158	0	0	0	283	13	0	0	256	288	0	disarm expert (C2)
+178	尼古拉斯·罗斯	159	0	1600	800	239	13	0	0	238	279	0	light expert (B1)
+179	伯尼·鹿特丹	160	0	0	100	330	0	0	1	116	0	0	Harpy Feather Buyer (C2)
+180	卡奥·塞勒姆	161	0	0	400	458	14	0	0	227	0	389	air master (E2)
+181	布朗温·梅克	162	0	0	400	248	14	0	0	217	0	0	Shield Master (B2)
+182	兰德尔·诺里斯	163	0	0	0	449	9	1	1	0	0	0	navigator
+183		164	0	0	0	0	0	0	0	0	0	0	picture of melody silver
+184	海蒂·斯特朗普	165	0	0	100	329	75	1	1	0	0	0	noble
+185	伊格	166	0	0	0	478	13	0	0	214	267	0	"blaster expert, behind goblin camp (E3)"
+186	伊里斯·波普费尔德	167	0	0	100	328	36	1	1	0	0	0	bard
+187	贾森·特拉弗勒	168	0	800	0	284	14	0	0	249	0	0	bodybuilding master (C2)
+188	德斯蒙德·威勒	169	0	0	0	241	14	0	0	211	0	0	bow master (B1)
+189	杰克·克劳	170	0	0	0	337	13	0	0	212	266	0	mace expert (C3)
+190	哈里特·沃特斯	171	0	0	0	379	57	1	1	0	0	0	cooper
+191	阿维莉娅·阿希德	172	0	0	0	343	22	1	1	0	0	0	scout
+192	凯文·沃奇	173	0	0	0	-1	52	0	1	0	0	0	农民 turned to stone in t8
+193	雪莉·卡耐基	124	0	0	0	-1	0	0	0	327	0	0	"Rescue the Sharry quest, becomes healer in 2D 471 in New Sorpigal"
+194	乔·汉德勒邦	175	0	0	0	261	19	1	1	0	0	0	spell master
+195	安吉拉·德沃森	176	0	0	0	-1	77	0	0	330	0	0	Child for the d2 rescue the lost child quest
+196	亚瑟·欧李雷	177	0	0	-300	457	0	0	0	218	269	383	leather expert (E2)
+197	安布罗斯·布鲁斯	178	0	0	-800	256	13	0	0	240	280	0	dark expert (B2)
+198	弗莱彻·托蒙加斯特	179	0	0	0	-1	52	0	1	0	0	0	农民 turned to stone in t8
+199	以利亚·斯凯拉克	180	0	0	0	448	77	1	1	0	0	0	child
+200	卡尔罗·托米尼	181	0	0	0	297	35	0	0	331	0	0	Gives the t3 rescue the prisoner quest
+201	埃米尔·利姆	182	0	0	0	245	37	0	0	355	0	0	Jewelled Egg Quest
+202	克恩·卡耐基	183	0	0	0	342	15	1	1	0	0	0	arms master
+203	洛根·达什尔	184	0	0	0	322	13	0	0	204	262	0	dagger expert (C2)
+204	佛萝茜·塞特林	185	0	0	0	341	58	1	1	0	0	0	potter
+205	多洛雷斯·菲舍尔	186	0	0	0	378	6	1	1	0	0	0	tracker
+206	伯顿·卢瑟福	187	0	800	0	339	14	0	0	209	0	0	spear master (C3)
+207	布福德·提·奥曼	188	0	0	0	470	24	0	0	308	0	381	(Elemental Guild and kill Spider Queen)
+208	杰克·范因普	189	0	0	0	300	13	0	0	224	272	0	fire expert (C2)
+209	李克斯拉·范因普	190	0	0	0	300	42	1	1	0	0	0	acolyte
+210	朱尔斯·米尔斯	191	0	0	-600	271	14	0	0	205	0	0	dagger master (C1)
+211	瑞安·特里克尔	192	0	0	0	277	13	0	0	247	0	0	repair master (C1)
+212	玛利亚·特里潘	193	0	0	0	251	33	0	0	334	0	0	Gives the free Blackshire from the curse quest
+213	谢丽尔·邓肯	194	0	0	0	485	13	0	0	226	273	0	"air expert, above bank (E3)"
+214	伍德罗·奥尔布赖特	195	0	0	0	298	13	0	0	222	271	0	plate expert (C2)
+215	德罗巴·马潘兹	196	0	0	0	243	27	1	1	0	0	0	fool
+216	塔罗	197	0	0	0	466	13	0	0	230	275	0	"earth expert, west 5 poor houses (E3)"
+217	玛德琳·陶尔斯	198	0	0	0	376	21	1	1	0	0	0	merchant
+218	法比安·森	199	0	0	0	313	30	1	1	0	0	0	quarter master
+219	班达·加荣	221	0	0	0	557	0	0	1	135	0	0	Lamp Trader (B3)
+220	实留本多理	201	0	0	0	324	77	0	1	0	0	0	child
+221	连凯	202	0	0	0	377	59	1	1	0	0	0	weaver
+222	金银甫	203	0	0	0	236	23	1	1	0	0	0	counselor
+223	实留本仁美	204	0	0	0	324	13	0	0	228	274	0	water expert (C2)
+224	西拉·达翁	205	0	0	100	235	14	1	1	0	0	0	instructor
+225	阿卜杜拉·马格里布	206	0	0	0	469	13	0	0	236	278	0	"body expert, west 5 poor houses (E3)"
+226	希塔妮娅·雷蒂亚尼	207	0	0	0	315	58	1	1	0	0	0	potter
+227	西格里伍	208	0	0	0	390	13	0	0	208	264	0	spear expert (D1)
+228	米拉·汉	209	0	0	0	464	47	1	1	0	0	0	psychic
+229	诺里奥·阿里加纳卡	210	0	0	600	456	14	0	0	251	0	0	meditation master (E2)
+230	索西·波顿尼基	211	0	0	-200	415	13	0	0	252	286	0	perception expert (D2)
+231	莉娅·鲁	212	0	0	0	411	77	0	1	0	0	0	child
+232	罗迪尼亚·希达拉	213	0	0	0	244	43	1	1	0	0	0	piper
+233	因蒂希尔·维兰蒂	214	0	0	0	356	29	1	1	0	0	0	porter
+234	塔里诺·加玛	215	0	0	0	225	62	1	1	0	0	0	miller
+235	阿克巴	216	0	0	0	357	30	1	1	0	0	0	quarter master
+236	李·提扎尔	217	0	0	0	325	13	0	0	230	275	0	earth expert (C2)
+237	宋·鲁	218	0	0	0	411	40	1	1	0	0	0	water master
+238	佐达恩·德尔菲	219	0	0	0	326	13	0	0	226	273	0	air expert (C2)
+239	洛瑞·陶	220	0	0	0	312	74	1	0	0	0	0	follower of baa
+240	斯里·雷蒂亚尼	238	0	0	0	315	77	0	1	0	0	0	child
+241	黛拉·周	239	0	0	0	0	77	0	1	0	0	0	child
+242	格黑·马苏	249	0	0	0	359	43	1	1	0	0	0	piper
+243	西莉卡·托里纳	251	0	0	100	450	39	1	1	0	0	0	wind master
+244	米拉达·斯通	252	0	0	0	372	38	1	1	0	0	0	cartographer
+245	丽贝卡·卡拉维	253	0	0	-600	255	17	0	1	0	0	397	Dark Guild Membership (B2)
+246	弗吉尼亚·斯坦德里吉	254	0	0	600	367	17	0	1	0	0	396	Light Guild Membership (D1)
+247	达娜·费恩斯特	256	0	0	0	0	0	0	0	0	0	0	"proprietor light guild, picture already used"
+248	洛克希娜·斯莫伦斯卡	257	0	0	0	427	25	1	1	0	0	0	tinker
+249	贝丝·汤普森	258	0	0	100	360	40	1	1	0	0	0	water master
+250	威尔玛·库克	259	0	0	100	307	41	1	1	0	0	0	gate master
+251	莱斯娅·马杜克	260	0	0	-100	540	51	1	1	0	0	0	burglar
+252	米罗·希奈克	263	0	0	0	399	35	1	1	0	0	0	horseman
+253	安阿瓦	271	0	0	0	374	29	1	1	0	0	0	porter
+254	米西·米西·纳努克	273	0	0	0	358	55	1	1	0	0	0	laborer
+255	苏朗满	274	0	0	-1000	216	14	0	0	241	0	0	dark master (A2)
+256	尼根	278	0	0	0	373	15	1	1	0	0	0	arms master
+257	寅长嘉智子	283	0	0	100	420	36	1	1	0	0	0	bard
+258	贾斯伯·莱斯	289	0	0	0	366	14	0	0	201	0	0	staff master (D1)
+259	伊绍·提扎尔	295	0	0	0	325	77	1	1	0	0	0	child
+260	海瑟·米切尔	296	0	0	0	240	49	1	1	0	0	0	negotiator
+261	琳达·尼科尔斯	297	0	0	0	421	17	1	1	0	0	0	apprentice
+262	斯威特南塔·伊尔库茨克	298	0	0	0	422	19	1	1	0	0	0	spell master
+263	雷切尔·赫茨尔	299	0	0	-600	279	17	0	1	0	0	397	Dark Guild Membership (C1)
+264	罗斯玛丽·雷雅未克	300	0	0	0	306	21	1	1	0	0	0	merchant
+265	米里娅姆·博伊尔	301	0	0	0	302	16	1	1	0	0	0	weapons master
+266	娜奥米·温德	302	0	0	0	261	41	1	1	0	0	0	gate master
+267	埃里诺·范德贝尔特	303	0	0	0	385	7	0	0	310	0	0	Gives the deface the altar quest
+268	格特鲁德·瓦勒	304	0	0	0	262	39	1	1	0	0	0	wind master
+269	阿曼达·范德坎普	305	0	0	-100	280	76	1	1	0	0	0	gambler
+270	莎拉·奎因	306	0	0	0	282	12	1	1	0	0	0	master healer
+271	德莉亚·博瓦纳	307	0	0	0	262	40	1	1	0	0	0	water master
+272	奇罗尼	375	0	0	1000	444	14	0	0	239	0	0	Light Master (E1)
+273	罗西塔·亚历山大	316	0	0	100	281	75	1	1	0	0	0	noble
+274	劳	325	0	0	0	309	63	1	1	0	0	0	carpenter
+275	尼科比	328	0	0	0	310	22	1	1	0	0	0	scout
+276	博勒加德·沃尔夫	358	0	0	-100	311	50	1	1	0	0	0	duper
+277	莱赛德·法雷尔	381	0	0	0	303	77	0	1	0	0	0	child
+278	贝基·霍尔姆斯	382	0	0	0	278	77	0	1	0	0	0	child
+279	金·阿斯特罗盖特	383	0	0	0	424	77	0	1	0	0	0	child
+280	威廉·塔克	384	0	0	0	258	77	0	1	0	0	0	child
+281	丹尼斯·约翰逊	385	0	0	0	0	77	0	1	0	0	0	Stable proprietor picture used
+282	珍妮弗·赫茨尔	386	0	0	0	279	77	0	1	0	0	0	child
+283	克里斯托弗·史密斯	387	0	0	0	431	77	0	1	0	0	0	child
+284	乔治·阿尔蒙德	389	0	0	0	305	64	1	1	0	0	0	stonecutter
+285	丹尼尔·卡耐基	390	0	0	0	342	77	0	1	0	0	0	child
+286	嘉莉·卡拉维	391	0	0	0	255	77	0	1	0	0	0	child
+287	迪尼·马格里布	392	0	0	0	469	77	0	1	0	0	0	child
+288	黑加·毛瑟	345	0	0	0	472	18	0	0	312	0	383	(Thief Guild Membership and Cobra Eggs)
+289	巴拉德·恩特	362	0	0	0	263	32	1	1	0	0	0	banker
+290	温斯顿·舒则	352	0	0	0	416	42	0	0	315	0	0	Gives destroy wicked crystal quest
+291	贾尼斯	537	0	0	0	89	72	0	0	3	0	399	Gives Goblinwatch and Temple of Baa quest - Monster Hunt
+292	欧尼斯特	538	0	0	0	90	72	0	0	0	0	399	Monster Hunt
+293	杰克	536	0	0	0	91	72	0	0	0	0	399	Monster Hunt
+294	约翰·席尔瓦的幽灵	394	0	0	0	-1	0	0	0	298	299	300	Ghost in d12
+295	幽灵巴塞萨	393	0	0	0	-1	0	0	0	338	339	340	Paladin ghost in d17
+296	尤克	552	0	0	0	486	0	0	0	347	0	0	Goblin guard in Goblinwatch
+297	阿里乌斯·佩雷斯	225	0	0	0	-1	0	0	0	0	0	0	Toll bridge NPC
+298	烈火爵士	395	0	0	0	-1	0	0	0	357	358	359	Lord of Fire NPC in d4
+299	普雷斯腾·斯蒂尔	539	0	0	0	165	0	0	0	375	0	0	Osric Temper's councilman
+300	多莉·哥德曼	540	0	0	0	165	0	0	0	376	0	0	Loretta's councilwoman
+301	艾萨克·洛克威尔	541	0	0	0	165	0	0	0	377	0	0	Anthony Stone's councilman
+302	欧拉夫·海德尔	542	0	0	0	165	0	0	0	378	0	0	Stromgard's councilman
+303	欧几里得·开普勒	543	0	0	0	165	0	0	0	379	0	0	Newton's councilman
+304	斯里克·席尔瓦托恩	544	0	0	0	165	0	0	0	380	0	0	the traitor
+305	劳里达·弗丽斯	528	0	0	0	-1	0	0	0	365	0	0	loretta for the first druid promo
+306	劳里达·弗丽斯	528	0	0	0	-1	0	0	0	366	0	0	loretta for the second druid promo
+307	竞技场主人	649	0	0	0	-1	0	0	0	400	0	0	Arena Master for Arena
+308	斯洛旺·阿卡诺斯	1	0	0	0	204	1	1	1	0	0	0	Smith
+309	布赖恩·特拉梅尔	2	0	0	0	205	2	1	1	0	0	0	Armorer
+310	肯·乔马斯	3	0	0	0	211	3	1	1	0	0	0	Alchemist
+311	克里斯蒂安·维拉	4	0	0	0	212	4	1	1	0	0	0	Scholar
+312	迈克尔·特克	5	0	0	0	213	5	1	1	0	0	0	Guide
+313	安东尼·哈格莱恩	7	0	0	0	215	6	1	1	0	0	0	Tracker
+314	米尔斯·洛曼	8	0	0	0	217	7	1	1	0	0	0	Pathfinder
+315	泽克·麦哲伦	10	0	0	0	219	8	1	1	0	0	0	Sailor
+316	提戈·赫尔姆斯	11	0	0	0	221	9	1	1	0	0	0	Navigator
+317	沃尔夫·阿姆斯特朗	12	0	0	0	222	10	1	1	0	0	0	Healer
+318	洛克威尔·亨德林	13	0	0	0	237	11	1	1	0	0	0	Expert Healer
+319	卡尔·莫拉米尔	14	0	0	0	242	12	1	1	0	0	0	Master Healer
+320	范斯·科尼利厄斯	15	0	0	0	246	13	1	1	0	0	0	Teacher
+321	诺里斯·霍顿	16	0	0	0	263	24	1	1	0	0	0	barrister
+322	斯蒂莱·布洛克	17	0	0	0	259	15	1	1	0	0	0	Arms Master
+323	阿卜杜	223	0	0	0	266	0	0	0	124	125	0	Abdul (B3)
+324	纳加特·拉马笛	216	0	0	0	267	0	0	0	126	129	132	Armor Pyramid (B3)
+325	汉斯·舒尔茨	20	0	0	0	308	18	1	1	0	0	0	Mystic
+326	唐纳德·多夫斯	21	0	0	0	314	19	1	1	0	0	0	Spell Master
+327	理查德·哈普	22	0	0	0	316	20	1	1	0	0	0	Trader
+328	斯蒂芬·伊阿古	23	0	0	0	317	21	1	1	0	0	0	Merchant
+329	劳伦斯·艾尔曼	24	0	0	0	327	0	0	1	113	0	0	Temple Gong buyer (C2)
+330	德里·罗斯	25	0	0	0	352	19	0	0	122	0	0	Lich Book Quest (C3)
+331	亚历克斯·莫罗	26	0	0	0	353	25	1	1	0	0	0	Barrister
+332	卡斯特·利思戈	27	0	0	0	375	24	1	1	0	0	0	Tinker
+333	伊格·伊万诺维奇	28	0	0	0	382	28	1	1	0	0	0	Locksmith
+334	雅克·罗斯科蒙	29	0	0	0	383	27	1	1	0	0	0	Fool
+335	希拉·温德	30	0	0	0	403	26	1	1	0	0	0	Chimney Sweep
+336	布朗温·布鲁	31	0	0	0	404	29	1	1	0	0	0	Porter
+337	丹尼尔·弗洛斯米尼	32	0	0	0	410	30	1	1	0	0	0	Quarter Master
+338	本杰明·索斯兰德	33	0	0	0	494	31	1	1	0	0	0	Factor
+339	哈罗德·安文	34	0	0	0	495	32	1	1	0	0	0	Banker
+340	李奥·格兰特	35	0	0	0	496	33	1	1	0	0	0	Cook
+341	朗·汉默	36	0	0	0	497	34	1	1	0	0	0	Chef
+342	戴维·派克	37	0	0	0	498	35	1	1	0	0	0	Horseman
+343	巴里·谢菲德	38	0	0	0	499	36	1	1	0	0	0	Bard
+344	罗宾·朗	39	0	0	0	500	37	1	1	0	0	0	Enchanter
+345	多姆·马里科托	40	0	0	0	501	38	1	1	0	0	0	Cartographer
+346	约瑟夫·罗格尔	41	0	0	0	502	39	1	1	0	0	0	Wind Master
+347	朱尔特·班蒂托	42	0	0	0	503	40	1	1	0	0	0	Water Master
+348	皮特·哈科宁	43	0	0	0	504	41	1	1	0	0	0	Gate Master
+349	索尔·福格	44	0	0	0	505	42	1	1	0	0	0	Acolyte
+350	亚瑟·杰尔尼格	45	0	0	0	506	43	1	1	0	0	0	Piper
+351	阿贝·马可诺维奇	46	0	0	0	507	44	1	1	0	0	0	Explorer
+352	谢尔·斯泰因维	47	0	0	0	508	45	1	1	0	0	0	Pirate
+353	莱斯·帕克	48	0	0	0	509	46	1	1	0	0	0	Squire
+354	雷·博斯韦尔	49	0	0	0	510	47	1	1	0	0	0	Psychic
+355	斯莱·席尔瓦斯通	50	0	0	0	511	48	1	1	0	0	0	Gypsy
+356	马克·提根	51	0	0	0	512	49	1	1	0	0	0	Negotiator
+357	哈珀·耐克	52	0	0	0	513	50	1	1	0	0	0	Duper
+358	特雷弗·琼斯	53	0	0	0	514	51	1	1	0	0	0	Burglar
+359	杰罗尔德·戴恩	54	0	0	0	515	52	1	1	0	0	0	农民
+360	皮斯·斯特林格	55	0	0	0	516	53	1	1	0	0	0	Serf
+361	特伦特·詹姆森	56	0	0	0	517	54	1	1	0	0	0	Tailor
+362	伊夫·米克斯	57	0	0	0	518	55	1	1	0	0	0	Laborer
+363	狄恩·弗林普	58	0	0	0	519	56	1	1	0	0	0	Farmer
+364	丽莎·珍维	59	0	0	0	520	57	1	1	0	0	0	Cooper
+365	托尔·布洛克	60	0	0	0	521	58	1	1	0	0	0	Potter
+366	谢丽尔·阿曼森	61	0	0	0	522	59	1	1	0	0	0	Weaver
+367	莱尔·罗马	62	0	0	0	523	75	1	1	0	0	0	noble
+368	蕾妮·布莱克本	63	0	0	0	524	0	0	1	117	0	0	Golden Pyramid Buyer (C2)
+369	朗·米勒	64	0	0	0	525	0	0	1	114	0	0	Bone Buyer (C2)
+370	戴维斯·卡普	65	0	0	0	526	0	0	1	115	0	0	Lodestone Buyer (C2)
+371	尼克·费恩斯特	66	0	0	0	527	0	0	1	118	0	0	Keg of Wine Buyer (C2)
+372	塞·罗斯	67	0	0	0	528	0	0	1	119	0	0	Tooth Buyer (C2)
+373	摩特·阿诺斯蒂	68	0	0	0	529	66	1	1	0	0	0	Trapper
+374	杰夫·索斯	70	0	0	0	530	0	0	1	120	0	0	Four Leaf Clover Buyer (C2)
+375	迪伦·罗宾逊	71	0	0	0	531	0	0	1	121	0	0	Amber Buyer (C2)
+376	伊恩·特罗姆	73	0	0	0	264	20	1	1	0	0	0	locksmith
+377	达斯·卡特莱特	74	0	0	0	264	16	1	1	0	0	0	weapons master
+378	贾森·达斯特	75	0	0	0	265	37	1	1	0	0	0	enchanter
+379	保罗·哈布斯伯格	76	0	0	0	265	12	1	1	0	0	0	master healer
+380	科曼·默里安	226	0	0	0	555	0	0	0	127	130	133	Weapon Trader (B3)
+381	埃贝尔·巴卡塔里亚	378	0	0	0	556	0	0	0	128	131	134	Misc Trader (B3)
+382	特雷西·里瑟	83	0	0	0	541	75	1	1	0	0	0	Noble
+383	泰·科涅克	89	0	0	0	542	76	1	1	0	0	0	Gambler
+384	乔伊·布朗	99	0	0	0	543	1	1	1	0	0	0	Smith
+385	拉里·多夫曼	101	0	0	0	544	2	1	1	0	0	0	Armorer
+386	内罗·克劳狄乌斯	102	0	0	0	545	3	1	1	0	0	0	Alchemist
+387	德鲁西斯·蒂贝里奥	103	0	0	0	546	4	1	1	0	0	0	Scholar
+388	伊里斯·安波	106	0	0	0	547	5	1	1	0	0	0	Guide
+389	康迪斯·斯特里普	112	0	0	0	548	6	1	1	0	0	0	Tracker
+390	鲁斯·霍克沃勒	128	0	0	0	549	7	1	1	0	0	0	Pathfinder
+391	杰克·格林	145	0	0	0	550	8	1	1	0	0	0	Sailor
+392	马戏团主人火焰先生	602	0	0	0	166	0	0	0	104	105	0	Circus Master
+393	威廉·塔奎恩爵士	635	0	0	0	532	0	0	0	106	107	0	Might Game
+394	皮普·达克斯通	617	0	0	0	533	0	0	0	106	108	0	Endurance Game
+395	沙拉兹·扎拉斯	624	0	0	0	534	0	0	0	106	109	0	Speed Game
+396	阿苏勒·温德宋	612	0	0	0	535	0	0	0	106	110	0	Accuracy Game
+397	格尼米什·高罗斯	653	0	0	0	536	0	0	0	106	111	0	Luck Game
+398	特勒伦·普伦蒂斯	615	0	0	0	537	0	0	0	106	112	0	Intellect Game
+	

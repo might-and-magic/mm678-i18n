@@ -1,0 +1,71 @@
+各类项目的特定分数值																
+																
+统计数值	名称	W1	W2	Miss	Arm	Shld	Helm	Belt	Cape	Gaunt	Boot	Ring	Amul	Value	Lvl	Description fo special Bonuses and values
+																
+四项元素抗性+10	保护类	0	0	0	10	10	10	0	10	0	0	10	10	1000	B	(+10) on all four resistances
+七项指标+10	众神类	5	5	5	10	10	10	10	10	10	10	10	10	3000	D	(+10) on all 7 stats
+爆炸连带杀伤效果！	屠杀类	0	0	10	0	0	0	0	0	0	0	0	0	5000	D	"projectile explodes (fireball radius,dmg=weapdmg)"
+增加3-4点冰系杀伤力	冰冻类	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(3-4) cold damage
+增加6-8点冰系杀伤力	严寒类	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(6-8) cold damage
+增加9-12点冰系杀伤力	寒冰类	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(9-12) cold damage
+增加2-5点电系杀伤力	火花类	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(2-5) elec damage
+增加4-10点电系杀伤力	闪电类	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(4-10) elec damage
+增加6-15点电系杀伤力	雷霆类	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(6-15) elec damage
+增加1-6点火系杀伤力	火焰类	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(1-6) fire damage
+增加2-12点火系杀伤力	烈焰类	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(2-12) fire damage
+增加3-18点火系杀伤力	地狱火类	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(3-18) fire damage
+增加5点毒系杀伤力	毒药类	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(5) pois damage
+增加8点毒系杀伤力	剧毒类	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(8) pois damage
+增加12点毒系杀伤力	强酸类	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(12) pois damage
+吸取对方生命	吸血鬼类	5	5	5	0	0	0	0	0	0	0	0	0	X 2	D	Heal 20% of damage done on attack
+加快受击恢复	恢复类	10	10	10	20	0	20	10	0	0	20	10	10	200	B	(-10) pts on recovery from being hit
+具有防患病能力	免疫类	0	0	0	10	10	10	10	10	0	0	10	10	1000	C	Immune to desease condition
+具有防痴狂能力	理智类	0	0	0	5	5	5	5	5	0	0	5	5	1000	C	immune to insanity condition
+具有防麻痹能力	自由类	0	0	0	10	10	10	10	10	0	0	10	10	2000	D	immune to paralize condition
+具有防中毒能力	抗毒类	0	0	0	10	10	10	10	10	0	0	10	10	1000	C	immune to poison condition
+具有防昏睡能力	警钟类	0	0	0	10	10	10	10	10	0	0	10	10	500	B	immune to sleep condition
+具有防石化能力	美杜莎类	0	0	0	5	5	5	5	5	0	0	5	5	2000	D	immune to stone condition
+增加击退效果	强力类	10	10	10	0	0	0	0	0	0	0	0	0	500	A	Increase knockback effect (X10)
+等级+5	能量类	2	2	2	2	2	2	2	2	2	2	2	2	2500	D	(+5) char level
+提高所有空气魔法的效果	空气魔法类	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+提高所有肢体魔法的效果	肢体魔法类	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+提高所有暗黑魔法的效果	暗黑魔法类	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+提高所有土系魔法的效果	土系魔法类	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+提高所有火系魔法的效果	火系魔法类	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+提高所有光明魔法的效果	光明魔法类	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+提高所有心智魔法的效果	心智魔法类	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+提高所有灵魂魔法的效果	灵魂魔法类	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+提高所有水系魔法的效果	水系魔法类	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+提高陷阱拆除成功率	贼盗类	0	0	0	0	0	0	0	0	20	0	0	0	2000	B	double chance to perform lockpick and steal skill
+使所有飞弹攻击力减半	盾牌类	0	0	0	25	30	0	0	20	0	0	5	5	1000	B	(1/2)dmg from all missle attacks (not cumulative)
+逐渐恢复生命值	再生类	0	0	0	10	0	0	10	10	0	0	10	10	1000	B	"Regenerate 1hp/x while walking, etc"
+逐渐恢复魔法值	魔力类	0	0	0	10	0	10	10	10	10	0	10	10	1000	B	"Regenerate 1sp/x while walking, etc"
+对魔鬼杀伤力加倍	屠魔类	20	20	20	0	0	0	0	0	0	0	0	0	X 2	A	X 2 damage vs all demons
+对巨龙杀伤力加倍	屠龙类	20	20	20	0	0	0	0	0	0	0	0	0	X 2	A	X 2 damage vs all dragons
+吸取对方生命，并提升武器速度	黑暗类	5	5	5	0	0	0	0	0	0	0	0	0	X 3	D	"(-20) pts on weapon speed, Vampiric"
+七项指标、生命值、魔法值、防御等级、四项元素抗性+1	毁灭类	10	10	10	10	10	10	10	10	10	10	10	10	750	B	"(+1) 7stats,hpts,spts,AC,4 resistances"
+耐力、防御等级、生命值+10	泥土类	10	10	10	10	10	10	10	10	10	10	10	10	2000	D	"End (+10), AC (+10), HP (+10)"
+生命值+10，并逐渐恢复	生命类	0	0	0	10	10	10	10	10	10	10	10	10	2000	D	"HP (+10), Regen hpts"
+速度和精确+5	歹徒类	10	10	10	5	5	5	10	20	20	20	10	10	500	A	"Speed (+5), Acc (+5)"
+增加10-20点火系杀伤力，力量+25	巨龙类	10	10	10	0	0	0	0	0	0	0	0	0	3000	D	"(10-20) Fire damage, Might (+25)"
+魔法值+10，并逐渐恢复	月蚀类	0	0	0	0	0	0	10	10	5	10	10	10	2000	D	"SP (+10), Regen spts"
+耐力+15，防御等级+5	人偶类	5	5	5	20	20	10	10	10	10	10	10	10	1500	C	"End (+15), AC (+5)"
+智力和运气+10	月亮类	5	5	5	10	10	20	10	10	10	10	10	10	1000	C	"Luck (+10), Int (+10)"
+火系抗性+30，并逐渐恢复生命值	凤凰类	0	0	0	20	20	20	0	0	0	0	0	0	3000	D	"Fire Res (+30), Regen hpts"
+魔法值、速度、智力+10	天空类	5	5	5	10	10	20	10	10	10	10	10	10	2500	D	"Int (+10), Spd (+10), SP (+10)"
+耐力和精确+10	繁星类	5	5	5	10	10	10	10	20	20	10	10	10	1000	C	"End (+10), Acc (+10)"
+力量和个性+10	太阳类	5	5	5	10	10	10	10	20	20	10	10	10	1000	C	"Might(+10), Per (+10)"
+耐力+15，逐渐恢复生命值	巨魔类	5	5	5	20	20	10	10	10	10	10	10	10	1500	C	"End (+15), Regen hpts"
+运气+15，逐渐恢复魔法值	独角兽类	5	5	5	10	10	20	10	10	10	10	10	10	1500	C	"Luck (+15), Regen spts"
+力量和耐力+5	勇士类	5	5	5	10	10	10	10	10	10	10	10	10	500	A	"Might (+5), End (+5)"
+智力和个性+5	巫师类	5	5	5	5	5	5	10	10	10	10	10	10	500	A	"Intelect (+5), Per (+5)"
+大幅提高物品价值	古董类	10	10	10	10	10	10	0	0	10	0	10	10	X 10	B	Gold value increased
+提高武器速度	迅捷类	25	25	25	0	0	0	0	0	0	0	0	0	X 2	B	(-20) pts on weapon speed
+																
+		437	437	447	307	272	282	232	282	217	182	347	347			
+																
+珠宝等级	珠宝等级															
+A= 3 - 4	如果珠宝等级 = 4 add all A and B and C															
+B= 3 - 5	如果珠宝等级 = 5 add al B and C and D															
+C= 4 - 5	如果珠宝等级 = 6 add all D															
+D= 5 - 6																

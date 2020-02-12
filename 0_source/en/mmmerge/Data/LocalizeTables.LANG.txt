@@ -1,0 +1,59 @@
+Table (of Game struct)	Id	Field	New text
+Houses	48	Name	Tunnels to Eeofol
+Houses	45	Name	Nighon tunnels
+
+ClassNames	47		Master Necromancer
+
+TransTxt	20		As you go deeper into this vast network of tunnels, your instinct tells you that many dangerous creatures dwell within. You vow to remain vigilant.
+TransTxt	22		A thunderous howl pierces your ears, provoking a feeling of dread. Whatever produced that sound is drawing near, with each step rocking the earth beneath your feet.
+
+NPCText	1673		You know what they say, four is a company, five's a crowd. I'm not looking for the latter.
+NPCText	1674		Click again to dismiss 
+NPCText	1675		Click again to hire 
+NPCText	1676		Become %s.
+NPCText	1677		Yes, I'm the one you're looking for. Are you sure you want to walk the path of %s?
+NPCText	1678		Congratulations, %s!
+NPCText	1679		Your kind cannot become %s. Sorry.
+NPCText	1680		Good tidings. I am %s, %s %s. I'd love to see the world and taste the adventure, but it'd be foolish to go alone. Perhaps I could come with you?
+NPCText	1681		I cannot travel with you, your party is too full.
+NPCText	1682		apprentice,skilled,well known,masterful,great
+NPCText	1683		What wretch would want to deal with scum like yourself? Repent for your sins and do not show your face here until you do.
+NPCText	2158		The Controlled Breach is a place the consortium has created where it’s possible to see and interact with the Runaway Chaos, and through which the Uneasy Origin Matter can be reached. It’s an artificial realm-esque area where matters *Verdant snickers* can be safely handled without jeopardizing any real world places. 
+Ruins of Escaton's Crystal should be enough magic-filled to allow our old friend - town portal spell - teleport you there.
+Once there, all you need to do is find the Runaway Chaos and return it to the Uneasy Origin Matter. What can you expect on the way? Aye, this even I cannot tell you. Since it’s a result of a time anomaly, we have obviously never seen it before. 
+What will happen to you after you go in and leave?
+Well, um. Let’s not overthink things. I’m sure it’s going to be fun, though!
+NPCText	1685		Choose name for your dragon.
+NPCText	1686		Dragon's name will be "%s", are you sure? (Y/N)
+NPCText	1687		Hatchling is too young to join you.
+NPCText	1688		Your party is too full.
+NPCText	1690		You must have your own card deck to play here. _________________________________________
+NPCText	2161		(Charged connector stone will heal you up once per day.)
+NPCText	2102		Path of Light
+NPCText	2103		Path of Dark
+NPCText	2104		Are you sure, you want to change your path? Dark spells will be vanished from your spellbook and dark magic will be erased from your mind. (Yes/No)
+NPCText	2105		Are you sure, you want to change your path? Light spells will be vanished from your spellbook and light magic will be erased from your mind. (Yes/No)
+NPCText	2106		It is never late to turn back to light, child. Choose light side.
+NPCText	2107		Darkness wait and it's patience is eternal. Choose dark side.
+NPCText	2108		yes
+NPCText	2109		Either you've already choosen your path, or you are not ready to do it.
+NPCText	1684		Dragon ate enough! Let him grow.
+NPCText	1689		Dragon grown!
+NPCText	1692		Feed dragon
+
+NPCTopic	1765		Bribe
+NPCTopic	1766		Beg
+NPCTopic	1767		Threat
+NPCTopic	1768		Bribe
+
+ItemsTxt	543	Notes	(Shared life, Endurance + 20) A ring of simple metal (copper or brass?), warm on touch.
+ItemsTxt	543	Name	Cycle of life
+ItemsTxt	624	Notes	Smooth half-transparent connector stone charged by time traveling.
+ItemsTxt	624	Name	Charged connector stone
+ItemsTxt	625	Notes	Smooth stone without specific color.
+ItemsTxt	625	Name	Connector stone
+
+GlobalTxt	737		You feel high magic presense here.
+GlobalTxt	634		or
+GlobalTxt	675		Magnificent! No world left behind. Not only have you walked the path of heroes in three different realms, but you have also found and caged the Runaway Chaos responsible for the whole conundrum. Now Enroth, Antagrich, and Jadame may all rest easy. And Verdant has a lot of chronicle work cut out for her.
+GlobalTxt	676		Magnificent! No world left behind. Not only have you walked the path of heroes in three different realms, but you have also found and caged the Runaway Chaos responsible for the whole conundrum. Now Enroth, Antagrich, and Jadame may all rest easy. And Verdant has a lot of chronicle work cut out for her.

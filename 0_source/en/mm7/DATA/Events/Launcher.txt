@@ -1,0 +1,14 @@
+Launcher Text	
+
+0	
+1	This device does not support D3D hardware acceleration.  Might and Magic® VII must be run in software mode.
+2	Unable to get description of this device.
+3	This device supports D3D hardware acceleration.
+4	Your current video driver does not fully support alpha blending; please contact your hardware manufacturer for the latest driver(s).  Might and Magic® VII must be run in software mode until the video drivers are updated.
+5	Your current video card does not support non-square textures.  Might and Magic® VII requires non-square textures and must therefore be run in software mode.
+6	Primary Display Driver
+7	======================
+8	Secondary Display Driver
+9	Your desktop settings must be set to High Color (16-bit) for Might and Magic® VII to function in a window.
+10	WARNING: Might and Magic® VII has detected that you have less than 8MB of Video Memory.  Your Video card supports the hardware features necessary to run Might and Magic® VII but may not have enough memory to function properly.  If you have problems with operation or performance run Might and Magic® VII in software mode.
+11	WARNING: Might and Magic® VII has detected that you have less than 4MB of Video Memory.  Your Video card supports the hardware features necessary to run Might and Magic® VII but may not have enough memory to function properly.  If you have problems with operation or performance run Might and Magic® VII in software mode.

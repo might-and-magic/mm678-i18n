@@ -1,7 +1,7 @@
 # Double-byte character set (DBCS) support for Might and Magic 6/7/8 GrayFace Patch
 # Use convert_dbcs_special.py to transform DBCS text files to "special" text files first
 # Then put FNT_DBCS.lua into \Scripts\General in GrayFace Patched MM6/7/8 with MMExtension (or MMMerge)
-# By Tom CHEN <tomchen.org>, MIT/Expat License
+# By Tom CHEN (tomchen.org), MIT/Expat License
 
 # This Python script will convert
 # Double-byte characters

@@ -1,12 +1,12 @@
-1_template/
-4_prod/
-5_postprod/
-6_finalprod/zh_CN/mm6/
-6_finalprod/zh_CN/mm7/
-6_finalprod/zh_CN/*.zip
-non_text/sound/
-tools/input/
-tools/output/
+/1_template/
+/4_prod/
+/5_postprod/
+/6_finalprod/zh_CN/mm6/
+/6_finalprod/zh_CN/mm7/
+/6_finalprod/zh_CN/*.zip
+/non_text/sound/
+/tools/input/
+/tools/output/
 *.baiduyun.uploading.cfg
 
 

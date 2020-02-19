@@ -1,0 +1,178 @@
+Default Monster Data					Stats								Movement and Combat					Attack 1			Attack 2			    Spell Attack				Resistances				Misc
+#	Picture	Name	LVL	 HP 	AC	 EXP 	Treasure	Quest	Fly	Move	AI Type	Hst	Spd	Rec	Pref	Bonus	Type	Damage	Miss	Att%	Type	Damage	Miss	Use%	"Spl,Mas,Skil"	Fire	Elec	Cold	Pois	Phys	Mag	Special
+																																
+	A		0																													
+1	ArcherA	_(TRANS)_	9	 35 	14	 171 	5%3D20+L1Bow	0	N	Short	Normal	4	140	90	0	0	Phys	1D6+1	Arrow	0	0	0	0	0	0	10	10	10	10	0	0	0
+2	ArcherB	_(TRANS)_	19	 93 	16	 551 	5%6D20+L2Bow	0	N	Short	Aggress	4	150	90	A	0	Phys	2D6+2	Arrow	20	Fire	3D6	FireAr	0	0	20	20	20	20	0	0	0
+3	ArcherC	_(TRANS)_	29	 171 	22	" 1,131 "	10%10D20+L3Bow	0	N	Short	Aggress	4	160	80	A	0	Phys	3D6+3	Arrow	30	Fire	4D6	FireAr	40	"Fireball,N,5"	30	30	30	30	0	10	0
+4	BarbarianA	_(TRANS)_	14	 61 	16	 336 	5%5D10+L2Misc	0	N	Long	Aggress	4	260	80	0	0	Phys	3D7+3	0	0	0	0	0	0	0	20	20	20	20	10	0	0
+5	BarbarianB	_(TRANS)_	25	 137 	22	 875 	5%10D10+L3Misc	0	N	Med	Aggress	4	280	70	S	0	Phys	3D7+6	0	10	Phys	3D7+18	0	0	0	30	30	30	30	20	0	0
+6	BarbarianC	_(TRANS)_	37	 247 	28	" 1,739 "	10%20D10+L4Misc	0	N	Med	Suicidal	4	300	60	S	0	Phys	3D7+12	0	20	Elec	7D8	Elec	0	0	50	50	50	50	30	0	0
+7	BatA	_(TRANS)_	3	 9 	5	 39 	0	0	Y	Free	Normal	4	280	50	0	Disease1	Phys	1D3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8	BatB	_(TRANS)_	6	 21 	8	 96 	5%L1Ring	0	Y	Free	Normal	4	300	50	0	Disease1	Phys	1D3+2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9	BatC	_(TRANS)_	9	 35 	10	 171 	5%L2Ring	0	Y	Free	Aggress	4	320	50	0	Disease2	Phys	2D3+2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+10	BeholderA	_(TRANS)_	30	 180 	25	" 1,200 "	10%L4Ring	0	Y	Med	Aggress	4	140	70	0	Asleep	Cold	5D6	Cold	0	0	0	0	0	0	20	20	Imm	0	30	Imm	0
+11	BeholderB	_(TRANS)_	40	 280 	30	" 2,000 "	20%L5Ring	0	Y	Med	Aggress	4	160	60	"D,S"	Affraid	Fire	6D6	Fire	0	0	0	0	20	"Fireball,N,8"	Imm	30	30	0	40	Imm	0
+12	BeholderC	_(TRANS)_	50	 400 	35	" 3,000 "	30%L6Ring	0	Y	Short	Suicidal	4	180	50	"D,S"	Insane	Elec	7D6	Elec	0	0	0	0	20	"Dispell Magic,N,10"	50	Imm	50	0	50	Imm	0
+13	BloodsuckerA	_(TRANS)_	2	 6 	6	 24 	0	0	Y	Free	Normal	4	300	50	0	Disease1x2	Phys	1D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+14	BloodsuckerB	_(TRANS)_	4	 13 	8	 56 	5%L1Ring	0	Y	Free	Aggress	4	350	50	0	Disease1x5	Phys	1D2+2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+15	BloodsuckerC	_(TRANS)_	8	 30 	10	 144 	5%L2Ring	0	Y	Free	Suicidal	4	400	50	0	Disease2x2	Phys	2D2+2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+16	ClericA	_(TRANS)_	8	 30 	14	 144 	5%5D10+L1Mace	0	N	Med	Wimp	4	160	90	0	0	Elec	2D4	Elec	0	0	0	0	0	0	0	0	0	0	0	0	0
+17	ClericB	_(TRANS)_	15	 67 	18	 375 	5%10D10+L2Mace	0	N	Med	Normal	4	180	90	0	0	Elec	2D4+4	Elec	0	0	0	0	20	"Harm,N,3"	0	0	0	0	0	0	0
+18	ClericC	_(TRANS)_	25	 137 	22	 875 	10%20D10+L3Misc	0	N	Med	Aggress	4	200	80	2	0	Elec	2D4+8	Elec	0	0	0	0	30	"Flying Fist,N,5"	0	0	0	0	0	0	0
+19	CobraA	_(TRANS)_	5	 17 	10	 75 	5%L1Misc	0	N	Free	Normal	4	300	70	0	Poison1x5	Phys	1D3+6	0	20	Pois	2D6	0	0	0	0	0	0	Imm	0	0	0
+20	CobraB	_(TRANS)_	10	 40 	12	 200 	5%L2Misc	0	N	Free	Aggress	4	270	70	0	Poison1x5	Phys	2D3+6	0	20	Pois	3D6	0	0	0	0	0	0	Imm	0	0	0
+21	CobraC	_(TRANS)_	14	 61 	16	 336 	10%L3Misc	0	N	Free	Suicidal	4	240	50	0	Poison2x2	Phys	3D3+6	0	20	Pois	4D6	0	0	0	0	0	0	Imm	0	0	0
+22	CockatriceA	_(TRANS)_	13	 55 	13	 299 	4D20	0	Y	Free	Normal	4	240	80	D	Paralyze	Phys	1D12	0	0	0	0	0	30	"Mind Blast,N,10"	10	10	10	10	0	Imm	0
+23	CockatriceB	_(TRANS)_	15	 67 	15	 375 	6D20	0	Y	Free	Aggress	4	260	80	D	Paralyze	Phys	1D12+6	0	0	0	0	0	30	"Mind Blast,N,15"	20	20	20	20	0	Imm	0
+24	CockatriceC	_(TRANS)_	17	 79 	17	 459 	10D20	0	Y	Free	Suicidal	4	280	80	D	Stonex2	Phys	2D12+6	0	0	0	0	0	30	"Mind Blast,N,20"	30	30	30	30	0	Imm	0
+25	DemonFlyA	_(TRANS)_	30	 180 	25	" 1,200 "	0	0	Y	Long	Aggress	4	250	60	0	Disease2	Phys	2D8+10	0	20	Fire	3D8	Fire	20	"Fireball,N,6"	Imm	30	30	30	50	30	0
+26	DemonFlyB	_(TRANS)_	50	 400 	35	" 3,000 "	0	0	Y	Long	Aggress	4	300	50	0	Disease3	Phys	2D8+15	0	20	Fire	4D8	Fire	20	"Meteor Shower,M,10"	Imm	40	40	40	50	40	0
+27	DemonFlyC	_(TRANS)_	70	 700 	45	" 5,600 "	0	0	Y	Med	Suicidal	4	350	40	0	DrainSP	Phys	2D8+20	0	20	Fire	5D8	Fire	20	"Incinerate,M,14"	Imm	50	50	50	50	Imm	0
+28	DemonA	_(TRANS)_	20	 100 	20	 600 	0	0	N	Med	Aggress	4	200	70	0	Disease2	Phys	2D6+8	0	20	Fire	3D6	Fire	20	"Fire Bolt,N,4"	Imm	20	20	20	50	20	0
+29	DemonB	_(TRANS)_	40	 280 	30	" 2,000 "	0	0	N	Med	Aggress	4	250	60	0	Disease3	Phys	2D6+14	0	20	Fire	4D6	Fire	20	"Fire Bolt,N,8"	Imm	30	30	30	50	30	0
+30	DemonC	_(TRANS)_	60	 540 	40	" 4,200 "	0	0	N	Short	Suicidal	4	300	50	0	DrainSP	Phys	2D6+20	0	20	Fire	5D6	Fire	20	"Fireball,N,12"	Imm	50	50	50	50	Imm	0
+31	DragonCave A	_(TRANS)_	40	 280 	40	" 2,000 "	20%100D10+L4	0	N	Med	Aggress	4	200	70	2	0	Fire	10D6	Fire	0	0	0	0	0	0	Imm	30	30	30	20	30	0
+32	DragonCave B	_(TRANS)_	50	 400 	50	" 3,000 "	20%150D10+L5	0	N	Short	Aggress	4	220	65	2	BrkItem	Elec	12D6	Elec	0	0	0	0	0	0	40	Imm	40	40	30	40	0
+33	DragonCave C	_(TRANS)_	60	 540 	60	" 4,200 "	20%200D10+L5	0	N	Short	Aggress	4	240	60	2	BrkItem	Cold	14D6	Cold	0	0	0	0	0	0	50	50	Imm	50	40	50	0
+34	DragonFlyA	_(TRANS)_	24	 129 	20	 816 	10%30D10+L3	0	Y	Free	Aggress	4	240	70	0	0	Fire	10D4	Fire	0	0	0	0	0	0	Imm	10	10	30	20	10	0
+35	DragonFlyB	_(TRANS)_	28	 162 	25	" 1,064 "	10%60D10+L4	0	Y	Long	Aggress	4	260	60	0	0	Cold	12D4	Cold	0	0	0	0	0	0	10	10	Imm	10	30	10	0
+36	DragonFlyC	_(TRANS)_	32	 198 	30	" 1,344 "	20%100D10+L5	0	Y	Med	Suicidal	4	280	50	0	BrkItem	Ener	15D4	Ener	0	0	0	0	0	0	20	20	20	10	40	10	0
+37	DragonLandA	_(TRANS)_	50	 400 	40	" 3,000 "	100D10+L5	0	N	Med	Aggress	4	180	70	2	Pois2	Pois	10D10	Pois	0	0	0	0	0	0	30	30	30	Imm	30	30	0
+38	DragonLandB	_(TRANS)_	60	 540 	50	" 4,200 "	150D10+L5	0	N	Med	Aggress	4	160	70	3	Pois3	Pois	10D10	Pois	0	0	0	0	0	0	40	40	40	Imm	40	40	0
+39	DragonLandC	_(TRANS)_	70	 700 	60	" 5,600 "	200D10+L6	0	N	Short	Aggress	4	140	70	4	Pois3	Pois	10D10	Pois	0	0	0	0	0	0	50	50	50	Imm	50	50	0
+40	DragonCoverA	_(TRANS)_	80	 880 	60	" 7,200 "	250D10+L6	0	Y	Long	Aggress	4	240	70	4	0	Fire	12D8	Fire	0	0	0	0	0	0	Imm	50	30	50	50	50	0
+41	DragonCoverB	_(TRANS)_	90	" 1,080 "	80	" 9,000 "	300D10+L6	0	Y	Med	Aggress	4	260	65	4	BrkItem	Cold	14D8	Cold	0	0	0	0	0	0	30	70	Imm	70	70	70	0
+42	DragonCoverC	_(TRANS)_	100	" 1,300 "	100	" 11,000 "	400D10+L6	0	Y	Short	Aggress	4	300	60	4	BrkItem	Ener	16D8	Ener	0	0	0	0	0	0	90	90	90	90	90	Imm	0
+43	DruidessA	_(TRANS)_	10	 40 	12	 200 	5%10D10+L1Misc	0	N	Med	Normal	4	160	90	K	0	Fire	2D4+3	Fire	0	0	0	0	40	"Harm,N,2"	10	10	10	10	0	10	0
+44	DruidessB	_(TRANS)_	16	 73 	16	 416 	10%20D10+L2Misc	0	N	Med	Aggress	4	180	90	K	0	Cold	2D4+6	Cold	0	0	0	0	40	"Deadly Swarm,N,3"	20	20	20	20	0	20	0
+45	DruidessC	_(TRANS)_	28	 162 	22	" 1,064 "	20%50D10+L3Misc	0	N	Short	Aggress	4	200	80	2	DrainSP	Magic	2D4+12	Magic	0	0	0	0	30	"Fireball,M,6"	30	30	30	30	0	30	0
+46	DwarfA	_(TRANS)_	10	 40 	6	 200 	5%5D10+L1	0	N	Med	Normal	4	160	70	0	0	Phys	4D2+4	0	20	Phys	8D2+8	0	0	0	20	20	20	Imm	0	30	0
+47	DwarfB	_(TRANS)_	20	 100 	12	 600 	10%10D10L2Axe	0	N	Med	Aggress	4	180	80	0	0	Phys	4D2+8	0	20	Phys	8D2+16	0	0	0	30	30	30	Imm	0	40	0
+48	DwarfC	_(TRANS)_	30	 180 	20	" 1,200 "	25%20D10+L3Axe	0	N	Short	Suicidal	4	200	80	S	BrkArmor x2	Phys	4D2+16	0	20	Phys	8D2+32	0	0	0	40	40	40	Imm	0	50	0
+49	ElemAirA	_(TRANS)_	16	 73 	10	 416 	0	0	Y	Free	Suicidal	4	220	90	0	0	Elec	3D6	Elec	0	0	0	0	0	0	10	Imm	10	Imm	10	Imm	0
+50	ElemAirB	_(TRANS)_	22	 114 	12	 704 	0	0	Y	Free	Suicidal	4	240	90	0	0	Elec	5D6	Elec	0	0	0	0	0	0	10	Imm	10	Imm	10	Imm	0
+51	ElemAirC	_(TRANS)_	33	 207 	14	" 1,419 "	0	0	Y	Free	Suicidal	4	260	80	S	BrkItem	Elec	8D6	Elec	0	0	0	0	0	0	10	Imm	10	Imm	10	Imm	0
+52	ElemEarthA	_(TRANS)_	25	 137 	20	 875 	10D20	0	N	Free	Suicidal	4	220	90	0	0	Phys	10D3	0	40	Phys	8D3	Rock	0	0	10	10	10	Imm	10	Imm	0
+53	ElemEarthB	_(TRANS)_	30	 180 	25	" 1,200 "	15D20	0	N	Free	Suicidal	4	240	90	0	BrkArmor	Phys	15D3	0	40	Phys	12D3	Rock	0	0	10	10	10	Imm	10	Imm	0
+54	ElemEarthC	_(TRANS)_	40	 280 	30	" 2,000 "	30D20	0	N	Free	Suicidal	4	260	80	S	Uncon	Phys	25D3	0	40	Phys	20D3	Rock	0	0	10	10	10	Imm	10	Imm	0
+55	ElemFireA	_(TRANS)_	13	 55 	12	 299 	0	0	Y	Free	Suicidal	4	200	90	0	0	Fire	2D8	Fire	0	0	0	0	0	0	Imm	10	10	Imm	10	Imm	0
+56	ElemFireB	_(TRANS)_	26	 145 	15	 936 	0	0	Y	Free	Suicidal	4	220	90	0	0	Fire	5D8	Fire	0	0	0	0	0	0	Imm	10	10	Imm	10	Imm	0
+57	ElemFireC	_(TRANS)_	39	 269 	18	" 1,911 "	0	0	Y	Free	Suicidal	4	240	80	S	BrkItem	Fire	8D8	Fire	0	0	0	0	0	0	Imm	10	10	Imm	10	Imm	0
+58	ElemWaterA	_(TRANS)_	14	 61 	10	 336 	0	0	N	Free	Suicidal	4	240	80	0	0	Phys	3D12	0	0	0	0	0	30	"Ice Bolt,N,3"	10	10	Imm	Imm	10	Imm	0
+59	ElemWaterB	_(TRANS)_	24	 129 	13	 816 	0	0	N	Free	Suicidal	4	260	80	0	0	Phys	4D12	0	0	0	0	0	30	"Ice Bolt,N,5"	10	10	Imm	Imm	10	Imm	0
+60	ElemWaterC	_(TRANS)_	36	 237 	16	" 1,656 "	0	0	N	Free	Suicidal	4	280	70	S	BrkItem	Phys	6D12	0	0	0	0	0	30	"Ice Bolt,N,7"	10	10	Imm	Imm	10	Imm	0
+61	FighterChainA	_(TRANS)_	14	 61 	18	 336 	5%10D10+L1Chain	0	N	Long	Normal	4	220	90	0	0	Phys	3D3+6	0	0	0	0	0	0	0	10	10	10	10	10	10	0
+62	FighterChainB	_(TRANS)_	24	 129 	24	 816 	5%20D10+L2Chain	0	N	Long	Aggress	4	240	80	"P,C"	0	Phys	3D3+10	0	0	0	0	0	0	0	20	20	20	20	20	10	0
+63	FighterChainC	_(TRANS)_	35	 227 	30	" 1,575 "	10%30D10+L3Chain	0	N	Med	Aggress	4	260	70	"P,C"	Brkweapon	Phys	3D3+14	0	20	Phys	3D3+45	0	0	0	30	30	30	30	30	10	0
+64	FighterLeathA	_(TRANS)_	8	 30 	12	 144 	5%3D20+L1Leather	0	N	Long	Normal	4	200	100	0	0	Phys	2D4+1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+65	FighterLeathB	_(TRANS)_	14	 61 	14	 336 	5%5D20+L2Leather	0	N	Long	Aggress	4	220	90	"A,S"	0	Phys	2D4+5	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+66	FighterLeathC	_(TRANS)_	22	 114 	16	 704 	10%10D20+L3Leather	0	N	Med	Aggress	4	240	80	"A,S"	0	Phys	2D4+10	0	10	Phys	2D4+20	0	0	0	5	5	5	5	5	5	0
+67	GargoyleA	_(TRANS)_	16	 73 	18	 416 	5%5D10+L2Amulet	0	Y	Long	Aggress	4	300	80	"F,C"	Weak	Phys	2D12	0	0	0	0	0	0	0	10	10	10	Imm	20	10	0
+68	GargoyleB	_(TRANS)_	22	 114 	22	 704 	10%10D10+L2Amulet	0	Y	Long	Aggress	4	320	80	"F,C"	Paralyze	Phys	2D12+4	0	0	0	0	0	0	0	10	10	10	Imm	30	15	0
+69	GargoyleC	_(TRANS)_	33	 207 	26	" 1,419 "	20%25D10+L3Amulet	0	Y	Med	Suicidal	4	350	70	"F,C"	Paralyze	Phys	2D12+8	0	0	0	0	0	0	0	10	10	10	Imm	Imm	20	0
+70	GenieA	_(TRANS)_	33	 207 	35	" 1,419 "	30%L4	0	Y	Free	Aggress	4	200	60	M	0	Cold	8D4+8	Cold	0	0	0	0	20	"Ice Bolt,M,10"	0	30	Imm	30	30	Imm	0
+71	GenieB	_(TRANS)_	44	 325 	45	" 2,376 "	30%L5	0	Y	Free	Aggress	4	220	50	M	Asleep	Elec	10D4+10	Elec	0	0	0	0	20	"Lightning Bolt,M,12"	30	Imm	30	0	30	Imm	0
+72	GenieC	_(TRANS)_	55	 467 	55	" 3,575 "	30%L6	0	Y	Free	Aggress	4	250	40	M	Affraid	Fire	12D4+12	Fire	0	0	0	0	20	"Fireball,M,15"	Imm	30	0	30	30	Imm	0
+73	GhostA	_(TRANS)_	9	 35 	25	 171 	5%L2Ring	0	Y	Free	Wimp	4	240	100	0	Affraid	Magic	1D6+6	0	0	0	0	0	0	0	10	10	10	Imm	10	Imm	0
+74	GhostB	_(TRANS)_	13	 55 	30	 299 	10%L3Ring	0	Y	Long	Normal	4	260	90	0	Agex2	Magic	2D6+6	0	0	0	0	0	0	0	15	15	15	Imm	15	Imm	0
+75	GhostC	_(TRANS)_	19	 93 	35	 551 	20%L4Ring	0	Y	Med	Suicidal	4	300	90	0	Uncon	Magic	3D6+6	0	0	0	0	0	0	0	20	20	20	Imm	20	Imm	0
+76	GoblinA	_(TRANS)_	4	 13 	6	 56 	4D4	0	N	Med	Wimp	4	160	100	0	0	Phys	1D9	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+77	GoblinB	_(TRANS)_	6	 21 	10	 96 	8D4	0	N	Med	Normal	4	170	100	0	0	Phys	1D9+2	0	0	0	0	0	10	"Fire Bolt,N,1"	0	0	0	0	0	0	0
+78	GoblinC	_(TRANS)_	10	 40 	14	 200 	10%15D4+L1	0	N	Short	Aggress	4	180	90	D	BrkItem	Phys	1D9+4	0	0	0	0	0	30	"Fire Bolt,N,2"	10	10	10	10	10	10	0
+79	GuardA	_(TRANS)_	11	 45 	16	 231 	5%3D20+L1Armor	0	N	Short	Normal	4	200	90	0	0	Phys	3D3+5	0	0	0	0	0	0	0	5	5	5	5	5	5	0
+80	GuardB	_(TRANS)_	19	 93 	24	 551 	5%5D20+L2Armor	0	N	Short	Normal	4	220	90	0	0	Phys	3D3+10	0	10	Phys	3D3+20	0	0	0	10	10	10	10	10	10	0
+81	GuardC	_(TRANS)_	33	 207 	32	" 1,419 "	10%10D20+L3Armor	0	N	Short	Aggress	4	240	80	0	BrkArmor	Phys	3D3+20	0	10	Phys	3D3+40	0	0	0	20	20	20	20	20	20	0
+82	HarpyA	_(TRANS)_	14	 61 	12	 336 	4D10	0	Y	Long	Aggress	4	250	90	M	Drunk	Phys	2D7+2	0	0	0	0	0	0	0	0	0	0	0	0	10	0
+83	HarpyB	_(TRANS)_	17	 79 	14	 459 	6D10	0	Y	Long	Aggress	4	300	90	M	Cursex3	Phys	2D7+5	0	0	0	0	0	0	0	0	0	0	0	0	20	0
+84	HarpyC	_(TRANS)_	19	 93 	16	 551 	20%10D10+L2Ring	0	Y	Long	Suicidal	4	350	80	M	Agex3	Phys	2D7+10	0	0	0	0	0	10	"Mass Curse,N,3"	0	0	0	0	0	30	0
+85	HydraA	_(TRANS)_	45	 337 	22	" 2,475 "	50D10+L3	0	N	Med	Aggress	4	220	80	2	0	Phys	15D5	0	30	Fire	8D5	Fire	0	0	Imm	10	10	10	10	10	0
+86	HydraB	_(TRANS)_	55	 467 	44	" 3,575 "	100D10+L4	0	N	Med	Aggress	4	240	80	2	Poison3	Phys	20D5	0	30	Pois	10D5	Pois	0	0	20	20	20	Imm	20	20	0
+87	HydraC	_(TRANS)_	65	 617 	66	" 4,875 "	200D10+L5	0	N	Short	Aggress	4	260	80	3	BrkItem	Phys	20D5	0	40	Ener	10D5	Ener	0	0	30	30	30	30	30	30	0
+88	JackalmanA	_(TRANS)_	35	 227 	40	" 1,575 "	100D10	0	N	Med	Normal	4	220	60	0	0	Phys	3D6+20	0	20	Ener	5D6	Ener	20	"Psychic Shock,M,7"	20	20	20	20	10	Imm	0
+89	JackalmanB	_(TRANS)_	55	 467 	50	" 3,575 "	150D10	0	N	Med	Aggress	4	240	60	0	0	Phys	3D6+35	0	20	Ener	6D6	Ener	20	"Psychic Shock,M,11"	30	30	30	30	20	Imm	0
+90	JackalmanC	_(TRANS)_	65	 617 	60	" 4,875 "	200D10	0	N	Short	Aggress	4	280	60	0	Brkweapon	Phys	3D6+50	0	20	Ener	8D6	Ener	20	"Psychic Shock,M,13"	Imm	Imm	Imm	Imm	30	Imm	0
+91	KnightPlateA	_(TRANS)_	40	 280 	45	" 2,000 "	10%10D100+L4Plate	0	N	Long	Normal	4	250	80	0	Affraid	Phys	4D5+20	0	20	Magic	4D6	Magic	0	0	20	20	20	20	10	20	0
+92	KnightPlateB	_(TRANS)_	60	 540 	65	" 4,200 "	10%20D100+L5Plate	0	N	Med	Aggress	4	300	70	2	Affraid	Phys	4D5+30	0	20	Magic	6D6	Magic	0	0	30	30	30	30	20	30	0
+93	KnightPlateC	_(TRANS)_	80	 880 	85	" 7,200 "	30%40D100+L6Plate	0	N	Short	Aggress	4	350	50	3	Affraid	Phys	4D5+40	0	20	Magic	8D6	Magic	0	0	50	50	50	50	30	50	0
+94	LichA	_(TRANS)_	20	 100 	15	 600 	10%10D20+L3Misc	0	N	Med	Aggress	4	180	90	0	0	Elec	3D8+6	Elec	0	0	0	0	10	"Dispell Magic,N,10"	10	10	10	Imm	0	Imm	0
+95	LichB	_(TRANS)_	30	 180 	20	" 1,200 "	10%15D20+L4Misc	0	N	Med	Aggress	4	200	80	"A,S"	0	Fire	4D8+12	Fire	0	0	0	0	10	"Dispell Magic,N,10"	15	15	15	Imm	5	Imm	0
+96	LichC	_(TRANS)_	40	 280 	25	" 2,000 "	30%30D20+L5Misc	0	N	Short	Suicidal	4	220	70	2	0	Ener	5D8+20	Ener	0	0	0	0	0	0	20	20	20	Imm	10	Imm	0
+97	LizardArchA	_(TRANS)_	4	 13 	10	 56 	5%4D8+L1Bow	0	N	Med	Wimp	4	140	100	0	0	Phys	1D6	Arrow	0	0	0	0	0	0	0	0	0	0	0	0	0
+98	LizardArchB	_(TRANS)_	7	 25 	15	 119 	5%6D8+L1Bow	0	N	Short	Normal	4	150	100	0	0	Phys	1D6+2	Arrow	20	Fire	2D6	FireAr	0	0	0	0	0	0	0	0	0
+99	LizardArchC	_(TRANS)_	11	 45 	20	 231 	5%10D8+L2Bow	0	N	Short	Aggress	4	160	90	A	0	Phys	1D6+5	Arrow	0	0	0	0	50	"Lightning Bolt,N,2"	10	10	10	10	0	0	0
+100	MedusaA	_(TRANS)_	35	 227 	20	" 1,575 "	10%10D20+L3Misc	0	N	Med	Normal	4	200	80	K	Stone	Magic	4D4+8	0	0	0	0	0	30	"Harm,M,12"	0	0	0	0	0	Imm	0
+101	MedusaB	_(TRANS)_	40	 280 	25	" 2,000 "	10%15D20+L4Misc	0	N	Med	Aggress	4	220	80	K	Stone	Magic	5D4+10	0	0	0	0	0	30	"Paralyze,M,8"	0	0	0	0	0	Imm	0
+102	MedusaC	_(TRANS)_	45	 337 	30	" 2,475 "	30%30D20+L5Misc	0	N	Short	Suicidal	4	240	70	K	Stone	Magic	6D4+12	0	0	0	0	0	30	"Psychic Shock,M,9"	0	0	0	0	0	Imm	0
+103	MerchantA	_(TRANS)_	4	 13 	4	 56 	5D20	0	N	Med	Wimp	4	140	50	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+104	MerchantB	_(TRANS)_	5	 17 	6	 75 	7D20	0	N	Med	Normal	4	140	50	0	0	Phys	2D2+2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+105	MerchantC	_(TRANS)_	6	 21 	8	 96 	10D20	0	N	Med	Normal	4	140	50	0	0	Phys	2D2+4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+106	MinotaurA	_(TRANS)_	39	 269 	30	" 1,911 "	10%10D20+L4Axe	0	N	Long	Normal	4	250	80	0	0	Phys	3D7+25	0	0	0	0	0	0	0	10	10	10	10	10	Imm	0
+107	MinotaurB	_(TRANS)_	59	 525 	35	" 4,071 "	10%20D20+L5Axe	0	N	Med	Aggress	4	260	70	0	0	Phys	3D7+40	0	0	0	0	0	20	"Lightning Bolt,M,12"	20	20	20	20	20	Imm	0
+108	MinotaurC	_(TRANS)_	79	 861 	40	" 7,031 "	20%50D20+L6Axe	0	N	Short	Suicidal	4	300	60	2	0	Phys	3D7+60	0	0	0	0	0	20	"Finger of Death,N,14"	30	30	30	30	30	Imm	0
+109	MonkA	_(TRANS)_	8	 30 	16	 144 	5%L1Amulet	0	N	Long	Normal	4	200	100	0	0	Fire	2D4+2	Fire	0	0	0	0	20	"Fire Bolt,N,2"	10	0	0	0	0	0	0
+110	MonkB	_(TRANS)_	16	 73 	19	 416 	5%L2Amulet	0	N	Long	Aggress	4	220	90	0	0	Elec	2D4+8	Elec	0	0	0	0	20	"Lightning Bolt,N,3"	0	10	0	0	0	0	0
+111	MonkC	_(TRANS)_	27	 153 	28	 999 	10%L3Amulet	0	N	Long	Suicidal	4	240	80	0	Weak	Cold	2D4+16	Cold	0	0	0	0	20	"Ice Bolt,M,6"	5	5	20	5	0	Imm	0
+112	NoblemanA	_(TRANS)_	10	 40 	10	 200 	5%10d10+L1Sword	0	N	Long	Aggress	4	220	90	0	0	Phys	3D7+4	0	0	0	0	0	0	0	5	5	5	5	5	5	0
+113	NoblemanB	_(TRANS)_	17	 79 	15	 459 	5%15D10+L2Sword	0	N	Med	Aggress	4	250	80	0	0	Phys	3D7+6	0	0	0	0	0	0	0	10	5	5	5	5	5	0
+114	NoblemanC	_(TRANS)_	24	 129 	20	 816 	10%30D10+L3Sword	0	N	Short	Aggress	4	280	70	2	Brkweapon	Phys	3D7+8	0	20	Phys	3D7+20	0	0	0	15	10	10	10	10	10	0
+115	OozeA	_(TRANS)_	12	 50 	8	 264 	5%L2	0	N	Free	Normal	4	120	100	2	Poison1x2	Pois	1D6	0	0	0	0	0	0	0	0	0	0	Imm	Imm	Imm	0
+116	OozeB	_(TRANS)_	18	 86 	10	 504 	5%L3	0	N	Free	Suicidal	4	140	100	3	BrkItemx2	Pois	3D6	0	0	0	0	0	20	"Poison Spray,N,4"	0	0	0	Imm	Imm	Imm	0
+117	OozeC	_(TRANS)_	25	 137 	12	 875 	5%L4	0	N	Free	Suicidal	4	160	100	4	BrkItemx2	Pois	5D6	0	0	0	0	0	20	"Toxic Cloud,M,5"	0	0	0	Imm	Imm	Imm	0
+118	OgreA	_(TRANS)_	15	 67 	12	 375 	5%10D10+L1Weapon	0	N	Med	Aggress	4	240	90	0	0	Phys	2D5+10	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+119	OgreB	_(TRANS)_	20	 100 	14	 600 	5%20D10+L2Weapon	0	N	Med	Aggress	4	260	80	0	0	Phys	2D5+15	0	0	0	0	0	0	0	10	10	10	10	10	10	0
+120	OgreC	_(TRANS)_	28	 162 	16	" 1,064 "	5%30D10+L3Weapon	0	N	Med	Aggress	4	280	70	2	Poison2	Phys	2D5+25	0	0	0	0	0	0	0	20	20	20	20	20	20	0
+121	PeasantF1A	_(TRANS)_	1	 3 	3	 11 	2D6	0	N	Long	Wimp	0	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+122	PeasantF1B	_(TRANS)_	2	 6 	5	 24 	3D6	0	N	Long	Wimp	0	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+123	PeasantF1C	_(TRANS)_	3	 9 	6	 39 	4D6	0	N	Long	Wimp	0	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+124	PeasantF2A	_(TRANS)_	1	 3 	3	 11 	2D6	0	N	Long	Wimp	0	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+125	PeasantF2B	_(TRANS)_	2	 6 	5	 24 	3D6	0	N	Long	Wimp	0	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+126	PeasantF2C	_(TRANS)_	3	 9 	6	 39 	4D6	0	N	Long	Wimp	0	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+127	PeasantF3A	_(TRANS)_	3	 9 	3	 39 	10%3D6+L1Dagger	0	N	Med	Normal	4	200	100	0	Stealx2	Phys	2D2+3	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+128	PeasantF3B	_(TRANS)_	5	 17 	5	 75 	20%5D6+L1Dagger	0	N	Med	Aggress	4	220	100	0	Stealx2	Phys	2D2+5	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+129	PeasantF3C	_(TRANS)_	7	 25 	10	 119 	50%10D6+L2Dagger	0	N	Med	Aggress	4	240	90	0	Dead	Phys	2D2+10	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+130	PeasantF4A	_(TRANS)_	6	 21 	5	 96 	5%2D6+L1Shield	0	N	Med	Suicidal	4	220	90	0	0	Phys	3D3+2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+131	PeasantF4B	_(TRANS)_	8	 30 	7	 144 	10%4D6+L1Shield	0	N	Med	Suicidal	4	250	90	0	Weak	Phys	3D3+4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+132	PeasantF4C	_(TRANS)_	10	 40 	9	 200 	5%6D6+L1Amulet	0	N	Med	Suicidal	4	280	80	0	0	Phys	3D3+6	0	0	0	0	0	30	"Deadly Swarm,N,2"	5	5	5	5	0	5	0
+133	PeasantM1A	_(TRANS)_	1	 3 	3	 11 	3D3	0	N	Long	Wimp	0	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+134	PeasantM1B	_(TRANS)_	2	 6 	5	 24 	4D4	0	N	Long	Wimp	0	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+135	PeasantM1C	_(TRANS)_	3	 9 	6	 39 	8D8	0	N	Long	Wimp	0	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+136	PeasantM2A	_(TRANS)_	2	 6 	3	 24 	5%2D6+L1Staff	0	N	Med	Wimp	4	140	100	0	0	Phys	2D4	0	0	0	0	0	20	"Flame Arrow,N,1"	0	0	0	0	0	0	0
+137	PeasantM2B	_(TRANS)_	6	 21 	5	 96 	5%5D6+L1Staff	0	N	Med	Normal	4	140	100	0	0	Phys	2D4+2	0	0	0	0	0	30	"Cold Beam,N,1"	0	0	0	0	0	0	0
+138	PeasantM2C	_(TRANS)_	10	 40 	7	 200 	10%10D6+L1Misc	0	N	Med	Aggress	4	140	100	0	0	Phys	2D4+6	0	0	0	0	0	50	"Lightning Bolt,N,2"	0	0	0	0	0	0	0
+139	PeasantM3A	_(TRANS)_	3	 9 	3	 39 	2D6	0	N	Med	Normal	4	140	100	0	0	Phys	2D4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+140	PeasantM3B	_(TRANS)_	5	 17 	5	 75 	5%3D6+L1Staff	0	N	Med	Aggress	4	160	90	0	0	Phys	2D4+2	0	0	0	0	0	30	"Mind Blast,N,1"	0	0	0	0	0	0	0
+141	PeasantM3C	_(TRANS)_	7	 25 	6	 119 	5%4d6+L2Staff	0	N	Med	Suicidal	4	200	70	0	0	Phys	2D4+4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+142	PeasantM4A	_(TRANS)_	6	 21 	5	 96 	5%2D6+L1Spear	0	N	Med	Suicidal	4	220	90	0	0	Phys	1D9+2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+143	PeasantM4B	_(TRANS)_	8	 30 	7	 144 	10%4D6+L1Spear	0	N	Med	Suicidal	4	250	90	0	Poison1	Phys	1D9+4	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+144	PeasantM4C	_(TRANS)_	10	 40 	9	 200 	5%6D6+L2Ring	0	N	Long	Suicidal	4	280	80	0	0	Phys	1D9+6	0	0	0	0	0	30	"Fire Bolt,N,2"	5	5	5	5	0	5	0
+145	RatA	_(TRANS)_	2	 6 	4	 24 	2%L1Ring	0	N	Free	Wimp	4	250	75	0	Disease1x2	Phys	1D8	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+146	RatB	_(TRANS)_	4	 13 	5	 56 	2%L1Ring	0	N	Free	Normal	4	250	75	0	Disease1x2	Phys	1D8+2	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+147	RatC	_(TRANS)_	6	 21 	8	 96 	2%L1Ring	0	N	Free	Aggress	4	250	75	0	Disease2x2	Phys	1D8+6	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+148	RobotA	_(TRANS)_	50	 400 	60	" 3,000 "	0	0	Y	Med	Aggress	4	200	50	0	BrkItem	Ener	10D5+10	Ener	0	0	0	0	0	0	30	10	30	Imm	20	Imm	0
+149	RobotB	_(TRANS)_	70	 700 	80	" 5,600 "	0	0	Y	Short	Suicidal	4	200	50	0	BrkItem	Ener	12D5+15	Ener	0	0	0	0	0	0	40	20	40	Imm	30	Imm	0
+150	RobotC	_(TRANS)_	90	" 1,080 "	100	" 9,000 "	0	0	Y	Short	Suicidal	4	200	50	0	Errad	Ener	20D5+20	Ener	0	0	0	0	0	0	60	30	60	Imm	50	Imm	0
+151	SeaSerpentA	_(TRANS)_	28	 162 	30	" 1,064 "	0	0	N	Free	Aggress	4	200	90	0	0	Cold	1D20+25	Cold	0	0	0	0	0	0	5	0	Imm	0	0	5	0
+152	SeaSerpentB	_(TRANS)_	36	 237 	35	" 1,656 "	0	0	N	Free	Aggress	4	200	90	0	0	Cold	1D20+35	Cold	0	0	0	0	0	0	10	0	Imm	0	0	10	0
+153	SeaSerpentC	_(TRANS)_	48	 374 	40	" 2,784 "	0	0	N	Free	Aggress	4	200	80	2	Affraid	Cold	1D20+45	Cold	0	0	0	0	0	0	20	0	Imm	0	0	10	0
+154	SkeletonA	_(TRANS)_	6	 21 	8	 96 	4D6	0	N	Med	Aggress	4	220	100	0	0	Phys	3D4	0	0	0	0	0	0	0	0	0	0	Imm	0	Imm	0
+155	SkeletonB	_(TRANS)_	10	 40 	10	 200 	7D6	0	N	Med	Aggress	4	250	90	0	Affraid	Phys	3D4+2	0	0	0	0	0	0	0	0	0	0	Imm	0	Imm	0
+156	SkeletonC	_(TRANS)_	14	 61 	14	 336 	5%10D6+L2Sword	0	N	Short	Suicidal	4	280	80	0	Cursex2	Phys	3D4+6	0	0	0	0	0	0	0	0	0	0	Imm	0	Imm	0
+157	SorcererA	_(TRANS)_	25	 137 	14	 875 	10%10D10+L2Staff	0	N	Med	Aggress	4	200	90	"K,A"	0	Elec	9D4	Elec	0	0	0	0	20	"Lightning Bolt,M,8"	10	Imm	10	10	0	10	0
+158	SorcererB	_(TRANS)_	35	 227 	18	" 1,575 "	10%20D10+L3Staff	0	N	Med	Aggress	4	220	80	2	0	Elec	12D4	Elec	0	0	0	0	20	"Lightning Bolt,M,12"	20	Imm	20	20	0	20	0
+159	SorcererC	_(TRANS)_	50	 400 	30	" 3,000 "	20%40D10+L5Staff	0	N	Short	Aggress	4	240	70	2	Insane	Ener	16D4	Ener	0	0	0	0	20	"Lightning Bolt,M,16"	30	Imm	30	30	0	30	0
+160	SpiderA	_(TRANS)_	5	 17 	10	 75 	0	0	N	Med	Normal	4	300	90	0	Poison1x5	Phys	3D2	0	0	0	0	0	0	0	0	0	0	Imm	0	0	0
+161	SpiderB	_(TRANS)_	8	 30 	12	 144 	0	0	N	Med	Aggress	4	280	90	0	Poison2x3	Phys	3D2+3	0	10	Pois	3D2	Pois	0	0	0	0	0	Imm	0	0	0
+162	SpiderC	_(TRANS)_	12	 50 	16	 264 	0	0	N	Short	Aggress	4	260	90	0	Poison3x2	Phys	3D2+6	0	20	Pois	4D2	Pois	0	0	0	5	5	Imm	0	5	0
+163	ThiefA	_(TRANS)_	8	 30 	10	 144 	5%3D10+L1	0	N	Med	Wimp	4	250	60	0	Stealx2	Phys	3D4+3	0	20	Phys	3D4+1	Dagger	0	0	0	0	0	0	0	0	0
+164	ThiefB	_(TRANS)_	12	 50 	14	 264 	10%4D10+L1	0	N	Med	Normal	4	260	60	0	Stealx2	Phys	3D4+6	0	20	Phys	3D4+3	Dagger	0	0	0	0	0	0	0	0	0
+165	ThiefC	_(TRANS)_	18	 86 	20	 504 	20%5D10+L2Cape	0	N	Med	Aggress	4	270	60	0	Stealx2	Phys	3D4+12	0	20	Phys	3D4+6	Dagger	0	0	0	0	0	0	0	0	0
+166	TitanA	_(TRANS)_	65	 617 	60	" 4,875 "	40%200D10+L5	0	N	Short	Aggress	4	200	70	F	BrkItem	Elec	2D20+60	Elec	0	0	0	0	30	"Psychic Shock,M,15"	30	Imm	30	30	30	Imm	0
+167	TitanB	_(TRANS)_	75	 787 	70	" 6,375 "	300D10+L5	0	N	Short	Aggress	4	200	70	F	BrkItem	Elec	2D20+80	Elec	0	0	0	0	40	"Psychic Shockt,M,18"	50	Imm	50	50	50	Imm	0
+168	TitanC	_(TRANS)_	95	" 1,187 "	80	" 9,975 "	400D10+L6	0	N	Short	Aggress	4	200	70	F	Dead	Elec	2D20+120	Elec	0	0	0	0	50	"Psychic Shock,M,25"	80	Imm	80	80	80	Imm	0
+169	WerewolfA	_(TRANS)_	20	 100 	20	 600 	10%5D20+L3Misc	0	N	Med	Aggress	4	300	90	"P,C"	Disease2x2	Phys	2D12+12	0	0	0	0	0	0	0	5	5	5	5	5	5	0
+170	WerewolfB	_(TRANS)_	30	 180 	25	" 1,200 "	10%10D20+L4MIsc	0	N	Med	Aggress	4	320	80	"P,C"	Disease3x2	Phys	2D12+16	0	0	0	0	0	0	0	10	10	10	10	10	10	0
+171	WerewolfC	_(TRANS)_	40	 280 	30	" 2,000 "	10%20D20+L5Misc	0	N	Short	Suicidal	4	350	70	"P,C"	Uncon	Phys	2D12+20	0	0	0	0	0	0	0	15	15	15	15	15	15	0
+172	zDemonqueen	_(TRANS)_	100	" 1,300 "	40	" 11,000 "	0	0	N	Med	Suicidal	4	0	70	0	DrainSP	Phys	2D8+20	0	0	0	0	0	40	"Incinerate,M,14"	Imm	50	50	50	50	Imm	0
+173	zReactor	_(TRANS)_	100	" 1,300 "	40	" 11,000 "	0	0	N	Short	Suicidal	4	0	60	0	0	Ener	20D5+20	Ener	0	0	0	0	0	0	Imm	Imm	Imm	Imm	Imm	Imm	0
+			

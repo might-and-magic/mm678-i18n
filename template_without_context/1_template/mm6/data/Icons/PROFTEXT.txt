@@ -1,0 +1,79 @@
+Day of Week Profession Text															
+#		Sunday topic	Sunday text	Monday topic	Monday text	Tuesday topic	Tuesday text	Wednesday topic	Wednesday text	Thursday topic	Thursday text	Friday topic	Friday text	Saturday topic	Saturday text
+1	Smith	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+2	Armorer	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+3	Alchemist	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+4	Scholar	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+5	Guide	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+6	Tracker	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+7	Pathfinder	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+8	Sailor	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+9	Navigator	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+10	Healer	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+11	Expert Healer	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+12	Master Healer	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+13	Teacher	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+14	Instructor	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+15	Arms Master	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+16	Weapons Master	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+17	Apprentice	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+18	Mystic	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+19	Spell Master	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+20	Trader	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+21	Merchant	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+22	Scout	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+23	Counselor	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+24	Barrister	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+25	Tinker	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+26	Locksmith	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+27	Fool	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+28	Chimney Sweep	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+29	Porter	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+30	Quarter Master	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+31	Factor	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+32	Banker	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+33	Cook	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+34	Chef	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+35	Horseman	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+36	Bard	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+37	Enchanter	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+38	Cartographer	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+39	Wind Master	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+40	Water Master	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+41	Gate Master	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+42	Acolyte	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+43	Piper	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+44	Explorer	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+45	Pirate	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+46	Squire	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+47	Psychic	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+48	Gypsy	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+49	Negotiator	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+50	Duper	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+51	Burglar	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+52	Peasant	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+53	Serf	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+54	Tailor	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+55	Laborer	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+56	Farmer	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+57	Cooper	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+58	Potter	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+59	Weaver	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+60	Cobbler	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+61	Ditch Digger	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+62	Miller	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+63	Carpenter	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+64	Stonecutter	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+65	Jester	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+66	Trapper	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+67	Beggar	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+68	Rustler	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+69	Hunter	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+70	Scribe	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+71	Missionary	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+72	Clerk	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+73	Guard	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+74	Follower of Baa	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+75	Noble	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+76	Gambler	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+77	Child	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_

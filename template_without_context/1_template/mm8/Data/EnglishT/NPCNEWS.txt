@@ -1,0 +1,52 @@
+News # 	Text	Notes
+0	If you see this text tell James.	Ooops text
+1	_(TRANS)_	Peasants on main island of Dagger Wound before the pirate outpost is defeated
+2	_(TRANS)_	Peasants on main island of Dagger Wound after the pirate outpost is defeated (Questbit 6)
+3	_(TRANS)_	Peasants on smaller islands before teleporters are fixed
+4	_(TRANS)_	Peasants on smaller islands after teleporters are fixed (questbit 2)
+5	_(TRANS)_	Pirates on Dagger Wound Island
+6	_(TRANS)_	Peasants in Ravenshore city
+7	_(TRANS)_	Peasants in Ravenshore city
+8	_(TRANS)_	Peasants in Ravenshore city
+9	_(TRANS)_	Were-rats in Smugglers Cove after Fellmoon's letter has been delivered (Questbit 4).  Rats in Dungeon should not be hostile after this questbit is set
+10	_(TRANS)_	All Peasants after end game
+11	_(TRANS)_	Lizardman Lookouts/cannons
+12	_(TRANS)_	Lizardmen Warriors
+13	_(TRANS)_	Lzardmen Warriors after Questbit 6
+14	_(TRANS)_	Peasants in Alvar City
+15	_(TRANS)_	Peasants in Alvar City
+16	_(TRANS)_	Peasants in Alvar City
+17	_(TRANS)_	Peasants in Ironsand/Rust
+18	_(TRANS)_	Peasants in Ironsand/Rust
+19	_(TRANS)_	Peasants in Ironsand/Rust
+20	_(TRANS)_	Dragon Hunters in Fort
+21	_(TRANS)_	Dragon Hunters in Fort
+22	_(TRANS)_	Dragon Hunters at Training Camp
+23	_(TRANS)_	Peasants in Shadowspire
+24	_(TRANS)_	Peasants in Shadowspire
+25	_(TRANS)_	Peasants in Shadowspire
+26	_(TRANS)_	Peasants in Murmurwoods
+27	_(TRANS)_	Peasants in Murmurwoods
+28	_(TRANS)_	Ogres in Ravage Roaming by Zog's fort
+29	_(TRANS)_	Ogres in Ravage Roaming by boat dock
+30	_(TRANS)_	Peasant Pirates of Regna
+31	_(TRANS)_	Peasant Pirates of Regna
+32	_(TRANS)_	Peasant Pirates of Regna
+33	_(TRANS)_	Peasant Minotaurs in Balzathar Lair
+34	_(TRANS)_	Peasant Minotaurs in Balzathar Lair
+35	_(TRANS)_	Peasant Minotaurs in Balzathar Lair
+36	Group 36	
+37	Group 37	 
+38	_(TRANS)_	 
+39	_(TRANS)_	Clerics(area 7)
+40	_(TRANS)_	Clerics(area 7)
+41	_(TRANS)_	Nercros in guild
+42	_(TRANS)_	Necros in guild
+43	_(TRANS)_	Rogues inside Dragon Hunter's Fort
+44	_(TRANS)_	dragons when allied
+45	_(TRANS)_	dragons when allied
+46	Group 46	
+47	Group 47	
+48	Group 48	
+49	Group 49	
+50		Used for the non-talkative friendly monsters

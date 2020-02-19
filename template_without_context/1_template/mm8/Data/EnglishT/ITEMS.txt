@@ -1,0 +1,805 @@
+"1-199 equipable items, 200- potions, 300- scrolls, 400-books, 500- artifacts, 600 quest items 700- message scrolls "																
+Item #	Pic File	Name	Value	Equip Stat	Skill Group	Mod1	Mod2	material	ID/Rep/St	Not identified name	Sprite Index	VarA	VarB	Equip X	Equip Y	Notes
+0		0						0	0		0	0	0	0	0	
+1	item001	_(TRANS)_	50	Weapon	Sword	3d3	0	8	1	_(TRANS)_	1	0	0	14	131	_(TRANS)_
+2	item002	_(TRANS)_	200	Weapon	Sword	3d3	3	8	3	_(TRANS)_	1	0	0	16	132	_(TRANS)_
+3	item003	_(TRANS)_	350	Weapon	Sword	3d3	6	8	6	_(TRANS)_	1	0	0	14	136	_(TRANS)_
+4	item004	_(TRANS)_	500	Weapon	Sword	3d3	9	8	9	_(TRANS)_	1	0	0	14	136	_(TRANS)_
+5	item005	_(TRANS)_	650	Weapon	Sword	3d3	12	8	12	_(TRANS)_	1	0	0	18	138	_(TRANS)_
+6	item006	_(TRANS)_	400	Weapon2	Sword	4d5	0	8	1	_(TRANS)_	2	0	0	16	162	_(TRANS)_
+7	item007	_(TRANS)_	500	Weapon2	Sword	4d5	2	8	4	_(TRANS)_	2	0	0	18	155	_(TRANS)_
+8	item008	_(TRANS)_	800	Weapon2	Sword	4d5	6	8	7	_(TRANS)_	2	0	0	20	169	_(TRANS)_
+9	item009	_(TRANS)_	1250	Weapon2	Sword	4d5	9	8	9	_(TRANS)_	2	0	0	21	171	_(TRANS)_
+10	item010	_(TRANS)_	2000	Weapon2	Sword	4d5	12	8	13	_(TRANS)_	2	0	0	17	171	_(TRANS)_
+11	item011	_(TRANS)_	100	Weapon	Sword	3d4	0	8	1	_(TRANS)_	3	0	0	21	132	_(TRANS)_
+12	item012	_(TRANS)_	300	Weapon	Sword	3d4	2	8	4	_(TRANS)_	3	0	0	19	138	_(TRANS)_
+13	item013	_(TRANS)_	600	Weapon	Sword	3d4	6	8	7	_(TRANS)_	3	0	0	14	129	_(TRANS)_
+14	item014	_(TRANS)_	800	Weapon	Sword	3d4	9	8	9	_(TRANS)_	3	0	0	12	131	_(TRANS)_
+15	item015	_(TRANS)_	1100	Weapon	Sword	3d4	12	8	13	_(TRANS)_	3	0	0	20	145	_(TRANS)_
+16	item016	_(TRANS)_	40	Weapon	Sword	2d4	0	7	1	_(TRANS)_	4	0	0	19	133	_(TRANS)_
+17	item017	_(TRANS)_	290	Weapon	Sword	2d4	2	7	3	_(TRANS)_	4	0	0	20	134	_(TRANS)_
+18	item018	_(TRANS)_	590	Weapon	Sword	2d4	6	7	5	_(TRANS)_	4	0	0	19	140	_(TRANS)_
+19	item019	_(TRANS)_	750	Weapon	Sword	2d4	8	7	9	_(TRANS)_	4	0	0	18	143	_(TRANS)_
+20	item020	_(TRANS)_	1100	Weapon	Sword	2d4	11	7	12	_(TRANS)_	4	0	0	25	136	_(TRANS)_
+21	item021	_(TRANS)_	8	Weapon	Dagger	2d2	0	6	1	_(TRANS)_	5	0	0	16	77	_(TRANS)_
+22	item022	_(TRANS)_	100	Weapon	Dagger	2d2	2	6	2	_(TRANS)_	5	0	0	12	75	_(TRANS)_
+23	item023	_(TRANS)_	150	Weapon	Dagger	2d2	3	6	4	_(TRANS)_	5	0	0	14	80	_(TRANS)_
+24	item024	_(TRANS)_	250	Weapon	Dagger	2d2	5	6	6	_(TRANS)_	5	0	0	19	80	_(TRANS)_
+25	item025	_(TRANS)_	300	Weapon	Dagger	2d2	6	6	9	_(TRANS)_	5	0	0	20	45	_(TRANS)_
+26	item026	_(TRANS)_	15	Weapon	Dagger	2d3	0	7	1	_(TRANS)_	6	0	0	15	102	_(TRANS)_
+27	item027	_(TRANS)_	200	Weapon	Dagger	2d3	2	7	4	_(TRANS)_	6	0	0	14	105	_(TRANS)_
+28	item028	_(TRANS)_	350	Weapon	Dagger	2d3	4	7	7	_(TRANS)_	6	0	0	13	103	_(TRANS)_
+29	item030	_(TRANS)_	500	Weapon	Dagger	2d3	6	7	9	_(TRANS)_	6	0	0	20	106	_(TRANS)_
+30	item029	_(TRANS)_	790	Weapon	Dagger	2d3	7	7	12	_(TRANS)_	6	0	0	19	103	_(TRANS)_
+31	item031	_(TRANS)_	30	Weapon	Axe	4d2	0	5	1	_(TRANS)_	7	0	0	30	84	_(TRANS)_
+32	item032	_(TRANS)_	100	Weapon	Axe	4d2	2	5	2	_(TRANS)_	7	0	0	28	86	_(TRANS)_
+33	item033	_(TRANS)_	250	Weapon	Axe	4d2	5	5	4	_(TRANS)_	7	0	0	27	96	_(TRANS)_
+34	item034	_(TRANS)_	550	Weapon	Axe	4d2	8	5	6	_(TRANS)_	7	0	0	37	110	_(TRANS)_
+35	item035	_(TRANS)_	775	Weapon	Axe	4d2	11	5	9	_(TRANS)_	7	0	0	41	110	_(TRANS)_
+36	item036	_(TRANS)_	225	Weapon2	Axe	3d7	0	6	1	_(TRANS)_	8	0	0	40	92	_(TRANS)_
+37	item038	_(TRANS)_	450	Weapon2	Axe	3d7	2	6	4	_(TRANS)_	8	0	0	42	106	_(TRANS)_
+38	item037	_(TRANS)_	900	Weapon2	Axe	3d7	5	6	7	_(TRANS)_	8	0	0	48	87	_(TRANS)_
+39	item039	_(TRANS)_	1250	Weapon2	Axe	3d7	9	6	9	_(TRANS)_	8	0	0	46	103	_(TRANS)_
+40	item040	_(TRANS)_	1500	Weapon2	Axe	3d7	12	6	13	_(TRANS)_	8	0	0	42	112	_(TRANS)_
+41	item041	_(TRANS)_	15	Weapon1or2	Spear	1d9	0	6	1	_(TRANS)_	9	0	0	17	116	_(TRANS)_
+42	item042	_(TRANS)_	50	Weapon1or2	Spear	1d9	2	6	3	_(TRANS)_	9	0	0	20	116	_(TRANS)_
+43	item043	_(TRANS)_	250	Weapon1or2	Spear	1d9	5	6	6	_(TRANS)_	9	0	0	13	119	_(TRANS)_
+44	item044	_(TRANS)_	450	Weapon1or2	Spear	1d9	9	6	9	_(TRANS)_	9	0	0	25	124	_(TRANS)_
+45	item045	_(TRANS)_	650	Weapon1or2	Spear	1d9	13	6	12	_(TRANS)_	9	0	0	17	111	_(TRANS)_
+46	item046	_(TRANS)_	200	Weapon1or2	Spear	3d6	0	6	1	_(TRANS)_	10	0	0	34	93	_(TRANS)_
+47	item048	_(TRANS)_	400	Weapon1or2	Spear	3d6	3	6	3	_(TRANS)_	10	0	0	30	111	_(TRANS)_
+48	item047	_(TRANS)_	700	Weapon1or2	Spear	3d6	6	6	5	_(TRANS)_	10	0	0	38	107	_(TRANS)_
+49	item049	_(TRANS)_	1300	Weapon1or2	Spear	3d6	10	6	8	_(TRANS)_	10	0	0	38	123	_(TRANS)_
+50	item050	_(TRANS)_	1600	Weapon1or2	Spear	3d6	13	6	11	_(TRANS)_	10	0	0	24	135	_(TRANS)_
+51	item051	_(TRANS)_	100	Weapon1or2	Spear	2d6	0	6	1	_(TRANS)_	11	0	0	25	113	_(TRANS)_
+52	item052	_(TRANS)_	400	Weapon1or2	Spear	2d6	2	6	3	_(TRANS)_	11	0	0	27	137	_(TRANS)_
+53	item053	_(TRANS)_	650	Weapon1or2	Spear	2d6	6	6	6	_(TRANS)_	11	0	0	22	141	_(TRANS)_
+54	item054	_(TRANS)_	900	Weapon1or2	Spear	2d6	9	6	9	_(TRANS)_	11	0	0	23	130	_(TRANS)_
+55	item055	_(TRANS)_	1250	Weapon1or2	Spear	2d6	13	6	12	_(TRANS)_	11	0	0	26	125	_(TRANS)_
+56	item056	_(TRANS)_	200	Missile	Bow	5d2	0	6	1	_(TRANS)_	12	0	0	23	96	_(TRANS)_
+57	item057	_(TRANS)_	300	Missile	Bow	5d2	2	3	3	_(TRANS)_	12	0	0	21	102	_(TRANS)_
+58	item058	_(TRANS)_	400	Missile	Bow	5d2	4	3	6	_(TRANS)_	12	0	0	24	100	_(TRANS)_
+59	item059	_(TRANS)_	500	Missile	Bow	5d2	6	3	9	_(TRANS)_	12	0	0	23	102	_(TRANS)_
+60	item060	_(TRANS)_	750	Missile	Bow	5d2	7	3	12	_(TRANS)_	12	0	0	30	100	_(TRANS)_
+61	item061	_(TRANS)_	50	Missile	Bow	4d2	0	4	1	_(TRANS)_	13	0	0	28	70	_(TRANS)_
+62	item062	_(TRANS)_	200	Missile	Bow	4d2	3	4	3	_(TRANS)_	13	0	0	26	75	_(TRANS)_
+63	item063	_(TRANS)_	300	Missile	Bow	4d2	5	4	6	_(TRANS)_	13	0	0	32	83	_(TRANS)_
+64	item064	_(TRANS)_	400	Missile	Bow	4d2	7	4	9	_(TRANS)_	13	0	0	38	85	_(TRANS)_
+65	item065	_(TRANS)_	550	Missile	Bow	4d2	8	4	12	_(TRANS)_	13	0	0	37	92	_(TRANS)_
+66	item066	_(TRANS)_	50	Weapon	Mace	2d4	0	6	1	_(TRANS)_	14	0	0	22	116	_(TRANS)_
+67	item067	_(TRANS)_	150	Weapon	Mace	2d4	2	6	3	_(TRANS)_	14	0	0	58	113	_(TRANS)_
+68	item068	_(TRANS)_	300	Weapon	Mace	2d4	5	6	6	_(TRANS)_	14	0	0	33	126	_(TRANS)_
+69	item069	_(TRANS)_	450	Weapon	Mace	2d4	7	6	9	_(TRANS)_	14	0	0	12	159	_(TRANS)_
+70	item070	_(TRANS)_	600	Weapon	Mace	2d4	11	6	12	_(TRANS)_	14	0	0	30	177	_(TRANS)_
+71	item071	_(TRANS)_	120	Weapon	Mace	2d5	0	6	1	_(TRANS)_	15	0	0	26	76	_(TRANS)_
+72	item072	_(TRANS)_	300	Weapon	Mace	2d5	3	6	3	_(TRANS)_	15	0	0	21	107	_(TRANS)_
+73	item073	_(TRANS)_	450	Weapon	Mace	2d5	6	6	5	_(TRANS)_	15	0	0	26	103	_(TRANS)_
+74	item074	_(TRANS)_	650	Weapon	Mace	2d5	9	6	8	_(TRANS)_	15	0	0	19	107	_(TRANS)_
+75	item075	_(TRANS)_	890	Weapon	Mace	2d5	12	6	12	_(TRANS)_	15	0	0	31	107	_(TRANS)_
+76	item076	_(TRANS)_	1	Weapon	Club	1d3	0	3	0	_(TRANS)_	16	0	0	16	119	_(TRANS)_
+77	item077	_(TRANS)_	100	Weapon	Club	1d3	3	3	2	_(TRANS)_	16	0	0	31	148	_(TRANS)_
+78	item078	_(TRANS)_	350	Weapon	Mace	3d3	6	3	5	_(TRANS)_	16	0	0	26	161	_(TRANS)_
+79	item079	_(TRANS)_	40	Weapon2	Staff	2d4	0	3	1	_(TRANS)_	17	0	0	10	63	_(TRANS)_
+80	item080	_(TRANS)_	150	Weapon2	Staff	2d4	2	3	3	_(TRANS)_	17	0	0	14	88	_(TRANS)_
+81	item081	_(TRANS)_	250	Weapon2	Staff	2d4	4	3	5	_(TRANS)_	17	0	0	14	95	_(TRANS)_
+82	item082	_(TRANS)_	400	Weapon2	Staff	2d4	6	3	8	_(TRANS)_	17	0	0	18	100	_(TRANS)_
+83	item083	_(TRANS)_	600	Weapon2	Staff	2d4	8	3	12	_(TRANS)_	17	0	0	35	118	_(TRANS)_
+84	item084	_(TRANS)_	150	Armor	Leather	4	0	3	1	_(TRANS)_	20	0	0	0	0	_(TRANS)_
+85	item085	_(TRANS)_	250	Armor	Leather	4	2	3	4	_(TRANS)_	20	0	0	0	0	_(TRANS)_
+86	item086	_(TRANS)_	450	Armor	Leather	4	6	3	8	_(TRANS)_	20	0	0	0	0	_(TRANS)_
+87	item087	_(TRANS)_	750	Armor	Leather	4	12	3	10	_(TRANS)_	20	0	0	0	0	_(TRANS)_
+88	item088	_(TRANS)_	1150	Armor	Leather	4	20	3	12	_(TRANS)_	20	0	0	0	0	_(TRANS)_
+89	item089	_(TRANS)_	400	Armor	Chain	8	0	6	1	_(TRANS)_	21	0	0	0	0	_(TRANS)_
+90	item090	_(TRANS)_	600	Armor	Chain	8	4	6	5	_(TRANS)_	21	0	0	0	0	_(TRANS)_
+91	item091	_(TRANS)_	900	Armor	Chain	8	10	6	10	_(TRANS)_	21	0	0	0	0	_(TRANS)_
+92	item092	_(TRANS)_	1300	Armor	Chain	8	18	6	15	_(TRANS)_	21	0	0	0	0	_(TRANS)_
+93	item093	_(TRANS)_	1800	Armor	Chain	8	28	6	20	_(TRANS)_	21	0	0	0	0	_(TRANS)_
+94	item094	_(TRANS)_	1000	Armor	Plate	20	0	9	1	_(TRANS)_	22	0	0	0	0	_(TRANS)_
+95	item095	_(TRANS)_	1400	Armor	Plate	20	8	9	8	_(TRANS)_	22	0	0	0	0	_(TRANS)_
+96	item096	_(TRANS)_	2000	Armor	Plate	20	18	9	15	_(TRANS)_	22	0	0	0	0	_(TRANS)_
+97	item097	_(TRANS)_	2700	Armor	Plate	20	30	9	20	_(TRANS)_	22	0	0	0	0	_(TRANS)_
+98	item098	_(TRANS)_	3500	Armor	Plate	20	38	9	25	_(TRANS)_	22	0	0	0	0	_(TRANS)_
+99	item099	_(TRANS)_	200	Shield	Shield	6	0	4	1	_(TRANS)_	23	0	0	32	57	_(TRANS)_
+100	item100	_(TRANS)_	300	Shield	Shield	6	1	4	4	_(TRANS)_	23	0	0	43	39	_(TRANS)_
+101	item101	_(TRANS)_	400	Shield	Shield	6	3	4	8	_(TRANS)_	23	0	0	50	78	_(TRANS)_
+102	item102	_(TRANS)_	500	Shield	Shield	6	6	4	12	_(TRANS)_	23	0	0	32	74	_(TRANS)_
+103	item103	_(TRANS)_	800	Shield	Shield	6	13	4	16	_(TRANS)_	23	0	0	64	85	_(TRANS)_
+104	item104	_(TRANS)_	100	Shield	Shield	4	0	4	1	_(TRANS)_	24	0	0	32	32	_(TRANS)_
+105	item105	_(TRANS)_	200	Shield	Shield	4	2	4	4	_(TRANS)_	24	0	0	47	47	_(TRANS)_
+106	item106	_(TRANS)_	300	Shield	Shield	4	4	4	8	_(TRANS)_	24	0	0	50	50	_(TRANS)_
+107	item107	_(TRANS)_	450	Shield	Shield	4	8	4	12	_(TRANS)_	24	0	0	43	43	_(TRANS)_
+108	item108	_(TRANS)_	750	Shield	Shield	4	14	4	16	_(TRANS)_	24	0	0	50	47	_(TRANS)_
+109	item109	_(TRANS)_	60	Helm	Misc	2	0	6	1	_(TRANS)_	25	0	0	0	0	_(TRANS)_
+110	item110	_(TRANS)_	260	Helm	Misc	2	4	6	4	_(TRANS)_	25	0	0	0	0	_(TRANS)_
+111	item111	_(TRANS)_	460	Helm	Misc	2	6	6	8	_(TRANS)_	25	0	0	0	0	_(TRANS)_
+112	item112	_(TRANS)_	660	Helm	Misc	2	8	6	10	_(TRANS)_	25	0	0	0	0	_(TRANS)_
+113	item113	_(TRANS)_	860	Helm	Misc	2	10	6	12	_(TRANS)_	25	0	0	0	0	_(TRANS)_
+114	item114	_(TRANS)_	20	Helm	Misc	0	0	2	1	_(TRANS)_	26	0	0	0	0	_(TRANS)_
+115	item257	_(TRANS)_	100	Helm	Misc	0	0	2	4	_(TRANS)_	26	0	0	0	0	_(TRANS)_
+116	item116	_(TRANS)_	200	Helm	Misc	0	0	2	8	_(TRANS)_	26	0	0	0	0	_(TRANS)_
+117	item117	_(TRANS)_	40	Belt	Misc	0	0	3	1	_(TRANS)_	28	0	0	0	0	_(TRANS)_
+118	item118	_(TRANS)_	100	Belt	Misc	0	0	3	3	_(TRANS)_	28	0	0	0	0	_(TRANS)_
+119	item119	_(TRANS)_	225	Belt	Misc	0	0	3	6	_(TRANS)_	28	0	0	0	0	_(TRANS)_
+120	item120	_(TRANS)_	450	Belt	Misc	0	0	3	9	_(TRANS)_	28	0	0	0	0	_(TRANS)_
+121	item121	_(TRANS)_	600	Belt	Misc	0	0	3	12	_(TRANS)_	28	0	0	0	0	_(TRANS)_
+122	item122	_(TRANS)_	50	Cloak	Misc	1	0	2	2	_(TRANS)_	29	0	0	0	0	_(TRANS)_
+123	item123	_(TRANS)_	150	Cloak	Misc	1	2	2	5	_(TRANS)_	29	0	0	0	0	_(TRANS)_
+124	item124	_(TRANS)_	250	Cloak	Misc	1	4	2	9	_(TRANS)_	29	0	0	0	0	_(TRANS)_
+125	item125	_(TRANS)_	450	Cloak	Misc	1	6	2	15	_(TRANS)_	29	0	0	0	0	_(TRANS)_
+126	item126	_(TRANS)_	750	Cloak	Misc	1	8	2	20	_(TRANS)_	29	0	0	0	0	_(TRANS)_
+127	item127	_(TRANS)_	100	Gauntlets	Misc	3	0	6	2	_(TRANS)_	30	0	0	0	0	_(TRANS)_
+128	item128	_(TRANS)_	250	Gauntlets	Misc	3	3	6	5	_(TRANS)_	30	0	0	0	0	_(TRANS)_
+129	item131	_(TRANS)_	450	Gauntlets	Misc	3	5	6	9	_(TRANS)_	30	0	0	0	0	_(TRANS)_
+130	item129	_(TRANS)_	650	Gauntlets	Misc	3	7	6	14	_(TRANS)_	30	0	0	0	0	_(TRANS)_
+131	item130	_(TRANS)_	850	Gauntlets	Misc	3	9	6	20	_(TRANS)_	30	0	0	0	0	_(TRANS)_
+132	item132	_(TRANS)_	50	Boots	Misc	2	0	3	2	_(TRANS)_	31	0	0	0	0	_(TRANS)_
+133	item133	_(TRANS)_	250	Boots	Misc	2	4	3	5	_(TRANS)_	31	0	0	0	0	_(TRANS)_
+134	item134	_(TRANS)_	450	Boots	Misc	2	6	3	9	_(TRANS)_	31	0	0	0	0	_(TRANS)_
+135	item135	_(TRANS)_	650	Boots	Misc	2	8	3	15	_(TRANS)_	31	0	0	0	0	_(TRANS)_
+136	item136	_(TRANS)_	850	Boots	Misc	2	10	3	21	_(TRANS)_	31	0	0	0	0	_(TRANS)_
+137	item137	_(TRANS)_	100	Ring	Misc	0	0	7	2	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+138	item138	_(TRANS)_	300	Ring	Misc	0	0	7	6	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+139	item139	_(TRANS)_	500	Ring	Misc	0	0	7	9	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+140	item143	_(TRANS)_	700	Ring	Misc	0	0	7	12	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+141	item143	_(TRANS)_	900	Ring	Misc	0	0	7	15	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+142	item142	_(TRANS)_	1100	Ring	Misc	0	0	7	18	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+143	item141	_(TRANS)_	1300	Ring	Misc	0	0	7	21	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+144	item144	_(TRANS)_	1500	Ring	Misc	0	0	7	24	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+145	item145	_(TRANS)_	1700	Ring	Misc	0	0	7	27	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+146	item146	_(TRANS)_	2000	Ring	Misc	0	0	7	30	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+147	item147	_(TRANS)_	500	Amulet	Misc	0	0	4	2	_(TRANS)_	33	0	0	0	0	_(TRANS)_
+148	item148	_(TRANS)_	750	Amulet	Misc	0	0	4	5	_(TRANS)_	33	0	0	0	0	_(TRANS)_
+149	item149	_(TRANS)_	1000	Amulet	Misc	0	0	4	9	_(TRANS)_	33	0	0	0	0	_(TRANS)_
+150	item150	_(TRANS)_	1250	Amulet	Misc	0	0	4	14	_(TRANS)_	33	0	0	0	0	_(TRANS)_
+151	item151	_(TRANS)_	1500	Amulet	Misc	0	0	4	20	_(TRANS)_	33	0	0	0	0	_(TRANS)_
+152	item152	_(TRANS)_	1000	WeaponW	Misc	S2	35	3	10	_(TRANS)_	34	0	0	15	84	_(TRANS)_
+153	item152	_(TRANS)_	1000	WeaponW	Misc	S15	35	3	10	_(TRANS)_	34	0	0	15	84	_(TRANS)_
+154	item152	_(TRANS)_	1000	WeaponW	Misc	S24	35	3	10	_(TRANS)_	34	0	0	15	84	_(TRANS)_
+155	item152	_(TRANS)_	1000	WeaponW	Misc	S34	35	3	10	_(TRANS)_	34	0	0	15	84	_(TRANS)_
+156	item152	_(TRANS)_	1000	WeaponW	Misc	S70	35	3	10	_(TRANS)_	34	0	0	15	84	_(TRANS)_
+157	item153	_(TRANS)_	1500	WeaponW	Misc	S78	30	3	14	_(TRANS)_	34	0	0	10	91	_(TRANS)_
+158	item153	_(TRANS)_	1500	WeaponW	Misc	S26	30	3	14	_(TRANS)_	34	0	0	10	91	_(TRANS)_
+159	item153	_(TRANS)_	1500	WeaponW	Misc	S52	30	3	14	_(TRANS)_	34	0	0	10	91	_(TRANS)_
+160	item153	_(TRANS)_	1500	WeaponW	Misc	S59	30	3	14	_(TRANS)_	34	0	0	10	91	_(TRANS)_
+161	item153	_(TRANS)_	1500	WeaponW	Misc	S37	30	3	14	_(TRANS)_	34	0	0	10	91	_(TRANS)_
+162	item155	_(TRANS)_	2000	WeaponW	Misc	S6	25	3	18	_(TRANS)_	34	0	0	8	88	_(TRANS)_
+163	item155	_(TRANS)_	2000	WeaponW	Misc	S29	25	3	18	_(TRANS)_	34	0	0	8	88	_(TRANS)_
+164	item155	_(TRANS)_	2000	WeaponW	Misc	S18	25	3	18	_(TRANS)_	34	0	0	8	88	_(TRANS)_
+165	item155	_(TRANS)_	2000	WeaponW	Misc	S39	25	3	18	_(TRANS)_	34	0	0	8	88	_(TRANS)_
+166	item155	_(TRANS)_	2000	WeaponW	Misc	S62	25	3	18	_(TRANS)_	34	0	0	8	88	_(TRANS)_
+167	item154	_(TRANS)_	2500	WeaponW	Misc	S32	20	3	22	_(TRANS)_	34	0	0	8	97	_(TRANS)_
+168	item154	_(TRANS)_	2500	WeaponW	Misc	S76	20	3	22	_(TRANS)_	34	0	0	8	97	_(TRANS)_
+169	item154	_(TRANS)_	2500	WeaponW	Misc	S41	20	3	22	_(TRANS)_	34	0	0	8	97	_(TRANS)_
+170	item154	_(TRANS)_	2500	WeaponW	Misc	S81	20	3	22	_(TRANS)_	34	0	0	8	97	_(TRANS)_
+171	item154	_(TRANS)_	2500	WeaponW	Misc	S90	20	3	22	_(TRANS)_	34	0	0	8	97	_(TRANS)_
+172	item156	_(TRANS)_	3000	WeaponW	Misc	S20	15	3	26	_(TRANS)_	34	0	0	8	92	_(TRANS)_
+173	item156	_(TRANS)_	3000	WeaponW	Misc	S44	15	3	26	_(TRANS)_	34	0	0	8	92	_(TRANS)_
+174	item156	_(TRANS)_	3000	WeaponW	Misc	S93	15	3	26	_(TRANS)_	34	0	0	8	92	_(TRANS)_
+175	item156	_(TRANS)_	3000	WeaponW	Misc	S92	15	3	26	_(TRANS)_	34	0	0	8	92	_(TRANS)_
+176	item156	_(TRANS)_	3000	WeaponW	Misc	S11	15	3	26	_(TRANS)_	34	0	0	8	92	_(TRANS)_
+177	item213	_(TRANS)_	250	Gem	Misc	0	0	0	0	_(TRANS)_	144	0	0	0	0	_(TRANS)_
+178	item218	_(TRANS)_	500	Gem	Misc	0	0	0	0	_(TRANS)_	146	0	0	0	0	_(TRANS)_
+179	item215	_(TRANS)_	750	Gem	Misc	0	0	0	0	_(TRANS)_	147	0	0	0	0	_(TRANS)_
+180	item214	_(TRANS)_	1000	Gem	Misc	0	0	0	0	_(TRANS)_	148	0	0	0	0	_(TRANS)_
+181	item220	_(TRANS)_	1250	Gem	Misc	0	0	0	0	_(TRANS)_	149	0	0	0	0	_(TRANS)_
+182	item221	_(TRANS)_	1500	Gem	Misc	0	0	0	0	_(TRANS)_	150	0	0	0	0	_(TRANS)_
+183	item219	_(TRANS)_	1750	Gem	Misc	0	0	0	0	_(TRANS)_	151	0	0	0	0	_(TRANS)_
+184	item217	_(TRANS)_	2000	Gem	Misc	0	0	0	0	_(TRANS)_	152	0	0	0	0	_(TRANS)_
+185	item212	_(TRANS)_	2250	Gem	Misc	0	0	0	0	_(TRANS)_	153	0	0	0	0	_(TRANS)_
+186	item216	_(TRANS)_	3000	Gem	Misc	0	0	0	0	_(TRANS)_	154	0	0	0	0	_(TRANS)_
+187	item204	_(TRANS)_	0	Gold	Misc	0	0	0	0	_(TRANS)_	83	0	0	0	0	_(TRANS)_
+188	item205	_(TRANS)_	0	Gold	Misc	0	0	0	0	_(TRANS)_	84	0	0	0	0	_(TRANS)_
+189	item206	_(TRANS)_	0	Gold	Misc	0	0	0	0	_(TRANS)_	85	0	0	0	0	_(TRANS)_
+190	null	_misc190	0	0	0	0	0	0	0	0	1	0	0	0	0	
+191	null	_misc191	0	0	0	0	0	0	0	0	1	0	0	0	0	
+192	null	_misc192	0	0	0	0	0	0	0	0	1	0	0	0	0	
+193	null	_misc193	0	0	0	0	0	0	0	0	1	0	0	0	0	
+194	null	_misc194	0	0	0	0	0	0	0	0	1	0	0	0	0	
+195	null	_misc195	0	0	0	0	0	0	0	0	1	0	0	0	0	
+196	null	_misc196	0	0	0	0	0	0	0	0	1	0	0	0	0	
+197	null	_misc197	0	0	0	0	0	0	0	0	1	0	0	0	0	
+198	null	_misc198	0	0	0	0	0	0	0	0	1	0	0	0	0	
+199	null	_misc199	0	0	0	0	0	0	0	0	1	0	0	0	0	
+200	item158	_(TRANS)_	1	Reagent	Misc	1	0	1	0	_(TRANS)_	36	0	0	0	0	_(TRANS)_
+201	item161	_(TRANS)_	10	Reagent	Misc	5	0	1	0	_(TRANS)_	42	0	0	0	0	_(TRANS)_
+202	item162	_(TRANS)_	50	Reagent	Misc	10	0	1	0	_(TRANS)_	40	0	0	0	0	_(TRANS)_
+203	item163	_(TRANS)_	100	Reagent	Misc	20	0	1	0	_(TRANS)_	41	0	0	0	0	_(TRANS)_
+204	item164	_(TRANS)_	500	Reagent	Misc	50	1	1	0	_(TRANS)_	44	0	0	0	0	_(TRANS)_
+205	item157	_(TRANS)_	1	Reagent	Misc	1	1	1	0	_(TRANS)_	35	0	0	0	0	_(TRANS)_
+206	item165	_(TRANS)_	10	Reagent	Misc	5	1	1	0	_(TRANS)_	43	0	0	0	0	_(TRANS)_
+207	item166	_(TRANS)_	50	Reagent	Misc	10	1	1	0	_(TRANS)_	81	0	0	0	0	_(TRANS)_
+208	item167	_(TRANS)_	100	Reagent	Misc	20	1	1	0	_(TRANS)_	39	0	0	0	0	_(TRANS)_
+209	item168	_(TRANS)_	500	Reagent	Misc	50	1	1	0	_(TRANS)_	82	0	0	0	0	_(TRANS)_
+210	item160	_(TRANS)_	1	Reagent	Misc	1	1	1	0	_(TRANS)_	38	0	0	0	0	_(TRANS)_
+211	item169	_(TRANS)_	10	Reagent	Misc	5	1	1	0	_(TRANS)_	48	0	0	0	0	_(TRANS)_
+212	item170	_(TRANS)_	50	Reagent	Misc	10	1	1	0	_(TRANS)_	47	0	0	0	0	_(TRANS)_
+213	item171	_(TRANS)_	100	Reagent	Misc	20	1	1	0	_(TRANS)_	49	0	0	0	0	_(TRANS)_
+214	item172	_(TRANS)_	500	Reagent	Misc	50	1	1	0	_(TRANS)_	50	0	0	0	0	_(TRANS)_
+215	item159	_(TRANS)_	1	Reagent	Misc	1	1	1	0	_(TRANS)_	37	0	0	0	0	_(TRANS)_
+216	item173	_(TRANS)_	10	Reagent	Misc	5	1	1	0	_(TRANS)_	51	0	0	0	0	_(TRANS)_
+217	item174	_(TRANS)_	50	Reagent	Misc	10	1	1	0	_(TRANS)_	53	0	0	0	0	_(TRANS)_
+218	item175	_(TRANS)_	100	Reagent	Misc	20	1	1	0	_(TRANS)_	52	0	0	0	0	_(TRANS)_
+219	item176	_(TRANS)_	500	Reagent	Misc	75	1	1	0	_(TRANS)_	54	0	0	0	0	_(TRANS)_
+220	item198	_(TRANS)_	1	Bottle	Misc	0	1	1	0	_(TRANS)_	76	0	0	0	0	_(TRANS)_
+221	item181	_(TRANS)_	1	Bottle	Misc	0	1	1	0	_(TRANS)_	59	0	0	0	0	_(TRANS)_
+222	item178	_(TRANS)_	5	Bottle	Misc	0	1	1	0	_(TRANS)_	56	0	0	0	0	_(TRANS)_
+223	item177	_(TRANS)_	5	Bottle	Misc	0	1	1	0	_(TRANS)_	55	0	0	0	0	_(TRANS)_
+224	item179	_(TRANS)_	5	Bottle	Misc	0	1	1	0	_(TRANS)_	57	0	0	0	0	_(TRANS)_
+225	item185	_(TRANS)_	50	Bottle	Misc	0	1	1	0	_(TRANS)_	63	0	0	0	0	_(TRANS)_
+226	item183	_(TRANS)_	50	Bottle	Misc	0	1	1	0	_(TRANS)_	61	0	0	0	0	_(TRANS)_
+227	item184	_(TRANS)_	50	Bottle	Misc	0	1	1	0	_(TRANS)_	62	0	0	0	0	_(TRANS)_
+228	item186	_(TRANS)_	150	Bottle	Misc	0	1	1	0	_(TRANS)_	64	0	0	0	0	_(TRANS)_
+229	item187	_(TRANS)_	150	Bottle	Misc	0	0	1	0	_(TRANS)_	65	0	0	0	0	_(TRANS)_
+230	item188	_(TRANS)_	150	Bottle	Misc	0	0	1	0	_(TRANS)_	66	0	0	0	0	_(TRANS)_
+231	item189	_(TRANS)_	150	Bottle	Misc	0	0	1	0	_(TRANS)_	67	0	0	0	0	_(TRANS)_
+232	item190	_(TRANS)_	150	Bottle	Misc	0	0	1	0	_(TRANS)_	68	0	0	0	0	_(TRANS)_
+233	item191	_(TRANS)_	150	Bottle	Misc	0	0	1	0	_(TRANS)_	69	0	0	0	0	_(TRANS)_
+234	item192	_(TRANS)_	150	Bottle	Misc	0	0	1	0	_(TRANS)_	70	0	0	0	0	_(TRANS)_
+235	item193	_(TRANS)_	150	Bottle	Misc	0	0	1	0	_(TRANS)_	71	0	0	0	0	_(TRANS)_
+236	item194	_(TRANS)_	150	Bottle	Misc	0	0	1	0	_(TRANS)_	72	0	0	0	0	_(TRANS)_
+237	item195	_(TRANS)_	150	Bottle	Misc	0	0	1	0	_(TRANS)_	73	0	0	0	0	_(TRANS)_
+238	item196	_(TRANS)_	150	Bottle	Misc	0	0	1	0	_(TRANS)_	74	0	0	0	0	_(TRANS)_
+239	item197	_(TRANS)_	150	Bottle	Misc	0	0	1	0	_(TRANS)_	75	0	0	0	0	_(TRANS)_
+240	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+241	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+242	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+243	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+244	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+245	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+246	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+247	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+248	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+249	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+250	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+251	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+252	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+253	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+254	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+255	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+256	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+257	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+258	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+259	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+260	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+261	item180	_(TRANS)_	750	Bottle	Misc	0	0	1	0	_(TRANS)_	58	0	0	0	0	_(TRANS)_
+262	item182	_(TRANS)_	2000	Bottle	Misc	0	0	1	0	_(TRANS)_	60	0	0	0	0	_(TRANS)_
+263	item182	_(TRANS)_	2000	Bottle	Misc	0	0	1	0	_(TRANS)_	60	0	0	0	0	_(TRANS)_
+264	item182	_(TRANS)_	2000	Bottle	Misc	0	0	1	0	_(TRANS)_	60	0	0	0	0	_(TRANS)_
+265	item182	_(TRANS)_	2000	Bottle	Misc	0	0	1	0	_(TRANS)_	60	0	0	0	0	_(TRANS)_
+266	item182	_(TRANS)_	2000	Bottle	Misc	0	0	1	0	_(TRANS)_	60	0	0	0	0	_(TRANS)_
+267	item182	_(TRANS)_	2000	Bottle	Misc	0	0	1	0	_(TRANS)_	60	0	0	0	0	_(TRANS)_
+268	item182	_(TRANS)_	2000	Bottle	Misc	0	0	1	0	_(TRANS)_	60	0	0	0	0	_(TRANS)_
+269	item182	_(TRANS)_	2000	Bottle	Misc	0	0	1	0	_(TRANS)_	60	0	0	0	0	_(TRANS)_
+270	item182	_(TRANS)_	2000	Bottle	Misc	0	0	1	0	_(TRANS)_	60	0	0	0	0	_(TRANS)_
+271	item182	_(TRANS)_	2000	Bottle	Misc	0	0	1	0	_(TRANS)_	60	0	0	0	0	_(TRANS)_
+272	null	_potion/reagent272	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent272
+273	null	_potion/reagent273	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent273
+274	null	_potion/reagent274	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent274
+275	null	_potion/reagent275	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent275
+276	null	_potion/reagent276	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent276
+277	null	_potion/reagent277	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent277
+278	null	_potion/reagent278	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent278
+279	null	_potion/reagent279	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent279
+280	null	_potion/reagent280	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent280
+281	null	_potion/reagent281	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent281
+282	null	_potion/reagent282	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent282
+283	null	_potion/reagent283	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent283
+284	null	_potion/reagent284	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent284
+285	null	_potion/reagent285	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent285
+286	null	_potion/reagent286	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent286
+287	null	_potion/reagent287	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent287
+288	null	_potion/reagent288	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent288
+289	null	_potion/reagent289	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent289
+290	null	_potion/reagent290	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent290
+291	null	_potion/reagent291	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent291
+292	null	_potion/reagent292	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent292
+293	null	_potion/reagent293	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent293
+294	null	_potion/reagent294	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent294
+295	null	_potion/reagent295	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent295
+296	null	_potion/reagent296	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent296
+297	null	_potion/reagent297	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent297
+298	null	_potion/reagent298	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent298
+299	null	_potion/reagent299	0	0	0	0	0	0	0	0	1	0	0	0	0	_potion/reagent299
+300	item199	_(TRANS_CONTEXT:'spells')_	10	Sscroll	Misc	S1	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+301	item199	_(TRANS_CONTEXT:'spells')_	20	Sscroll	Misc	S2	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+302	item199	_(TRANS_CONTEXT:'spells')_	30	Sscroll	Misc	S3	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+303	item199	_(TRANS_CONTEXT:'spells')_	40	Sscroll	Misc	S4	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+304	item200	_(TRANS_CONTEXT:'spells')_	50	Sscroll	Misc	S5	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+305	item200	_(TRANS_CONTEXT:'spells')_	75	Sscroll	Misc	S6	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+306	item200	_(TRANS_CONTEXT:'spells')_	100	Sscroll	Misc	S7	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+307	item202	_(TRANS_CONTEXT:'spells')_	150	Sscroll	Misc	S8	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+308	item202	_(TRANS_CONTEXT:'spells')_	200	Sscroll	Misc	S9	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+309	item202	_(TRANS_CONTEXT:'spells')_	300	Sscroll	Misc	S10	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+310	item201	_(TRANS_CONTEXT:'spells')_	500	Sscroll	Misc	S11	1	2	10	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+311	item199	_(TRANS_CONTEXT:'spells')_	10	Sscroll	Misc	S12	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+312	item199	_(TRANS_CONTEXT:'spells')_	20	Sscroll	Misc	S13	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+313	item199	_(TRANS_CONTEXT:'spells')_	30	Sscroll	Misc	S14	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+314	item199	_(TRANS_CONTEXT:'spells')_	40	Sscroll	Misc	S15	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+315	item200	_(TRANS_CONTEXT:'spells')_	50	Sscroll	Misc	S16	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+316	item200	_(TRANS_CONTEXT:'spells')_	75	Sscroll	Misc	S17	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+317	item200	_(TRANS_CONTEXT:'spells')_	100	Sscroll	Misc	S18	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+318	item202	_(TRANS_CONTEXT:'spells')_	150	Sscroll	Misc	S19	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+319	item202	_(TRANS_CONTEXT:'spells')_	200	Sscroll	Misc	S20	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+320	item202	_(TRANS_CONTEXT:'spells')_	300	Sscroll	Misc	S21	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+321	item201	_(TRANS_CONTEXT:'spells')_	500	Sscroll	Misc	S22	1	2	10	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+322	item199	_(TRANS_CONTEXT:'spells')_	10	Sscroll	Misc	S23	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+323	item199	_(TRANS_CONTEXT:'spells')_	20	Sscroll	Misc	S24	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+324	item199	_(TRANS_CONTEXT:'spells')_	30	Sscroll	Misc	S25	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+325	item199	_(TRANS_CONTEXT:'spells')_	40	Sscroll	Misc	S26	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+326	item200	_(TRANS_CONTEXT:'spells')_	50	Sscroll	Misc	S27	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+327	item200	_(TRANS_CONTEXT:'spells')_	75	Sscroll	Misc	S28	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+328	item200	_(TRANS_CONTEXT:'spells')_	100	Sscroll	Misc	S29	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+329	item202	_(TRANS_CONTEXT:'spells')_	150	Sscroll	Misc	S30	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+330	item202	_(TRANS_CONTEXT:'spells')_	200	Sscroll	Misc	S31	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+331	item202	_(TRANS_CONTEXT:'spells')_	300	Sscroll	Misc	S32	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+332	item201	_(TRANS_CONTEXT:'spells')_	500	Sscroll	Misc	S33	1	2	10	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+333	item199	_(TRANS_CONTEXT:'spells')_	10	Sscroll	Misc	S34	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+334	item199	_(TRANS_CONTEXT:'spells')_	20	Sscroll	Misc	S35	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+335	item199	_(TRANS_CONTEXT:'spells')_	30	Sscroll	Misc	S36	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+336	item199	_(TRANS_CONTEXT:'spells')_	40	Sscroll	Misc	S37	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+337	item200	_(TRANS_CONTEXT:'spells')_	50	Sscroll	Misc	S38	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+338	item200	_(TRANS_CONTEXT:'spells')_	75	Sscroll	Misc	S39	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+339	item200	_(TRANS_CONTEXT:'spells')_	100	Sscroll	Misc	S40	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+340	item202	_(TRANS_CONTEXT:'spells')_	150	Sscroll	Misc	S41	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+341	item202	_(TRANS_CONTEXT:'spells')_	200	Sscroll	Misc	S42	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+342	item202	_(TRANS_CONTEXT:'spells')_	300	Sscroll	Misc	S43	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+343	item201	_(TRANS_CONTEXT:'spells')_	500	Sscroll	Misc	S44	1	2	10	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+344	item199	_(TRANS_CONTEXT:'spells')_	10	Sscroll	Misc	S45	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+345	item199	_(TRANS_CONTEXT:'spells')_	20	Sscroll	Misc	S46	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+346	item199	_(TRANS_CONTEXT:'spells')_	30	Sscroll	Misc	S47	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+347	item199	_(TRANS_CONTEXT:'spells')_	40	Sscroll	Misc	S48	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+348	item200	_(TRANS_CONTEXT:'spells')_	50	Sscroll	Misc	S49	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+349	item200	_(TRANS_CONTEXT:'spells')_	75	Sscroll	Misc	S50	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+350	item200	_(TRANS_CONTEXT:'spells')_	100	Sscroll	Misc	S51	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+351	item202	_(TRANS_CONTEXT:'spells')_	150	Sscroll	Misc	S52	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+352	item202	_(TRANS_CONTEXT:'spells')_	200	Sscroll	Misc	S53	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+353	item202	_(TRANS_CONTEXT:'spells')_	300	Sscroll	Misc	S54	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+354	item201	_(TRANS_CONTEXT:'spells')_	500	Sscroll	Misc	S55	1	2	10	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+355	item199	_(TRANS_CONTEXT:'spells')_	10	Sscroll	Misc	S56	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+356	item199	_(TRANS_CONTEXT:'spells')_	20	Sscroll	Misc	S57	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+357	item199	_(TRANS_CONTEXT:'spells')_	30	Sscroll	Misc	S58	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+358	item199	_(TRANS_CONTEXT:'spells')_	40	Sscroll	Misc	S59	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+359	item200	_(TRANS_CONTEXT:'spells')_	50	Sscroll	Misc	S60	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+360	item200	_(TRANS_CONTEXT:'spells')_	75	Sscroll	Misc	S61	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+361	item200	_(TRANS_CONTEXT:'spells')_	100	Sscroll	Misc	S62	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+362	item202	_(TRANS_CONTEXT:'spells')_	150	Sscroll	Misc	S63	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+363	item202	_(TRANS_CONTEXT:'spells')_	200	Sscroll	Misc	S64	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+364	item202	_(TRANS_CONTEXT:'spells')_	300	Sscroll	Misc	S65	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+365	item201	_(TRANS_CONTEXT:'spells')_	500	Sscroll	Misc	S66	1	2	10	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+366	item199	_(TRANS_CONTEXT:'spells')_	10	Sscroll	Misc	S67	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+367	item199	_(TRANS_CONTEXT:'spells')_	20	Sscroll	Misc	S68	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+368	item199	_(TRANS_CONTEXT:'spells')_	30	Sscroll	Misc	S69	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+369	item199	_(TRANS_CONTEXT:'spells')_	40	Sscroll	Misc	S70	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+370	item200	_(TRANS_CONTEXT:'spells')_	50	Sscroll	Misc	S71	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+371	item200	_(TRANS_CONTEXT:'spells')_	75	Sscroll	Misc	S72	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+372	item200	_(TRANS_CONTEXT:'spells')_	100	Sscroll	Misc	S73	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+373	item202	_(TRANS_CONTEXT:'spells')_	150	Sscroll	Misc	S74	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+374	item202	_(TRANS_CONTEXT:'spells')_	200	Sscroll	Misc	S75	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+375	item202	_(TRANS_CONTEXT:'spells')_	300	Sscroll	Misc	S76	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+376	item201	_(TRANS_CONTEXT:'spells')_	500	Sscroll	Misc	S77	1	2	10	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+377	item199	_(TRANS_CONTEXT:'spells')_	100	Sscroll	Misc	S78	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+378	item199	_(TRANS_CONTEXT:'spells')_	150	Sscroll	Misc	S79	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+379	item199	_(TRANS_CONTEXT:'spells')_	200	Sscroll	Misc	S80	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+380	item199	_(TRANS_CONTEXT:'spells')_	250	Sscroll	Misc	S81	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+381	item200	_(TRANS_CONTEXT:'spells')_	300	Sscroll	Misc	S82	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+382	item200	_(TRANS_CONTEXT:'spells')_	350	Sscroll	Misc	S83	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+383	item200	_(TRANS_CONTEXT:'spells')_	400	Sscroll	Misc	S84	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+384	item202	_(TRANS_CONTEXT:'spells')_	500	Sscroll	Misc	S85	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+385	item202	_(TRANS_CONTEXT:'spells')_	600	Sscroll	Misc	S86	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+386	item202	_(TRANS_CONTEXT:'spells')_	750	Sscroll	Misc	S87	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+387	item201	_(TRANS_CONTEXT:'spells')_	1000	Sscroll	Misc	S88	1	2	10	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+388	item199	_(TRANS_CONTEXT:'spells')_	100	Sscroll	Misc	S89	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+389	item199	_(TRANS_CONTEXT:'spells')_	150	Sscroll	Misc	S90	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+390	item199	_(TRANS_CONTEXT:'spells')_	200	Sscroll	Misc	S91	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+391	item199	_(TRANS_CONTEXT:'spells')_	250	Sscroll	Misc	S92	1	2	1	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+392	item200	_(TRANS_CONTEXT:'spells')_	300	Sscroll	Misc	S93	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+393	item200	_(TRANS_CONTEXT:'spells')_	350	Sscroll	Misc	S94	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+394	item200	_(TRANS_CONTEXT:'spells')_	400	Sscroll	Misc	S95	1	2	2	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+395	item202	_(TRANS_CONTEXT:'spells')_	500	Sscroll	Misc	S96	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+396	item202	_(TRANS_CONTEXT:'spells')_	600	Sscroll	Misc	S97	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+397	item202	_(TRANS_CONTEXT:'spells')_	750	Sscroll	Misc	S98	1	2	5	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+398	item201	_(TRANS_CONTEXT:'spells')_	1000	Sscroll	Misc	S99	1	2	10	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+399	null	scroll 399	0	0	0	0	0	0	0	0	1	0	0	0	0	scroll 399
+400	item207	_(TRANS_CONTEXT:'spells')_	100	Book	Misc	S1	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+401	item207	_(TRANS_CONTEXT:'spells')_	200	Book	Misc	S2	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+402	item207	_(TRANS_CONTEXT:'spells')_	300	Book	Misc	S3	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+403	item207	_(TRANS_CONTEXT:'spells')_	400	Book	Misc	S4	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+404	item208	_(TRANS_CONTEXT:'spells')_	500	Book	Misc	S5	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+405	item208	_(TRANS_CONTEXT:'spells')_	750	Book	Misc	S6	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+406	item208	_(TRANS_CONTEXT:'spells')_	1000	Book	Misc	S7	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+407	item210	_(TRANS_CONTEXT:'spells')_	1500	Book	Misc	S8	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+408	item210	_(TRANS_CONTEXT:'spells')_	2000	Book	Misc	S9	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+409	item210	_(TRANS_CONTEXT:'spells')_	3000	Book	Misc	S10	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+410	item209	_(TRANS_CONTEXT:'spells')_	5000	Book	Misc	S11	1	3	15	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+411	item207	_(TRANS_CONTEXT:'spells')_	100	Book	Misc	S12	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+412	item207	_(TRANS_CONTEXT:'spells')_	200	Book	Misc	S13	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+413	item207	_(TRANS_CONTEXT:'spells')_	300	Book	Misc	S14	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+414	item207	_(TRANS_CONTEXT:'spells')_	400	Book	Misc	S15	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+415	item208	_(TRANS_CONTEXT:'spells')_	500	Book	Misc	S16	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+416	item208	_(TRANS_CONTEXT:'spells')_	750	Book	Misc	S17	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+417	item208	_(TRANS_CONTEXT:'spells')_	1000	Book	Misc	S18	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+418	item210	_(TRANS_CONTEXT:'spells')_	1500	Book	Misc	S19	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+419	item210	_(TRANS_CONTEXT:'spells')_	2000	Book	Misc	S20	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+420	item210	_(TRANS_CONTEXT:'spells')_	3000	Book	Misc	S21	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+421	item209	_(TRANS_CONTEXT:'spells')_	5000	Book	Misc	S22	1	3	15	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+422	item207	_(TRANS_CONTEXT:'spells')_	100	Book	Misc	S23	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+423	item207	_(TRANS_CONTEXT:'spells')_	200	Book	Misc	S24	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+424	item207	_(TRANS_CONTEXT:'spells')_	300	Book	Misc	S25	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+425	item207	_(TRANS_CONTEXT:'spells')_	400	Book	Misc	S26	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+426	item208	_(TRANS_CONTEXT:'spells')_	500	Book	Misc	S27	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+427	item208	_(TRANS_CONTEXT:'spells')_	750	Book	Misc	S28	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+428	item208	_(TRANS_CONTEXT:'spells')_	1000	Book	Misc	S29	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+429	item210	_(TRANS_CONTEXT:'spells')_	1500	Book	Misc	S30	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+430	item210	_(TRANS_CONTEXT:'spells')_	2000	Book	Misc	S31	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+431	item210	_(TRANS_CONTEXT:'spells')_	3000	Book	Misc	S32	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+432	item209	_(TRANS_CONTEXT:'spells')_	5000	Book	Misc	S33	1	3	15	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+433	item207	_(TRANS_CONTEXT:'spells')_	100	Book	Misc	S34	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+434	item207	_(TRANS_CONTEXT:'spells')_	200	Book	Misc	S35	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+435	item207	_(TRANS_CONTEXT:'spells')_	300	Book	Misc	S36	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+436	item207	_(TRANS_CONTEXT:'spells')_	400	Book	Misc	S37	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+437	item208	_(TRANS_CONTEXT:'spells')_	500	Book	Misc	S38	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+438	item208	_(TRANS_CONTEXT:'spells')_	750	Book	Misc	S39	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+439	item208	_(TRANS_CONTEXT:'spells')_	1000	Book	Misc	S40	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+440	item210	_(TRANS_CONTEXT:'spells')_	1500	Book	Misc	S41	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+441	item210	_(TRANS_CONTEXT:'spells')_	2000	Book	Misc	S42	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+442	item210	_(TRANS_CONTEXT:'spells')_	3000	Book	Misc	S43	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+443	item209	_(TRANS_CONTEXT:'spells')_	5000	Book	Misc	S44	1	3	15	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+444	item207	_(TRANS_CONTEXT:'spells')_	100	Book	Misc	S45	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+445	item207	_(TRANS_CONTEXT:'spells')_	200	Book	Misc	S46	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+446	item207	_(TRANS_CONTEXT:'spells')_	300	Book	Misc	S47	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+447	item207	_(TRANS_CONTEXT:'spells')_	400	Book	Misc	S48	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+448	item208	_(TRANS_CONTEXT:'spells')_	500	Book	Misc	S49	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+449	item208	_(TRANS_CONTEXT:'spells')_	750	Book	Misc	S50	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+450	item208	_(TRANS_CONTEXT:'spells')_	1000	Book	Misc	S51	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+451	item210	_(TRANS_CONTEXT:'spells')_	1500	Book	Misc	S52	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+452	item210	_(TRANS_CONTEXT:'spells')_	2000	Book	Misc	S53	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+453	item210	_(TRANS_CONTEXT:'spells')_	3000	Book	Misc	S54	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+454	item209	_(TRANS_CONTEXT:'spells')_	5000	Book	Misc	S55	1	3	15	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+455	item207	_(TRANS_CONTEXT:'spells')_	100	Book	Misc	S56	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+456	item207	_(TRANS_CONTEXT:'spells')_	200	Book	Misc	S57	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+457	item207	_(TRANS_CONTEXT:'spells')_	300	Book	Misc	S58	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+458	item207	_(TRANS_CONTEXT:'spells')_	400	Book	Misc	S59	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+459	item208	_(TRANS_CONTEXT:'spells')_	500	Book	Misc	S60	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+460	item208	_(TRANS_CONTEXT:'spells')_	750	Book	Misc	S61	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+461	item208	_(TRANS_CONTEXT:'spells')_	1000	Book	Misc	S62	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+462	item210	_(TRANS_CONTEXT:'spells')_	1500	Book	Misc	S63	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+463	item210	_(TRANS_CONTEXT:'spells')_	2000	Book	Misc	S64	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+464	item210	_(TRANS_CONTEXT:'spells')_	3000	Book	Misc	S65	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+465	item209	_(TRANS_CONTEXT:'spells')_	5000	Book	Misc	S66	1	3	15	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+466	item207	_(TRANS_CONTEXT:'spells')_	100	Book	Misc	S67	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+467	item207	_(TRANS_CONTEXT:'spells')_	200	Book	Misc	S68	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+468	item207	_(TRANS_CONTEXT:'spells')_	300	Book	Misc	S69	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+469	item207	_(TRANS_CONTEXT:'spells')_	400	Book	Misc	S70	1	3	1	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+470	item208	_(TRANS_CONTEXT:'spells')_	500	Book	Misc	S71	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+471	item208	_(TRANS_CONTEXT:'spells')_	750	Book	Misc	S72	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+472	item208	_(TRANS_CONTEXT:'spells')_	1000	Book	Misc	S73	1	3	5	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+473	item210	_(TRANS_CONTEXT:'spells')_	1500	Book	Misc	S74	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+474	item210	_(TRANS_CONTEXT:'spells')_	2000	Book	Misc	S75	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+475	item210	_(TRANS_CONTEXT:'spells')_	3000	Book	Misc	S76	1	3	10	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+476	item209	_(TRANS_CONTEXT:'spells')_	5000	Book	Misc	S77	1	3	15	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+477	item207	_(TRANS_CONTEXT:'spells')_	1000	Book	Misc	S78	1	3	3	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+478	item207	_(TRANS_CONTEXT:'spells')_	1500	Book	Misc	S79	1	3	3	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+479	item207	_(TRANS_CONTEXT:'spells')_	2000	Book	Misc	S80	1	3	3	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+480	item207	_(TRANS_CONTEXT:'spells')_	2500	Book	Misc	S81	1	3	3	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+481	item208	_(TRANS_CONTEXT:'spells')_	3000	Book	Misc	S82	1	3	8	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+482	item208	_(TRANS_CONTEXT:'spells')_	3500	Book	Misc	S83	1	3	8	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+483	item208	_(TRANS_CONTEXT:'spells')_	4000	Book	Misc	S84	1	3	8	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+484	item210	_(TRANS_CONTEXT:'spells')_	5000	Book	Misc	S85	1	3	14	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+485	item210	_(TRANS_CONTEXT:'spells')_	6000	Book	Misc	S86	1	3	14	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+486	item210	_(TRANS_CONTEXT:'spells')_	7500	Book	Misc	S87	1	3	14	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+487	item209	_(TRANS_CONTEXT:'spells')_	10000	Book	Misc	S88	1	3	19	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+488	item207	_(TRANS_CONTEXT:'spells')_	1000	Book	Misc	S89	1	3	3	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+489	item207	_(TRANS_CONTEXT:'spells')_	1500	Book	Misc	S90	1	3	3	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+490	item207	_(TRANS_CONTEXT:'spells')_	2000	Book	Misc	S91	1	3	3	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+491	item207	_(TRANS_CONTEXT:'spells')_	2500	Book	Misc	S92	1	3	3	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+492	item208	_(TRANS_CONTEXT:'spells')_	3000	Book	Misc	S93	1	3	8	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+493	item208	_(TRANS_CONTEXT:'spells')_	3500	Book	Misc	S94	1	3	8	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+494	item208	_(TRANS_CONTEXT:'spells')_	4000	Book	Misc	S95	1	3	8	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+495	item210	_(TRANS_CONTEXT:'spells')_	5000	Book	Misc	S96	1	3	14	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+496	item210	_(TRANS_CONTEXT:'spells')_	6000	Book	Misc	S97	1	3	14	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+497	item210	_(TRANS_CONTEXT:'spells')_	7500	Book	Misc	S98	1	3	14	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+498	item209	_(TRANS_CONTEXT:'spells')_	10000	Book	Misc	S99	1	3	19	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+499	null	book 499	0	0	0	0	0	0	0	0	1	0	0	0	0	book 499
+500	item235	_(TRANS)_	20000	Weapon	Sword	3d3	14	Artifact	20	_(TRANS)_	1	0	0	29	159	_(TRANS)_
+501	item296	_(TRANS)_	20000	Weapon	Sword	3d3	14	Artifact	20	_(TRANS)_	1	0	0	29	159	_(TRANS)_
+502	item236	_(TRANS)_	15000	Weapon	Sword	3d4	14	Artifact	20	_(TRANS)_	3	0	0	22	141	_(TRANS)_
+503	item237	_(TRANS)_	20000	Weapon	Sword	2d4	13	Artifact	20	_(TRANS)_	4	0	0	33	136	_(TRANS)_
+504	item240	_(TRANS)_	20000	Weapon	Axe	4d2	12	Artifact	20	_(TRANS)_	7	0	0	43	129	_(TRANS)_
+505	item241	_(TRANS)_	15000	Weapon2	Axe	3d7	15	Artifact	20	_(TRANS)_	8	0	0	43	157	_(TRANS)_
+506	item045	_(TRANS)_	20000	Weapon1or2	Spear	1d9	14	Artifact	20	_(TRANS)_	9	0	0	17	141	_(TRANS)_
+507	item243	_(TRANS)_	15000	Weapon1or2	Spear	3d6	15	Artifact	20	_(TRANS)_	10	0	0	48	160	_(TRANS)_
+508	item239	_(TRANS)_	20000	Weapon	Dagger	2d3	10	Artifact	20	_(TRANS)_	6	0	0	20	94	_(TRANS)_
+509	item249	_(TRANS)_	20000	Weapon	Mace	2d4	14	Artifact	20	_(TRANS)_	14	0	0	20	95	_(TRANS)_
+510	item247	_(TRANS)_	20000	Weapon	Mace	3d3	12	Artifact	20	_(TRANS)_	16	0	0	36	187	_(TRANS)_
+511	item250	_(TRANS)_	20000	Weapon2	Staff	3d4	10	Artifact	20	_(TRANS)_	17	0	0	31	113	_(TRANS)_
+512	item245	_(TRANS)_	20000	Missile	Bow	5d2	10	Artifact	20	_(TRANS)_	12	0	0	26	101	_(TRANS)_
+513	item251	_(TRANS)_	20000	Armor	Leather	4	30	Artifact	20	_(TRANS)_	20	0	0	0	0	_(TRANS)_
+514	item252	_(TRANS)_	20000	Armor	Chain	8	40	Artifact	20	_(TRANS)_	21	0	0	0	0	_(TRANS)_
+515	item253	_(TRANS)_	20000	Armor	Plate	20	50	Artifact	20	_(TRANS)_	22	0	0	0	0	_(TRANS)_
+516	item254	_(TRANS)_	0	Shield	Shield	6	15	Artifact	20	_(TRANS)_	23	0	0	38	73	_(TRANS)_
+517	item261	_(TRANS)_	20000	Gauntlets	Misc	3	0	Artifact	20	_(TRANS)_	30	0	0	0	0	_(TRANS)_
+518	item262	_(TRANS)_	20000	Boots	Misc	2	8	Artifact	20	_(TRANS)_	31	0	0	0	0	_(TRANS)_
+519	item140	_(TRANS)_	20000	Ring	Misc	0	0	Artifact	20	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+520	item256	_(TRANS)_	20000	Helm	Misc	2	10	Artifact	20	_(TRANS)_	25	0	0	0	0	_(TRANS)_
+521	item258	_(TRANS)_	20000	Helm	Misc	0	0	Artifact	30	_(TRANS)_	27	0	0	0	0	_(TRANS)_
+522	item260	_(TRANS)_	20000	Cloak	Misc	1	9	Artifact	20	_(TRANS)_	29	0	0	0	0	_(TRANS)_
+523	item234	_(TRANS)_	30000	Weapon	Sword	3d4	12	Relic	30	_(TRANS)_	1	0	0	23	169	_(TRANS)_
+524	item004	_(TRANS)_	30000	Weapon	Sword	3d3	15	Relic	30	_(TRANS)_	1	0	0	15	136	_(TRANS)_
+525	item010	_(TRANS)_	30000	Weapon2	Sword	4d5	15	Relic	30	_(TRANS)_	2	0	0	17	161	_(TRANS)_
+526	item248	_(TRANS)_	30000	Weapon	Axe	4d2	12	Relic	30	_(TRANS)_	7	0	0	24	124	_(TRANS)_
+527	item242	_(TRANS)_	30000	Weapon1or2	Spear	1d9	13	Relic	30	_(TRANS)_	9	0	0	17	124	_(TRANS)_
+528	item244	_(TRANS)_	30000	Weapon1or2	Spear	2d6	13	Relic	30	_(TRANS)_	9	0	0	20	133	_(TRANS)_
+529	item238	_(TRANS)_	30000	Weapon	Dagger	2d2	15	Relic	30	_(TRANS)_	5	0	0	17	84	_(TRANS)_
+530	item083	_(TRANS)_	30000	Weapon2	Staff	2d4	4	Relic	30	_(TRANS)_	17	0	0	34	108	_(TRANS)_
+531	item059	_(TRANS)_	30000	Missile	Bow	5d2	10	Relic	30	_(TRANS)_	12	0	0	19	87	_(TRANS)_
+532	item246	_(TRANS)_	30000	Missile	Bow	4d2	12	Relic	30	_(TRANS)_	13	0	0	36	87	_(TRANS)_
+533	item251	_(TRANS)_	30000	Armor	Leather	4	15	Relic	30	_(TRANS)_	20	0	0	0	0	_(TRANS)_
+534	item255	_(TRANS)_	30000	Shield	Shield	4	10	Relic	30	_(TRANS)_	24	0	0	61	52	_(TRANS)_
+535	item141	_(TRANS)_	30000	Ring	Misc	0	0	Relic	30	_(TRANS)_	32	0	0	0	0	_(TRANS)_
+536	item115	_(TRANS)_	30000	Helm	Misc	0	0	Relic	30	_(TRANS)_	26	0	0	0	0	_(TRANS)_
+537	item121	_(TRANS)_	30000	Belt	Misc	0	0	Relic	30	_(TRANS)_	28	0	0	0	0	_(TRANS)_
+538	item068	_(TRANS)_	12000	Weapon	Mace	3d4	7	Special	0	_(TRANS)_	14	Elemental Slaying	0	33	124	_(TRANS)_
+539	item045	_(TRANS)_	0	Weapon1or2	Spear	2d9	13	Special	0	_(TRANS)_	9	Dragon Slaying	0	17	139	_(TRANS)_
+540	item010	_(TRANS)_	0	Weapon2	Sword	4d5	12	Special	0	_(TRANS)_	2	Dragon Slaying	0	17	159	_(TRANS)_
+541	item040	_(TRANS)_	0	Weapon2	Axe	3d7	15	Special	0	_(TRANS)_	8	of Ice	0	41	110	_(TRANS)_
+542	item060	_(TRANS)_	15000	Missile	Bow	5d4	12	Special	30	_(TRANS)_	12	of Carnage	0	30	100	_(TRANS)_
+543	null	artifact 543	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 543
+544	null	artifact 544	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 544
+545	null	artifact 545	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 545
+546	null	artifact 546	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 546
+547	null	artifact 547	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 547
+548	null	artifact 548	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 548
+549	null	artifact 549	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 549
+550	null	artifact 550	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 550
+551	null	artifact 551	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 551
+552	null	artifact 552	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 552
+553	null	artifact 553	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 553
+554	null	artifact 554	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 554
+555	null	artifact 555	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 555
+556	null	artifact 556	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 556
+557	null	artifact 557	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 557
+558	null	artifact 558	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 558
+559	null	artifact 559	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 559
+560	null	artifact 560	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 560
+561	null	artifact 561	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 561
+562	null	artifact 562	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 562
+563	null	artifact 563	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 563
+564	null	artifact 564	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 564
+565	null	artifact 565	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 565
+566	null	artifact 566	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 566
+567	null	artifact 567	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 567
+568	null	artifact 568	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 568
+569	null	artifact 569	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 569
+570	null	artifact 570	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 570
+571	null	artifact 571	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 571
+572	null	artifact 572	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 572
+573	null	artifact 573	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 573
+574	null	artifact 574	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 574
+575	null	artifact 575	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 575
+576	null	artifact 576	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 576
+577	null	artifact 577	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 577
+578	null	artifact 578	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 578
+579	null	artifact 579	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 579
+580	null	artifact 580	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 580
+581	null	artifact 581	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 581
+582	null	artifact 582	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 582
+583	null	artifact 583	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 583
+584	null	artifact 584	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 584
+585	null	artifact 585	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 585
+586	null	artifact 586	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 586
+587	null	artifact 587	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 587
+588	null	artifact 588	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 588
+589	null	artifact 589	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 589
+590	null	artifact 590	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 590
+591	null	artifact 591	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 591
+592	null	artifact 592	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 592
+593	null	artifact 593	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 593
+594	null	artifact 594	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 594
+595	null	artifact 595	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 595
+596	null	artifact 596	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 596
+597	null	artifact 597	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 597
+598	null	artifact 598	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 598
+599	null	artifact 599	0	0	0	0	0	0	0	0	1	0	0	0	0	artifact 599
+600	null	quest item 600	0	N / A	Misc	0	0	0	0	0	1	0	0	0	0	quest item 600
+601	null	quest item 601	0	N / A	Misc	0	0	0	0	0	1	0	0	0	0	quest item 601
+602	item266	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	86	0	0	0	0	_(TRANS)_
+603	item267	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	87	0	0	0	0	_(TRANS)_
+604	item268	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	88	0	0	0	0	_(TRANS)_
+605	item269	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	89	0	0	0	0	_(TRANS)_
+606	item270	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	92	0	0	0	0	_(TRANS)_
+607	item271	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	93	0	0	0	0	_(TRANS)_
+608	item272	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	94	0	0	0	0	_(TRANS)_
+609	item273	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	95	0	0	0	0	_(TRANS)_
+610	item274	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	96	0	0	0	0	_(TRANS)_
+611	item275	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	97	0	0	0	0	_(TRANS)_
+612	item276	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	98	0	0	0	0	_(TRANS)_
+613	item277	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	145	0	0	0	0	_(TRANS)_
+614	item278	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	100	0	0	0	0	_(TRANS)_
+615	item279	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	101	0	0	0	0	_(TRANS)_
+616	item280	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	132	0	0	0	0	_(TRANS)_
+617	item281	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	139	0	0	0	0	_(TRANS)_
+618	item297	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	140	0	0	0	0	_(TRANS)_
+619	item224	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	80	0	0	0	0	_(TRANS)_
+620	Item232	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	80	0	0	0	0	_(TRANS)_
+621	item233	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	80	0	0	0	0	_(TRANS)_
+622	null	quest item 622	0	N / A	Misc	0	0	0	0	0	1	0	0	0	0	quest item 622
+623	item212	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	143	0	0	0	0	_(TRANS)_
+624	null	quest item 624	0	N / A	Misc	0	0	0	0	0	1	0	0	0	0	quest item 624
+625	null	quest item 625	0	N / A	Misc	0	0	0	0	0	1	0	0	0	0	quest item 625
+626	item207	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+627	item293	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	102	0	0	0	0	_(TRANS)_
+628	item294	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	103	0	0	0	0	_(TRANS)_
+629	item295	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	104	0	0	0	0	_(TRANS)_
+630	item298	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	105	0	0	0	0	_(TRANS)_
+631	item299	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	106	0	0	0	0	_(TRANS)_
+632	item300	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	107	0	0	0	0	_(TRANS)_
+633	item301	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	108	0	0	0	0	_(TRANS)_
+634	item302	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	109	0	0	0	0	_(TRANS)_
+635	item303	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	110	0	0	0	0	_(TRANS)_
+636	item304	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	111	0	0	0	0	_(TRANS)_
+637	item305	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	112	0	0	0	0	_(TRANS)_
+638	item306	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	113	0	0	0	0	_(TRANS)_
+639	item307	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	141	0	0	0	0	_(TRANS)_
+640	item308	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	114	0	0	0	0	_(TRANS)_
+641	item309	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	142	0	0	0	0	_(TRANS)_
+642	item310	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	115	0	0	0	0	_(TRANS)_
+643	item311	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	116	0	0	0	0	_(TRANS)_
+644	item312	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	117	0	0	0	0	_(TRANS)_
+645	item313	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	118	0	0	0	0	_(TRANS)_
+646	item314	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	119	0	0	0	0	_(TRANS)_
+647	item315	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	120	0	0	0	0	_(TRANS)_
+648	item316	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	121	0	0	0	0	_(TRANS)_
+649	item317	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	122	0	0	0	0	_(TRANS)_
+650	item318	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	86	0	0	0	0	_(TRANS)_
+651	item319	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	123	0	0	0	0	_(TRANS)_
+652	item320	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+653	item321	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	124	0	0	0	0	_(TRANS)_
+654	item322	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	125	0	0	0	0	_(TRANS)_
+655	item329	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	126	0	0	0	0	_(TRANS)_
+656	item326	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	127	0	0	0	0	_(TRANS)_
+657	item327	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	128	0	0	0	0	_(TRANS)_
+658	item323	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	129	0	0	0	0	_(TRANS)_
+659	item324	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	130	0	0	0	0	_(TRANS)_
+660	item325	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	131	0	0	0	0	_(TRANS)_
+661	item230	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	80	0	0	0	0	_(TRANS)_
+662	item376	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	155	0	0	0	0	_(TRANS)_
+663	null	quest item 663	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 663
+664	null	quest item 664	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 664
+665	null	quest item 665	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 665
+666	null	quest item 666	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 666
+667	null	quest item 667	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 667
+668	null	quest item 668	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 668
+669	null	quest item 669	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 669
+670	null	quest item 670	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 670
+671	null	quest item 671	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 671
+672	null	quest item 672	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 672
+673	null	quest item 673	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 673
+674	null	quest item 674	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 674
+675	null	quest item 675	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 675
+676	null	quest item 676	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 676
+677	null	quest item 677	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 677
+678	null	quest item 678	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 678
+679	null	quest item 679	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 679
+680	null	quest item 680	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 680
+681	null	quest item 681	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 681
+682	null	quest item 682	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 682
+683	null	quest item 683	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 683
+684	null	quest item 684	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 684
+685	null	quest item 685	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 685
+686	item353	_(TRANS)_	5	Ore	Misc	0	1	2	0	_(TRANS)_	133	0	0	0	0	_(TRANS)_
+687	item354	_(TRANS)_	50	Ore	Misc	0	1	2	0	_(TRANS)_	134	0	0	0	0	_(TRANS)_
+688	item355	_(TRANS)_	100	Ore	Misc	0	1	2	0	_(TRANS)_	135	0	0	0	0	_(TRANS)_
+689	item356	_(TRANS)_	500	Ore	Misc	0	1	2	0	_(TRANS)_	136	0	0	0	0	_(TRANS)_
+690	item357	_(TRANS)_	1000	Ore	Misc	0	1	2	0	_(TRANS)_	137	0	0	0	0	_(TRANS)_
+691	item358	_(TRANS)_	2000	Ore	Misc	0	1	2	0	_(TRANS)_	138	0	0	0	0	_(TRANS)_
+692	null	quest item 692	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 692
+693	null	quest item 693	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 693
+694	null	quest item 694	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 694
+695	null	quest item 695	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 695
+696	null	quest item 696	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 696
+697	null	quest item 697	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 697
+698	null	quest item 698	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 698
+699	null	quest item 699	0	0	0	0	0	0	0	0	1	0	0	0	0	quest item 699
+700	item199	_(TRANS)_	1000	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+701	item199	_(TRANS)_	1000	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+702	item199	_(TRANS)_	1000	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+703	item199	_(TRANS)_	1000	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+704	item199	_(TRANS)_	1000	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+705	item199	_(TRANS)_	1000	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+706	item199	_(TRANS)_	1000	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+707	item199	_(TRANS)_	1000	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+708	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+709	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+710	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+711	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+712	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+713	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+714	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+715	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+716	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+717	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+718	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+719	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+720	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+721	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+722	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+723	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+724	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+725	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+726	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+727	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+728	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+729	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+730	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+731	item199	_(TRANS)_	750	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+732	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+733	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+734	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+735	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+736	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+737	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+738	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+739	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+740	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+741	item264	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	86	0	0	0	0	_(TRANS)_
+742	item265	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	86	0	0	0	0	_(TRANS)_
+743	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	86	0	0	0	0	_(TRANS)_
+744	item207	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	78	0	0	0	0	_(TRANS)_
+745	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	86	0	0	0	0	_(TRANS)_
+746	item265	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	86	0	0	0	0	_(TRANS)_
+747	item265	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+748	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+749	item199	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+750	item202	_(TRANS)_	0	Mscroll	Misc	0	0	0	0	_(TRANS)_	77	0	0	0	0	_(TRANS)_
+751	null	message scroll 751	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+752	null	message scroll 752	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+753	null	message scroll 753	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+754	null	message scroll 754	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+755	null	message scroll 755	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+756	null	message scroll 756	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+757	null	message scroll 757	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+758	null	message scroll 758	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+759	null	message scroll 759	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+760	null	message scroll 760	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+761	null	message scroll 761	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+762	null	message scroll 762	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+763	null	message scroll 763	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+764	null	message scroll 764	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+765	null	message scroll 765	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+766	null	message scroll 766	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+767	null	message scroll 767	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+768	null	message scroll 768	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+769	null	message scroll 769	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+770	null	message scroll 770	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+771	null	message scroll 771	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+772	null	message scroll 772	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+773	null	message scroll 773	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+774	null	message scroll 774	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+775	null	message scroll 775	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+776	null	message scroll 776	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+777	null	message scroll 777	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+778	null	message scroll 778	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+779	null	message scroll 779	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+780	null	message scroll 780	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+781	null	message scroll 781	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+782	null	message scroll 782	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+783	null	message scroll 783	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+784	null	message scroll 784	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+785	null	message scroll 785	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+786	null	message scroll 786	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+787	null	message scroll 787	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+788	null	message scroll 788	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+789	null	message scroll 789	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+790	null	message scroll 790	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+791	null	message scroll 791	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+792	null	message scroll 792	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+793	null	message scroll 793	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+794	null	message scroll 794	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+795	null	message scroll 795	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+796	null	message scroll 796	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+797	null	message scroll 797	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+798	null	message scroll 798	0	0	0	0	0	0	0	0	1	0	0	0	0	
+799	null	message scroll 799	0	0	0	0	0	0	0	0	1	0	0	0	0	
+800	item323	_(TRANS)_	0	0	0	0	0	0	0	_(TRANS)_	129	0	0	0	0	_(TRANS)_
+801	item324	_(TRANS)_	0	0	0	0	0	0	0	_(TRANS)_	130	0	0	0	0	_(TRANS)_
+802	item325	_(TRANS)_	0	0	0	0	0	0	0	_(TRANS)_	131	0	0	0	0	_(TRANS)_

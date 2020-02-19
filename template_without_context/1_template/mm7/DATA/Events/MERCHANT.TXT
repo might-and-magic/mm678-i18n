@@ -1,0 +1,8 @@
+	Buy	Sell	Repair	Identify
+Not enough gold	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+no merchant skill	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+regular merchant skill	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+good merchant skill	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+wrong type of merchant	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+Unnecessary	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+Stolen Item	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_

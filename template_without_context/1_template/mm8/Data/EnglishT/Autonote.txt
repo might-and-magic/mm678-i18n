@@ -1,0 +1,350 @@
+Note bit	Autonote Text	Category		
+1				
+2				Stat
+3				Misc
+4				Arbiter
+5				Teacher
+6				Potion
+7				Obelisk
+8				
+9				
+10	_(TRANS)_	Misc		
+11	_(TRANS)_	Misc		
+12	_(TRANS)_	Misc		
+13	_(TRANS)_	Misc		
+14	_(TRANS)_	Misc		
+15	_(TRANS)_	Misc		
+16	_(TRANS)_	Misc	
+17	_(TRANS)_	Obelisk	Area 5
+18	_(TRANS)_	Obelisk	Area 13
+19	_(TRANS)_	Obelisk	Area 4
+20	_(TRANS)_	Obelisk	Area 8
+21	_(TRANS)_	Obelisk	Area 3
+22	_(TRANS)_	Obelisk	Area 7
+23	_(TRANS)_	Obelisk	Area 2
+24	_(TRANS)_	Obelisk	Area 6
+25	_(TRANS)_	Obelisk	Area 1
+26			
+27			
+28			
+29			
+30			
+31			
+32		
+33	_(TRANS)_	Misc
+34	_(TRANS)_	Misc
+35	_(TRANS)_	Misc
+36	_(TRANS)_	Misc
+37	_(TRANS)_	Misc
+38	_(TRANS)_	Misc
+39	_(TRANS)_	Misc
+40	_(TRANS)_	Misc
+41	_(TRANS)_	Misc
+42	_(TRANS)_	Misc
+43	_(TRANS)_	Misc
+44		
+45		
+46		
+47		
+48		
+49		
+50		
+51		
+52		
+53	_(TRANS)_	potion
+54	_(TRANS)_	potion
+55	_(TRANS)_	potion
+56	_(TRANS)_	potion
+57	_(TRANS)_	potion
+58	_(TRANS)_	potion
+59	_(TRANS)_	potion
+60	_(TRANS)_	potion
+61	_(TRANS)_	potion
+62	_(TRANS)_	potion
+63	_(TRANS)_	potion
+64	_(TRANS)_	potion
+65	_(TRANS)_	potion
+66	_(TRANS)_	potion
+67	_(TRANS)_	potion
+68	_(TRANS)_	potion
+69	_(TRANS)_	potion
+70	_(TRANS)_	potion
+71	_(TRANS)_	potion
+72	_(TRANS)_	potion
+73	_(TRANS)_	potion
+74	_(TRANS)_	potion
+75	_(TRANS)_	potion
+76	_(TRANS)_	potion
+77	_(TRANS)_	potion
+78	_(TRANS)_	potion
+79	_(TRANS)_	potion
+80	_(TRANS)_	potion
+81	_(TRANS)_	potion
+82	_(TRANS)_	potion
+83	_(TRANS)_	potion
+84	_(TRANS)_	potion
+85	_(TRANS)_	potion
+86	_(TRANS)_	potion
+87	_(TRANS)_	potion
+88	_(TRANS)_	potion
+89	_(TRANS)_	potion
+90	_(TRANS)_	potion
+91	_(TRANS)_	potion
+92	_(TRANS)_	potion
+93	_(TRANS)_	potion
+94	_(TRANS)_	potion
+95	_(TRANS)_	potion
+96	_(TRANS)_	potion
+97	_(TRANS)_	potion
+98	_(TRANS)_	potion
+99	_(TRANS)_	potion
+100	_(TRANS)_	potion
+101	_(TRANS)_	potion
+102	_(TRANS)_	potion
+103	_(TRANS)_	potion
+104	_(TRANS)_	potion
+105	_(TRANS)_	potion
+106	_(TRANS)_	potion
+107	_(TRANS)_	potion
+108	_(TRANS)_	potion
+109	_(TRANS)_	potion
+110	_(TRANS)_	potion
+111	_(TRANS)_	potion
+112	_(TRANS)_	potion
+113	_(TRANS)_	potion
+114		
+115		
+116		
+117		
+118		
+119		
+120		
+121		
+122		
+123		
+124		
+125		
+126		
+127		
+128	_(TRANS)_	teacher
+129	_(TRANS)_	teacher
+130	_(TRANS)_	teacher
+131	_(TRANS)_	teacher
+132	_(TRANS)_	teacher
+133	_(TRANS)_	teacher
+134	_(TRANS)_	teacher
+135	_(TRANS)_	teacher
+136	_(TRANS)_	teacher
+137	_(TRANS)_	teacher
+138	_(TRANS)_	teacher
+139	_(TRANS)_	teacher
+140	_(TRANS)_	teacher
+141	_(TRANS)_	teacher
+142	_(TRANS)_	teacher
+143	_(TRANS)_	teacher
+144	_(TRANS)_	teacher
+145	_(TRANS)_	teacher
+146	_(TRANS)_	teacher
+147	_(TRANS)_	teacher
+148	_(TRANS)_	teacher
+149	blaster expert unused	
+150	blaster master unused	
+151	blaster gm unused	
+152	_(TRANS)_	teacher
+153	_(TRANS)_	teacher
+154	_(TRANS)_	teacher
+155	_(TRANS)_	teacher
+156	_(TRANS)_	teacher
+157	_(TRANS)_	teacher
+158	_(TRANS)_	teacher
+159	_(TRANS)_	teacher
+160	_(TRANS)_	teacher
+161	_(TRANS)_	teacher
+162	_(TRANS)_	teacher
+163	_(TRANS)_	teacher
+164	_(TRANS)_	teacher
+165	_(TRANS)_	teacher
+166	_(TRANS)_	teacher
+167	_(TRANS)_	teacher
+168	_(TRANS)_	teacher
+169	_(TRANS)_	teacher
+170	_(TRANS)_	teacher
+171	_(TRANS)_	teacher
+172	_(TRANS)_	teacher
+173	_(TRANS)_	teacher
+174	_(TRANS)_	teacher
+175	_(TRANS)_	teacher
+176	_(TRANS)_	teacher
+177	_(TRANS)_	teacher
+178	_(TRANS)_	teacher
+179	_(TRANS)_	teacher
+180	_(TRANS)_	teacher
+181	_(TRANS)_	teacher
+182	_(TRANS)_	teacher
+183	_(TRANS)_	teacher
+184	_(TRANS)_	teacher
+185	_(TRANS)_	teacher
+186	_(TRANS)_	teacher
+187	_(TRANS)_	teacher
+188	_(TRANS)_	teacher
+189	_(TRANS)_	teacher
+190	_(TRANS)_	teacher
+191	_(TRANS)_	teacher
+192	_(TRANS)_	teacher
+193	_(TRANS)_	teacher
+194	_(TRANS)_	teacher
+195	_(TRANS)_	teacher
+196	_(TRANS)_	teacher
+197	_(TRANS)_	teacher
+198	_(TRANS)_	teacher
+199	_(TRANS)_	teacher
+200	_(TRANS)_	teacher
+201	_(TRANS)_	teacher
+202	_(TRANS)_	teacher
+203	_(TRANS)_	teacher
+204	_(TRANS)_	teacher
+205	_(TRANS)_	teacher
+206	_(TRANS)_	teacher
+207	_(TRANS)_	teacher
+208	_(TRANS)_	teacher
+209	_(TRANS)_	teacher
+210	_(TRANS)_	teacher
+211	_(TRANS)_	teacher
+212	_(TRANS)_	teacher
+213	_(TRANS)_	teacher
+214	_(TRANS)_	teacher
+215	_(TRANS)_	teacher
+216	_(TRANS)_	teacher
+217	_(TRANS)_	teacher
+218	_(TRANS)_	teacher
+219	_(TRANS)_	teacher
+220	_(TRANS)_	teacher
+221	_(TRANS)_	teacher
+222	_(TRANS)_	teacher
+223	_(TRANS)_	teacher
+224	dodging expert unused	teacher
+225	dodging master unused	teacher
+226	dodging gm unused	teacher
+227	unarmed expert unused	teacher
+228	unarmed master unused	teacher
+229	unarmed gm unused	teacher
+230	_(TRANS)_	teacher
+231	_(TRANS)_	teacher
+232	_(TRANS)_	teacher
+233	_(TRANS)_	teacher
+234	_(TRANS)_	teacher
+235	_(TRANS)_	teacher
+236	stealing expert unused	teacher
+237	stealing master unused	teacher
+238	stealing gm unused	teacher
+239	_(TRANS)_	teacher
+240	_(TRANS)_	teacher
+241	_(TRANS)_	teacher
+242	_(TRANS)_	teacher
+243	_(TRANS)_	teacher
+244	_(TRANS)_	teacher
+245	_(TRANS)_	stat
+246	_(TRANS)_	stat
+247	_(TRANS)_	stat
+248	_(TRANS)_	stat
+249	_(TRANS)_	stat
+250	_(TRANS)_	stat
+251	_(TRANS)_	stat
+252	_(TRANS)_	stat
+253	_(TRANS)_	stat
+254	_(TRANS)_	stat
+255	_(TRANS)_	stat
+256	_(TRANS)_	stat
+257	_(TRANS)_	stat
+258	_(TRANS)_	stat
+259	_(TRANS)_	stat
+260	_(TRANS)_	stat
+261	_(TRANS)_	stat
+262	_(TRANS)_	stat
+263	_(TRANS)_	stat
+264	_(TRANS)_	stat
+265	_(TRANS)_	stat
+266	_(TRANS)_	stat
+267	_(TRANS)_	stat
+268	_(TRANS)_	stat
+269	_(TRANS)_	stat
+270	_(TRANS)_	stat
+271	_(TRANS)_	stat
+272	_(TRANS)_	seer
+273	_(TRANS)_	seer
+274	_(TRANS)_	seer
+275	_(TRANS)_	seer
+276	_(TRANS)_	seer
+277	_(TRANS)_	seer
+278	_(TRANS)_	seer
+279	_(TRANS)_	seer
+280	_(TRANS)_	seer
+281	_(TRANS)_	seer
+282	_(TRANS)_	seer
+283	_(TRANS)_	seer
+284	_(TRANS)_	seer
+285	_(TRANS)_	seer
+286	_(TRANS)_	seer
+287	_(TRANS)_	seer
+288	_(TRANS)_	seer
+289	_(TRANS)_	seer
+290	_(TRANS)_	seer
+291	_(TRANS)_	seer
+292	_(TRANS)_	seer
+293	_(TRANS)_	seer
+294	_(TRANS)_	seer
+295	_(TRANS)_	seer
+296		
+297		
+298		
+299		
+300		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

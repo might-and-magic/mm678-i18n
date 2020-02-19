@@ -1,0 +1,541 @@
+Male	Female
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	_(TRANS)_
+_(TRANS)_	
+_(TRANS)_	
+_(TRANS)_	
+_(TRANS)_	
+_(TRANS)_	
+_(TRANS)_	
+_(TRANS)_	
+_(TRANS)_	
+_(TRANS)_	
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_
+_(TRANS)_

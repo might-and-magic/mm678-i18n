@@ -1,0 +1,148 @@
+Table (of Game struct)	Id	Field	New text
+NPCText	2149		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2150		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2151		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2152		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2153		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2154		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2155		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2156		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2157		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2158		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2159		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2160		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2161		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2162		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2163		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2164		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2165		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2166		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2167		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2168		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2169		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2170		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2171		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2172		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2173		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2174		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2175		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2176		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2177		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2178		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2179		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2180		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2181		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2182		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2183		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2184		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2185		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2186		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2187		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2188		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2189		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2190		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2191		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2192		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2193		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2194		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2195		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2196		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2197		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2198		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2199		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2200		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2201		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2202		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2203		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2204		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2205		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2206		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2207		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2208		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2209		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2210		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2211		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2212		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2213		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2214		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2215		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2216		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2217		Placeholder
+NPCText	2218		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2219		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2220		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2221		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2222		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2223		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2224		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2225		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2226		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2227		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2228		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2229		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2230		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2231		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2232		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2233		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2234		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2235		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2236		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2237		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2238		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2239		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2240		Placeholder
+NPCText	2241		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2242		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2243		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2244		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2245		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2246		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2247		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2248		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2249		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2250		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2251		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2252		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2253		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2254		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2255		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2256		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2257		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2258		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2259		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2260		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2261		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2262		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2263		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2264		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2265		_(TRANS_CONTEXT:'npc conversation')_
+
+NPCText	1673		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1674		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1675		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1676		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1677		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1678		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1679		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1680		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1681		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1682		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1683		_(TRANS_CONTEXT:'npc conversation')_
+
+NPCTopic	1778		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1779		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1780		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1781		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1782		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1783		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1784		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1785		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1786		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1787		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1788		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1789		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1790		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1791		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1792		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1793		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1794		_(TRANS_CONTEXT:'npctopic')_

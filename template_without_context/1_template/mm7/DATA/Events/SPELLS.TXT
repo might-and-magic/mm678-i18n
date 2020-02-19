@@ -1,0 +1,109 @@
+										
+#	Lvl	Fire Spells	Res	Short Name	Spell Description	Normal	Expert	Master	Grand Master	Stats
+1	1	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+2	2	_(TRANS)_	Fire	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+3	3	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+4	4	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+5	5	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+6	6	_(TRANS)_	Fire	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+7	7	_(TRANS)_	Fire	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+8	8	_(TRANS)_	Fire	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+9	9	_(TRANS)_	Fire	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+10	10	_(TRANS)_	Fire	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+11	11	_(TRANS)_	Fire	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMC
+	Lvl	Air Spells	Res		Spell Description					
+12	1	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+13	2	_(TRANS)_	Air	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+14	3	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+15	4	_(TRANS)_	Air	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+16	5	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+17	6	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+18	7	_(TRANS)_	Air	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+19	8	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+20	9	_(TRANS)_	Air	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMC
+21	10	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+22	11	_(TRANS)_	Air	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PEC
+	Lvl	Water Spells	Res		Spell Description					
+23	1	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+24	2	_(TRANS)_	Water	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+25	3	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+26	4	_(TRANS)_	Water	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+27	5	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+28	6	_(TRANS)_	Water	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PE
+29	7	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMC
+30	8	_(TRANS)_	Water	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+31	9	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+32	10	_(TRANS)_	Water	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+33	11	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+	Lvl	Earth Spells	Res		Spell Description					
+34	1	_(TRANS)_	Earth	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+35	2	_(TRANS)_	Earth	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+36	3	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+37	4	_(TRANS)_	Earth	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+38	5	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+39	6	_(TRANS)_	Earth	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+40	7	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+41	8	_(TRANS)_	Earth	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMC
+42	9	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+43	10	_(TRANS)_	Earth	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+44	11	_(TRANS)_	Earth	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMC
+	Lvl	Spirit Spells	Res		Spell Description					
+45	1	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+46	2	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+47	3	_(TRANS)_	Spirit	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+48	4	_(TRANS)_	Spirit	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+49	5	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+50	6	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+51	7	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+52	8	_(TRANS)_	Spirit	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMC
+53	9	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+54	10	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+55	11	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+	Lvl	Mind Spells	Res		Spell Description					
+56	1	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+57	2	_(TRANS)_	Mind	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMC
+58	3	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+59	4	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+60	5	_(TRANS)_	Mind	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+61	6	_(TRANS)_	Mind	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+62	7	_(TRANS)_	Mind	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+63	8	_(TRANS)_	Mind	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+64	9	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+65	10	_(TRANS)_	Mind	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMC
+66	11	_(TRANS)_	Mind	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+	Lvl	Body Spells	Res		Spell Description					
+67	1	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+68	2	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+69	3	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+70	4	_(TRANS)_	Body	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+71	5	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+72	6	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+73	7	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+74	8	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+75	9	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+76	10	_(TRANS)_	Body	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+77	11	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+	Lvl	Light Spells	Res		Spell Description					
+78	1	_(TRANS)_	Light	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+79	2	_(TRANS)_	Light	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+80	3	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+81	6	_(TRANS)_	Light	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+82	5	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+83	6	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+84	7	_(TRANS)_	Light	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+85	8	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+86	9	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMC
+87	10	_(TRANS)_	Light	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+88	11	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+	Lvl	Dark Spells	Res		Spell Description					
+89	1	_(TRANS)_	None	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+90	2	_(TRANS)_	Dark	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+91	3	_(TRANS)_	none	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+92	4	_(TRANS)_	Dark	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+93	5	_(TRANS)_	Dark	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMC
+94	6	_(TRANS)_	Dark	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+95	7	_(TRANS)_	Dark	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PM
+96	8	_(TRANS)_	None	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P
+97	9	_(TRANS)_	Dark	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PMEC
+98	10	_(TRANS)_	Dark	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	PC
+99	11	_(TRANS)_	Dark	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	P

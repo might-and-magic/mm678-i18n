@@ -1,0 +1,14 @@
+Launcher Text	
+
+0	
+1	_(TRANS)_
+2	_(TRANS)_
+3	_(TRANS)_
+4	_(TRANS)_
+5	_(TRANS)_
+6	_(TRANS)_
+7	======================
+8	_(TRANS)_
+9	_(TRANS)_
+10	_(TRANS)_
+11	_(TRANS)_

@@ -1,0 +1,247 @@
+Item#	message text	Location	Item Name
+700	_(TRANS)_	Rejuvenation	Rejuvenation Recipe
+701	_(TRANS)_	Pure Might	Pure Might Recipe
+702	_(TRANS)_	Pure Accuracy	Pure Accuracy Recipe
+703	_(TRANS)_	Pure Personality	Pure Personality Recipe
+704	_(TRANS)_	Pure Endurance	Pure Endurance Recipe
+705	_(TRANS)_	Pure Intellect	Pure Intellect Recipe
+706	_(TRANS)_	Pure Speed	Pure Speed Recipe
+707	_(TRANS)_	Pure Luck	Pure Luck Recipe
+708	_(TRANS)_	Slaying Potion	Slaying Potion Recipe
+709	_(TRANS)_	Stone To Flesh	Stone To Flesh Recipe
+710	_(TRANS)_	Might Boost	Might Boost Recipe
+711	_(TRANS)_	Intellect Boost	Intellect Boost Recipe
+712	_(TRANS)_	Personality Boost	Personality Boost Recipe
+713	_(TRANS)_	Endurance Boost	Endurance Boost Recipe
+714	_(TRANS)_	Speed Boost	Speed Boost Recipe
+715	_(TRANS)_	Accuracy Boost	Accuracy Boost Recipe
+716	_(TRANS)_	Flaming Potion	Flaming Potion Recipe
+717	_(TRANS)_	Freezing Potion	Freezing Potion Recipe
+718	_(TRANS)_	Noxious Potion	Noxious Potion Recipe
+719	_(TRANS)_	Shocking Potion	Shocking Potion Recipe
+720	_(TRANS)_	Swift Potion	Swift Potion Recipe
+721	_(TRANS)_	Cure Paralysis	Cure Paralysis Recipe
+722	_(TRANS)_	Divine Restoration	Divine Restoration Recipe
+723	_(TRANS)_	Divine Cure	Divine Cure Recipe
+724	_(TRANS)_	Divine Power	Divine Power Recipe
+725	_(TRANS)_	Luck Boost	Luck Boost Recipe
+726	_(TRANS)_	Fire Resistance	Fire Resistance Recipe
+727	_(TRANS)_	Air Resistance	Air Resistance Recipe
+728	_(TRANS)_	Water Resistance	Water Resistance Recipe
+729	_(TRANS)_	Earth Resistance	Earth Resistance Recipe
+730	_(TRANS)_	Mind Resistance	Mind Resistance Recipe
+731	_(TRANS)_	Body Resistance	Body Resistance Recipe
+732	_(TRANS)_		Certificate of Authentica
+733	_(TRANS)_		Journal Scrap
+734	_(TRANS)_		Journal Scrap
+735	_(TRANS)_		Journal Scrap
+736	_(TRANS)_		Journal Scrap
+737	_(TRANS)_		Journal Scrap
+738	_(TRANS)_		Journal Scrap
+739	_(TRANS)_		Journal Scrap
+740	_(TRANS)_		Journal Scrap
+741	_(TRANS)_		Dadeross' Letter to Fellm
+742	_(TRANS)_		Blackmail Letter
+743	_(TRANS)_		Journal Scrap
+744	_(TRANS)_		History of the Vault of T
+745	_(TRANS)_		Dagger Wound Oddities
+746	_(TRANS)_		Letter to Arion Hunter
+747	_(TRANS)_		Page Torn from a Book
+748	_(TRANS)_		Notes - Emergency Meeting
+749	_(TRANS)_		Cannon Design Notes
+750	_(TRANS)_		Old Scroll
+751	_(TRANS)_		Divine Boost recipe
+752	_(TRANS)_		Divine Protection recipe
+753	_(TRANS)_		Divine Transcendence recipe
+754	_(TRANS)_		Essence of Luck recipe
+755	_(TRANS)_		Potion of the Gods recipe
+756	_(TRANS)_		Potion of Doom recipe
+757	_(TRANS)_		Pure Fire Resistance recipe
+758	_(TRANS)_		Pure Air Resistance recipe
+759	_(TRANS)_		Pure Water Resistance recipe
+760	_(TRANS)_		Pure Earth Resistance recipe
+761	_(TRANS)_		Pure Mind Resistance recipe
+762	_(TRANS)_		Pure Body Resistance recipe
+763	_(TRANS)_		Essence of Might recipe
+764	_(TRANS)_		Essence of Intellect recipe
+765	_(TRANS)_		Essence of Personality recipe
+766	_(TRANS)_		Essence of Accuracy recipe
+767	_(TRANS)_		Essence of Endurance recipe
+768	_(TRANS)_		Essence of Speed recipe
+769	_(TRANS)_		Protection from Magic recipe
+770	_(TRANS)_	Event, Crosscontinent quest	Letter for YOU.
+771	_(TRANS)_	Event, Crosscontinent quest	Letter for YOU.
+772	_(TRANS)_	Event, Crosscontinent quest	Letter for YOU.
+773			message scroll 773
+774	_(TRANS)_	City of Steadwick.	Advertisment.
+775			message scroll 775
+776			message scroll 776
+777			message scroll 777
+778			message scroll 778
+779			message scroll 779
+780			message scroll 780
+781			message scroll 781
+1502	_(TRANS)_	Event	Message from Erathia
+1503	_(TRANS)_	Event	Cipher
+1504	_(TRANS)_	"Event, School of Sorcery"	Scroll of Waves
+1505	_(TRANS)_	"Player Castle, Event (I believe)"	Basic Cryptography
+1506	_(TRANS)_	Event	Message from Mr. Stantley
+1507	_(TRANS)_	Fort Riverstride	Riverstride Plans
+1508	_(TRANS)_	Event	False Riverstride Plans
+1509	_(TRANS)_	Chest in fort in Area 2	Fragment of Soldier's Dia
+1510	_(TRANS)_	Tularean Caves	Letter from Mr. Stantley
+1511	_(TRANS)_	"Grand Temple of Light, somewhere accesible"	Torn Page
+1512	_(TRANS)_	"White Cliff Caves, near the cards and skeleton"	Remains of a Journal
+1513	_(TRANS)_	Torture chamber of Castle Harmondale	Journal Excerpt
+1514	_(TRANS)_	Message from Archibald to Evil Ambassador	Letter from Archibald
+1515	_(TRANS)_	Mercenary Guild	Letter from Malwick
+1516	_(TRANS)_	Tularean Caves	Letter from Gavin Magnus
+1517	_(TRANS)_	Dragon Cave on Emerald Island	Journal Fragment
+1518	_(TRANS)_	Castle Harmondale either obviously placed or on a goblin	Letter to Hairbaugh
+1519	_(TRANS)_	Erathian Sewers	Letter from Mr. Stantley
+1520	_(TRANS)_	Grand Temple of the Sun	"Journal Entry, 23rd Apri
+1521	_(TRANS)_	Nighon in chest	"Journal Entry, 30th June
+1522	_(TRANS)_	Lord Markham's Manor	Excerpt from a Diary
+1523	_(TRANS)_	Bandit Caves	Letter
+1524	_(TRANS)_	Barrow Downs	"Journal Entry, 11th Dece
+1525	_(TRANS)_	Fort Riverstride	Orders from Steadwick
+1526	_(TRANS)_	Tatalia	"Journal Entry, 2nd Janua
+1527	_(TRANS)_	Deyja	"Journal Entry, 19th Sept
+1528	_(TRANS)_	Red Dwarf Mines	Journal Entry
+1529	Missing Scroll Text 727		Empty Message Scroll
+1530	_(TRANS)_	In Chest with Abby Normal Head in Bracada Desert	Bill of Sale
+1531	Missing Scroll Text 729		Empty Message Scroll
+1532	Missing Scroll Text 730		Empty Message Scroll
+1533	Missing Scroll Text 731		Empty Message Scroll
+1534	Missing Scroll Text 732		Empty Message Scroll
+1535	Missing Scroll Text 733		Empty Message Scroll
+1536	_(TRANS)_	Temple of Baa	Letter from Xenofex
+1537	Missing Scroll Text 735		Empty Message Scroll
+1538	Missing Scroll Text 736		Empty Message Scroll
+1539	Missing Scroll Text 737		Empty Message Scroll
+1540	Missing Scroll Text 738		Empty Message Scroll
+1541	Missing Scroll Text 739		Empty Message Scroll
+1542	_(TRANS)_	Rejuvenation	Rejuvenation Recipe
+1543	_(TRANS)_	Pure Might	Pure Might Recipe
+1544	_(TRANS)_	Pure Accuracy	Pure Accuracy Recipe
+1545	_(TRANS)_	Pure Personality	Pure Personality Recipe
+1546	_(TRANS)_	Pure Endurance	Pure Endurance Recipe
+1547	_(TRANS)_	Pure Intellect	Pure Intellect Recipe
+1548	_(TRANS)_	Pure Speed	Pure Speed Recipe
+1549	_(TRANS)_	Pure Luck 748	Pure Luck Recipe
+1550	_(TRANS)_	Slaying Potion 749	Slaying Potion Recipe
+1551	_(TRANS)_	Stone To Flesh 750	Stone To Flesh Recipe
+1552	_(TRANS)_	Might Boost 751	Might Boost Recipe
+1553	_(TRANS)_	Intellect Boost 752	Intellect Boost Recipe
+1554	_(TRANS)_	Personality Boost 753	Personality Boost Recipe
+1555	_(TRANS)_	Endurance Boost 754	Endurance Boost Recipe
+1556	_(TRANS)_	Speed Boost 755	Speed Boost Recipe
+1557	_(TRANS)_	Accuracy Boost 756	Accuracy Boost Recipe
+1558	_(TRANS)_	Flaming Potion 757	Flaming Potion Recipe
+1559	_(TRANS)_	Freezing Potion 758	Freezing Potion Recipe
+1560	_(TRANS)_	Noxious Potion 759	Noxious Potion Recipe
+1561	_(TRANS)_	Shocking Potion 760	Shocking Potion Recipe
+1562	_(TRANS)_	Swift Potion 761	Swift Potion Recipe
+1563	_(TRANS)_	Cure Paralysis 762	Cure Paralysis Recipe
+1564	_(TRANS)_	Divine Restoration 763	Divine Restoration Recipe
+1565	_(TRANS)_	Divine Cure 764	Divine Cure Recipe
+1566	_(TRANS)_	Divine Power 765	Divine Power Recipe
+1567	_(TRANS)_	Luck Boost 766	Luck Boost Recipe
+1568	_(TRANS)_	Fire Resistance 767	Fire Resistance Recipe
+1569	_(TRANS)_	Air Resistance 768	Air Resistance Recipe
+1570	_(TRANS)_	Water Resistance 769	Water Resistance Recipe
+1571	_(TRANS)_	Earth Resistance 770	Earth Resistance Recipe
+1572	_(TRANS)_	Mind Resistance 771	Mind Resistance Recipe
+1573	_(TRANS)_	Body Resistance 772	Body Resistance Recipe
+1574		 773	Empty Message Scroll
+1575		 774	Empty Message Scroll
+1576		 775	Empty Message Scroll
+1577		 776	Empty Message Scroll
+1578		 777	Empty Message Scroll
+1579		 778	Empty Message Scroll
+1580		 779	Empty Message Scroll
+1581			Empty Message Scroll
+1582			Empty Message Scroll
+1583			_quest/misc781
+2120	_(TRANS)_	D1	Name of Message
+2121	_(TRANS)_	T6	Name of Message
+2122	_(TRANS)_	T7	Letter from Zenofex
+2123	_(TRANS)_	D7	Enemies List
+2124	_(TRANS)_	D6	Orders from the Shadow Gu
+2125	_(TRANS)_	1	The Letter
+2126	_(TRANS)_	Mini-dungeon	Devil Plans
+2127	_(TRANS)_	T4	Missive from the Archbish
+2128	_(TRANS)_	D16	Discharge Papers
+2129	_(TRANS)_	T6	Letter from Zenofex
+2130	_(TRANS)_	D13	Letter from Cedric Druthe
+2131	_(TRANS)_	D13	Scrap of Paper
+2132	_(TRANS)_	D5	Letter to Snergle
+2133	_(TRANS)_	D3	Letter from the Prince of
+2134	Message Scroll Text. 514		Name of Message
+2135	_(TRANS)_	D12	Elegant Letter
+2136	_(TRANS)_	D8	Letter to the Prince of T
+2137	Message Scroll Text. 517		Name of Message
+2138	_(TRANS)_	D20	Diary Page
+2139	_(TRANS)_	D19	Page from Agar's Journal
+2140	_(TRANS)_	D15	Remains of a Journal
+2141	_(TRANS)_	D15	Letter from the Dragon Ri
+2142	_(TRANS)_	T2	Letter from the Temple of
+2143	_(TRANS)_	D2	Magical Ritual Notes
+2144	Message Scroll Text. 524		Name of Message
+2145	_(TRANS)_	D9	Orders from Snergle
+2146	Message Scroll Text. 526		Name of Message
+2147	_(TRANS)_	D11	Page from Corlagon's Diar
+2148	_(TRANS)_	D18	Letter to Marcus
+2149	_(TRANS)_	D18	Scrap from Gharik's Journ
+2150	_(TRANS)_	T5	Remnants of a Letter
+2151	_(TRANS)_	CD2	Letter to Terrax
+2152	_(TRANS)_	CD2	Loose Page
+2153	_(TRANS)_	D4	Journal Fragment
+2154	_(TRANS)_	CD3	Letter to Agar
+2155	_(TRANS)_	CD1	Letter to Gharik
+2156	_(TRANS)_	D8 Spiral	Spiral Instructions
+2157	_(TRANS)_	Pyramid	Captain's Code
+2158	_(TRANS)_	Pyramid	First Mate's Code
+2159	_(TRANS)_	Pyramid	Navigator's Code
+2160	_(TRANS)_	Pyramid	Communication Officer's C
+2161	_(TRANS)_	Pyramid	Engineer's Code
+2162	_(TRANS)_	Pyramid	Doctor's Code
+2163	_(TRANS)_	D1	Goblinwatch Code
+2164	_(TRANS)_	D1	Ritual of the Void
+2165	_(TRANS)_	D1	Roland's Journal
+2166	_(TRANS)_	D1	Proclamation
+2167		D1	Name of Message
+2168		D1	Name of Message
+2169		D1	Name of Message
+2170			Memory Crystal Alpha
+2171			Memory Crystal Beta
+2172			Memory Crystal Delta
+2173			Memory Crystal Epsilon
+2174			Pouch of Bat Guano
+2175			Bathhouse Key
+2176			Store Room Key
+2177			Treasure Room Key
+2178			Secret Door Key
+2179			Chest Key
+2180			Guild Key
+2181			Bathhouse Key
+2182			Store Room Key
+2183		 564	Treasure Room Key
+2184		 565	Warlord's Key
+2185		 566	Storage Key
+2186		 567	Cell Key
+2187		 568	High Cleric's Key
+2188		 569	Treasure Room Key
+2189		 570	Teleporter Key
+2190		 571	Hive Sanctum Key
+2191		 572	Storage Key
+2192		 573	Cell Key
+2193		 574	Water Temple Key
+2194		 575	Flame Door Key
+2195		 576	Back Door Key
+2196		 577	Bibliotheca Chest Key
+2197		 578	VARN Chest Key
+2198		 579	Sewer Key
+2199			Fire Amulet
+2200			Dark Containment
+		

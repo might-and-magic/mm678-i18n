@@ -1,0 +1,280 @@
+Default Monster Data					Stats								Movement and Combat					Attack 1			Attack 2			    Spell Attack		    Spell Attack 2		Resistances										Misc
+#	Name	Picture	LVL	 HP 	AC	 EXP 	Treasure	Quest	Fly	Move	AI Type	Hst	Spd	Rec	Pref	Bonus	Type	Damage	Miss	Att%	Type	Damage	Miss	Use%	"Spl,Mas,Skil"	Use%	"Spl,Mas,Skil"	Fire	Air	Water	Earth	Mind	Spirit	Body	Light	Dark	Phys	Special
+																																						
+	A		0																																			
+1	_(TRANS)_	Angel A	30	180	25	1200	5%50D20+L4Sword	1	Y	Free	Aggress	3	250	60	0	0	Phys	2D8+10	0	0	0	0	0	30	"Light Bolt,M,8"	20	"Dispel Magic,M,8"	20	20	20	20	30	15	30	Imm	10	20	0
+2	_(TRANS)_	Angel B	50	400	35	3000	10%75D20+L5Sword	1	Y	Free	Aggress	3	275	50	0	0	Phys	2D8+15	0	0	0	0	0	30	"Light Bolt,M,12"	50	"Day of Protection,M,12"	30	30	30	30	40	15	40	Imm	10	20	0
+3	_(TRANS)_	Angel C	70	700	45	5600	15%100D20+L6Sword	1	Y	Free	Suicidal	3	300	40	2	0	Phys	2D8+20	0	0	0	0	0	30	"Light Bolt,G,16"	50	"Hour of Power,G,16"	40	40	40	40	50	15	50	Imm	10	20	0
+4	_(TRANS)_	Archer A	9	35	14	171	5%3D20+L1Bow	1	N	Short	Normal	4	140	90	AR	0	Phys	2D6+2	Arrow	10	Fire	3D6+2	FireAr	0	0	50	"Shield,N,4"	5	5	5	5	10	10	10	0	0	5	0
+5	_(TRANS)_	Archer B	19	93	16	551	5%6D20+L2Bow	1	N	Short	Aggress	4	150	90	AR	0	Phys	3D6+3	Arrow	10	Fire	4D6+3	FireAr	20	"Lightning Bolt,E,4"	50	"Shield,E,8"	10	10	10	10	15	10	15	0	0	10	0
+6	_(TRANS)_	Archer C	29	171	22	1131	10%10D20+L3Bow	1	N	Short	Aggress	4	160	80	AR	0	Phys	3D7+3	Arrow	15	Fire	4D7+3	FireAr	20	"Lightning Bolt,M,8"	50	"Shield,M,12"	15	15	15	15	20	10	20	0	0	15	0
+7	_(TRANS)_	Bat A	3	9	5	39	0	1	Y	Free	Normal	3	280	50	0	Disease1	Phys	1D3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8	_(TRANS)_	Bat B	6	21	8	96	5%L1Ring	1	Y	Free	Normal	3	300	50	0	Disease1	Phys	1D3+2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9	_(TRANS)_	Bat C	9	35	10	171	5%L2Ring	1	Y	Free	Aggress	3	320	50	0	Disease2	Phys	2D3+2	0	15	Fire	3D2	Fire	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+10	_(TRANS)_	Behemoth A	45	337	35	2475	50D10	1	N	Long	Normal	2	250	80	2	BrkArmor	Phys	3D10+20	0	0	0	0	0	0	0	0	0	30	30	30	30	Imm	0	30	15	15	20	0
+11	_(TRANS)_	Behemoth B	60	540	50	4200	100D10	1	N	Med	Aggress	2	260	70	2	BrkArmor	Phys	4D10+30	0	0	0	0	0	0	0	0	0	40	40	40	40	Imm	0	40	15	15	25	0
+12	_(TRANS)_	Behemoth C	85	977	80	8075	200D10	1	N	Short	Suicidal	2	300	60	3	BrkArmor	Phys	5D10+40	0	0	0	0	0	0	0	0	0	50	50	50	50	Imm	0	50	15	15	30	0
+13	_(TRANS)_	Beholder A	30	180	20	1200	10%10D10+L4Ring	1	Y	Med	Aggress	3	140	70	S	Asleep	Water	5D6	Water	0	0	0	0	0	0	0	0	30	30	Imm	30	Imm	15	Imm	10	15	30	0
+14	_(TRANS)_	Beholder B	40	280	30	2000	20%15D10+L5Ring	1	Y	Med	Aggress	3	160	60	SD	Afraid	Fire	6D6	Fire	0	0	0	0	0	0	0	0	Imm	40	30	40	Imm	15	Imm	10	15	40	0
+15	_(TRANS)_	Beholder C	50	400	40	3000	30%20D10+L6Ring	1	Y	Short	Aggress	3	180	50	0	Insane	Air	7D6	Air	0	0	0	0	0	0	0	0	40	Imm	40	50	Imm	15	Imm	10	15	50	"shot,x3"
+16	_(TRANS)_	Cleric Moon A	10	40	10	200	5%5D10+L2Mace	1	N	Med	Normal	2	160	90	CP	0	Phys	2D4	Air	0	0	0	0	30	"Toxic Cloud,N,4"	0	0	5	5	5	5	5	0	5	0	Imm	10	0
+17	_(TRANS)_	Cleric Moon B	20	100	15	600	5%10D10+L3Mace	1	N	Med	Normal	2	180	90	CP	0	Phys	2D4+4	Air	0	0	0	0	30	"Toxic Cloud,E,7"	10	"Bless,E,7"	10	10	10	10	10	0	10	0	Imm	15	0
+18	_(TRANS)_	Cleric Moon C	30	180	25	1200	10%20D10+L4Mace	1	N	Med	Aggress	2	200	80	CP	0	Phys	2D4+8	Dark	0	0	0	0	30	"Shrapmetal,M,10"	33	"Power Cure,G,10"	15	15	15	15	15	0	15	0	Imm	20	0
+19	_(TRANS)_	Cleric Sun A	10	40	10	200	5%5D10+L2Cape	1	N	Med	Normal	2	160	90	CP	0	Phys	2D4	Fire	0	0	0	0	30	"Light Bolt,N,4"	0	0	5	5	5	5	5	0	5	Imm	0	10	0
+20	_(TRANS)_	Cleric Sun B	20	100	15	600	5%10D10+L3Cape	1	N	Med	Normal	2	180	90	CP	0	Phys	2D4+4	Fire	0	0	0	0	30	"Mind Blast,E,7"	10	"Bless,E,7"	10	10	10	10	10	0	10	Imm	0	15	0
+21	_(TRANS)_	Cleric Sun C	30	180	25	1200	10%20D10+L4Cape	1	N	Med	Aggress	2	200	80	CP	0	Phys	2D4+8	Light	0	0	0	0	30	"Light Bolt,N,10"	33	"Power Cure,G,10"	15	15	15	15	15	0	15	Imm	0	20	0
+22	_(TRANS)_	Devil A	30	180	25	1200	0	1	N	Med	Suicidal	2	200	60	0	Disease2	Phys	2D6+8	Fire	0	0	0	0	20	"Fireball,E,6"	0	0	Imm	20	20	20	Imm	25	20	20	20	20	0
+23	_(TRANS)_	Devil B	50	400	35	3000	0	1	N	Med	Aggress	2	250	50	0	Disease3	Phys	2D6+14	Fire	0	0	0	0	20	"Fireball,E,8"	15	"Meteor Shower,M,8"	Imm	30	30	30	Imm	25	30	30	30	30	0
+24	_(TRANS)_	Devil C	70	700	45	5600	0	1	N	Short	Aggress	2	300	40	0	DrainSP	Phys	2D6+20	Fire	0	0	0	0	20	"Incinerate,M,12"	15	"Meteor Shower,M,12"	Imm	40	40	40	Imm	25	40	40	40	40	0
+25	_(TRANS)_	Dragon A	80	880	60	7200	250D10+L6	1	Y	Long	Aggress	4	240	70	2	0	Air	12D8	Air	0	0	0	0	0	0	0	0	50	Imm	50	50	50	15	Imm	30	30	50	0
+26	_(TRANS)_	Dragon B	90	1080	80	9000	300D10+L6	1	Y	Med	Aggress	4	260	65	3	0	Water	14D8	Water	0	0	0	0	0	0	0	0	50	50	Imm	50	50	15	Imm	30	30	50	0
+27	_(TRANS)_	Dragon C	100	1300	100	11000	400D10+L6	1	Y	Short	Aggress	4	300	60	4	BrkArmor	Fire	16D8	Fire	0	0	0	0	0	0	0	0	Imm	70	70	70	70	15	Imm	30	30	70	0
+28	_(TRANS)_	Dragonfly A	2	6	4	24	3D6	1	Y	Free	Normal	3	400	50	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	10	0	0	0	0	0	0	0	0	0	0
+29	_(TRANS)_	Dragonfly B	4	13	8	56	7D6	1	Y	Free	Normal	3	350	50	0	0	Phys	3D2+1	0	0	0	0	0	10	"Fire Bolt,N,2"	0	0	20	0	0	0	0	0	0	0	0	0	0
+30	_(TRANS)_	Dragonfly C	8	30	12	144	10D6	1	Y	Free	Normal	3	300	50	0	0	Phys	4D2+2	0	0	0	0	0	15	"Fire Bolt,N,4"	0	0	30	0	0	0	0	0	0	0	0	0	0
+31	_(TRANS)_	Dwarf A	10	40	6	200	5%5D10+L1Axe	1	N	Med	Normal	2	160	70	G	0	Phys	4D2+4	0	0	0	0	0	0	0	0	0	10	20	20	30	5	0	10	0	0	30	0
+32	_(TRANS)_	Dwarf B	20	100	12	600	10%10D10+L2Axe	1	N	Med	Aggress	2	180	80	G	0	Phys	4D2+8	0	0	0	0	0	0	0	0	0	20	30	30	40	5	0	20	0	0	40	0
+33	_(TRANS)_	Dwarf C	30	180	20	1200	25%20D10+L3Axe	1	N	Short	Suicidal	2	200	80	G	BrkArmor	Phys	4D2+16	0	0	0	0	0	0	0	0	0	30	40	40	50	5	0	30	0	0	50	0
+34	_(TRANS)_	Elemental Air A	16	73	10	416	0	0	Y	Free	Suicidal	3	220	90	0	0	Air	3D6	Air	0	0	0	0	20	"Sparks,E,4"	0	0	10	Imm	10	10	Imm	Imm	Imm	5	5	10	0
+35	_(TRANS)_	Elemental Air B	22	114	12	704	0	0	Y	Free	Suicidal	3	240	90	0	0	Air	5D6	Air	0	0	0	0	20	"Sparks,M,8"	20	"Lightning Bolt,M,8"	15	Imm	15	15	Imm	Imm	Imm	5	5	15	0
+36	_(TRANS)_	Elemental Air C	33	207	14	1419	0	0	Y	Free	Suicidal	3	260	80	0	0	Air	8D6	Air	0	0	0	0	20	"Sparks,G,12"	20	"Lightning Bolt,G,12"	20	Imm	20	20	Imm	Imm	Imm	5	5	20	0
+37	_(TRANS)_	Elemental Earth A	25	137	20	875	30%L3Gem	0	N	Free	Suicidal	2	220	90	0	0	Phys	10D3	Earth	0	0	0	0	25	"Blades,E,6"	50	"Stone Skin,E,4"	10	10	10	Imm	Imm	Imm	Imm	5	5	10	0
+38	_(TRANS)_	Elemental Earth B	30	180	25	1200	35%L4Gem	0	N	Free	Suicidal	2	240	90	0	BrkArmor	Phys	15D3	Earth	0	0	0	0	25	"Rock Blast,M,8"	50	"Stone Skin,M,8"	15	15	15	Imm	Imm	Imm	Imm	5	5	15	0
+39	_(TRANS)_	Elemental Earth C	40	280	30	2000	40%L5Gem	0	N	Free	Suicidal	2	260	80	0	Uncon	Phys	25D3	Earth	0	0	0	0	25	"Blades,G,12"	50	"Stone Skin,G,12"	20	20	20	Imm	Imm	Imm	Imm	5	5	20	0
+40	_(TRANS)_	Elemental Fire A	13	55	12	299	0	0	Y	Free	Suicidal	3	220	90	0	0	Fire	2D8	Fire	0	0	0	0	20	"Fire Bolt,E,6"	50	"Haste,E,4"	Imm	10	10	10	Imm	Imm	Imm	5	5	10	0
+41	_(TRANS)_	Elemental Fire B	26	145	15	936	0	0	Y	Free	Suicidal	3	240	90	0	0	Fire	5D8	Fire	0	0	0	0	20	"Fireball,M,8"	50	"Haste,M,8"	Imm	15	15	15	Imm	Imm	Imm	5	5	15	0
+42	_(TRANS)_	Elemental Fire C	39	269	18	1911	0	0	Y	Free	Suicidal	3	260	80	0	0	Fire	8D8	Fire	0	0	0	0	20	"Incinerate,G,12"	50	"Haste,G,12"	Imm	20	20	20	Imm	Imm	Imm	5	5	20	0
+43	_(TRANS)_	Elemental Light A	15	67	11	375	0	0	Y	Free	Suicidal	3	240	80	0	0	Light	4D4	Light	0	0	0	0	0	0	0	0	10	10	10	10	Imm	Imm	Imm	Imm	5	10	"explode,5D8,light"
+44	_(TRANS)_	Elemental Light B	23	121	14	759	0	0	Y	Free	Suicidal	3	260	80	0	0	Light	9D4	Light	0	0	0	0	0	0	0	0	15	15	15	15	Imm	Imm	Imm	Imm	5	15	"explode,5D8,light"
+45	_(TRANS)_	Elemental Light C	38	258	19	1824	0	0	Y	Free	Suicidal	3	280	80	0	0	Light	14D4	Light	0	0	0	0	0	0	0	0	20	20	20	20	Imm	Imm	Imm	Imm	5	20	"explode,5D8,light"
+46	_(TRANS)_	Elemental Water A	14	61	10	336	0	0	N	Free	Suicidal	2	220	90	0	0	Water	3D12	Water	0	0	0	0	30	"Ice Bolt,E,4"	0	0	10	10	Imm	10	Imm	Imm	Imm	5	5	10	0
+47	_(TRANS)_	Elemental Water B	24	129	13	816	0	0	N	Free	Suicidal	2	240	90	0	0	Water	4D12	Water	0	0	0	0	30	"Acid Burst,M,8"	0	0	15	15	Imm	15	Imm	Imm	Imm	5	5	15	0
+48	_(TRANS)_	Elemental Water C	36	237	16	1656	0	0	N	Free	Suicidal	2	260	80	0	0	Water	6D12	Water	0	0	0	0	30	"Ice Blast,G,12"	0	0	20	20	Imm	20	Imm	Imm	Imm	5	5	20	0
+49	_(TRANS)_	Elf Archer A	11	45	12	231	5%6D10+L2Bow	1	N	Short	Normal	4	160	70	H	0	Phys	4D2+2	Arrow	0	0	0	0	0	0	0	0	10	10	10	10	5	5	5	0	0	5	0
+50	_(TRANS)_	Elf Archer B	23	121	14	759	5%12D10+L3Bow	1	N	Short	Aggress	4	170	70	H	0	Phys	6D2+4	Arrow	0	0	0	0	0	0	0	0	15	15	15	15	10	5	10	0	0	10	0
+51	_(TRANS)_	Elf Archer C	35	227	20	1575	10%20D10+L4Bow	1	N	Short	Aggress	4	180	60	H	0	Phys	8D2+6	Arrow	0	0	0	0	0	0	0	0	20	20	20	20	15	5	15	0	0	15	"shot,x2"
+52	_(TRANS)_	Elf Spearman A	14	61	15	336	10%8D10+L2Spear	1	N	Long	Normal	2	240	80	H	0	Phys	2D4+4	0	0	0	0	0	0	0	0	0	10	10	10	10	5	5	5	0	0	5	0
+53	_(TRANS)_	Elf Spearman B	22	114	20	704	15%16D10+L3Spear	1	N	Long	Aggress	2	260	70	H	0	Phys	3D4+6	0	0	0	0	0	0	0	0	0	15	15	15	15	10	5	10	0	0	10	0
+54	_(TRANS)_	Elf Spearman C	30	180	28	1200	25%25D10+L4Spear	1	N	Med	Aggress	2	280	60	H	0	Phys	4D4+8	0	0	0	0	0	0	0	0	0	20	20	20	20	15	5	15	0	0	15	0
+55	_(TRANS)_	Fighter Chain A	14	61	18	336	5%10D10+L1Chain	1	N	Long	Normal	2	220	90	XE	0	Phys	3D3+6	0	0	0	0	0	0	0	0	0	10	10	10	10	15	10	15	0	0	10	0
+56	_(TRANS)_	Fighter Chain B	24	129	24	816	5%20D10+L2Chain	1	N	Long	Aggress	2	240	80	XE	0	Phys	3D3+10	0	0	0	0	0	0	0	0	0	20	20	20	20	25	10	25	0	0	20	0
+57	_(TRANS)_	Fighter Chain C	35	227	30	1575	10%30D10+L3Chain	1	N	Med	Aggress	2	260	70	XE	Brkweapon	Phys	3D3+14	0	0	0	0	0	0	0	0	0	30	30	30	30	35	10	35	0	0	30	0
+58	_(TRANS)_	Fighter Leather A	8	30	12	144	5%3D20+L1Leather	1	N	Long	Normal	2	200	100	E	0	Phys	2D4+1	0	0	0	0	0	0	0	0	0	5	5	5	5	10	10	10	0	0	5	0
+59	_(TRANS)_	Fighter Leather B	14	61	14	336	5%5D20+L2Leather	1	N	Long	Aggress	2	220	90	E	0	Phys	2D4+5	0	0	0	0	0	0	0	0	0	10	10	10	10	15	10	15	0	0	10	0
+60	_(TRANS)_	Fighter Leather C	22	114	16	704	10%10D20+L3Leather	1	N	Med	Aggress	2	240	80	E	0	Phys	2D4+10	0	0	0	0	0	0	0	0	0	15	15	15	15	20	10	20	0	0	15	0
+61	_(TRANS)_	Fighter Plate A	40	280	45	2000	10%10D100+L4Plate	1	N	Long	Normal	2	250	80	XK	0	Phys	4D5+20	0	0	0	0	0	33	"Bless,N,3"	33	"Heroism,N,3"	20	20	20	20	30	10	30	5	5	20	0
+62	_(TRANS)_	Fighter Plate B	60	540	65	4200	10%20D100+L5Plate	1	N	Med	Aggress	2	300	70	XK	0	Phys	4D5+30	0	0	0	0	0	33	"Bless,E,6"	33	"Heroism,E,6"	30	30	30	30	40	10	40	5	5	30	0
+63	_(TRANS)_	Fighter Plate C	80	880	85	7200	30%40D100+L6Plate	1	N	Short	Aggress	2	350	50	XK	0	Phys	4D5+40	0	0	0	0	0	33	"Bless,M,9"	33	"Heroism,M,9"	50	50	50	50	60	10	60	5	5	50	0
+64	_(TRANS)_	Gargoyle A	16	73	18	416	5%5D10+L2Amulet	0	Y	Long	Aggress	3	300	80	0	Weak	Phys	2D12	0	0	0	0	0	0	0	0	0	20	20	20	40	Imm	Imm	Imm	0	0	20	0
+65	_(TRANS)_	Gargoyle B	22	114	22	704	10%10D10+L2Amulet	0	Y	Long	Aggress	3	320	80	0	Paralyze	Phys	2D12+4	0	0	0	0	0	0	0	0	0	30	30	30	50	Imm	Imm	Imm	0	0	40	0
+66	_(TRANS)_	Gargoyle C	33	207	26	1419	20%25D10+L3Amulet	0	Y	Med	Suicidal	3	350	70	0	Paralyze	Phys	2D12+8	0	0	0	0	0	0	0	0	0	50	50	50	70	Imm	Imm	Imm	0	0	Imm	0
+67	_(TRANS)_	Genie A	33	207	35	1419	30%L4	0	Y	Free	Aggress	3	200	60	M	0	Water	8D4+8	Water	0	0	0	0	25	"Acid Burst,M,8"	0	0	30	30	Imm	30	50	0	50	10	10	30	0
+68	_(TRANS)_	Genie B	44	325	45	2376	30%L5	0	Y	Free	Aggress	3	220	50	M	Asleep	Fire	10D4+10	Fire	0	0	0	0	25	"Fireball,M,8"	0	0	Imm	30	30	30	50	0	50	10	10	30	0
+69	_(TRANS)_	Genie C	55	467	55	3575	30%L6	0	Y	Free	Aggress	3	250	40	M	Afraid	Air	12D4+12	Air	0	0	0	0	25	"Lightning Bolt,M10"	0	0	50	Imm	50	50	50	0	50	10	10	50	0
+70	_(TRANS)_	Ghost A	9	35	25	171	5%L2	0	Y	Free	Normal	3	240	100	CP	Afraid	Phys	1D6+6	0	0	0	0	0	0	0	0	0	10	10	Imm	10	Imm	10	Imm	0	30	10	0
+71	_(TRANS)_	Ghost B	13	55	30	299	10%L3	0	Y	Long	Normal	3	260	90	CP	Agex2	Phys	2D6+6	0	0	0	0	0	0	0	0	0	15	15	Imm	15	Imm	15	Imm	0	30	15	0
+72	_(TRANS)_	Ghost C	19	93	35	551	20%L4	0	Y	Med	Suicidal	3	300	90	CP	Uncon	Phys	3D6+6	0	0	0	0	0	0	0	0	0	20	20	Imm	20	Imm	20	Imm	0	30	20	0
+73	_(TRANS)_	Goblin A	4	13	6	56	4D4	1	N	Med	Normal	1	160	100	W	0	Phys	1D9	0	10	Phys	4D2	Arrow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+74	_(TRANS)_	Goblin B	6	21	10	96	8D4	1	N	Med	Normal	1	170	100	W	0	Phys	1D9+2	0	15	Phys	4D2+1	Arrow	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+75	_(TRANS)_	Goblin C	10	40	14	200	10%15D4+L1	1	N	Short	Aggress	1	180	90	W	0	Phys	1D9+4	0	25	Phys	4D2+4	Arrow	0	0	0	0	10	10	10	10	10	0	10	0	0	10	0
+76	_(TRANS)_	Gog A	7	25	6	119	0	1	N	Short	Normal	2	200	90	S	0	Fire	1D10+2	Fire	0	0	0	0	0	0	0	0	Imm	10	10	10	10	5	10	0	0	10	"explode,2D10,fire"
+77	_(TRANS)_	Gog B	11	45	10	231	0	1	N	Short	Normal	2	220	85	S	0	Fire	1D10+6	Fire	0	0	0	0	0	0	0	0	Imm	15	15	15	15	5	15	0	0	15	"explode,2D10,fire"
+78	_(TRANS)_	Gog C	18	86	14	504	0	1	N	Short	Aggress	2	240	80	S	0	Fire	2D10+8	Fire	0	0	0	0	0	0	0	0	Imm	20	20	20	20	5	20	0	0	20	"explode,2D10,fire"
+79	_(TRANS)_	Golem A	22	114	40	704	20D8	0	N	Short	Suicidal	1	160	100	0	BrkArmor	Phys	5D6+20	0	10	Phys	5D4	Arrow	0	0	0	0	20	20	20	Imm	Imm	Imm	Imm	30	0	30	"explode,4D10,earth"
+80	_(TRANS)_	Golem B	35	227	60	1575	30D8	0	N	Short	Suicidal	1	170	90	0	Brkweapon	Phys	7D6+25	0	15	Phys	5D4+4	Arrow	0	0	0	0	30	30	30	Imm	Imm	Imm	Imm	30	0	30	"explode,4D10,earth"
+81	_(TRANS)_	Golem C	50	400	80	3000	50D8	0	N	Short	Suicidal	1	180	80	0	BrkItem	Phys	9D6+30	0	20	Phys	5D4+8	Arrow	0	0	0	0	40	40	40	Imm	Imm	Imm	Imm	30	0	50	"explode,4D10,earth"
+82	_(TRANS)_	Griffin A	15	67	15	375	10D6	1	Y	Free	Normal	3	250	50	0	0	Phys	2D8+2	0	0	0	0	0	0	0	0	0	5	5	5	5	5	5	5	30	0	5	0
+83	_(TRANS)_	Griffin B	23	121	22	759	15D6	1	Y	Long	Aggress	3	300	60	0	0	Phys	2D8+6	0	0	0	0	0	0	0	0	0	5	5	5	5	5	5	5	30	0	10	0
+84	_(TRANS)_	Griffin C	30	180	30	1200	30D6	1	Y	Med	Suicidal	3	320	70	0	0	Phys	3D8+10	0	0	0	0	0	0	0	0	0	10	10	10	10	10	10	10	30	0	15	0
+85	_(TRANS)_	Harpy A	14	61	12	336	4D10	1	Y	Long	Aggress	3	250	90	X	Drunk	Phys	2D7+2	0	0	0	0	0	0	0	0	0	5	5	5	5	5	5	5	0	0	5	0
+86	_(TRANS)_	Harpy B	17	79	14	459	6D10	1	Y	Long	Aggress	3	300	90	X	Cursex2	Phys	2D7+5	0	0	0	0	0	0	0	0	0	5	5	5	5	5	5	5	0	0	10	0
+87	_(TRANS)_	Harpy C	19	93	16	551	20%10D10+L2Ring	1	Y	Long	Suicidal	3	350	80	X	Agex3	Phys	2D7+10	0	0	0	0	0	0	0	0	0	10	10	10	10	10	10	10	0	0	15	0
+88	_(TRANS)_	Hydra A	45	337	22	2475	50D10+L3	1	N	Med	Aggress	2	220	80	0	0	Fire	15D5	Fire	0	0	0	0	0	0	0	0	20	20	20	20	10	10	10	5	5	20	0
+89	_(TRANS)_	Hydra B	55	467	44	3575	100D10+L4	1	N	Med	Aggress	2	240	80	0	0	Air	20D5	Air	0	0	0	0	0	0	0	0	30	30	30	30	20	20	20	5	5	30	0
+90	_(TRANS)_	Hydra C	65	617	66	4875	200D10+L5	1	N	Short	Aggress	2	260	80	0	BrkArmor	Ener	20D5	Ener	0	0	0	0	0	0	0	0	40	40	40	40	30	30	30	5	5	40	0
+91	_(TRANS)_	Lich A	20	100	15	600	10%10D20+L3Misc	0	N	Med	Aggress	4	180	90	DC	0	Fire	3D8+6	Fire	0	0	0	0	20	"Toxic Cloud,E,4"	0	0	20	20	20	20	Imm	0	Imm	0	30	20	0
+92	_(TRANS)_	Lich B	30	180	20	1200	10%15D20+L4Misc	0	N	Med	Aggress	4	200	80	DC	0	Air	4D8+12	Air	0	0	0	0	20	"Shrapmetal,M,8"	0	0	25	25	25	25	Imm	0	Imm	0	30	25	0
+93	_(TRANS)_	Lich C	40	280	25	2000	30%30D20+L5Misc	0	N	Short	Suicidal	4	220	70	DC	Insane	Dark	5D8+20	Dark	0	0	0	0	30	"Dragon Breath,M,12"	50	"Pain Reflection,M,12"	30	30	30	30	Imm	0	Imm	0	30	30	0
+94	_(TRANS)_	Mage A	25	137	14	875	10%15D12+L3Staff	1	N	Med	Aggress	4	200	90	0	0	Light	9D4	Light	0	0	0	0	20	"Dispel Magic,E,4"	0	0	20	20	20	20	15	5	15	Imm	5	10	"Summon,air,Elemental Light A"
+95	_(TRANS)_	Mage B	35	227	18	1575	10%25D12+L4Staff	1	N	Med	Aggress	4	220	80	0	0	Light	12D4	Light	0	0	0	0	30	"Dispel Magic,M,8"	50	"Hour of Power,M,8"	30	30	30	30	20	10	20	Imm	5	20	"Summon,air,Elemental Light B"
+96	_(TRANS)_	Mage C	50	400	30	3000	30%40D12+L5Staff	1	N	Short	Aggress	4	240	70	0	0	Ener	16D4	Ener	0	0	0	0	33	"Hour of Power,M,12"	33	"Day of Protection,M,12"	40	40	40	40	25	15	25	Imm	5	30	"Summon,air,Elemental Light C"
+97	_(TRANS)_	Manticore A	18	86	18	504	0	1	N	Long	Normal	3	260	90	DR	Poison2	Phys	1D12+4	Arrow	0	0	0	0	0	0	0	0	10	10	10	10	10	10	10	10	10	10	0
+98	_(TRANS)_	Manticore B	27	153	25	999	0	1	N	Med	Aggress	3	280	80	DR	Poison3	Phys	1D12+8	Arrow	0	0	0	0	0	0	0	0	20	20	20	20	20	20	20	20	20	20	0
+99	_(TRANS)_	Manticore C	36	237	32	1656	0	1	N	Short	Suicidal	3	300	70	DR	Poison3x2	Phys	2D12+10	Arrow	0	0	0	0	0	0	0	0	30	30	30	30	30	30	30	30	30	30	0
+100	_(TRANS)_	Medusa A	35	227	20	1575	10%10D20+L3Misc	1	N	Med	Normal	2	200	80	0	Paralyze	Phys	4D4+8	Arrow	0	0	0	0	0	0	0	0	Imm	Imm	Imm	Imm	Imm	Imm	Imm	Imm	Imm	0	0
+101	_(TRANS)_	Medusa B	40	280	25	2000	10%15D20+L4Misc	1	N	Med	Aggress	2	220	80	0	Stone	Phys	5D4+10	Arrow	0	0	0	0	0	0	0	0	Imm	Imm	Imm	Imm	Imm	Imm	Imm	Imm	Imm	0	0
+102	_(TRANS)_	Medusa C	45	337	30	2475	30%30D20+L5Misc	1	N	Short	Suicidal	2	240	70	0	Stone	Phys	6D4+12	Arrow	0	0	0	0	0	0	0	0	Imm	Imm	Imm	Imm	Imm	Imm	Imm	Imm	Imm	0	0
+103	_(TRANS)_	Minotaur A	39	269	30	1911	10%10D20+L4Axe	1	N	Long	Normal	2	250	80	0	0	Phys	3D7+25	0	0	0	0	0	0	0	0	0	10	10	10	10	10	5	10	5	5	10	0
+104	_(TRANS)_	Minotaur B	59	525	35	4071	10%20D20+L5Axe	1	N	Med	Aggress	2	260	70	0	Insane	Phys	3D7+40	0	0	0	0	0	0	0	0	0	20	20	20	20	20	10	20	10	10	20	0
+105	_(TRANS)_	Minotaur C	79	861	40	7031	20%50D20+L6Axe	1	N	Short	Suicidal	2	300	60	0	Dead	Phys	3D7+60	0	0	0	0	0	0	0	0	0	30	30	30	30	30	15	30	15	15	30	0
+106	_(TRANS)_	Monk A	8	30	16	144	5%L1Misc	1	N	Long	Normal	2	200	100	M	0	Phys	2D8+4	0	0	0	0	0	10	"Fate,N,3"	50	"Hammerhands,E,3"	5	5	5	5	10	5	10	30	0	5	0
+107	_(TRANS)_	Monk B	16	73	19	416	5%L2Misc	1	N	Long	Aggress	2	220	90	M	0	Phys	2D8+12	0	0	0	0	0	10	"Harm,E,6"	50	"Hammerhands,E,6"	10	10	10	10	15	10	15	30	0	10	0
+108	_(TRANS)_	Monk C	27	153	28	999	10%L3Misc	1	N	Long	Suicidal	2	240	80	M	0	Phys	2D8+20	0	0	0	0	0	10	"Mind Blast,E,9"	50	"Hammerhands,E,9"	15	15	15	15	25	15	25	30	0	15	0
+109	_(TRANS)_	Necromancer A	25	137	14	875	10%15D12+L3Boots	1	N	Med	Aggress	4	200	90	P	0	Dark	9D4	Dark	0	0	0	0	20	"Toxic Cloud,E,4"	0	0	20	20	20	20	15	5	15	0	Imm	10	"Summon,ground,Ghost A"
+110	_(TRANS)_	Necromancer B	35	227	18	1575	10%25D12+L4Boots	1	N	Med	Aggress	4	220	80	P	0	Dark	12D4	Dark	0	0	0	0	30	"Shrapmetal,M,8"	0	0	30	30	30	30	20	10	20	0	Imm	20	"Summon,ground,Ghost B"
+111	_(TRANS)_	Necromancer C	50	400	30	3000	30%40D12+L5Boots	1	N	Short	Aggress	4	240	70	P	0	Dark	16D4	Dark	0	0	0	0	30	"Dragon Breath,M,10"	50	"Pain Reflection,M,10"	40	40	40	40	25	15	25	0	Imm	30	"Summon,ground,Ghost C"
+112	_(TRANS)_	Ooze A	12	50	8	264	5%L2	0	N	Free	Normal	1	120	100	0	Brkweapon	Water	1D6	0	0	0	0	0	0	0	0	0	0	0	0	0	Imm	Imm	Imm	0	0	Imm	0
+113	_(TRANS)_	Ooze B	18	86	10	504	5%L3	0	N	Free	Suicidal	1	140	100	0	BrkArmor	Water	3D6	0	0	0	0	0	10	"Toxic Cloud,E,1"	0	0	0	0	0	0	Imm	Imm	Imm	0	0	Imm	0
+114	_(TRANS)_	Ooze C	25	137	12	875	5%L4	0	N	Free	Suicidal	1	160	100	0	BrkItem	Water	5D6	0	0	0	0	0	15	"Toxic Cloud,E,2"	0	0	0	0	0	0	Imm	Imm	Imm	0	0	Imm	0
+115	_(TRANS)_	Peasant Dwarf FemaleA A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+116	_(TRANS)_	Peasant Dwarf FemaleA B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+117	_(TRANS)_	Peasant Dwarf FemaleA C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+118	_(TRANS)_	Peasant Dwarf FemaleB A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+119	_(TRANS)_	Peasant Dwarf FemaleB B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+120	_(TRANS)_	Peasant Dwarf FemaleB C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+121	_(TRANS)_	Peasant Dwarf FemaleC A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+122	_(TRANS)_	Peasant Dwarf FemaleC B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+123	_(TRANS)_	Peasant Dwarf FemaleC C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+124	_(TRANS)_	Peasant Dwarf MaleA A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+125	_(TRANS)_	Peasant Dwarf MaleA B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+126	_(TRANS)_	Peasant Dwarf MaleA C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+127	_(TRANS)_	Peasant Dwarf MaleB A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+128	_(TRANS)_	Peasant Dwarf MaleB B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+129	_(TRANS)_	Peasant Dwarf MaleB C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+130	_(TRANS)_	Peasant Dwarf MaleC A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+131	_(TRANS)_	Peasant Dwarf MaleC B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+132	_(TRANS)_	Peasant Dwarf MaleC C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+133	_(TRANS)_	Peasant Elf FemaleA A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+134	_(TRANS)_	Peasant Elf FemaleA B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+135	_(TRANS)_	Peasant Elf FemaleA C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+136	_(TRANS)_	Peasant Elf FemaleB A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+137	_(TRANS)_	Peasant Elf FemaleB B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+138	_(TRANS)_	Peasant Elf FemaleB C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+139	_(TRANS)_	Peasant Elf FemaleC A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+140	_(TRANS)_	Peasant Elf FemaleC B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+141	_(TRANS)_	Peasant Elf FemaleC C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+142	_(TRANS)_	Peasant Elf MaleA A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+143	_(TRANS)_	Peasant Elf MaleA B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+144	_(TRANS)_	Peasant Elf MaleA C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+145	_(TRANS)_	Peasant Elf MaleB A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+146	_(TRANS)_	Peasant Elf MaleB B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+147	_(TRANS)_	Peasant Elf MaleB C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+148	_(TRANS)_	Peasant Elf MaleC A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+149	_(TRANS)_	Peasant Elf MaleC B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+150	_(TRANS)_	Peasant Elf MaleC C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+151	_(TRANS)_	Peasant Human1 FemaleA A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+152	_(TRANS)_	Peasant Human1 FemaleA B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+153	_(TRANS)_	Peasant Human1 FemaleA C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+154	_(TRANS)_	Peasant Human1 FemaleB A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+155	_(TRANS)_	Peasant Human1 FemaleB B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+156	_(TRANS)_	Peasant Human1 FemaleB C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+157	_(TRANS)_	Peasant Human1 FemaleC A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+158	_(TRANS)_	Peasant Human1 FemaleC B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+159	_(TRANS)_	Peasant Human1 FemaleC C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+160	_(TRANS)_	Peasant Human1 MaleA A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+161	_(TRANS)_	Peasant Human1 MaleA B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+162	_(TRANS)_	Peasant Human1 MaleA C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+163	_(TRANS)_	Peasant Human1 MaleB A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+164	_(TRANS)_	Peasant Human1 MaleB B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+165	_(TRANS)_	Peasant Human1 MaleB C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+166	_(TRANS)_	Peasant Human1 MaleC A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+167	_(TRANS)_	Peasant Human1 MaleC B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+168	_(TRANS)_	Peasant Human1 MaleC C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+169	_(TRANS)_	Peasant Human2 MaleA A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+170	_(TRANS)_	Peasant Human2 MaleA B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+171	_(TRANS)_	Peasant Human2 MaleA C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+172	_(TRANS)_	Peasant Human2 MaleB A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+173	_(TRANS)_	Peasant Human2 MaleB B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+174	_(TRANS)_	Peasant Human2 MaleB C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+175	_(TRANS)_	Peasant Human2 MaleC A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+176	_(TRANS)_	Peasant Human2 MaleC B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+177	_(TRANS)_	Peasant Human2 MaleC C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+178	_(TRANS)_	Peasant Human2 FemaleA A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+179	_(TRANS)_	Peasant Human2 FemaleA B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+180	_(TRANS)_	Peasant Human2 FemaleA C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+181	_(TRANS)_	Peasant Human2 FemaleB A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+182	_(TRANS)_	Peasant Human2 FemaleB B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+183	_(TRANS)_	Peasant Human2 FemaleB C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+184	_(TRANS)_	Peasant Human2 FemaleC A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+185	_(TRANS)_	Peasant Human2 FemaleC B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+186	_(TRANS)_	Peasant Human2 FemaleC C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+187	_(TRANS)_	Rat A	2	6	4	24	2%L1Ring	1	N	Free	Normal	2	250	75	0	Disease1	Phys	1D8	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+188	_(TRANS)_	Rat B	4	13	5	56	2%L1Ring	1	N	Free	Normal	2	250	75	0	Disease1	Phys	1D8+2	0	10	Air	2D4	Air	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+189	_(TRANS)_	Rat C	6	21	8	96	2%L1Ring	1	N	Free	Aggress	2	250	75	0	Disease2	Phys	1D8+6	0	15	Fire	2D5	Fire	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+190	_(TRANS)_	Robot A	50	400	60	3000	0	0	N	Med	Suicidal	4	200	50	0	0	Ener	10D5+10	Ener	0	0	0	0	0	0	0	0	30	10	10	30	Imm	Imm	Imm	25	25	20	"shot,x3"
+191	_(TRANS)_	Robot B	70	700	80	5600	0	0	N	Short	Suicidal	4	200	50	0	0	Ener	12D5+15	Ener	0	0	0	0	0	0	0	0	40	20	20	40	Imm	Imm	Imm	25	25	30	"shot,x3"
+192	_(TRANS)_	Robot C	90	1080	100	9000	0	0	N	Short	Suicidal	4	200	50	0	0	Ener	20D5+20	Ener	0	0	0	0	0	0	0	0	60	30	30	60	Imm	Imm	Imm	25	25	50	"shot,x3"
+193	_(TRANS)_	Roc A	27	153	20	999	10D8	1	Y	Free	Normal	3	275	80	0	0	Phys	3D10+20	0	0	0	0	0	0	0	0	0	10	10	10	10	10	5	10	0	0	20	0
+194	_(TRANS)_	Roc B	39	269	30	1911	20D8	1	Y	Long	Aggress	3	300	70	0	0	Phys	4D10+25	0	0	0	0	0	0	0	0	0	20	20	20	20	20	5	20	5	5	30	0
+195	_(TRANS)_	Roc C	51	413	40	3111	35D8	1	Y	Med	Suicidal	3	325	60	0	BrkArmor	Phys	5D10+30	0	0	0	0	0	0	0	0	0	30	Imm	30	30	30	5	30	10	10	40	0
+196	_(TRANS)_	Sea Monster A	28	162	30	1064	0	0	Y	Free	Aggress	4	200	90	0	0	Water	1D20+25	Water	0	0	0	0	0	0	0	0	0	0	Imm	0	0	0	0	0	0	30	0
+197	_(TRANS)_	Sea Monster B	36	237	35	1656	0	0	Y	Free	Aggress	4	200	90	0	0	Water	1D20+35	Water	0	0	0	0	0	0	0	0	0	0	Imm	0	0	0	0	0	0	40	0
+198	_(TRANS)_	Sea Monster C	48	374	40	2784	0	0	Y	Free	Aggress	4	200	80	0	Afraid	Water	1D20+45	Water	0	0	0	0	0	0	0	0	0	0	Imm	0	0	0	0	0	0	50	0
+199	_(TRANS)_	Skeleton Warrior A	6	21	8	96	4D6	0	N	Med	Aggress	2	220	100	0	0	Phys	3D4	0	0	0	0	0	0	0	0	0	0	0	0	0	Imm	0	Imm	0	30	5	0
+200	_(TRANS)_	Skeleton Warrior B	10	40	10	200	7D6	0	N	Med	Aggress	2	250	90	0	Afraid	Phys	3D4+2	0	0	0	0	0	0	0	0	0	0	0	0	0	Imm	0	Imm	0	30	5	0
+201	_(TRANS)_	Skeleton Warrior C	14	61	14	336	5%10D6+L2Sword	0	N	Short	Suicidal	2	280	80	0	Curse	Phys	3D4+4	0	0	0	0	0	0	0	0	0	0	0	0	0	Imm	0	Imm	0	30	5	0
+202	_(TRANS)_	Spider A	5	17	10	75	0	1	N	Med	Normal	2	300	90	0	Poison1	Phys	3D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+203	_(TRANS)_	Spider B	8	30	12	144	0	1	N	Med	Aggress	2	280	90	0	Poison2	Phys	3D2+3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+204	_(TRANS)_	Spider C	12	50	16	264	0	1	N	Short	Aggress	2	260	90	0	Poison3	Phys	3D2+6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+205	_(TRANS)_	Swordsman A	10	40	10	200	10d6	1	N	Long	Aggress	4	220	90	T	0	Phys	3D7+4	0	0	0	0	0	0	0	0	0	5	5	5	5	5	5	5	0	0	5	0
+206	_(TRANS)_	Swordsman B	17	79	15	459	5%15D6+L2Sword	1	N	Med	Aggress	4	250	80	T	0	Phys	3D7+6	0	0	0	0	0	0	0	0	0	10	10	10	10	10	5	10	0	0	10	0
+207	_(TRANS)_	Swordsman C	24	129	20	816	10%30D6+L2Sword	1	N	Short	Aggress	4	280	70	T	Brkweapon	Phys	3D7+8	0	0	0	0	0	0	0	0	0	15	15	15	15	15	5	15	0	0	15	0
+208	_(TRANS)_	Thief A	8	30	10	144	5%3D10+L1	1	N	Med	Normal	2	250	60	P	Stealx2	Phys	3D4+3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+209	_(TRANS)_	Thief B	12	50	14	264	10%4D10+L1	1	N	Med	Normal	2	260	60	P	Stealx2	Phys	3D4+6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+210	_(TRANS)_	Thief C	18	86	20	504	20%5D10+L2	1	N	Med	Aggress	2	270	60	P	Stealx2	Phys	3D4+12	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+211	_(TRANS)_	Titan A	65	617	60	4875	40%200D10+L5	1	N	Short	Aggress	4	200	70	O	BrkArmor	Air	2D20+60	Air	0	0	0	0	20	"Psychic Shock,M,8"	10	"Sparks,M,8"	30	Imm	30	30	Imm	15	30	30	30	30	0
+212	_(TRANS)_	Titan B	75	787	70	6375	300D10L5	1	N	Short	Aggress	4	200	70	O	Brkweapon	Air	2D20+80	Air	0	0	0	0	20	"Psychic Shock,M,12"	10	"Sparks,M,12"	50	Imm	50	50	Imm	15	50	30	30	50	0
+213	_(TRANS)_	Titan C	95	1187	80	9975	400D10+L6	1	N	Short	Aggress	4	200	70	O	Dead	Air	2D20+120	Air	0	0	0	0	20	"Psychic Shock,G,16"	10	"Sparks,G,16"	80	Imm	80	80	Imm	15	80	30	30	80	0
+214	_(TRANS)_	Troglodyte A	9	35	5	171	10%5D5+L1	1	N	Long	Normal	2	220	100	0	0	Phys	2D4	0	0	0	0	0	0	0	0	0	5	10	10	10	0	0	0	0	5	5	0
+215	_(TRANS)_	Troglodyte B	14	61	9	336	10%8D5+L2	1	N	Med	Normal	2	240	90	0	0	Phys	2D4+2	0	0	0	0	0	0	0	0	0	10	20	20	20	0	0	0	0	5	10	0
+216	_(TRANS)_	Troglodyte C	19	93	14	551	25%14D5+L3	1	N	Med	Aggress	2	260	80	0	Poison1	Phys	2D4+6	0	0	0	0	0	0	0	0	0	15	30	30	30	0	0	0	0	5	15	0
+217	_(TRANS)_	Vampire A	20	100	25	600	30%6D8+L2Cape	1	N	Med	Aggress	2	220	80	OC	Disease2	Phys	3D8+15	0	0	0	0	0	0	0	0	0	5	10	Imm	10	Imm	0	Imm	0	30	10	0
+218	_(TRANS)_	Vampire B	33	207	35	1419	40%12D8+L3Cape	1	N	Med	Aggress	2	240	70	OC	DrainSP	Phys	3D8+25	0	0	0	0	0	0	0	0	0	10	20	Imm	20	Imm	0	Imm	0	30	20	0
+219	_(TRANS)_	Vampire C	48	374	45	2784	50%16D8+L4Cape	1	N	Short	Suicidal	2	260	60	OC	DrainSP	Phys	3D8+35	0	0	0	0	0	0	0	0	0	15	30	Imm	30	Imm	0	Imm	0	30	30	0
+220	_(TRANS)_	Warlock A	25	137	14	875	10%7D9+L2Wand	1	N	Med	Aggress	4	200	90	0	0	Fire	9D4	Fire	0	0	0	0	20	"Fireball,E,6"	0	0	30	30	30	30	10	10	10	0	10	10	0
+221	_(TRANS)_	Warlock B	35	227	18	1575	15%15D9+L3Wand	1	N	Med	Aggress	4	220	80	0	0	Water	12D4	Water	0	0	0	0	20	"Acid Burst,M,9"	0	0	40	40	40	40	20	10	20	0	10	20	0
+222	_(TRANS)_	Warlock C	50	400	30	3000	25%25D9+L4Wand	1	N	Short	Aggress	4	240	70	0	0	Air	16D4	Air	0	0	0	0	20	"Lightning Bolt,M,12"	0	0	50	50	50	50	30	10	30	0	10	30	0
+223	_(TRANS)_	Wight A	14	61	15	336	10%L2Dagger	0	N	Short	Suicidal	2	180	90	0	Afraid	Phys	2D5+6	0	0	0	0	0	0	0	0	0	10	10	Imm	10	Imm	0	Imm	0	30	10	0
+224	_(TRANS)_	Wight B	19	93	20	551	10%L3Dagger	0	N	Short	Suicidal	2	200	80	0	DrainSP	Phys	2D5+12	0	0	0	0	0	0	0	0	0	20	20	Imm	20	Imm	0	Imm	0	30	20	0
+225	_(TRANS)_	Wight C	26	145	25	936	20%L4Dagger	0	N	Short	Suicidal	2	220	70	0	Agex2	Phys	4D5+12	0	0	0	0	0	0	0	0	0	30	30	Imm	30	Imm	0	Imm	0	30	30	0
+226	_(TRANS)_	Wyvern A	19	93	14	551	10%25D8+L3	1	Y	Free	Normal	3	250	80	DR	Poison2	Phys	7D6	0	0	0	0	0	0	0	0	0	10	10	10	10	10	5	10	5	5	10	0
+227	_(TRANS)_	Wyvern B	28	162	28	1064	10%50D8+L4	1	Y	Long	Aggress	3	280	70	DR	Poison3	Phys	9D6	0	0	0	0	0	0	0	0	0	20	20	20	20	20	5	20	5	5	20	0
+228	_(TRANS)_	Wyvern C	37	247	42	1739	15%100D8+L4	1	Y	Med	Suicidal	3	320	60	DR	Dead	Phys	12D6	0	0	0	0	0	0	0	0	0	30	30	30	30	30	5	30	5	5	30	0
+229	_(TRANS)_	Zombie A	9	35	8	171	10%5D4	0	N	Med	Aggress	1	160	110	0	Disease1	Phys	1D7	0	0	0	0	0	0	0	0	0	5	5	5	5	Imm	0	Imm	0	30	10	0
+230	_(TRANS)_	Zombie B	13	55	14	299	10%7D4	0	N	Med	Aggress	1	180	100	0	Disease2	Phys	2D7+2	0	0	0	0	0	0	0	0	0	10	10	10	10	Imm	0	Imm	0	30	20	0
+231	_(TRANS)_	Zombie C	17	79	20	459	25%12D4	0	N	Med	Suicidal	1	200	90	0	Disease2	Phys	3D7+4	0	0	0	0	0	0	0	0	0	15	15	15	15	Imm	0	Imm	0	30	30	0
+232	_(TRANS)_	Peasant Goblin female A A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+233	_(TRANS)_	Peasant Goblin female A B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+234	_(TRANS)_	Peasant Goblin female A C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+235	_(TRANS)_	Peasant Goblin female B A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+236	_(TRANS)_	Peasant Goblin female B B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+237	_(TRANS)_	Peasant Goblin female B C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+238	_(TRANS)_	Peasant Goblin female C A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+239	_(TRANS)_	Peasant Goblin female C B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+240	_(TRANS)_	Peasant Goblin female C C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+241	_(TRANS)_	Peasant Goblin Male A A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+242	_(TRANS)_	Peasant Goblin Male A B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+243	_(TRANS)_	Peasant Goblin Male A C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+244	_(TRANS)_	Peasant Goblin Male B A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+245	_(TRANS)_	Peasant Goblin Male B B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+246	_(TRANS)_	Peasant Goblin Male B C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+247	_(TRANS)_	Peasant Goblin Male C A	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+248	_(TRANS)_	Peasant Goblin Male C B	2	6	5	24	3D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+249	_(TRANS)_	Peasant Goblin Male C C	3	9	6	39	4D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+250	_(TRANS)_	Troll A	18	86	18	504	5%12D10+L1Belt	1	N	Med	Aggress	2	200	90	W	0	Phys	2D10+4	0	0	0	0	0	0	0	0	0	5	10	10	Imm	5	5	5	0	5	10	0
+251	_(TRANS)_	Troll B	28	162	28	1064	5%25D10+L2Belt	1	N	Med	Aggress	2	220	80	W	0	Phys	3D10+6	0	0	0	0	0	0	0	0	0	10	20	20	Imm	10	5	10	0	5	20	0
+252	_(TRANS)_	Troll C	38	258	38	1824	5%45D10+L3Belt	1	N	Med	Suicidal	2	260	70	W	0	Phys	4D10+10	0	0	0	0	0	0	0	0	0	15	30	30	Imm	15	5	15	0	5	30	0
+253	_(TRANS)_	Treant A	12	50	8	264	20%L3Gem	0	N	stand	Suicidal	1	120	100	D	0	Phys	2D10	0	50	Earth	2D6	Earth	0	0	0	0	0	20	20	Imm	Imm	10	Imm	5	5	20	0
+254	_(TRANS)_	Treant B	18	86	10	504	35%L3Gem	0	N	stand	Suicidal	1	140	100	D	0	Phys	4D10	0	50	Earth	4D6	Earth	0	0	0	0	0	30	30	Imm	Imm	10	Imm	5	5	30	0
+255	_(TRANS)_	Treant C	25	137	12	875	50%L4Gem	0	N	stand	Suicidal	1	160	100	D	BrkItem	Phys	6D10	0	50	Earth	6D6	Earth	0	0	0	0	0	40	40	Imm	Imm	10	Imm	5	5	40	0
+256	_(TRANS)_	Ghoul A	9	35	8	171	10%5D4	1	N	Med	Aggress	1	160	110	CP	Disease1	Phys	1D7	0	0	0	0	0	0	0	0	0	0	0	Imm	0	Imm	0	Imm	0	30	0	0
+257	_(TRANS)_	Ghoul B	13	55	14	299	10%7D4	1	N	Med	Aggress	1	180	100	CP	Paralyze	Phys	2D7+2	0	0	0	0	0	0	0	0	0	0	0	Imm	0	Imm	0	Imm	0	30	0	0
+258	_(TRANS)_	Ghoul C	17	79	20	459	25%12D4	1	N	Med	Suicidal	1	200	90	CP	Paralyze	Phys	3D7+4	0	0	0	0	0	0	0	0	0	0	0	Imm	0	Imm	0	Imm	0	30	0	0
+259	_(TRANS)_	zBlasterGuy A	80	880	80	7200	0	1	N	Free	Suicidal	4	240	40	0	Errad	Ener	5D5	Ener	0	0	0	0	33	"Power Cure,G,15"	33	"Hour of Power,G,15"	60	60	60	60	Imm	60	60	Imm	Imm	60	"shot,x2"
+260	_(TRANS)_	zBlasterGuy B	80	880	80	7200	0	1	N	Free	Suicidal	4	240	40	0	Errad	Ener	5D5	Ener	0	0	0	0	33	"Power Cure,G,15"	33	"Hour of Power,G,15"	60	60	60	60	Imm	60	60	Imm	Imm	60	"shot,x2"
+261	_(TRANS)_	zBlasterGuy C	80	880	80	7200	0	1	N	Free	Suicidal	4	240	40	0	Errad	Ener	5D5	Ener	0	0	0	0	33	"Power Cure,G,15"	33	"Hour of Power,G,15"	60	60	60	60	Imm	60	60	Imm	Imm	60	"shot,x2"
+262	_(TRANS)_	zUltra Dragon A	100	1300	100	11000	0	1	Y	Short	Suicidal	4	300	30	4	Errad	Ener	20D8	Ener	0	0	0	0	0	0	0	0	Imm	70	70	70	70	15	Imm	30	30	70	"Summon,air,Dragon C"
+263	_(TRANS)_	zUltra Dragon B	100	1300	100	11000	0	1	Y	Short	Suicidal	4	300	30	4	Errad	Ener	20D8	Ener	0	0	0	0	0	0	0	0	Imm	70	70	70	70	15	Imm	30	30	70	"Summon,air,Dragon C"
+264	_(TRANS)_	zUltra Dragon C	100	" 1,300 "	100	" 11,000 "	0	1	Y	Short	Suicidal	4	300	30	4	Errad	Ener	20D8	Ener	0	0	0	0	0	0	0	0	Imm	70	70	70	70	15	Imm	30	30	70	"Summon,air,Dragon C"
+265	_(TRANS)_	zcat a 	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+266	_(TRANS)_	zcat a 	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+267	_(TRANS)_	zcat a 	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+268	_(TRANS)_	zchicken a	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+269	_(TRANS)_	zchicken a	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0																						
+270	_(TRANS)_	zchicken a	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0																						
+271	_(TRANS)_	zdog a	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0																						
+272	_(TRANS)_	zdog a	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0																						
+273	_(TRANS)_	zdog a	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0																						
+274	_(TRANS)_	zrat a	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0																						
+275	_(TRANS)_	zrat a	1	3	3	11	2D6	1	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0																						
+276	_(TRANS)_	zrat a	1	3	3	11	2D6	0	N	Long	Wimp	4	140	100	0	0	Phys	2D2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0																						

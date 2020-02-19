@@ -1,0 +1,222 @@
+#	Greeting 1	Greeting 2	Notes	Owner
+1	_(TRANS)_	_(TRANS)_		S'ton
+2	_(TRANS)_	_(TRANS)_		Dadeross
+3	_(TRANS)_	_(TRANS)_		Brekish Onefang
+4	_(TRANS)_	_(TRANS)_		Brekish Onefang
+5	_(TRANS)_	_(TRANS)_		Fredrick Talimere
+6	_(TRANS)_	_(TRANS)_		Rohtnax
+7	_(TRANS)_	_(TRANS)_		Pascella Tisk
+8	_(TRANS)_	_(TRANS)_		
+9	_(TRANS)_	_(TRANS)_		
+10	_(TRANS)_	_(TRANS)_		Elgar Fellmoon NPC 3
+11	_(TRANS)_	_(TRANS)_		Elgar Fellmoon NPC 3
+12	_(TRANS)_	_(TRANS)_		Arion Hunter
+13	_(TRANS)_	_(TRANS)_		Necromancer Guild Guard
+14	_(TRANS)_	_(TRANS)_		Bastian Loudrin
+15	_(TRANS)_	_(TRANS)_		Bastian Loudrin
+16	_(TRANS)_	_(TRANS)_		Overdune Snapfinger
+17	_(TRANS)_	_(TRANS)_		OVERDUNE'S FATHER
+18	_(TRANS)_	_(TRANS)_		OVERDUNE'S FATHER
+19	_(TRANS)_	_(TRANS)_		Deftclaw Redreaver NPC 21
+20	_(TRANS)_	_(TRANS)_		Deftclaw Redreaver NPC 21
+21	_(TRANS)_	_(TRANS)_		CharlesQuixote NPC 19
+22	_(TRANS)_	_(TRANS)_		Charles Quixote NPC 19
+23	_(TRANS)_	_(TRANS)_		Charles Quixote NPC 65
+24	_(TRANS)_	_(TRANS)_		Elgar Fellmoon NPC 53
+25	_(TRANS)_	_(TRANS)_		Deftclaw Redreaver NPC 66
+26	_(TRANS)_	_(TRANS)_		Oskar Tyre NPC 67
+27	_(TRANS)_	_(TRANS)_		Masul NPC 68
+28	_(TRANS)_	_(TRANS)_		Sandro NPC 69
+29	_(TRANS)_	_(TRANS)_		Masul NPC 13
+30	_(TRANS)_	_(TRANS)_		MINOTAUR CLUE GUY
+31	_(TRANS)_	_(TRANS)_		Sandro NPC 9
+32	_(TRANS)_	_(TRANS)_		Sandro NPC 9
+33	_(TRANS)_	_(TRANS)_		Dyson Leland NPC 11
+34	_(TRANS)_	_(TRANS)_		Dyson Leland NPC 11
+35	_(TRANS)_	_(TRANS)_		Dyson Leland NPC 11
+36	_(TRANS)_	_(TRANS)_		Dyson Leland NPC 11
+37	_(TRANS)_	_(TRANS)_		Oskar Tyre NPC 37
+38	_(TRANS)_	_(TRANS)_		Elgar Fellmoon NPC 53
+39	_(TRANS)_	_(TRANS)_		Charles Quixote NPC 65
+40	_(TRANS)_	_(TRANS)_		Deftclaw Redreaver NPC 66
+41	_(TRANS)_	_(TRANS)_		Oskar Tyre NPC 67
+42	_(TRANS)_	_(TRANS)_		Masul NPC 68
+43	_(TRANS)_	_(TRANS)_		Sandro NPC 69
+44	_(TRANS)_	_(TRANS)_		XANTHOR'S LACKEY NPC 77
+45	_(TRANS)_	_(TRANS)_		XANTHOR NPC 23
+46	_(TRANS)_	_(TRANS)_		XANTHOR NPC 23
+47	_(TRANS)_	_(TRANS)_		XANTHOR NPC 23
+48	_(TRANS)_	_(TRANS)_		Escaton
+49	_(TRANS)_	_(TRANS)_		
+50	_(TRANS)_	_(TRANS)_		
+51	_(TRANS)_	_(TRANS)_		
+52	_(TRANS)_	_(TRANS)_		
+53	_(TRANS)_	_(TRANS)_		
+54	_(TRANS)_	_(TRANS)_		Sahil Ittalle
+55	_(TRANS)_	_(TRANS)_		Roland Ironfist
+56	_(TRANS)_	_(TRANS)_		Catherine Ironfist
+57	_(TRANS)_	_(TRANS)_		Asael Fromago
+58	_(TRANS)_	_(TRANS)_		Various
+59	_(TRANS)_	_(TRANS)_		"Aznog Black, NPC 409"
+60	_(TRANS)_	_(TRANS)_		Various
+61	_(TRANS)_	_(TRANS)_		Bazalath NPC 443
+62	_(TRANS)_	_(TRANS)_		Various
+63	_(TRANS)_	_(TRANS)_		
+64	_(TRANS)_	_(TRANS)_		
+65	_(TRANS)_	_(TRANS)_		
+66	_(TRANS)_	_(TRANS)_		
+67	_(TRANS)_	_(TRANS)_		
+68	_(TRANS)_	_(TRANS)_		
+69	_(TRANS)_	_(TRANS)_		
+70	_(TRANS)_	_(TRANS)_		
+71	_(TRANS)_	_(TRANS)_		Arius NPC 454
+72	_(TRANS)_	_(TRANS)_		Rohani Oscelton NPC 455
+73	_(TRANS)_	_(TRANS)_		Ithilgore NPC 457
+74	_(TRANS)_	_(TRANS)_		Karanya Memoria NPC 458
+75	_(TRANS)_	_(TRANS)_		Maylander NPC 459
+76	_(TRANS)_	_(TRANS)_		Jasp Thelbourne NPC 463
+77	_(TRANS)_	_(TRANS)_		Gethric Mercutura NPC 464
+78	_(TRANS)_	_(TRANS)_		Nathanial Roberts NPC 482
+79	_(TRANS)_	_(TRANS)_		Flamdring NPC 465
+80	_(TRANS)_	_(TRANS)_		Hevatia Deverbero NPC 466
+81	_(TRANS)_	_(TRANS)_		Verish NPC 467
+82	_(TRANS)_	_(TRANS)_		Nelix Uriel NPC 468
+83	_(TRANS)_	_(TRANS)_		Sethrc Thistlebone NPC 469
+84	_(TRANS)_	_(TRANS)_		Rionel NPC 470
+85	_(TRANS)_	_(TRANS)_		Adric Stellare NPC 471
+86	_(TRANS)_	_(TRANS)_		Infaustus NPC 472
+87	_(TRANS)_	_(TRANS)_		Brimstone NPC 473
+88	_(TRANS)_	_(TRANS)_		Tempus NPC 476
+89	_(TRANS)_	_(TRANS)_		Thorne Understone NPC 477
+90	_(TRANS)_	_(TRANS)_		Ulbrecht NPC 478
+91	_(TRANS)_	_(TRANS)_		Artorius Veritas NPC 480
+92	_(TRANS)_	_(TRANS)_		Duroth the Eternal NPC 481
+93	_(TRANS)_	_(TRANS)_		Weldrick Falconeye NPC 420
+94	_(TRANS)_	_(TRANS)_		various
+95	_(TRANS)_	_(TRANS)_		S Fist NPC 425
+96	_(TRANS)_	_(TRANS)_		Zephyr NPC 427
+97	_(TRANS)_	_(TRANS)_		Davee Sail NPC 503
+98	_(TRANS)_	_(TRANS)_		pirates
+99	_(TRANS)_	_(TRANS)_		Yoel Greenwar NPC 507
+100	_(TRANS)_	_(TRANS)_		various
+101	_(TRANS)_	_(TRANS)_		Ex-captain Terrence NPC 511
+102	_(TRANS)_	_(TRANS)_		Rhetta Mercer NPC 515
+103	_(TRANS)_	_(TRANS)_		Simon Templar
+104	_(TRANS)_	_(TRANS)_		
+105	_(TRANS)_	_(TRANS)_		
+106	_(TRANS)_	_(TRANS)_		Ore traders
+107	_(TRANS)_	_(TRANS)_		Necro guard
+108	_(TRANS)_	_(TRANS)_		Dragon guard
+109	_(TRANS)_	_(TRANS)_		Dragon hunter guard
+110	_(TRANS)_	_(TRANS)_		wererat guard
+111	_(TRANS)_	_(TRANS)_		"Jeric Whistlebone NPC 42, placemon area 5"
+112	_(TRANS)_	_(TRANS)_		Xanthor
+113	_(TRANS)_	_(TRANS)_		Oracle
+114	_(TRANS)_	_(TRANS)_		necro guard if leland is not active.
+115	_(TRANS)_	_(TRANS)_		Blazen
+116				
+117				
+118				
+119				
+120				
+121				
+122				
+123				
+124				
+125				
+126				
+127				
+128				
+129				
+130				
+131				
+132				
+133				
+134				
+135				
+136				
+137				
+138				
+139				
+140				
+141				
+142				
+143				
+144				
+145				
+146				
+147				
+148				
+149				
+150				
+151				
+152				
+153				
+154				
+155				
+156				
+157				
+158				
+159				
+160				
+161				
+162				
+163				
+164				
+165				
+166				
+167				
+168				
+169				
+170				
+171				
+172				
+173				
+174				
+175				
+176				
+177				
+178				
+179				
+180				
+181				
+182				
+183				
+184				
+185				
+186				
+187				
+188				
+189				
+190				
+191				
+192				
+193				
+194				
+195				
+196				
+197				
+198				
+199				
+200				
+201				
+202				
+203				
+204				
+205				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				

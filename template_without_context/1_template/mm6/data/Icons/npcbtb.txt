@@ -1,0 +1,28 @@
+Msg#	Notes	Peasant BTB	Monster BTB	Thief BT	Merchant BT	Sorcerer TB	Scholar TB	Adventurer BB	Priest BB	Official Br	Guard Br	Evil Fanatic T	Paladin Be	Noble Be						
+Beg		1	1	0	0	1	1	1	1	0	0	0	1	1						
+Bribe		1	1	1	1	0	0	1	1	1	1	0	0	0						
+Threat		1	1	1	1	1	1	0	0	0	0	1	0	0						
+1	"Rep ok, 1st greet"	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+2	"Rep ok, 2nd greet"	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+3	Beg return	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+4	Bribe return	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+5	Threat return	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+6	Fame too low	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+7	"Rep notorious, I'm good"	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+8	"Rep notorious, I'm evil"	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+9	"Rep saintly, I'm good"	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+10	"Rep Saintly, I'm evil"	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+11	"Rep below zero, 1st greet"	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+12	"Rep above 10, 1st greet (and I'm evil)"	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_						
+13	You aren't good enough for me. (1st time)	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+14	You aren't bad enough for me.	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+15	"Rep below zero, 2nd greet"	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+16	"Rep above 10, 2nd greet (and I'm evil)"	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+17	You still aren't good enough for me (2nd time)	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+18	You still aren't bad enough for me (2nd time)	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+19	I accept your beg	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+20	I don't like begging	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+21	Thanks for the bribe	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+22	I don't like bribes	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+23	I accept your threat	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_
+24	I don't like threats	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_

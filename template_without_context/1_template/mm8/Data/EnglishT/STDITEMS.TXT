@@ -1,0 +1,41 @@
+Standard Bonuses by Group										
+
+Bonus Stat	Of Name	Arm	Shld	Helm	Belt	Cape	Gaunt	Boot	Ring	Amul
+
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	5	0	10	10	10	10	5	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	5	0	10	10	10	10	5	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	5	0	10	10	10	10	10	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	5	0	10	10	10	10	5	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	5	0	10	10	10	10	5	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	5	0	10	10	10	10	25	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	5	0	10	10	10	10	10	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	10	5	5	0	10	5	10	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	10	5	10	0	10	10	10	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	20	20	10	0	10	10	5	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	10	10	5	0	10	15	5	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	10	10	5	0	10	15	5	10	10
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	10	10	5	0	10	15	5	10	10					
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	10	10	5	0	10	15	5	10	10					
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	10	10	5	0	10	15	5	10	10					
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	10	10	5	0	10	15	5	10	10					
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	0	0	0	5	5	0	5	10	15					
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	0	0	0	0	0	0	0	0	0					
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	0	0	5	5	5	20	5	15	5					
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	0	0	5	5	5	5	5	10	15					
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	0	0	0	5	5	5	5	10	15					
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	10	10	10	10	0	10	10	0	0					
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	0	0	0	0	0	0	0	0	0					
+_(TRANS_CONTEXT:'stats')_	_(TRANS)_	0	0	0	0	0	0	0	0	0					
+
+		115	70	115	70	140	155	110	140	140					
+
+	Bonus range for Standard by Level					Value Mod= (+100 / Plus of Item)									
+	lvl	min	max
+	1	0	0
+	2	1	5
+	3	3	8
+	4	6	12
+	5	10	17
+	6	15	25
+
+	(note weapons can only have Special Bonuses)		

@@ -1,0 +1,539 @@
+Knight/Cleric Male	Knight/Cleric Female	Dark Elf Pesant Male	Dark Elf Pesant Female	Troll/Minotaur	Vampire/Necro Female	Vampire/Necro Male	Dragon	To make excel work right
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_	*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_	_(TRANS)_	_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_	_(TRANS)_		_(TRANS)_		_(TRANS)_			*end
+_(TRANS)_					_(TRANS)_			*end
+_(TRANS)_					_(TRANS)_			*end
+_(TRANS)_					_(TRANS)_			*end
+_(TRANS)_					_(TRANS)_			*end
+_(TRANS)_					_(TRANS)_			*end
+_(TRANS)_					_(TRANS)_			*end
+_(TRANS)_					_(TRANS)_			*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end
+_(TRANS)_								*end

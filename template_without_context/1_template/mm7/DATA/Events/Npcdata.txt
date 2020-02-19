@@ -1,0 +1,1002 @@
+NPC Data (Special)			Group			Current	Profession	Greet	Join	Event	Event	Event	Event	Event	Event	
+#	Name	Pic	A	B	C	2D Location	 1 - 76	#	Y / N	# A	# B	# C	# D	# E	# F	Notes
+1	_(TRANS)_	709	0	0	0	186	0	1	0	1	2	3	34	187	0	
+2	_(TRANS)_	707	0	0	0	186	0	2	0	5	6	0	0	0	0	
+3	_(TRANS)_	162	0	0	0	0	0	3	0	7	9	42	0	0	0	
+4	_(TRANS)_	163	0	0	0	0	0	4	0	10	11	12	0	0	0	
+5	_(TRANS)_	150	0	0	0	0	0	5	0	14	15	0	0	0	0	Sells seashells by the seashore
+6	_(TRANS)_	21	0	0	0	0	0	6	0	17	18	26	0	0	0	Offers an item now for a favor later
+7	_(TRANS)_	20	0	0	0	0	0	8	0	21	22	0	0	0	0	Ambusher leader in Emerald Isle
+8	_(TRANS)_	6	0	0	0	0	0	10	0	27	28	29	0	0	0	Trade hat for red potion
+9	_(TRANS)_	158	0	0	0	239	0	11	0	0	402	404	0	0	0	Elemental Guild Membership
+10	_(TRANS)_	10	0	0	0	240	0	12	0	0	406	408	0	0	0	Self Guild Membership
+11	_(TRANS)_	77	0	0	0	238	0	13	0	32	0	0	0	0	0	Boatman to take party to area 2
+12	_(TRANS)_	219	0	0	0	224	0	14	0	36	37	0	0	0	0	Sally's mom in dragon house
+13	_(TRANS)_	32	0	0	0	226	0	15	0	40	41	0	0	0	0	Back of the weapon shop
+14	_(TRANS)_	216	0	0	0	225	0	16	0	38	39	0	0	0	0	Favor for Mark near entrance to town
+15	_(TRANS)_	925	0	0	0	185	0	37	0	44	287	302	208	0	0	Good Thief promoter	23
+16	_(TRANS)_	17	0	0	0	345	0	40	0	48	49	0	0	0	0	Evil Thief promoter	5
+17	_(TRANS)_	36	0	0	0	303	0	43	0	51	0	0	0	0	0	Good Paladin promoter	3
+18	_(TRANS)_	40	0	0	0	0	0	49	0	56	0	0	0	0	0	Evil Paladin promoter	5
+19	_(TRANS)_	162	0	0	0	0	0	18	0	0	0	0	0	0	0	Docent for the tour 1	
+20	_(TRANS)_	162	0	0	0	0	0	19	0	0	0	0	0	0	0	Docent for the tour 2	
+21	_(TRANS)_	162	0	0	0	0	0	20	0	0	0	0	0	0	0	Docent for the tour 3	
+22	_(TRANS)_	162	0	0	0	0	0	21	0	0	0	0	0	0	0	Docent for the tour 4	
+23	_(TRANS)_	162	0	0	0	0	0	22	0	0	0	0	0	0	0	Docent for the tour 5	
+24	_(TRANS)_	162	0	0	0	0	0	23	0	0	0	0	0	0	0	Docent for the tour 6	
+25	_(TRANS)_	162	0	0	0	0	0	24	0	0	0	0	0	0	0	Docent for the tour 7	
+26	_(TRANS)_	162	0	0	0	0	0	25	0	0	0	0	0	0	0	Docent for the tour 8	
+27	_(TRANS)_	162	0	0	0	0	0	26	0	0	0	0	0	0	0	Docent for the tour 9	
+28	_(TRANS)_	162	0	0	0	0	0	27	0	0	0	0	0	0	0	Docent for the tour 10	
+29	_(TRANS)_	162	0	0	0	0	0	28	0	0	0	0	0	0	0	Docent for the tour 11	
+30	_(TRANS)_	162	0	0	0	0	0	29	0	0	0	0	0	0	0	Docent for the tour 12	
+31	_(TRANS)_	162	0	0	0	0	0	30	0	0	0	0	0	0	0	Docent for the tour 13	
+32	_(TRANS)_	162	0	0	0	0	0	31	0	0	0	0	0	0	0	Docent for the tour 14	
+33	_(TRANS)_	162	0	0	0	0	0	32	0	0	0	0	0	0	0	Docent for the tour 15	
+34	_(TRANS)_	162	0	0	0	0	0	33	0	0	0	0	0	0	0	Docent for the tour 16	
+35	_(TRANS)_	162	0	0	0	0	0	34	0	0	0	0	0	0	0	Docent for the tour 17	
+36	_(TRANS)_	162	0	0	0	0	0	35	0	0	0	0	0	0	0	Docent for the tour 18	
+37	_(TRANS)_	162	0	0	0	0	0	36	0	0	0	0	0	0	0	Docent for the tour 19	
+38	_(TRANS)_	90	0	0	0	490	0	51	0	58	0	0	0	0	0	Good Monk promoter	2
+39	_(TRANS)_	41	0	0	0	437	0	54	0	63	0	0	0	0	0	Evil Monk promoter	8
+40	_(TRANS)_	26	0	0	0	468	0	56	0	65	0	0	0	0	0	Good Archer promoter	2
+41	_(TRANS)_	4	0	0	0	382	0	58	0	67	0	0	0	0	0	Evil Archer promoter	14
+42	_(TRANS)_	191	0	0	0	481	0	60	0	71	0	0	0	0	0	Good Knight promoter	6
+43	_(TRANS)_	81	0	0	0	304	0	62	0	73	0	0	0	0	0	Evil Knight promoter	3
+44	_(TRANS)_	43	0	0	0	503	0	64	0	77	0	0	0	0	0	Good Ranger promoter	6
+45	_(TRANS)_	63	0	0	0	330	0	66	0	79	0	0	0	0	0	Evil Ranger promoter	4
+46	_(TRANS)_	225	0	0	0	422	0	72	0	86	0	0	0	0	0	Good Cleric promoter	7
+47	_(TRANS)_	52	0	0	0	347	0	74	0	88	0	0	0	0	0	Evil Cleric promoter	5
+48	_(TRANS)_	64	0	0	0	521	0	76	0	92	0	0	0	0	0	Good Sorcerer promoter	6
+49	_(TRANS)_	962	0	0	0	436	0	78	0	96	0	0	0	0	0	Evil Sorcerer promoter	8
+50	_(TRANS)_	45	0	0	0	312	0	80	0	98	0	0	0	0	0	Good Druid promoter	4
+51	_(TRANS)_	7	0	0	0	358	0	82	0	102	0	0	0	0	0	Evil Druid promoter	10
+52	_(TRANS)_	424	0	0	0	0	0	68	0	83	189	0	0	0	0	Faerie King (hunter promo end)	
+53	_(TRANS)_	965	0	0	0	0	0	69	0	84	0	0	0	0	0	The Oldest Tree (Ranger lord end)	
+54	_(TRANS)_	167	0	0	0	0	0	47	0	55	0	0	0	0	0	Capture/Rescue girl for Paladin 2nd promotion	
+55	_(TRANS)_	90	0	0	0	0	0	53	0	60	0	0	0	0	0	Bartholomew for dungeon promo event	
+56	_(TRANS)_	963	0	0	0	0	0	84	0	104	105	0	0	0	0	Golem party gets to construct	
+57	_(TRANS)_	961	0	0	0	0	0	169	0	0	0	0	0	0	0	Baby Dragon familiar for Warlock quest	
+58	_(TRANS)_	60	0	0	0	0	0	85	0	106	508	0	0	0	0	Player Castle	
+59	_(TRANS)_	904	0	0	0	421	0	87	0	107	0	0	0	0	0	Dwarf King	39
+60	_(TRANS)_	300	0	0	0	0	0	89	0	0	0	0	0	0	0		
+61	_(TRANS)_	319	0	0	0	0	0	90	0	0	0	0	0	0	0		
+62	_(TRANS)_	315	0	0	0	0	0	90	0	0	0	0	0	0	0		
+63	_(TRANS)_	329	0	0	0	0	0	90	0	0	0	0	0	0	0	
+64	_(TRANS)_	310	0	0	0	0	0	90	0	0	0	0	0	0	0	
+65	_(TRANS)_	322	0	0	0	0	0	90	0	0	0	0	0	0	0	
+66	_(TRANS)_	307	0	0	0	0	0	90	0	0	0	0	0	0	0	
+67	_(TRANS)_	224	0	0	0	0	0	91	0	116	117	118	119	0	0	Human Ambassador
+68	_(TRANS)_	402	0	0	0	0	0	92	0	120	121	122	123	0	0	Elven Ambassador
+69	_(TRANS)_	921	0	0	0	176	0	93	0	124	126	127	129	130	0	
+70	_(TRANS)_	912	0	0	0	178	0	95	0	131	133	134	136	137	0	
+71	_(TRANS)_	72	0	0	0	0	0	147	0	0	0	0	0	0	0	
+72	_(TRANS)_	72	0	0	0	0	0	148	0	0	0	0	0	0	0	
+73	_(TRANS)_	51	0	0	0	0	0	97	0	0	0	0	0	0	0	Artifact Battle
+74	_(TRANS)_	938	0	0	0	189	0	98	0	138	139	140	0	0	0	
+75	_(TRANS)_	44	0	0	0	0	0	99	0	0	0	0	0	0	0	Wizard Ambassador
+76	_(TRANS)_	74	0	0	0	0	0	100	0	0	0	0	0	0	0	Necro Ambassador
+77	_(TRANS)_	919	0	0	0	0	0	104	0	143	0	0	0	0	0	good arbiter (144/139)
+78	_(TRANS)_	907	0	0	0	0	0	101	0	141	0	0	0	0	0	evil arbiter (142/139)
+79	_(TRANS)_	958	0	0	0	182	0	107	0	145	259	0	0	0	0	Wizard Boss	
+80	_(TRANS)_	804	0	0	0	0	0	110	0	147	149	0	0	0	0	Good MM3 Boss	7
+81	_(TRANS)_	801	0	0	0	0	0	114	0	151	0	0	0	0	0	Good MM3	7
+82	_(TRANS)_	800	0	0	0	0	0	117	0	153	0	0	0	0	0	Good MM3	7
+83	_(TRANS)_	807	0	0	0	0	0	120	0	155	0	0	0	0	0	Good MM3	7
+84	_(TRANS)_	805	0	0	0	0	0	122	0	157	159	0	0	0	0	Evil MM3 Boss	8
+85	_(TRANS)_	802	0	0	0	0	0	126	0	161	0	0	0	0	0	Evil MM3	8
+86	_(TRANS)_	803	0	0	0	0	0	129	0	163	0	0	0	0	0	Evil MM3	8
+87	_(TRANS)_	806	0	0	0	0	0	132	0	165	0	0	0	0	0	Evil MM3	8
+88	_(TRANS)_	947	0	0	0	180	0	134	0	167	262	0	0	0	0	Necro Boss	
+89	_(TRANS)_	960	0	0	0	80	0	0	0	173	0	0	0	0	0	Dungeon Entrance	
+90	_(TRANS)_	960	0	0	0	81	0	0	0	174	0	0	0	0	0	Dungeon Entrance	
+91	_(TRANS)_	34	0	0	0	0	0	150	0	0	0	0	0	0	0	Arbiter death	
+92	_(TRANS)_	189	0	0	0	0	0	180	0	0	0	0	0	0	0		
+93	_(TRANS)_	33	0	0	0	75	0	151	0	179	0	0	0	0	0	Lantern Quest	2
+94	_(TRANS)_	41	0	0	0	364	0	153	0	181	0	0	0	0	0	Haldar's Remains Quest	10
+95	_(TRANS)_	85	0	0	0	108	0	155	0	183	0	0	0	0	0	Davrik's Signet Ring Quest	2
+96	_(TRANS)_	51	0	0	0	301	0	157	0	185	0	0	0	0	0	Quill	3
+97	_(TRANS)_	425	0	0	0	322	0	159	0	188	0	0	0	0	0	Faerie Pipes Quest	4
+98	_(TRANS)_	41	0	0	0	0	0	161	0	0	0	0	0	0	0		
+99	_(TRANS)_	37	0	0	0	0	0	162	0	191	192	0	0	0	0		
+100	_(TRANS)_	319	0	0	0	418	0	163	0	194	0	0	0	0	0	Kill Troggie Quest	23
+101	_(TRANS)_	39	0	0	0	472	0	0	0	200	315	0	0	0	0	Expert Staff (2)	2
+102	_(TRANS)_	206	0	0	0	475	0	0	0	201	316	0	0	0	0	Master Staff (6)	6
+103	_(TRANS)_	465	0	0	0	378	0	0	0	202	0	0	0	0	0	Grand Master Staff (14)	14
+104	_(TRANS)_	194	0	0	0	285	0	0	0	203	317	0	0	0	0	Expert Sword (3)	3
+105	_(TRANS)_	510	0	0	0	346	0	0	0	204	318	0	0	0	0	Master Sword (5)	6
+106	_(TRANS)_	35	0	0	0	486	0	0	0	205	483	0	0	0	0	Grand Master Sword (2)	2
+107	_(TRANS)_	19	0	0	0	319	0	0	0	206	319	0	0	0	0	Expert Dagger (4)	4
+108	_(TRANS)_	518	0	0	0	509	0	0	0	207	320	0	0	0	0	Master Dagger (10)	10
+109	_(TRANS)_	375	0	0	0	400	0	0	0	208	444	0	0	0	0	Grand Master Dagger (13)	23
+110	_(TRANS)_	317	0	0	0	486	0	0	0	209	321	0	0	0	0	Expert Axe (2)	2
+111	_(TRANS)_	328	0	0	0	413	0	0	0	210	322	0	0	0	0	Master Axe (39)	39
+112	_(TRANS)_	325	0	0	0	394	0	0	0	211	444	424	0	0	0	Grand Master Axe (13)	13
+113	_(TRANS)_	466	0	0	0	367	0	0	0	212	323	0	0	0	0	Expert Spear (13)	13
+114	_(TRANS)_	401	0	0	0	310	0	0	0	213	324	0	0	0	0	Master Spear (4)	4
+115	_(TRANS)_	467	0	0	0	414	0	0	0	214	438	0	0	0	0	Grand Master Spear (39)	39
+116	_(TRANS)_	409	0	0	0	309	0	0	0	215	325	0	0	0	0	Expert Bow (4)	4
+117	_(TRANS)_	467	0	0	0	511	0	0	0	216	326	0	0	0	0	Master Bow (10)	10
+118	_(TRANS)_	400	0	0	0	468	0	0	0	217	480	0	0	0	0	Grand Master Bow (2)	2
+119	_(TRANS)_	307	0	0	0	419	0	0	0	218	327	0	0	0	0	Expert Mace (39)	39
+120	_(TRANS)_	79	0	0	0	412	0	0	0	219	328	0	0	0	0	Master Mace (13)	13
+121	_(TRANS)_	613	0	0	0	344	0	0	0	220	489	0	0	0	0	Grand Master Mace (5)	5
+122	_(TRANS)_	12	0	0	0	0	0	194	0	513	514	0	0	0	0	Area 5 Ambusher	
+123	_(TRANS)_	947	0	0	0	0	0	0	0	0	0	0	0	0	0	Area 12 Archibald	
+124	_(TRANS)_	1	0	0	0	0	0	0	0	223	0	0	0	0	0	Grand Master Blaster	
+125	_(TRANS)_	329	0	0	0	291	0	0	0	224	329	0	0	0	0	Expert Shield (39)	39
+126	_(TRANS)_	611	0	0	0	393	0	0	0	225	330	0	0	0	0	Master Shield (13)	13
+127	_(TRANS)_	71	0	0	0	350	0	0	0	226	449	0	0	0	0	Grand Master Shield (9)	9
+128	_(TRANS)_	94	0	0	0	472	0	0	0	227	331	0	0	0	0	Exper Leather (2)	2
+129	_(TRANS)_	168	0	0	0	512	0	0	0	228	332	0	0	0	0	Master Leather (10)	10
+130	_(TRANS)_	25	0	0	0	311	0	0	0	229	0	0	0	0	0	Grand Master Leather (4)	4
+131	_(TRANS)_	404	0	0	0	308	0	0	0	230	333	0	0	0	0	Expert Chain (4)	4
+132	_(TRANS)_	415	0	0	0	383	0	0	0	231	334	0	0	0	0	Master Chain (14)	14
+133	_(TRANS)_	50	0	0	0	341	0	0	0	232	445	0	0	0	0	Grand Master Chain (5)	5
+134	_(TRANS)_	326	0	0	0	402	0	0	0	233	335	0	0	0	0	Expert Plate (13)	13
+135	_(TRANS)_	13	0	0	0	289	0	0	0	234	336	0	0	0	0	Master Plate (3)	3
+136	_(TRANS)_	14	0	0	0	482	0	0	0	235	490	0	0	0	0	Grand Master Plate (6)	6
+137	_(TRANS)_	472	0	0	0	316	0	0	0	236	337	0	0	0	0	Expert Fire_Magic (4)	4
+138	_(TRANS)_	192	0	0	0	470	0	0	0	237	338	0	0	0	0	Master Fire_Magic (2)	2
+139	_(TRANS)_	205	0	0	0	493	0	0	0	238	421	0	0	0	0	Grand Master Fire_Magic (3)	3
+140	_(TRANS)_	419	0	0	0	317	0	0	0	239	339	0	0	0	0	Expert Air_Magic (4)	4
+141	_(TRANS)_	460	0	0	0	379	0	0	0	240	340	0	0	0	0	Master Air_Magic (14)	14
+142	_(TRANS)_	193	0	0	0	479	0	0	0	241	445	0	0	0	0	Grand Master Air_Magic (6)	6
+143	_(TRANS)_	417	0	0	0	318	0	0	0	242	341	0	0	0	0	Expert Water_Magic (4)	4
+144	_(TRANS)_	226	0	0	0	364	0	0	0	243	342	0	0	0	0	Master Water_Magic (10)	10
+145	_(TRANS)_	78	0	0	0	489	0	0	0	244	484	0	0	0	0	Grand Master Water_Magic (2)	2
+146	_(TRANS)_	8	0	0	0	485	0	0	0	245	343	0	0	0	0	Expert Earth_Magic (2)	2
+147	_(TRANS)_	461	0	0	0	328	0	0	0	246	344	0	0	0	0	Master Earth_Magic (4)	4
+148	_(TRANS)_	502	0	0	0	499	0	0	0	247	423	0	0	0	0	Grand Master Earth_Magic (5)	5
+149	_(TRANS)_	29	0	0	0	467	0	0	0	248	345	0	0	0	0	Expert Spirit_Magic (2)	2
+150	_(TRANS)_	164	0	0	0	495	0	0	0	249	346	0	0	0	0	Master Spirit_Magic (3)	3
+151	_(TRANS)_	65	0	0	0	327	0	0	0	250	440	0	0	0	0	Grand Master Spirit_Magic (4)	4
+152	_(TRANS)_	61	0	0	0	293	0	0	0	251	347	0	0	0	0	Expert Mind_Magic (3)	3
+153	_(TRANS)_	419	0	0	0	376	0	0	0	252	348	0	0	0	0	Master Mind_Magic (14)	14
+154	_(TRANS)_	97	0	0	0	369	0	0	0	253	446	0	0	0	0	Grand Master Mind_Magic (13)	13
+155	_(TRANS)_	82	0	0	0	466	0	0	0	254	349	0	0	0	0	Expert Body_Magic (2)	2
+156	_(TRANS)_	83	0	0	0	397	0	0	0	255	350	0	0	0	0	Master Body_Magic (13)	13
+157	_(TRANS)_	48	0	0	0	504	0	0	0	256	430	0	0	0	0	Grand Master Body_Magic (14)	14
+158	_(TRANS)_	42	0	0	0	477	0	0	0	257	379	0	0	0	0	Expert Light_Magic (6)	6
+159	_(TRANS)_	155	0	0	0	423	0	0	0	258	380	0	0	0	0	Master Light_Magic (7)	7
+160	_(TRANS)_	163	0	0	0	0	0	0	0	259	0	0	0	0	0	Hint NPC	
+161	_(TRANS)_	234	0	0	0	343	0	0	0	260	381	0	0	0	0	Expert Dark_Magic (5)	5
+162	_(TRANS)_	189	0	0	0	436	0	0	0	261	382	454	0	0	0	Master Dark_Magic (8)	8
+163	_(TRANS)_	49	0	0	0	0	0	0	0	262	432	0	0	0	0	Hint NPC	
+164	_(TRANS)_	56	0	0	0	471	0	0	0	263	351	0	0	0	0	Expert Identify_Item (2)	2
+165	_(TRANS)_	75	0	0	0	483	0	0	0	264	352	0	0	0	0	Master Identify_Item (6)	6
+166	_(TRANS)_	463	0	0	0	315	0	0	0	265	443	0	0	0	0	Grand Master Identify_Item (4)	4
+167	_(TRANS)_	30	0	0	0	329	0	0	0	266	353	0	0	0	0	Expert Merchant (4)	4
+168	_(TRANS)_	85	0	0	0	348	0	0	0	267	354	0	0	0	0	Master Merchant (9)	9
+169	_(TRANS)_	18	0	0	0	480	0	0	0	268	434	0	0	0	0	Grand Master Merchant (6)	6
+170	_(TRANS)_	2	0	0	0	471	0	0	0	269	355	0	0	0	0	Expert Repair_Item (2)	2
+171	_(TRANS)_	98	0	0	0	411	0	0	0	270	356	0	0	0	0	Master Reapir_Item (13)	13
+172	_(TRANS)_	15	0	0	0	288	0	0	0	271	418	0	0	0	0	Grand Master Repair_Item (3)	3
+173	_(TRANS)_	368	0	0	0	502	0	0	0	272	357	0	0	0	0	Expert Body_building (6)	6
+174	_(TRANS)_	389	0	0	0	333	0	0	0	273	358	0	0	0	0	Master Body_Building (5)	5
+175	_(TRANS)_	516	0	0	0	357	0	0	0	274	460	0	0	0	0	Grand Master Body_Building (10)	10
+176	_(TRANS)_	161	0	0	0	342	0	0	0	275	359	0	0	0	0	Expert Meditation (5)	5
+177	_(TRANS)_	152	0	0	0	477	0	0	0	276	360	0	0	0	0	Master Meditation (6)	6
+178	_(TRANS)_	418	0	0	0	505	0	0	0	277	431	0	0	0	0	Grand Master Meditation (14)	14
+179	_(TRANS)_	57	0	0	0	487	0	0	0	278	361	0	0	0	0	Expert Perception (2)	2
+180	_(TRANS)_	416	0	0	0	314	0	0	0	279	362	0	0	0	0	Master Perception (4)	4
+181	_(TRANS)_	594	0	0	0	332	0	0	0	280	489	0	0	0	0	Grand Master Perception (5)	5
+182	_(TRANS)_	400	0	0	0	276	0	191	0	501	0	0	0	0	0	Ore for weapon	
+183	_(TRANS)_	320	0	0	0	277	0	192	0	502	0	0	0	0	0	Ore for armor	
+184	_(TRANS)_	169	0	0	0	279	0	193	0	503	0	0	0	0	0	Ore for misc	
+185	_(TRANS)_	1	0	0	0	0	0	0	0	284	0	0	0	0	0	Expert Thievery	
+186	_(TRANS)_	1	0	0	0	0	0	0	0	285	0	0	0	0	0	Master Thievery	
+187	_(TRANS)_	1	0	0	0	0	0	0	0	286	0	0	0	0	0	Grand Master Thievery	
+188	_(TRANS)_	479	0	0	0	321	0	0	0	287	363	0	0	0	0	Expert Lock_Pick (4)	4
+189	_(TRANS)_	31	0	0	0	488	0	0	0	288	364	0	0	0	0	Master Lock_Pick (2)	2
+190	_(TRANS)_	610	0	0	0	359	0	0	0	289	496	0	0	0	0	Grand Master Lock_Pick (10)	10
+191	_(TRANS)_	242	0	0	0	465	0	0	0	290	365	0	0	0	0	Expert Dodging (2)	2
+192	_(TRANS)_	96	0	0	0	349	0	0	0	291	366	0	0	0	0	Master Dodging (9)	9
+193	_(TRANS)_	37	0	0	0	496	0	0	0	292	419	0	0	0	0	Grand Master Dodging (3)	3
+194	_(TRANS)_	157	0	0	0	465	0	0	0	293	367	0	0	0	0	Expert Unarmed (2)	2
+195	_(TRANS)_	615	0	0	0	349	0	0	0	294	368	0	0	0	0	Master Unarmed (9)	9
+196	_(TRANS)_	24	0	0	0	494	0	0	0	295	482	0	0	0	0	Grand Master Unarmed (3)	3
+197	_(TRANS)_	406	0	0	0	320	0	0	0	296	369	0	0	0	0	Expert Identify_Monster (4)	4
+198	_(TRANS)_	468	0	0	0	385	0	0	0	297	370	0	0	0	0	Master Identify_Monster (14)	14
+199	_(TRANS)_	47	0	0	0	487	0	0	0	298	481	0	0	0	0	Grand Master Identify_Monster (2)	2
+200	_(TRANS)_	514	0	0	0	337	0	0	0	299	371	0	0	0	0	Expert Armsmaster (5)	5
+201	_(TRANS)_	413	0	0	0	370	0	0	0	300	372	0	0	0	0	Master Armsmaster (14)	14
+202	_(TRANS)_	8	0	0	0	514	0	0	0	301	444	0	0	0	0	Grand Master Armsmaster (12)	12
+203	_(TRANS)_	28	0	0	0	488	0	0	0	302	373	0	0	0	0	Expert Stealing (2)	2
+204	_(TRANS)_	166	0	0	0	335	0	0	0	303	374	0	0	0	0	Master Stealing (5)	5
+205	_(TRANS)_	403	0	0	0	389	0	0	0	304	446	0	0	0	0	Grand Master Stealing (13)	13
+206	_(TRANS)_	408	0	0	0	323	0	0	0	305	375	0	0	0	0	Expert Alchemy (4)	4
+207	_(TRANS)_	207	0	0	0	508	0	0	0	306	376	0	0	0	0	Master Alchemy (10)	10
+208	_(TRANS)_	643	0	0	0	506	0	0	0	307	435	0	0	0	0	Grand Master Alchemy (14)	14
+209	_(TRANS)_	203	0	0	0	497	0	0	0	308	377	0	0	0	0	Expert Learning (5)	5
+210	_(TRANS)_	204	0	0	0	358	0	0	0	309	378	0	0	0	0	Master Learning (10)	10
+211	_(TRANS)_	614	0	0	0	350	0	0	0	310	449	0	0	0	0	Grand Master Learning (9)	9
+212	_(TRANS)_	62	0	0	0	513	0	0	0	200	315	0	0	0	0	Expert Staff (10)	10
+213	_(TRANS)_	16	0	0	0	405	0	0	0	203	317	0	0	0	0	Expert Sword (13)	13
+214	_(TRANS)_	58	0	0	0	474	0	0	0	206	319	0	0	0	0	Expert Dagger (6)	6
+215	_(TRANS)_	632	0	0	0	384	0	0	0	209	321	0	0	0	0	Expert Axe (14)	14
+216	_(TRANS)_	414	0	0	0	371	0	0	0	212	323	0	0	0	0	Expert Spear (14)	14
+217	_(TRANS)_	93	0	0	0	474	0	0	0	215	325	0	0	0	0	Expert Bow (6)	6
+218	_(TRANS)_	89	0	0	0	307	0	0	0	218	327	0	0	0	0	Expert Mace (3)	3
+219	_(TRANS)_	1	0	0	0	0	0	0	0	221	0	0	0	0	0	Expert Blaster	
+220	_(TRANS)_	86	0	0	0	270	0	0	0	224	329	0	0	0	0	Expert Shield (3)	3
+221	_(TRANS)_	630	0	0	0	384	0	0	0	227	331	0	0	0	0	Expert Leather (14)	14
+222	_(TRANS)_	240	0	0	0	392	0	0	0	230	333	0	0	0	0	Expert Chain (13)	13
+223	_(TRANS)_	325	0	0	0	418	0	0	0	233	529	0	0	0	0	Expert Plate (13)	13
+224	_(TRANS)_	154	0	0	0	398	0	0	0	236	337	0	0	0	0	Expert Fire_Magic (13)	13
+225	_(TRANS)_	156	0	0	0	368	0	0	0	239	339	0	0	0	0	Expert Air_Magic (13)	13
+226	_(TRANS)_	480	0	0	0	377	0	0	0	242	341	0	0	0	0	Expert Water_Magic (14)	14
+227	_(TRANS)_	320	0	0	0	415	0	0	0	245	343	475	0	0	0	Expert Earth_Magic (39)	39
+228	_(TRANS)_	100	0	0	0	351	0	0	0	248	345	0	0	0	0	Expert Spirit_Magic (13)	13
+229	_(TRANS)_	207	0	0	0	352	0	0	0	251	347	0	0	0	0	Expert Mind_Magic (10)	10
+230	_(TRANS)_	64	0	0	0	298	0	0	0	254	349	0	0	0	0	Expert Body_Magic (3)	3
+231	_(TRANS)_	1	0	0	0	0	0	0	0	257	379	0	0	0	0	Expert Light_Magic	
+232	_(TRANS)_	1	0	0	0	0	0	0	0	260	381	0	0	0	0	Expert Dark_Magic	
+233	_(TRANS)_	221	0	0	0	510	0	0	0	263	351	0	0	0	0	Expert Identify_Item (10)	10
+234	_(TRANS)_	304	0	0	0	416	0	0	0	266	353	0	0	0	0	Expert Merchant (39)	39
+235	_(TRANS)_	322	0	0	0	417	0	0	0	269	355	0	0	0	0	Expert Repair_Item (39)	39
+236	_(TRANS)_	303	0	0	0	419	0	0	0	272	357	0	0	0	0	Expert Body_Building (39)	39
+237	_(TRANS)_	66	0	0	0	352	0	0	0	275	359	0	0	0	0	Expert Meditation (10)	10
+238	_(TRANS)_	407	0	0	0	371	0	0	0	278	361	0	0	0	0	Expert Perception (14)	14
+239	_(TRANS)_	1	0	0	0	0	0	0	0	281	0	0	0	0	0	Expert Diplomacy	
+240	_(TRANS)_	1	0	0	0	0	0	0	0	284	0	0	0	0	0	Expert Thievery	
+241	_(TRANS)_	23	0	0	0	410	0	0	0	287	363	0	0	0	0	Expert Lock_Pick (13)	13
+242	_(TRANS)_	567	0	0	0	500	0	0	0	290	365	0	0	0	0	Expert Dodging (6)	6
+243	_(TRANS)_	91	0	0	0	500	0	0	0	293	367	0	0	0	0	Expert Unarmed (6)	6
+244	_(TRANS)_	213	0	0	0	510	0	0	0	296	369	0	0	0	0	Expert Identify_Monster (10)	10
+245	_(TRANS)_	612	0	0	0	387	0	0	0	299	371	0	0	0	0	Expert Armsmaster (13)	13
+246	_(TRANS)_	200	0	0	0	353	0	0	0	302	373	0	0	0	0	Expert Stealing (10)	10
+247	_(TRANS)_	55	0	0	0	501	0	0	0	305	375	0	0	0	0	Expert Alchemy (6)	6
+248	_(TRANS)_	68	0	0	0	476	0	0	0	308	377	0	0	0	0	Expert Learning (6)	6
+249	_(TRANS)_	9	0	0	0	469	0	0	0	404	470	0	0	0	0	Fire Guild Membership (2)	2
+250	_(TRANS)_	633	0	0	0	316	0	0	0	404	456	0	0	0	0	Fire Guild Membership (4)	4
+251	_(TRANS)_	384	0	0	0	507	0	0	0	404	493	0	0	0	0	Fire Guild Membership (10)	10
+252	_(TRANS)_	592	0	0	0	469	0	0	0	402	486	0	0	0	0	Air Guild Membership (2)	2
+253	_(TRANS)_	641	0	0	0	317	0	0	0	402	444	0	0	0	0	Air Guild Membership (4)	4
+254	_(TRANS)_	590	0	0	0	424	0	0	0	402	487	0	0	0	0	Air Guild Membership (7)	7
+255	_(TRANS)_	596	0	0	0	491	0	0	0	405	486	529	0	0	0	Water Guild Membership (2)	2
+256	_(TRANS)_	640	0	0	0	318	0	0	0	405	444	0	0	0	0	Water Guild Membership (4)	4
+257	_(TRANS)_	223	0	0	0	501	0	0	0	405	490	0	0	0	0	Water Guild Membership (6)	6
+258	_(TRANS)_	236	0	0	0	348	0	0	0	405	449	0	0	0	0	Water Guild Membership (9)	9
+259	_(TRANS)_	3	0	0	0	491	0	0	0	403	468	0	0	0	0	Earth Guild Membership (2)	2
+260	_(TRANS)_	405	0	0	0	328	0	0	0	403	456	0	0	0	0	Earth Guild Membership (4)	4
+261	_(TRANS)_	547	0	0	0	435	0	0	0	403	432	455	0	0	0	Earth Guild Membership (8)	8
+262	_(TRANS)_	314	0	0	0	420	0	0	0	403	474	0	0	0	0	Earth Guild Membership (39)	39
+263	_(TRANS)_	249	0	0	0	467	0	0	0	408	470	0	0	0	0	Spirit Guild Membership (2)	2
+264	_(TRANS)_	84	0	0	0	294	0	0	0	408	419	0	0	0	0	Spirit Guild Membership (3)	3
+265	_(TRANS)_	212	0	0	0	331	0	0	0	408	489	0	0	0	0	Spirit Guild Membership (5)	5
+266	_(TRANS)_	80	0	0	0	466	0	0	0	406	428	0	0	0	0	Body Guild Membership (2)	2
+267	_(TRANS)_	38	0	0	0	295	0	0	0	406	482	0	0	0	0	Body Guild Membership (3)	3
+268	_(TRANS)_	462	0	0	0	377	0	0	0	406	441	0	0	0	0	Body Guild Membership (14)	14
+269	_(TRANS)_	73	0	0	0	490	0	0	0	407	444	0	0	0	0	Mind Guild Membership (2)	2
+270	_(TRANS)_	158	0	0	0	299	0	0	0	407	418	0	0	0	0	Mind Guild Membership (3)	3
+271	_(TRANS)_	88	0	0	0	408	0	0	0	407	446	0	0	0	0	Mind Guild Membership (13)	13
+272	_(TRANS)_	631	0	0	0	376	0	0	0	407	441	0	0	0	0	Mind Guild Membership (14)	14
+273	_(TRANS)_	35	0	0	0	0	0	138	0	0	0	0	0	0	0	Fort Riverstride Guard	
+274	_(TRANS)_	13	0	0	0	0	0	139	0	0	0	0	0	0	0	Watchtower 6 Guard	
+275	_(TRANS)_	26	0	0	0	0	0	140	0	0	0	0	0	0	0	Temple of Light Guard	
+276	_(TRANS)_	52	0	0	0	0	0	141	0	0	0	0	0	0	0	Temple of Dark Guard	
+277	_(TRANS)_	35	0	0	0	0	0	142	0	0	0	0	0	0	0	Castle Gryphonheart Guard	
+278	_(TRANS)_	413	0	0	0	0	0	143	0	0	0	0	0	0	0	Castle Navan Guard	
+279	_(TRANS)_	14	0	0	0	0	0	144	0	0	0	0	0	0	0	Castle Lambent Guard	
+280	_(TRANS)_	503	0	0	0	0	0	145	0	0	0	0	0	0	0	Castle Gloaming Guard	
+281	_(TRANS)_	53	0	0	0	0	0	146	0	175	176	0	0	0	0	School of Sorcery Receptionist	
+282	_(TRANS)_	64	0	0	0	0	0	17	0	0	0	0	0	0	0	School of Sorcery Guard	
+283	_(TRANS)_	91	0	0	0	0	0	149	0	0	0	0	0	0	0	Markham's House Guard	
+284	_(TRANS)_	94	0	0	0	346	0	165	0	196	0	0	0	0	0	Kill Griffin Quest	5
+285	_(TRANS)_	11	0	0	0	470	0	170	0	198	0	0	0	0	0	Arcomage Cards Quest	2
+286	_(TRANS)_	66	0	0	0	484	0	171	0	313	0	0	0	0	0	Scarf Quest	6
+287	_(TRANS)_	964	0	0	0	0	0	172	0	0	0	0	0	0	0	Roland for the Hive	40
+288	_(TRANS)_	74	0	0	0	319	0	173	0	462	0	0	0	0	0	Statuette Quest	4
+289	_(TRANS)_	69	0	0	0	404	0	175	0	464	0	0	0	0	0	Painting Quest	13
+290	_(TRANS)_	193	0	0	0	306	0	177	0	466	0	0	0	0	0	Arcomage Quest	3
+291	_(TRANS)_	177	0	0	0	0	0	179	0	450	452	0	0	0	0	Hint NPC In Bracada (6)	
+292	_(TRANS)_	564	0	0	0	0	0	179	0	451	453	0	0	0	0	Hint NPC In Bracada (6)	
+293	_(TRANS)_	172	0	0	0	0	0	180	0	488	444	0	0	0	0	Hint NPC In Celeste (7)	
+294	_(TRANS)_	32	0	0	0	0	0	180	0	494	499	0	0	0	0	Hint NPC In Celeste (7)	
+295	_(TRANS)_	31	0	0	0	0	0	181	0	432	455	0	0	0	0	Hint NPC In The Pit (8)	
+296	_(TRANS)_	170	0	0	0	0	0	181	0	454	432	0	0	0	0	Hint NPC In The Pit (8)	
+297	_(TRANS)_	386	0	0	0	0	0	182	0	460	461	0	0	0	0	Hint NPC in Nighon (10)	
+298	_(TRANS)_	234	0	0	0	0	0	182	0	496	461	0	0	0	0	Hint NPC in Nighon (10)	
+299	_(TRANS)_	379	0	0	0	515	0	183	0	459	437	0	0	0	0	Hint NPC in Barrow Downs (11)	
+300	_(TRANS)_	330	0	0	0	0	0	0	0	0	0	399	0	0	0		
+301	_(TRANS)_	236	0	0	0	0	0	0	0	0	0	0	0	0	0		
+302	_(TRANS)_	87	0	0	0	0	0	0	0	0	0	0	0	0	0		
+303	_(TRANS)_	37	0	0	0	0	0	0	0	0	0	0	0	0	0
+304	_(TRANS)_	641	0	0	0	0	0	0	0	0	0	0	0	0	0
+305	_(TRANS)_	17	0	0	0	0	0	0	0	0	0	0	0	0	0
+306	_(TRANS)_	10	0	0	0	0	0	0	0	0	0	0	0	0	0
+307	_(TRANS)_	43	0	0	0	0	0	0	0	0	0	0	0	0	0
+308	_(TRANS)_	224	0	0	0	0	0	0	0	0	0	0	0	0	0
+309	_(TRANS)_	613	0	0	0	0	0	0	0	0	0	0	0	0	0
+310	_(TRANS)_	560	0	0	0	0	0	0	0	0	0	0	0	0	0
+311	_(TRANS)_	961	0	0	0	0	0	0	0	0	0	0	0	0	0
+312	_(TRANS)_	566	0	0	0	0	0	0	0	0	0	0	0	0	0
+313	_(TRANS)_	4	0	0	0	0	0	0	0	0	0	0	0	0	0
+314	_(TRANS)_	16	0	0	0	0	0	0	0	0	0	0	0	0	0
+315	_(TRANS)_	612	0	0	0	0	0	0	0	0	0	0	0	0	0
+316	_(TRANS)_	901	0	0	0	0	0	0	0	0	0	0	0	0	0
+317	_(TRANS)_	16	0	0	0	0	0	0	0	0	0	0	0	0	0
+318	_(TRANS)_	6	0	0	0	0	0	0	0	0	0	0	0	0	0
+319	_(TRANS)_	11	0	0	0	0	0	0	0	0	0	0	0	0	0
+320	_(TRANS)_	9	0	0	0	0	0	0	0	0	0	0	0	0	0
+321	_(TRANS)_	610	0	0	0	0	0	0	0	0	0	0	0	0	0
+322	_(TRANS)_	5	0	0	0	0	0	0	0	0	0	0	0	0	0
+323	_(TRANS)_	632	0	0	0	0	0	0	0	0	0	0	0	0	0
+324	_(TRANS)_	324	0	0	0	0	0	0	0	0	0	0	0	0	0
+325	_(TRANS)_	329	0	0	0	0	0	0	0	0	0	0	0	0	0
+326	_(TRANS)_	307	0	0	0	0	0	0	0	0	0	0	0	0	0
+327	_(TRANS)_	408	0	0	0	0	0	0	0	0	0	0	0	0	0
+328	_(TRANS)_	409	0	0	0	0	0	0	0	0	0	0	0	0	0
+329	_(TRANS)_	94	0	0	0	0	0	0	0	0	0	0	0	0	0
+330	_(TRANS)_	714	0	0	0	0	0	0	0	0	0	0	0	0	0
+331	_(TRANS)_	29	0	0	0	0	0	0	0	0	0	0	0	0	0
+332	_(TRANS)_	28	0	0	0	0	0	0	0	0	0	0	0	0	0
+333	_(TRANS)_	26	0	0	0	0	0	0	0	0	0	0	0	0	0
+334	_(TRANS)_	461	0	0	0	0	0	0	0	0	0	0	0	0	0
+335	_(TRANS)_	410	0	0	0	0	0	0	0	0	0	0	0	0	0
+336	_(TRANS)_	97	0	0	0	0	0	0	0	0	0	0	0	0	0
+337	_(TRANS)_	62	0	0	0	0	0	0	0	0	0	0	0	0	0
+338	_(TRANS)_	60	0	0	0	0	0	0	0	0	0	0	0	0	0
+339	_(TRANS)_	52	0	0	0	0	0	0	0	0	0	0	0	0	0
+340	_(TRANS)_	78	0	0	0	0	0	0	0	0	0	0	0	0	0
+341	_(TRANS)_	800	0	0	0	0	0	0	0	0	0	0	0	0	0
+342	_(TRANS)_	467	0	0	0	0	0	0	0	0	0	0	0	0	0
+343	_(TRANS)_	916	0	0	0	0	0	0	0	0	0	0	0	0	0
+344	_(TRANS)_	915	0	0	0	0	0	0	0	0	0	0	0	0	0
+345	_(TRANS)_	907	0	0	0	0	0	0	0	0	0	0	0	0	0
+346	_(TRANS)_	15	0	0	0	0	0	0	0	0	0	0	0	0	0
+347	_(TRANS)_	12	0	0	0	0	0	0	0	0	0	0	0	0	0
+348	_(TRANS)_	116	0	0	0	0	0	0	0	0	0	0	0	0	0
+349	_(TRANS)_	75	0	0	0	0	0	0	0	0	0	0	0	0	0
+350	_(TRANS)_	79	0	0	0	0	0	0	0	0	0	0	0	0	0
+351	_(TRANS)_	909	0	0	0	0	0	0	0	0	0	0	0	0	0
+352	_(TRANS)_	88	0	0	0	0	0	0	0	0	0	0	0	0	0
+353	_(TRANS)_	66	0	0	0	0	0	0	0	0	0	0	0	0	0
+354	_(TRANS)_	939	0	0	0	0	0	0	0	0	0	0	0	0	0
+355	_(TRANS)_	925	0	0	0	0	0	0	0	0	0	0	0	0	0
+356	_(TRANS)_	475	0	0	0	0	0	0	0	0	0	0	0	0	0
+357	_(TRANS)_	474	0	0	0	0	0	0	0	0	0	0	0	0	0
+358	_(TRANS)_	937	0	0	0	0	0	0	0	0	0	0	0	0	0
+359	_(TRANS)_	234	0	0	0	0	0	0	0	0	0	0	0	0	0
+360	_(TRANS)_	403	0	0	0	0	0	0	0	0	0	0	0	0	0
+361	_(TRANS)_	427	0	0	0	0	0	0	0	0	0	0	0	0	0
+362	_(TRANS)_	407	0	0	0	0	0	0	0	0	0	0	0	0	0
+363	_(TRANS)_	404	0	0	0	0	0	0	0	0	0	0	0	0	0
+364	_(TRANS)_	400	0	0	0	0	0	0	0	0	0	0	0	0	0
+365	_(TRANS)_	402	0	0	0	0	0	0	0	0	0	0	0	0	0
+366	_(TRANS)_	471	0	0	0	0	0	0	0	0	0	0	0	0	0
+367	_(TRANS)_	93	0	0	0	0	0	0	0	0	0	0	0	0	0	
+368	_(TRANS)_	89	0	0	0	0	0	0	0	0	0	0	0	0	0	
+369	_(TRANS)_	73	0	0	0	0	0	0	0	0	0	0	0	0	0	
+370	_(TRANS)_	95	0	0	0	0	0	0	0	0	0	0	0	0	0	
+371	_(TRANS)_	90	0	0	0	0	0	0	0	0	0	0	0	0	0	
+372	_(TRANS)_	7	0	0	0	0	0	0	0	0	0	0	0	0	0	
+373	_(TRANS)_	465	0	0	0	0	0	0	0	0	0	0	0	0	0	
+374	_(TRANS)_	31	0	0	0	0	0	0	0	0	0	0	0	0	0	
+375	_(TRANS)_	40	0	0	0	0	0	0	0	0	0	0	0	0	0	
+376	_(TRANS)_	68	0	0	0	0	0	0	0	0	0	0	0	0	0	
+377	_(TRANS)_	52	0	0	0	0	0	0	0	0	0	0	0	0	0	
+378	_(TRANS)_	3	0	0	0	0	0	0	0	0	0	0	0	0	0	
+379	_(TRANS)_	918	0	0	0	0	0	0	0	0	0	0	0	0	0	
+380	_(TRANS)_	64	0	0	0	491	0	195	0	515	516	0	0	0	0	Trade NPC Arrowheads/Wood
+381	_(TRANS)_	77	0	0	0	269	0	189	0	420	429	0	0	0	0	Hint NPC in Steadwick/Pete (3)
+382	_(TRANS)_	97	0	0	0	274	0	189	0	418	420	0	0	0	0	Hint NPC in Steadwick/Pete (3)
+383	_(TRANS)_	24	0	0	0	302	0	196	0	517	518	0	0	0	0	Trade NPC Feathers/Arrowheads
+384	_(TRANS)_	408	0	0	0	322	0	197	0	519	520	0	0	0	0	Trade NPC Wood/Feathers
+385	_(TRANS)_	401	0	0	0	383	0	200	0	525	526	0	0	0	0	Trade NPC Wine/Bottles
+386	_(TRANS)_	31	0	0	0	401	0	184	0	527	529	0	0	0	0	Hint NPC in Tatalia (13) wharf area
+387	_(TRANS)_	37	0	0	0	388	0	184	0	529	527	0	0	0	0	Hint NPC in Tatalia (13) wharf area
+388	_(TRANS)_	374	0	0	0	516	0	183	0	459	499	0	0	0	0	Hint NPC in Barrow Downs/Pete (11)
+389	_(TRANS)_	43	0	0	0	302	0	189	0	572	420	0	0	0	0	Hint NPC in Steadwick/Pete (3)
+390	_(TRANS)_	171	0	0	0	485	0	187	0	495	478	0	0	0	0	Hint NPC in Harmondale (2)
+391	_(TRANS)_	32	0	0	0	489	0	187	0	472	477	0	0	0	0	Hint NPC in Harmondale (2)
+392	_(TRANS)_	213	0	0	0	284	0	189	0	499	426	0	0	0	0	Hint NPC in Steadwick (3)
+393	_(TRANS)_	180	0	0	0	283	0	189	0	425	420	0	0	0	0	Hint NPC in Steadwick (3)
+394	_(TRANS)_	191	0	0	0	286	0	189	0	421	418	0	0	0	0	Hint NPC in Steadwick (3)
+395	_(TRANS)_	469	0	0	0	308	0	184	0	447	500	0	0	0	0	Hint NPC in Tularean Forest (4)
+396	_(TRANS)_	420	0	0	0	323	0	184	0	448	444	0	0	0	0	Hint NPC in Tularean Forest (4)
+397	_(TRANS)_	37	0	0	0	498	0	190	0	422	499	0	0	0	0	Hint NPC in Deyja (5)
+398	_(TRANS)_	562	0	0	0	338	0	190	0	423	444	0	0	0	0	Hint NPC in Deyja (5)
+399	_(TRANS)_	376	0	0	0	520	0	183	0	457	429	0	0	0	0	Hint NPC in Barrow Downs (11)
+400	_(TRANS)_	324	0	0	0	517	0	183	0	429	439	0	0	0	0	Hint NPC in Barrow Downs (11)
+401	_(TRANS)_	318	0	0	0	518	0	183	0	528	429	0	0	0	0	Hint NPC in Barrow Downs (11)
+402	_(TRANS)_	384	0	0	0	519	0	183	0	529	444	0	0	0	0	Hint NPC in Barrow Downs (11)
+403	_(TRANS)_	187	0	0	0	0	0	184	0	447	500	0	0	0	0	Hint NPC in Tatalia (13) wharf area
+404	_(TRANS)_	98	0	0	0	0	0	184	0	448	500	0	0	0	0	Hint NPC in Tatalia (13) wharf area
+405	_(TRANS)_	461	0	0	0	0	0	185	0	498	441	0	0	0	0	Hint NPC in Avlee (14)
+406	_(TRANS)_	300	0	0	0	0	0	186	0	458	473	0	0	0	0	Hint NPC in Stone City (39)
+407	_(TRANS)_	318	0	0	0	0	0	186	0	498	476	0	0	0	0	Hint NPC in Stone City (39)
+408	_(TRANS)_	324	0	0	0	0	0	186	0	492	497	0	0	0	0	Hint NPC in Stone City (39)
+409	_(TRANS)_	173	0	0	0	0	0	187	0	471	478	0	0	0	0	Hint NPC in Harmondale (2)
+410	_(TRANS)_	162	0	0	0	0	0	187	0	571	479	0	0	0	0	Hint NPC in Harmondale (2)
+411	_(TRANS)_	193	0	0	0	0	0	187	0	477	495	0	0	0	0	Hint NPC in Harmondale (2)
+412	_(TRANS)_	465	0	0	0	0	0	188	0	444	443	0	0	0	0	Hint NPC in Tularean Forest (4)
+413	_(TRANS)_	471	0	0	0	0	0	188	0	440	442	0	0	0	0	Hint NPC in Tularean Forest (4)
+414	_(TRANS)_	166	0	0	0	0	0	189	0	418	426	0	0	0	0	Hint NPC in Steadwick (3)
+415	_(TRANS)_	171	0	0	0	0	0	189	0	419	420	0	0	0	0	Hint NPC in Steadwick (3)
+416	_(TRANS)_	566	0	0	0	0	0	189	0	421	499	0	0	0	0	Hint NPC in Steadwick (3)
+417	_(TRANS)_	568	0	0	0	0	0	189	0	421	444	0	0	0	0	Hint NPC in Steadwick (3)
+418	_(TRANS)_	199	0	0	0	0	0	190	0	422	499	0	0	0	0	Hint NPC in Deyja (5)
+419	_(TRANS)_	540	0	0	0	0	0	190	0	423	572	0	0	0	0	Hint NPC in Deyja (5)
+420	_(TRANS)_	563	0	0	0	484	0	179	0	433	452	0	0	0	0	Hint NPC In Bracada (6)
+421	_(TRANS)_	591	0	0	0	478	0	179	0	452	453	0	0	0	0	Hint NPC In Bracada (6)
+422	_(TRANS)_	169	0	0	0	396	0	198	0	521	522	0	0	0	0	Trade NPC Sand/Wine
+423	_(TRANS)_	324	0	0	0	520	0	199	0	523	524	0	0	0	0	Trade NPC Bottles/Sand
+424	_(TRANS)_	32	0	0	0	295	0	189	0	444	425	0	0	0	0	Hint NPC in Steadwick (3)
+425	_(TRANS)_	467	0	0	0	313	0	188	0	440	443	0	0	0	0	Hint NPC in Tularean Forest (4)
+426	_(TRANS)_	217	0	0	0	453	0	190	0	444	499	0	0	0	0	Hint NPC in Deyja (5)
+427	_(TRANS)_	209	0	0	0	339	0	190	0	423	422	0	0	0	0	Hint NPC in Deyja (5)
+428	_(TRANS)_	308	0	0	0	334	0	190	0	444	506	0	0	0	0	Hint NPC in Deyja (5)
+429	_(TRANS)_	319	0	0	0	336	0	190	0	499	506	0	0	0	0	Hint NPC in Stone City (39)
+430	_(TRANS)_	471	0	0	0	309	0	188	0	444	442	0	0	0	0	Hint NPC in Tularean Forest/Pete (4)
+431	_(TRANS)_	418	0	0	0	321	0	188	0	440	443	0	0	0	0	Hint NPC in Tularean Forest (4)
+432	_(TRANS)_	480	0	0	0	313	0	188	0	506	572	0	0	0	0	Hint NPC in Tularean Forest (4)
+433	_(TRANS)_	949	0	0	0	0	0	0	0	0	0	0	0	0	0	
+434	_(TRANS)_	951	0	0	0	0	0	0	0	0	0	0	0	0	0	
+435	_(TRANS)_	18	0	0	0	0	0	0	0	0	0	0	0	0	0	
+436	_(TRANS)_	416	0	0	0	0	0	0	0	0	0	0	0	0	0	
+437	_(TRANS)_	412	0	0	0	0	0	0	0	0	0	0	0	0	0	
+438	_(TRANS)_	408	0	0	0	0	0	0	0	0	0	0	0	0	0	
+439	_(TRANS)_	30	0	0	0	0	0	204	0	512	570	0	0	0	0	Goblin Spy in Harmondale
+440	_(TRANS)_	622	0	0	0	305	0	189	0	529	499	0	0	0	0	Hint NPC in Steadwick (3)
+441	_(TRANS)_	326	0	0	0	0	0	203	0	0	0	0	0	0	0	Guard in Stone City
+442	_(TRANS)_	176	0	0	0	290	0	189	0	509	572	0	0	0	0	Hint NPC in Erathia (3)
+443	_(TRANS)_	165	0	0	0	492	0	189	0	529	572	0	0	0	0	Hint NPC in Erathia (3)
+444	_(TRANS)_	536	0	0	0	340	0	190	0	572	529	0	0	0	0	Hint NPC in Deyja (5)
+445	_(TRANS)_	166	0	0	0	429	0	180	0	571	529	0	0	0	0	Hint NPC in Celeste (7)
+446	_(TRANS)_	17	0	0	0	430	0	180	0	572	444	0	0	0	0	Hint NPC in Celeste (7)
+447	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+448	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+449	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+450	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+451	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+452	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+453	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+454	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+455	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+456	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+457	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+458	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+459	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+460	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+461	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+462	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+463	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+464	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+465	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+466	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+467	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+468	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+469	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+470	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+471	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+472	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+473	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+474	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+475	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+476	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+477	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+478	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+479	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+480	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+481	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+482	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+483	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+484	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+485	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+486	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+487	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+488	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+489	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+490	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+491	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+492	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+493	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+494	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+495	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+496	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+497	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+498	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+499	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+500	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+501	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+502	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+503	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+504	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+505	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+506	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+507	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+508	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+509	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+510	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+511	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+512	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+513	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+514	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+515	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+516	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+517	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+518	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+519	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+520	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+521	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+522	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+523	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+524	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+525	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+526	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+527	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+528	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+529	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+530	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+531	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+532	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+533	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+534	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+535	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+536	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+537	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+538	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+539	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+540	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+541	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+542	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+543	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+544	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+545	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+547	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+548	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+549	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+550	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+551	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+552	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+553	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+554	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+555	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+556	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+557	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+558	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+559	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+560	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+561	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+562	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+563	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+564	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+565	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+566	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+567	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+568	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+569	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+570	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+571	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+572	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+573	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+574	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+575	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+576	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+577	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+578	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+579	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+580	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+581	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+582	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+583	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+584	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+585	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+586	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+587	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+588	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+589	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+590	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+591	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+592	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+593	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+594	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+595	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+596	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+597	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+598	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+599	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+600	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+601	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+602	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+603	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+604	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+605	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+606	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+607	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+608	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+609	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+610	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+611	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+612	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+613	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+614	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+615	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+616	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+617	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+618	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+619	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+620	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+621	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+622	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+623	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+624	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+625	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+626	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+627	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+628	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+629	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+630	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+631	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+632	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+633	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+634	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+635	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+636	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+637	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+638	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+639	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+640	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+641	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+642	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+643	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+644	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+645	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+646	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+647	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+648	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+649	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+650	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+651	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+652	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+653	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+654	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+655	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+656	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+657	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+658	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+659	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+660	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+661	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+662	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+663	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+664	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+665	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+666	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+667	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+668	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+669	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+670	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+671	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+672	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+673	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+674	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+675	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+676	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+677	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+678	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+679	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+680	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+681	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+682	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+683	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+684	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+685	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+686	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+687	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+688	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+689	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+690	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+691	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+692	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+693	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+694	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+695	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+696	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+697	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+698	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+699	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+700	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+701	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+702	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+703	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+704	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+705	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+706	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+707	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+708	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+709	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+710	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+711	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+712	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+713	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+714	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+715	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+716	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+717	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+718	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+719	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+720	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+721	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+722	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+723	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+724	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+725	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+726	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+727	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+728	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+729	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+730	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+731	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+732	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+733	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+734	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+735	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+736	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+737	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+738	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+739	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+740	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+741	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+742	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+743	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+744	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+745	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+746	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+747	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+748	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+749	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+750	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+751	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+752	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+753	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+754	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+755	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+756	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+757	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+758	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+759	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+760	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+761	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+762	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+763	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+764	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+765	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+766	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+767	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+768	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+769	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+770	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+771	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+772	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+773	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+774	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+775	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+776	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+777	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+778	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+779	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+780	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+781	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+782	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+783	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+784	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+785	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+786	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+787	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+788	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+789	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+790	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+791	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+792	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+793	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+794	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+795	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+796	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+797	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+798	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+799	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+800	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+801	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+802	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+803	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+804	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+805	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+806	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+807	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+808	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+809	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+810	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+811	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+812	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+813	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+814	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+815	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+816	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+817	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+818	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+819	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+820	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+821	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+822	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+823	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+824	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+825	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+826	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+827	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+828	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+829	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+830	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+831	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+832	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+833	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+834	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+835	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+836	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+837	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+838	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+839	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+840	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+841	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+842	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+843	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+844	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+845	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+846	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+847	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+848	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+849	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+850	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+851	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+852	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+853	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+854	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+855	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+856	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+857	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+858	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+859	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+860	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+861	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+862	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+863	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+864	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+865	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+866	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+867	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+868	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+869	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+870	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+871	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+872	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+873	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+874	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+875	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+876	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+877	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+878	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+879	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+880	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+881	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+882	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+883	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+884	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+885	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+886	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+887	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+888	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+889	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+890	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+891	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+892	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+893	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+894	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+895	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+896	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+897	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+898	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+899	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+900	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+901	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+902	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+903	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+904	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+905	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+906	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+907	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+908	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+909	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+910	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+911	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+912	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+913	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+914	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+915	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+916	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+917	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+918	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+919	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+920	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+921	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+922	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+923	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+924	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+925	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+926	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+927	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+928	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+929	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+930	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+931	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+932	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+933	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+934	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+935	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+936	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+937	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+938	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+939	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+940	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+941	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+942	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+943	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+944	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+945	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+946	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+947	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+948	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+949	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+950	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+951	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+952	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+953	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+954	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+955	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+956	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+957	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+958	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+959	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+960	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+961	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+962	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+963	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+964	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+965	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+966	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+967	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+968	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+969	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+970	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+971	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+972	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+973	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+974	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+975	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+976	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+977	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+978	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+979	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+980	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+981	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+982	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+983	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+984	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+985	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+986	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+987	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+988	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+989	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+990	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+991	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+992	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+993	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+994	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+995	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+996	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+997	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+998	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+999	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1000	Boob	0	0	0	0	0	0	0	0	0	0	0	0	0	0

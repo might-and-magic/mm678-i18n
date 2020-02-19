@@ -1,0 +1,82 @@
+							
+	NPC	Random	Join				
+#	Professions	Chance	Cost/w	Personality	Action Text	In Party Benefit	Join Text
+							
+1	Smith	10	200	Merchant		_(TRANS)_	_(TRANS)_
+2	Armorer	10	200	Merchant		_(TRANS)_	_(TRANS)_
+3	Alchemist	10	400	Sorcerer		_(TRANS)_	_(TRANS)_
+4	Scholar	10	500	Scholar		_(TRANS)_	_(TRANS)_
+5	Guide	10	100	Adventurer		_(TRANS)_	_(TRANS)_
+6	Tracker	10	200	Adventurer		_(TRANS)_	_(TRANS)_
+7	Pathfinder	10	300	Adventurer		_(TRANS)_	_(TRANS)_
+8	Sailor	10	100	Peasant		_(TRANS)_	_(TRANS)_
+9	Navigator	10	200	Scholar		_(TRANS)_	_(TRANS)_
+10	Healer	10	500	Priest	Heal Party	_(TRANS)_	_(TRANS)_
+11	Expert Healer	10	2000	Priest	Heal Party	_(TRANS)_	_(TRANS)_
+12	Master Healer	10	5000	Priest	Heal Party	_(TRANS)_	_(TRANS)_
+13	Teacher	10	300	Scholar		_(TRANS)_	_(TRANS)_
+14	Instructor	10	700	Scholar		_(TRANS)_	_(TRANS)_
+15	Arms Master	10	300	Paladin		_(TRANS)_	_(TRANS)_
+16	Weapons Master	10	400	Paladin		_(TRANS)_	_(TRANS)_
+17	Apprentice	10	500	Sorcerer		_(TRANS)_	_(TRANS)_
+18	Mystic	10	1000	Sorcerer		_(TRANS)_	_(TRANS)_
+19	Spell Master	10	2000	Sorcerer		_(TRANS)_	_(TRANS)_
+20	Trader	10	100	Merchant		_(TRANS)_	_(TRANS)_
+21	Merchant	10	200	Merchant		_(TRANS)_	_(TRANS)_
+22	Scout	10	300	Thief		_(TRANS)_	_(TRANS)_
+23	Counselor	10	200	Official		_(TRANS)_	_(TRANS)_
+24	Barrister	10	300	Noble		_(TRANS)_	_(TRANS)_
+25	Tinker	10	200	Peasant		_(TRANS)_	_(TRANS)_
+26	Locksmith	10	300	Merchant		_(TRANS)_	_(TRANS)_
+27	Fool	10	100	Fanatic		_(TRANS)_	_(TRANS)_
+28	Chimney Sweep	10	200	Peasant		_(TRANS)_	_(TRANS)_
+29	Porter	10	100	Peasant		_(TRANS)_	_(TRANS)_
+30	Quarter Master	10	200	Adventurer		_(TRANS)_	_(TRANS)_
+31	Factor	10	500	Official		_(TRANS)_	_(TRANS)_
+32	Banker	10	1000	Noble		_(TRANS)_	_(TRANS)_
+33	Cook	10	300	Peasant	Prepare Meal	_(TRANS)_	_(TRANS)_
+34	Chef	10	400	Noble	Prepare Feast	_(TRANS)_	_(TRANS)_
+35	Horseman	10	100	Adventurer		_(TRANS)_	_(TRANS)_
+36	Bard	10	1000	Paladin		_(TRANS)_	_(TRANS)_
+37	Enchanter	10	1000	Sorcerer		_(TRANS)_	_(TRANS)_
+38	Cartographer	10	200	Sorcerer		_(TRANS)_	_(TRANS)_
+39	Wind Master	10	2000	Sorcerer	Wind Walk	_(TRANS)_	_(TRANS)_
+40	Water Master	10	1000	Sorcerer	Cross Water	_(TRANS)_	_(TRANS)_
+41	Gate Master	10	2000	Sorcerer	Gate to Town	_(TRANS)_	_(TRANS)_
+42	Acolyte	10	200	Priest	Bless Party	_(TRANS)_	_(TRANS)_
+43	Piper	10	300	Paladin	Play Tune	_(TRANS)_	_(TRANS)_
+44	Explorer	10	100	Adventurer		_(TRANS)_	_(TRANS)_
+45	Pirate	10	500	Thief		_(TRANS)_	_(TRANS)_
+46	Squire	10	600	Paladin		_(TRANS)_	_(TRANS)_
+47	Psychic	10	400	Scholar		_(TRANS)_	_(TRANS)_
+48	Gypsy	10	100	Thief		_(TRANS)_	_(TRANS)_
+49	Negotiator	10	500	Official		_(TRANS)_	_(TRANS)_
+50	Duper	10	200	Thief		_(TRANS)_	_(TRANS)_
+51	Burglar	10	2000	Thief		_(TRANS)_	_(TRANS)_
+52	Peasant	10	1	Peasant			_(TRANS)_
+53	Serf	10	1	Peasant			_(TRANS)_
+54	Tailor	10	5	Merchant			_(TRANS)_
+55	Laborer	10	1	Peasant			_(TRANS)_
+56	Farmer	10	1	Peasant			_(TRANS)_
+57	Cooper	10	5	Merchant			_(TRANS)_
+58	Potter	10	2	Merchant			_(TRANS)_
+59	Weaver	10	2	Merchant			_(TRANS)_
+60	Cobbler	10	3	Merchant			_(TRANS)_
+61	Ditch Digger	10	1	Peasant			_(TRANS)_
+62	Miller	10	2	Peasant			_(TRANS)_
+63	Carpenter	10	5	Merchant			_(TRANS)_
+64	Stone Cutter	10	4	Fanatic			_(TRANS)_
+65	Jester	10	10	Fanatic			_(TRANS)_
+66	Trapper	10	5	Adventurer			_(TRANS)_
+67	Beggar	10	1	Fanatic			_(TRANS)_
+68	Rustler	10	3	Thief			_(TRANS)_
+69	Hunter	10	5	Adventurer			_(TRANS)_
+70	Scribe	10	10	Scholar			_(TRANS)_
+71	Missionary	10	10	Priest			_(TRANS)_
+72	Clerk	10	8	Official			_(TRANS)_
+73	Guard	10	10	Guard			_(TRANS)_
+74	Follower of Baa	10	1	Fanatic			_(TRANS)_
+75	Noble	10	100	Noble			_(TRANS)_
+76	Gambler	10	10	Thief			_(TRANS)_
+77	Child	??	1	Peasant			_(TRANS)_
+	Random Total	760					

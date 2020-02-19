@@ -1,0 +1,272 @@
+2D#	Transition Description	Note
+1	_(TRANS)_	"Vampire Crypt, 32"
+2	_(TRANS)_	"The Crypt of Korbu,37"
+3	_(TRANS)_	Tomb of Lord Brinnie 39
+4	_(TRANS)_	Passage Under Regna 44
+5	_(TRANS)_	Uplifted Library 51
+6	_(TRANS)_	Dark Dwarf Compound 52
+8	_(TRANS)_	Dragon Cave (area 12)
+9	_(TRANS)_	Lord Markham's Manor
+10	_(TRANS)_	Bandit Caves
+11	_(TRANS)_	Haunted Mansion
+12	_(TRANS)_	Barrow
+13	_(TRANS)_	Barrow
+14	_(TRANS)_	Barrow
+15	_(TRANS)_	Tower
+16	_(TRANS)_	Dragon Cave (area 13)
+17	_(TRANS)_	Small House (assassination)
+18	_(TRANS)_	Hidden Tomb
+22	_(TRANS)_	
+23	_(TRANS)_	
+44	Placeholder Text	
+45	Placeholder Text	
+46	Placeholder Text	
+48	Placeholder Text	
+50	Placeholder Text	
+148	_(TRANS)_	
+152	_(TRANS)_	
+154	_(TRANS)_	
+158	_(TRANS)_	
+160	_(TRANS)_	
+164	_(TRANS)_	
+166	_(TRANS)_	
+177	Placeholder Text	
+178	Placeholder Text	
+179	Placeholder Text	
+209	_(TRANS)_	
+217	Placeholder Text	Placeholder
+218	Placeholder Text	Placeholder
+219	Placeholder Text	Placeholder
+220	Placeholder Text	Placeholder
+221	Placeholder Text	
+335	_(TRANS)_	
+336	_(TRANS)_	
+337	_(TRANS)_	
+338	_(TRANS)_	
+339	_(TRANS)_	
+340	_(TRANS)_	
+341	_(TRANS)_	Prison of the Lord of Earth
+342	_(TRANS)_	Prison of the Lord of Fire
+343	_(TRANS)_	Prison of the Lord of Water
+344	_(TRANS)_	New Entrance to Balthazar Lair
+345	_(TRANS)_	Backdoor to the Abandoned Temple
+346	_(TRANS)_	Abandoned Temple
+347	_(TRANS)_	Gateway to the Plane of Air
+348	_(TRANS)_	Gateway to the Plane of Water
+349	_(TRANS)_	Pirate Outpost
+350	_(TRANS)_	Gateway to the Plane of Fire
+351	_(TRANS)_	Smuggler's Cove
+352	_(TRANS)_	Gateway to the Plane of Earth
+353	_(TRANS)_	Dire Wolf Lair
+354	_(TRANS)_	Merchanthouse of Alvar
+355	_(TRANS)_	Inside the Crystal
+356	_(TRANS)_	Wasp Nest
+357	_(TRANS)_	Ogre Raiding Fort
+358	_(TRANS)_	Troll Tomb
+359	_(TRANS)_	Cyclops Larder
+360	_(TRANS)_	Chain of Fire
+361	_(TRANS)_	Dragon Hunter Camp
+362	_(TRANS)_	Dragon Cave
+363	_(TRANS)_	Naga Vault
+364	_(TRANS)_	Temple of the Sun
+365	_(TRANS)_	Abandoned Druid Circle
+366	_(TRANS)_	Minotaur Lair
+367	_(TRANS)_	Barbarian Fortress
+368	_(TRANS)_	Pirate Stronghold
+369	_(TRANS)_	Abandoned Pirate Keep
+370	_(TRANS)_	Hand-Cranked Submarine
+371	_(TRANS)_	Necromancers' Guild
+372	_(TRANS)_	Mad Necromancer's Lab
+373	_(TRANS)_	Castle of Air
+374	_(TRANS)_	Castle of Air
+375	_(TRANS)_	Tribute Tomb
+376	_(TRANS)_	Castle of Fire
+377	_(TRANS)_	War Camp
+378	_(TRANS)_	Eschaton's Palace
+379	_(TRANS)_	Prison of the Lord of Air
+382	_(TRANS)_	Castle Harmondale
+383	_(TRANS)_	Castle Gryphonheart
+384	_(TRANS)_	Castle Navan
+385	_(TRANS)_	Castle Gloaming
+386	_(TRANS)_	Castle Lambent
+387	_(TRANS)_	Temple of the Moon
+389	_(TRANS)_	Dragon's Lair
+390	_(TRANS)_	Castle Harmondale
+391	_(TRANS)_	White Cliff Caves
+392	_(TRANS)_	Erathian Sewer
+393	_(TRANS)_	Fort Riverstride
+394	_(TRANS)_	Tularean Caves
+395	_(TRANS)_	Clanker's Laboratory
+396	_(TRANS)_	Hall of the Pit
+397	_(TRANS)_	Watchtower 6
+398	_(TRANS)_	School of Sorcery
+399	_(TRANS)_	Red Dwarf Mines
+400	_(TRANS)_	Walls of Mist
+401	_(TRANS)_	Temple of the Light
+402	_(TRANS)_	Breeding Zone
+403	_(TRANS)_	Temple of the Dark
+404	_(TRANS)_	Grand Temple of the Moon
+405	_(TRANS)_	Grand Temple of the Sun
+406	_(TRANS)_	Thunderfist Mountain
+407	_(TRANS)_	The Maze
+408	_(TRANS)_	Stone City
+409	_(TRANS)_	Colony Zod
+410	_(TRANS)_	Mercenary Guild
+411	_(TRANS)_	Tidewater Caverns
+412	_(TRANS)_	Wine Cellar
+413	_(TRANS)_	Titans' Stronghold
+414	_(TRANS)_	Temple of Baa
+415	_(TRANS)_	Hall under the Hill
+416	_(TRANS)_	The Lincoln
+417	_(TRANS)_	
+418	_(TRANS)_	
+419	_(TRANS)_	
+420	_(TRANS)_	
+421	_(TRANS)_	
+422	_(TRANS)_	
+423	_(TRANS)_	
+424	_(TRANS)_	
+425	_(TRANS)_	
+426	_(TRANS)_	
+427	_(TRANS)_	
+428	_(TRANS)_	
+429	_(TRANS)_	
+430	_(TRANS)_	
+431	_(TRANS)_	
+432	_(TRANS)_	
+433	_(TRANS)_	
+434	_(TRANS)_	
+435	_(TRANS)_	
+436	_(TRANS)_	
+437	_(TRANS)_	
+438	_(TRANS)_	
+439	_(TRANS)_	
+440	_(TRANS)_	
+441	_(TRANS)_	
+442	_(TRANS)_	
+443	_(TRANS)_	
+444	_(TRANS)_	
+445	_(TRANS)_	
+446	_(TRANS)_	
+447	_(TRANS)_	
+448	_(TRANS)_	
+449	_(TRANS)_	
+451	_(TRANS)_	
+508	_(TRANS)_	Abandoned Temple
+671	Placeholder Text	
+672	Placeholder Text	
+673	Placeholder Text	
+674	Placeholder Text	
+675	Placeholder Text	
+676	Placeholder Text	
+677	Placeholder Text	
+678	Placeholder Text	
+679	Placeholder Text	
+680	Placeholder Text	
+681	Placeholder Text	
+682	Placeholder Text	
+683	Placeholder Text	
+684	Placeholder Text	
+685	Placeholder Text	
+686	Placeholder Text	
+687	Placeholder Text	
+688	Placeholder Text	
+689	Placeholder Text	
+690	Placeholder Text	
+691	Placeholder Text	
+692	Placeholder Text	
+693	Placeholder Text	
+694	Placeholder Text	
+695	Placeholder Text	
+696	Placeholder Text	
+697	Placeholder Text	
+698	Placeholder Text	
+699	Placeholder Text	
+700	Placeholder Text	
+701	Placeholder Text	
+702	Placeholder Text	
+703	Placeholder Text	
+704	Placeholder Text	
+705	Placeholder Text	
+706	Placeholder Text	
+707	Placeholder Text	
+708	Placeholder Text	
+709	Placeholder Text	
+710	_(TRANS)_	Breach basement outside
+711	_(TRANS)_	Breach basement inside
+712	Placeholder Text	
+713	Placeholder Text	
+714	Placeholder Text	
+715	Placeholder Text	
+716	Placeholder Text	
+717	Placeholder Text	
+761	Placeholder Text	
+776	Placeholder Text	
+784	Placeholder Text	
+792	Placeholder Text	
+795	Placeholder Text	
+798	Placeholder Text	
+804	Placeholder Text	
+806	_(TRANS)_	Ancient Troll Home 54
+813	Placeholder Text	
+815	_(TRANS)_	Grand Temple of Eep 55
+823	Placeholder Text	
+825	_(TRANS)_	Chapel of Eep 56
+833	Placeholder Text	
+835	_(TRANS)_	Church of Eep 57
+843	Placeholder Text	
+845	_(TRANS)_	Ilsingore's Cave 58
+852	Placeholder Text	
+854	_(TRANS)_	Yaardrake's Cave 59
+860	Placeholder Text	
+862	_(TRANS)_	Old Loeb's Cave 60
+866	Placeholder Text	
+870	Placeholder Text	
+873	Placeholder Text	
+876	Placeholder Text	
+879	Placeholder Text	
+882	Placeholder Text	
+885	Placeholder Text	
+1085	_(TRANS)_	Barrow
+1086	Placeholder Text	
+1087	Placeholder Text	
+1088	Placeholder Text	
+1089	Placeholder Text	
+1090	Placeholder Text	
+1091	Placeholder Text	
+1092	Placeholder Text	
+1093	Placeholder Text	
+1094	Placeholder Text	
+1095	Placeholder Text	
+1096	Placeholder Text	
+1097	Placeholder Text	
+1098	Placeholder Text	
+1099	Placeholder Text	
+1100	Placeholder Text	
+1162	Placeholder Text	
+1163	Placeholder Text	
+1164	Placeholder Text	
+1165	Placeholder Text	
+1166	Placeholder Text	
+1167	Placeholder Text	
+1169	Placeholder Text	Placeholder
+1170	Placeholder Text	
+1171	Placeholder Text	
+1172	Placeholder Text	
+1173	Placeholder Text	
+1174	Placeholder Text	
+1175	Placeholder Text	
+1176	Placeholder Text	
+1177	Placeholder Text	
+1178	Placeholder Text	
+1217	_(TRANS)_	
+1218	_(TRANS)_	
+1304	_(TRANS)_	
+1305	_(TRANS)_	
+1317	_(TRANS)_	
+1341	_(TRANS)_	
+1386	_(TRANS)_	
+1416	_(TRANS)_	
+1452	_(TRANS)_	
+1459	_(TRANS)_	
+1593	Placeholder Text	

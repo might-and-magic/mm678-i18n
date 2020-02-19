@@ -1,0 +1,527 @@
+Text Number From NPC Events.Doc		Notes
+#	Topic	
+1	_(TRANS)_	
+2	_(TRANS)_	
+3	_(TRANS)_	
+4	_(TRANS)_	
+5	_(TRANS)_	
+6	_(TRANS)_	
+7	_(TRANS)_	
+8	_(TRANS)_	
+9	_(TRANS)_	
+10	_(TRANS)_	
+11	_(TRANS)_	
+12	_(TRANS)_	Need text for speaking with Wilbur Humphrey before talking to the traitor.
+13	_(TRANS)_	
+14	_(TRANS)_	
+15	_(TRANS)_	
+16	_(TRANS)_	
+17	_(TRANS)_	
+18	_(TRANS)_	
+19	_(TRANS)_	
+20	Missing Text 20	
+21	_(TRANS)_	
+22	_(TRANS)_	
+23	Missing Text 23	
+24	_(TRANS)_	
+25	_(TRANS)_	
+26	_(TRANS)_	
+27	_(TRANS)_	
+28	_(TRANS)_	What should we do with the Archibald statue and the release method?
+29	_(TRANS)_	
+30	_(TRANS)_	
+31	_(TRANS)_	
+32	_(TRANS)_	
+33	_(TRANS)_	
+34	_(TRANS)_	
+35	_(TRANS)_	
+36	_(TRANS)_	
+37	_(TRANS)_	
+38	_(TRANS)_	
+39	_(TRANS)_	
+40	_(TRANS)_	
+41	_(TRANS)_	
+42	_(TRANS)_	
+43	_(TRANS)_	
+44	Put Text Here 44	Shrine event
+45	_(TRANS)_	
+46	_(TRANS)_	
+47	_(TRANS)_	
+48	_(TRANS)_	
+49	_(TRANS)_	
+50	Put Text Here 50	Shrine event
+51	_(TRANS)_	
+52	_(TRANS)_	
+53	_(TRANS)_	Telepathy
+54	_(TRANS)_	
+55	_(TRANS)_	
+56	_(TRANS)_	
+57	Put Text Here 57	Fountain event
+58	_(TRANS)_	
+59	_(TRANS)_	
+60	_(TRANS)_	
+61	_(TRANS)_	
+62	_(TRANS)_	
+63	Put Text Here 63	Mini-dungeon event
+64	_(TRANS)_	
+65	_(TRANS)_	
+66	_(TRANS)_	
+67	_(TRANS)_	
+68	_(TRANS)_	
+69	_(TRANS)_	
+70	_(TRANS)_	
+71	_(TRANS)_	
+72	_(TRANS)_	
+73	_(TRANS)_	
+74	_(TRANS)_	
+75	Put Text Here 75	Memory Crystal event
+76	_(TRANS)_	
+77	_(TRANS)_	
+78	_(TRANS)_	
+79	_(TRANS)_	
+80	_(TRANS)_	
+81	_(TRANS)_	
+82	_(TRANS)_	
+83	_(TRANS)_	
+84	_(TRANS)_	
+85	_(TRANS)_	
+86	_(TRANS)_	
+87	_(TRANS)_	
+88	_(TRANS)_	
+89	_(TRANS)_	
+90	_(TRANS)_	
+91	_(TRANS)_	
+92	_(TRANS)_	
+93	_(TRANS)_	
+94	_(TRANS)_	
+95	_(TRANS)_	
+96	_(TRANS)_	
+97	_(TRANS)_	
+98	_(TRANS)_	
+99	_(TRANS)_	
+100	_(TRANS)_	
+101	_(TRANS)_	
+102	_(TRANS)_	
+103	_(TRANS)_	
+104	_(TRANS)_	
+105	_(TRANS)_	
+106	_(TRANS)_	
+107	_(TRANS)_	
+108	_(TRANS)_	
+109	_(TRANS)_	
+110	_(TRANS)_	
+111	_(TRANS)_	
+112	_(TRANS)_	
+113	_(TRANS)_	
+114	_(TRANS)_	
+115	_(TRANS)_	
+116	_(TRANS)_	
+117	_(TRANS)_	
+118	_(TRANS)_	
+119	_(TRANS)_	
+120	_(TRANS)_	
+121	_(TRANS)_	
+122	_(TRANS)_	
+123	_(TRANS)_	
+124	_(TRANS)_	
+125	_(TRANS)_	
+126	_(TRANS)_	
+127	_(TRANS)_	
+128	_(TRANS)_	
+129	_(TRANS)_	
+130	_(TRANS)_	
+131	_(TRANS)_	
+132	_(TRANS)_	
+133	_(TRANS)_	
+134	_(TRANS)_	
+135	_(TRANS)_	
+136	_(TRANS)_	
+137	_(TRANS)_	
+138	_(TRANS)_	
+139	_(TRANS)_	
+140	_(TRANS)_	
+141	_(TRANS)_	
+142	_(TRANS)_	
+143	_(TRANS)_	
+144	_(TRANS)_	
+145	_(TRANS)_	
+146	_(TRANS)_	
+147	_(TRANS)_	
+148	_(TRANS)_	
+149	_(TRANS)_	
+150	_(TRANS)_	
+151	_(TRANS)_	
+152	_(TRANS)_	
+153	_(TRANS)_	
+154	_(TRANS)_	
+155	_(TRANS)_	
+156	_(TRANS)_	
+157	_(TRANS)_	
+158	_(TRANS)_	
+159	_(TRANS)_	
+160	_(TRANS)_	
+161	_(TRANS)_	
+162	_(TRANS)_	
+163	_(TRANS)_	
+164	_(TRANS)_	
+165	_(TRANS)_	
+166	_(TRANS)_	
+167	_(TRANS)_	
+168	_(TRANS)_	
+169	_(TRANS)_	
+170	_(TRANS)_	
+171	_(TRANS)_	
+172	_(TRANS)_	
+173	_(TRANS)_	
+174	_(TRANS)_	
+175	_(TRANS)_	
+176	_(TRANS)_	
+177	_(TRANS)_	
+178	_(TRANS)_	
+179	_(TRANS)_	
+180	_(TRANS)_	
+181	_(TRANS)_	
+182	_(TRANS)_	
+183	_(TRANS)_	
+184	_(TRANS)_	
+185	_(TRANS)_	
+186	_(TRANS)_	
+187	_(TRANS)_	
+188	_(TRANS)_	
+189	_(TRANS)_	
+190	_(TRANS)_	
+191	_(TRANS)_	
+192	_(TRANS)_	
+193	_(TRANS)_	
+194	_(TRANS)_	
+195	_(TRANS)_	
+196	_(TRANS)_	
+197	_(TRANS)_	
+198	_(TRANS)_	
+199	_(TRANS)_	
+200	_(TRANS)_	Expert staff training
+201	_(TRANS)_	Master staff training
+202	_(TRANS)_	Expert sword training
+203	_(TRANS)_	Master sword training
+204	_(TRANS)_	Expert dagger training
+205	_(TRANS)_	Master dagger training
+206	_(TRANS)_	Expert Axe training
+207	_(TRANS)_	Master axe training
+208	_(TRANS)_	Expert spear training
+209	_(TRANS)_	Master spear training
+210	_(TRANS)_	Expert bow training
+211	_(TRANS)_	Master bow training
+212	_(TRANS)_	Expert mace training
+213	_(TRANS)_	Master mace training
+214	_(TRANS)_	Expert blaster training
+215	_(TRANS)_	Master Blasters
+216	_(TRANS)_	Expert shield training
+217	_(TRANS)_	Master shield training
+218	_(TRANS)_	Expert leather training
+219	_(TRANS)_	Master leather training
+220	_(TRANS)_	Expert chain armor training
+221	_(TRANS)_	Master chain armor training
+222	_(TRANS)_	Expert plate armor training
+223	_(TRANS)_	Master plate armor training
+224	_(TRANS)_	Expert Fire magic training
+225	_(TRANS)_	Master Fire magic training
+226	_(TRANS)_	Expert Air magic training
+227	_(TRANS)_	Master Air magic training
+228	_(TRANS)_	Expert water magic training
+229	_(TRANS)_	Master water magic training
+230	_(TRANS)_	Expert earth magic training
+231	_(TRANS)_	Master earth magic training
+232	_(TRANS)_	Expert spirit magic training
+233	_(TRANS)_	Master spirit magic training
+234	_(TRANS)_	Expert mind magic training
+235	_(TRANS)_	Master mind magic training
+236	_(TRANS)_	Expert body magic training
+237	_(TRANS)_	Master body magic training
+238	_(TRANS)_	Expert light magic training
+239	_(TRANS)_	Master light magic training
+240	_(TRANS)_	Expert dark magic training
+241	_(TRANS)_	Master dark magic training
+242	_(TRANS)_	Expert identify item training
+243	_(TRANS)_	Master identify item training
+244	_(TRANS)_	Expert merchant training
+245	_(TRANS)_	Master merchant training
+246	_(TRANS)_	Expert repair training
+247	_(TRANS)_	Master repair training
+248	_(TRANS)_	Expert body building training
+249	_(TRANS)_	Master body building training
+250	_(TRANS)_	Expert meditation training
+251	_(TRANS)_	Master meditation training
+252	_(TRANS)_	Expert perception training
+253	_(TRANS)_	Master perception training
+254	_(TRANS)_	Expert diplomacy training
+255	_(TRANS)_	Master diplomacy training
+256	_(TRANS)_	Expert disarm traps training
+257	_(TRANS)_	Master disarm traps training
+258	_(TRANS)_	Expert learning training
+259	_(TRANS)_	Master learning training
+260	_(TRANS)_	Location of Staff Master Teacher
+261	_(TRANS)_	Location of Sword Master Teacher
+262	_(TRANS)_	Location of Dagger Master Teacher
+263	_(TRANS)_	Location of Axe Master Teacher
+264	_(TRANS)_	Location of Spear Master Teacher
+265	_(TRANS)_	Location of Bow Master Teacher
+266	_(TRANS)_	Location of Mace Master Teacher
+267	_(TRANS)_	Location of Blaster Master Teacher
+268	_(TRANS)_	Location of Shield Master Teacher
+269	_(TRANS)_	Location of Leather Master Teacher
+270	_(TRANS)_	Location of Chain Master Teacher
+271	_(TRANS)_	Location of Plate Master Teacher
+272	_(TRANS)_	Location of Fire Master Teacher
+273	_(TRANS)_	Location of Air Master Teacher
+274	_(TRANS)_	Location of Water Master Teacher
+275	_(TRANS)_	Location of Earth Master Teacher
+276	_(TRANS)_	Location of Spirit Master Teacher
+277	_(TRANS)_	Location of Mind Master Teacher
+278	_(TRANS)_	Location of Body Master Teacher
+279	_(TRANS)_	Location of Light Master Teacher
+280	_(TRANS)_	Location of Dark Master Teacher
+281	_(TRANS)_	Location of Identify Master Teacher
+282	_(TRANS)_	Location of Merchant Master Teacher
+283	_(TRANS)_	Location of Repair Master Teacher
+284	_(TRANS)_	Location of Body Building Master Teacher
+285	_(TRANS)_	Location of Meditation Master Teacher
+286	_(TRANS)_	Location of Perception Master Teacher
+287	_(TRANS)_	Location of Diplomacy Master Teacher
+288	_(TRANS)_	Location of Disarm Master Teacher
+289	_(TRANS)_	Location of Learning Master Teacher
+290	_(TRANS)_	
+291	_(TRANS)_	
+292	_(TRANS)_	
+293	_(TRANS)_	
+294	_(TRANS)_	
+295	_(TRANS)_	
+296	_(TRANS)_	
+297	_(TRANS)_	
+298	_(TRANS)_	
+299	_(TRANS)_	
+300	_(TRANS)_	
+301	_(TRANS)_	
+302	_(TRANS)_	
+303	_(TRANS)_	
+304	_(TRANS)_	
+305	_(TRANS)_	
+306	_(TRANS)_	
+307	Put Text Here 307	
+308	_(TRANS)_	
+309	_(TRANS)_	
+310	_(TRANS)_	
+311	_(TRANS)_	
+312	_(TRANS)_	
+313	_(TRANS)_	
+314	_(TRANS)_	
+315	_(TRANS)_	
+316	_(TRANS)_	
+317	_(TRANS)_	
+318	_(TRANS)_	
+319	_(TRANS)_	
+320	_(TRANS)_	
+321	_(TRANS)_	
+322	_(TRANS)_	
+323	_(TRANS)_	
+324	_(TRANS)_	
+325	_(TRANS)_	
+326	_(TRANS)_	
+327	_(TRANS)_	
+328	_(TRANS)_	
+329	_(TRANS)_	
+330	_(TRANS)_	
+331	_(TRANS)_	
+332	_(TRANS)_	
+333	_(TRANS)_	
+334	_(TRANS)_	
+335	_(TRANS)_	
+336	_(TRANS)_	
+337	_(TRANS)_	
+338	_(TRANS)_	
+339	_(TRANS)_	
+340	_(TRANS)_	
+341	_(TRANS)_	
+342	_(TRANS)_	
+343	Put Text Here 343	
+344	Put Text Here 344	
+345	Put Text Here 345	
+346	Put Text Here 346	
+347	_(TRANS)_	
+348	_(TRANS)_	
+349	_(TRANS)_	
+350	_(TRANS)_	
+351	_(TRANS)_	
+352	_(TRANS)_	
+353	_(TRANS)_	
+354	_(TRANS)_	
+355	_(TRANS)_	
+356	_(TRANS)_	
+357	_(TRANS)_	
+358	_(TRANS)_	
+359	_(TRANS)_	
+360	_(TRANS)_	
+361	Put Text Here 361	
+362	_(TRANS)_	
+363	_(TRANS)_	
+364	_(TRANS)_	
+365	_(TRANS)_	
+366	_(TRANS)_	
+367	Put Text Here 367	
+368	Put Text Here 368	
+369	Put Text Here 369	
+370	Put Text Here 370	
+371	Put Text Here 371	
+372	Put Text Here 372	
+373	Put Text Here 373	
+374	Put Text Here 374	
+375	_(TRANS)_	
+376	_(TRANS)_	
+377	_(TRANS)_	
+378	_(TRANS)_	
+379	_(TRANS)_	
+380	_(TRANS)_	
+381	_(TRANS)_	
+382	_(TRANS)_	
+383	_(TRANS)_	
+384	_(TRANS)_	
+385	_(TRANS)_	
+386	_(TRANS)_	
+387	_(TRANS)_	
+388	_(TRANS)_	
+389	_(TRANS)_	
+390	_(TRANS)_	
+391	_(TRANS)_	
+392	_(TRANS)_	
+393	_(TRANS)_	
+394	_(TRANS)_	
+395	_(TRANS)_	
+396	_(TRANS)_	
+397	_(TRANS)_	
+398	_(TRANS)_	
+399	_(TRANS)_	
+400	_(TRANS)_	
+401	_(TRANS)_	
+402	_(TRANS)_	
+403	_(TRANS)_	
+404	_(TRANS)_	
+405	_(TRANS)_	
+406	_(TRANS)_	
+407	_(TRANS)_	
+408	_(TRANS)_	
+409		
+410	_(TRANS)_	
+411	_(TRANS)_	
+412	_(TRANS)_	
+413	_(TRANS)_	
+414	_(TRANS)_	
+415	_(TRANS)_	
+416	_(TRANS)_	
+417	_(TRANS)_	
+418	_(TRANS)_	
+419	_(TRANS)_	
+420	_(TRANS)_	
+421	_(TRANS)_	
+422	_(TRANS)_	
+423	_(TRANS)_	
+424	_(TRANS)_	
+425	_(TRANS)_	
+426	_(TRANS)_	
+427	_(TRANS)_	
+428	_(TRANS)_	
+429	_(TRANS)_	
+430	_(TRANS)_	
+431	_(TRANS)_	
+432	_(TRANS)_	
+433	_(TRANS)_	
+434	_(TRANS)_	
+435	_(TRANS)_	
+436	_(TRANS)_	
+437	_(TRANS)_	
+438	_(TRANS)_	
+439	_(TRANS)_	
+440	_(TRANS)_	
+441	_(TRANS)_	
+442	_(TRANS)_	
+443	_(TRANS)_	
+444	_(TRANS)_	
+445	_(TRANS)_	
+446	_(TRANS)_	
+447	_(TRANS)_	
+448	_(TRANS)_	
+449	_(TRANS)_	
+450	_(TRANS)_	
+451	_(TRANS)_	
+452	_(TRANS)_	
+453	_(TRANS)_	
+454	_(TRANS)_	
+455	_(TRANS)_	
+456	_(TRANS)_	
+457	_(TRANS)_	
+458		
+459		
+460		
+461		
+462		
+463		
+464		
+465		
+466		
+467		
+468		
+469		
+470		
+471		
+472		
+473		
+474		
+475		
+476		
+477		
+478		
+479		
+480		
+481		
+482		
+483		
+484		
+485		
+486		
+487		
+488		
+489		
+490		
+491		
+492		
+493		
+494		
+495		
+496		
+497		
+498		
+499		
+500		
+501	_(TRANS)_	I do not believe these topics are currently being used.
+502	_(TRANS)_	I do not believe these topics are currently being used.
+503	_(TRANS)_	I do not believe these topics are currently being used.
+504	_(TRANS)_	I do not believe these topics are currently being used.
+505	_(TRANS)_	I do not believe these topics are currently being used.
+506	_(TRANS)_	I do not believe these topics are currently being used.
+507	_(TRANS)_	I do not believe these topics are currently being used.
+508	_(TRANS)_	I do not believe these topics are currently being used.
+509	_(TRANS)_	I do not believe these topics are currently being used.
+510	_(TRANS)_	I do not believe these topics are currently being used.
+511	_(TRANS)_	I do not believe these topics are currently being used.
+512	_(TRANS)_	I do not believe these topics are currently being used.
+513	_(TRANS)_	I do not believe these topics are currently being used.
+514	_(TRANS)_	I do not believe these topics are currently being used.
+515	_(TRANS)_	I do not believe these topics are currently being used.
+516	_(TRANS)_	I do not believe these topics are currently being used.
+517	_(TRANS)_	I do not believe these topics are currently being used.
+518		
+519		
+520		
+521		
+522		
+523		
+524		
+525		

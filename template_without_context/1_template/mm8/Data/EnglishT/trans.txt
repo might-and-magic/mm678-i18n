@@ -1,0 +1,748 @@
+2D#	Transition Description	
+1	_(TRANS)_	"Vampire Crypt, 32"
+2	_(TRANS)_	"The Crypt of Korbu,37"
+3	_(TRANS)_	Tomb of Lord Brinnie 39
+4	_(TRANS)_	Passage Under Regna 44
+5	_(TRANS)_	Uplifted Library 51
+6	_(TRANS)_	Dark Dwarf Compound 52
+7		Arena 53
+8	_(TRANS)_	Ancient Troll Home 54
+9	_(TRANS)_	Grand Temple of Eep 55
+10	_(TRANS)_	Chapel of Eep 56
+11	_(TRANS)_	Church of Eep 57
+12	_(TRANS)_	Ilsingore's Cave 58
+13	_(TRANS)_	Yaardrake's Cave 59
+14	_(TRANS)_	Old Loeb's Cave 60
+15		
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160		
+161		
+162		
+163		
+164		
+165		
+166		
+167		
+168		
+169		
+170		
+171		
+172		
+173		
+174		
+175		
+176		
+177		
+178		
+179		
+180		
+181		
+182		
+183		
+184		
+185		
+186		
+187		
+188		
+189		
+190		
+191	_(TRANS)_	Abandoned Temple
+192	_(TRANS)_	Pirate Outpost
+193	_(TRANS)_	Smuggler's Cove
+194	_(TRANS)_	Dire Wolf Lair
+195	_(TRANS)_	Merchanthouse of Alvar
+196	_(TRANS)_	Inside the Crystal
+197	_(TRANS)_	Wasp Nest
+198	_(TRANS)_	Ogre Raiding Fort
+199	_(TRANS)_	Troll Tomb
+200	_(TRANS)_	Cyclops Larder
+201	_(TRANS)_	Chain of Fire
+202	_(TRANS)_	Dragon Hunter Camp
+203	_(TRANS)_	Dragon Cave
+204	_(TRANS)_	Naga Vault
+205	_(TRANS)_	Temple of the Sun
+206	_(TRANS)_	Abandoned Druid Circle
+207	_(TRANS)_	Minotaur Lair
+208	_(TRANS)_	Barbarian Fortress
+209	_(TRANS)_	Pirate Stronghold
+210	_(TRANS)_	Abandoned Pirate Keep
+211	_(TRANS)_	Hand-Cranked Submarine
+212	_(TRANS)_	Necromancers' Guild
+213	_(TRANS)_	Mad Necromancer's Lab
+214	_(TRANS)_	Castle of Air
+215	_(TRANS)_	Tribute Tomb
+216	_(TRANS)_	Castle of Fire
+217	_(TRANS)_	War Camp
+218	_(TRANS)_	Eschaton's Palace
+219	_(TRANS)_	Prison of the Lord of Air
+220	_(TRANS)_	Gateway to the Plane of Fire
+221	_(TRANS)_	Gateway to the Plane of Earth
+222	_(TRANS)_	Gateway to the Plane of Air
+223	_(TRANS)_	Gateway to the Plane of Water
+224	Placeholder Text	
+225	Placeholder Text	
+226	Placeholder Text	
+227	Placeholder Text	
+228	Placeholder Text	
+229	Placeholder Text	
+230	Placeholder Text	
+231	Placeholder Text	
+232	Placeholder Text	
+233	Placeholder Text	
+234	Placeholder Text	
+235	Placeholder Text	
+236	Placeholder Text	
+237	Placeholder Text	
+238	Placeholder Text	
+239	Placeholder Text	
+240	Placeholder Text	
+241	Placeholder Text	
+242	Placeholder Text	
+243	Placeholder Text	
+244	_(TRANS)_	Abandoned Temple
+245		
+246		
+247		
+248		
+249		
+250		
+251		
+252		
+253		
+254		
+255		
+256		
+257		
+258		
+259		
+260		
+261		
+262		
+263		
+264		
+265		
+266		
+267		
+268		
+269		
+270		
+271		
+272		
+273		
+274		
+275		
+276		
+277		
+278		
+279		
+280		
+281		
+282		
+283		
+284		
+285		
+286		
+287		
+288		
+289		
+290		
+291		
+292		
+293		
+294		
+295		
+296		
+297		
+298		
+299		
+300		
+301		
+302		
+303		
+304		
+305		
+306		
+307		
+308		
+309		
+310		
+311		
+312		
+313		
+314		
+315		
+316		
+317		
+318		
+319		
+320		
+321		
+322		
+323		
+324		
+325		
+326		
+327		
+328		
+329		
+330		
+331		
+332		
+333		
+334		
+335		
+336		
+337		
+338		
+339		
+340		
+341		
+342		
+343		
+344		
+345		
+346		
+347		
+348		
+349		
+350		
+351		
+352		
+353		
+354		
+355		
+356		
+357		
+358		
+359		
+360		
+361		
+362		
+363		
+364		
+365		
+366		
+367		
+368		
+369		
+370		
+371		
+372		
+373		
+374		
+375		
+376		
+377		
+378		
+379		
+380		
+381		
+382		
+383		
+384		
+385		
+386		
+387		
+388		
+389		
+390		
+391		
+392		
+393		
+394		
+395		
+396		
+397		
+398		
+399		
+400		
+401		
+402		
+403		
+404		
+405		
+406		
+407		
+408		
+409		
+410		
+411		
+412		
+413		
+414		
+415		
+416		
+417		
+418		
+419		
+420		
+421		
+422		
+423		
+424		
+425		
+426		
+427		
+428		
+429		
+430		
+431		
+432		
+433		
+434		
+435		
+436		
+437		
+438		
+439		
+440		
+441		
+442		
+443		
+444		
+445		
+446		
+447		
+448		
+449	Placeholder Text	
+450	Placeholder Text	
+451	Placeholder Text	
+452	Placeholder Text	
+453	Placeholder Text	
+454	_(TRANS)_	Prison of the Lord of Earth
+455	_(TRANS)_	Prison of the Lord of Fire
+456	_(TRANS)_	Prison of the Lord of Water
+457	Placeholder Text	
+458	Placeholder Text	
+459	Placeholder Text	
+460	Placeholder Text	
+461	Placeholder Text	
+462	Placeholder Text	
+463	Placeholder Text	
+464	Placeholder Text	
+465	Placeholder Text	
+466	Placeholder Text	
+467	Placeholder Text	
+468	Placeholder Text	
+469	Placeholder Text	
+470	Placeholder Text	
+471	Placeholder Text	
+472	Placeholder Text	
+473	Placeholder Text	
+474	Placeholder Text	
+475	Placeholder Text	
+476	Placeholder Text	
+477	Placeholder Text	
+478	Placeholder Text	
+479	Placeholder Text	
+480	Placeholder Text	
+481	Placeholder Text	
+482	Placeholder Text	
+483	Placeholder Text	
+484	Placeholder Text	
+485	Placeholder Text	
+486	Placeholder Text	
+487	Placeholder Text	
+488	Placeholder Text	
+489	Placeholder Text	
+490	Placeholder Text	
+491	Placeholder Text	
+492	Placeholder Text	
+493	Placeholder Text	
+494	Placeholder Text	
+495	Placeholder Text	
+496	Placeholder Text	
+497	Placeholder Text	
+498	Placeholder Text	
+499	_(TRANS)_	New Entrance to Balthazar Lair
+500	_(TRANS)_	Backdoor to the Abandoned Temple
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

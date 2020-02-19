@@ -1,0 +1,87 @@
+Item#	message text	 dungeon #	Notes
+500	_(TRANS)_	D1	"""III = 16 & IV = 4""  part of the button combos written in notation simular to other in dungeon."
+501	_(TRANS)_	T6	"""Die Intruder!""  Scroll part of a trap in chest."
+502	_(TRANS)_	T7	Smoking Gun
+503	_(TRANS)_	D7	Item need to complete the constable quest.  Proof the Silver Helm's are bribing the mayor.
+504	_(TRANS)_	D6	Proof the thief's in D3 are part of the Shadow Guild and are performing unregulated activies.
+505	_(TRANS)_	1	The sixth letter
+506	_(TRANS)_	Mini-dungeon	Devil plans for completion of the Osric Temper Satisfy the Council Quest.
+507	_(TRANS)_	T4	Monk exposition about the Church of the Sun
+508	_(TRANS)_	D16	History of the Warlord and possible tie-in with Osric Temper
+509	_(TRANS)_	T6	Devil /Baa tie-in for the really dense people
+510	_(TRANS)_	D13	Cedric Druthers and Celestial Order info
+511	_(TRANS)_	D13	hint on trees and rocks opening the doors
+512	_(TRANS)_	D5	Dwarf history
+513	_(TRANS)_	D3	Shadow Guild exposition
+514	Message Scroll Text. 514		
+515	_(TRANS)_	D12	Letter to brother in d18 or maybe Baa
+516	_(TRANS)_	D8	Shadow Guild exposition
+517	Message Scroll Text. 517		
+518	_(TRANS)_	D20	What is the point of this dungeon?
+519	_(TRANS)_	D19	Agar exposition
+520	_(TRANS)_	D15	hint for throne switch
+521	_(TRANS)_	D15	exposition for human/ogre alliance
+522	_(TRANS)_	T2	Letter from Baa to Order of the Fist about crystal
+523	_(TRANS)_	D2	Baa exposition
+524	Message Scroll Text. 524		
+525	_(TRANS)_	D9	More dwarf exposition
+526	Message Scroll Text. 526		
+527	_(TRANS)_	D11	Corlagon and the crystal exposition
+528	_(TRANS)_	D18	Silver Helm brother's letter
+529	_(TRANS)_	D18	Gharik exposition
+530	_(TRANS)_	T5	Cedric Druthers and Celestial Order exposition
+531	_(TRANS)_	CD2	Letter from Archibald
+532	_(TRANS)_	CD2	Darkmoor exposition
+533	_(TRANS)_	D4	"Lord of fire to the south, faces will teleport you?"
+534	_(TRANS)_	CD3	Letter from Archibald
+535	_(TRANS)_	CD1	Letter from Archibald
+536	_(TRANS)_	D8 Spiral	Spiral teleporter information
+537	_(TRANS)_	Pyramid	Well room
+538	_(TRANS)_	Pyramid	Well room
+539	_(TRANS)_	Pyramid	Well room
+540	_(TRANS)_	Pyramid	Well room
+541	_(TRANS)_	Pyramid	Well room
+542	_(TRANS)_	Pyramid	Well room
+543	_(TRANS)_	D1	Description
+544	_(TRANS)_	D1	Description
+545	_(TRANS)_	D1	Description
+546	_(TRANS)_	D1	Description
+547		D1	Description
+548		D1	Description
+549		D1	Description
+550			
+551			
+552			
+553			
+554			
+555			
+556			
+557			
+558			
+559			
+560			
+561			
+562			
+563		
+564		
+565		
+566		
+567		
+568		
+569		
+570		
+571		
+572		
+573		
+574		
+575		
+576		
+577		
+578		
+579			
+580			Ritual of Dark Containment
+581			
+			
+			
+			
+			

@@ -1,0 +1,84 @@
+Special Bonuses by Group																			
+
+Bonus Stat	Name Add	W1	W2	Miss	Arm	Shld	Helm	Belt	Cape	Gaunt	Boot	Ring	Amul	Value	Lvl	Description fo special Bonuses and values			
+
+_(TRANS)_	_(TRANS)_	0	0	0	10	10	10	0	10	0	0	10	10	1000	B	(+10) on all four resistances			
+_(TRANS)_	_(TRANS)_	5	5	5	10	10	10	10	10	10	10	10	10	3000	D	(+10) on all 7 stats			
+_(TRANS)_	_(TRANS)_	0	0	10	0	0	0	0	0	0	0	0	0	5000	D	"projectile explodes (fireball radius,dmg=weapdmg)"			
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(3-4) cold damage			
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(6-8) cold damage			
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(9-12) cold damage			
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(2-5) elec damage			
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(4-10) elec damage			
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(6-15) elec damage			
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(1-6) fire damage			
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(2-12) fire damage			
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(3-18) fire damage			
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	500	A	(5) pois damage
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	1000	C	(8) pois damage
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	2000	D	(12) pois damage
+_(TRANS)_	_(TRANS)_	5	5	5	0	0	0	0	0	0	0	0	0	X 2	D	Heal 20% of damage done on attack
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	200	B	(-10) pts on recovery from being hit
+_(TRANS)_	_(TRANS)_	0	0	0	10	10	10	10	10	0	0	10	10	1000	C	Immune to desease condition
+_(TRANS)_	_(TRANS)_	0	0	0	5	5	5	5	5	0	0	5	5	1000	C	immune to insanity condition
+_(TRANS)_	_(TRANS)_	0	0	0	10	10	10	10	10	0	0	10	10	2000	D	immune to paralize condition
+_(TRANS)_	_(TRANS)_	0	0	0	10	10	10	10	10	0	0	10	10	1000	C	immune to poison condition
+_(TRANS)_	_(TRANS)_	0	0	0	10	10	10	10	10	0	0	10	10	500	B	immune to sleep condition
+_(TRANS)_	_(TRANS)_	0	0	0	5	5	5	5	5	0	0	5	5	2000	D	immune to stone condition
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	500	A	Increase knockback effect (X10)
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	2500	D	(+5) char level
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	10	10	2000	D	50% increase of spell effect and duration
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	2000	B	double chance to perform lockpick and steal skill
+_(TRANS)_	_(TRANS)_	0	0	0	25	30	0	0	20	0	0	5	5	1000	B	(1/2)dmg from all missle attacks (not cumulative)
+_(TRANS)_	_(TRANS)_	0	0	0	10	0	0	10	10	0	0	10	10	1000	B	"Regenerate 1hp/x while walking, etc"
+_(TRANS)_	_(TRANS)_	0	0	0	10	0	10	10	10	10	0	10	10	1000	B	"Regenerate 1sp/x while walking, etc"
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	X 2	A	X 2 damage vs all demons
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	X 2	A	X 2 damage vs all dragons
+_(TRANS)_	_(TRANS)_	5	5	5	0	0	0	0	0	0	0	0	0	X 3	D	"(-20) pts on weapon speed, Vampiric"
+_(TRANS)_	_(TRANS)_	10	10	10	10	10	10	10	10	10	10	10	10	750	B	"(+1) 7stats,hpts,spts,AC,4 resistances"
+_(TRANS)_	_(TRANS)_	10	10	10	10	10	10	10	10	10	10	10	10	2000	D	"End (+10), AC (+10), HP (+10)"
+_(TRANS)_	_(TRANS)_	0	0	0	10	10	10	10	10	10	10	10	10	2000	D	"HP (+10), Regen hpts"
+_(TRANS)_	_(TRANS)_	10	10	10	5	5	5	10	20	20	20	10	10	500	A	"Speed (+5), Acc (+5)"
+_(TRANS)_	_(TRANS)_	10	10	10	0	0	0	0	0	0	0	0	0	3000	D	"(10-20) Fire damage, Might (+25)"
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	10	10	5	10	10	10	2000	D	"SP (+10), Regen spts"
+_(TRANS)_	_(TRANS)_	5	5	5	20	20	10	10	10	10	10	10	10	1500	C	"End (+15), AC (+5)"
+_(TRANS)_	_(TRANS)_	5	5	5	10	10	20	10	10	10	10	10	10	1000	C	"Luck (+10), Int (+10)"
+_(TRANS)_	_(TRANS)_	0	0	0	20	20	20	0	0	0	0	0	0	3000	D	"Fire Res (+30), Regen hpts"
+_(TRANS)_	_(TRANS)_	5	5	5	10	10	20	10	10	10	10	10	10	2500	D	"Int (+10), Spd (+10), SP (+10)"
+_(TRANS)_	_(TRANS)_	5	5	5	10	10	10	10	20	20	10	10	10	1000	C	"End (+10), Acc (+10)"
+_(TRANS)_	_(TRANS)_	5	5	5	10	10	10	10	20	20	10	10	10	1000	C	"Might(+10), Per (+10)"
+_(TRANS)_	_(TRANS)_	5	5	5	20	20	10	10	10	10	10	10	10	1500	C	"End (+15), Regen hpts"
+_(TRANS)_	_(TRANS)_	5	5	5	10	10	20	10	10	10	10	10	10	1500	C	"Luck (+15), Regen spts"
+_(TRANS)_	_(TRANS)_	5	5	5	10	10	10	10	10	10	10	10	10	500	A	"Might (+5), End (+5)"
+_(TRANS)_	_(TRANS)_	5	5	5	5	5	5	10	10	10	10	10	10	500	A	"Intelect (+5), Per (+5)"
+_(TRANS)_	_(TRANS)_	10	10	10	10	10	10	0	0	10	0	10	10	X 10	B	Gold value increased
+_(TRANS)_	_(TRANS)_	25	25	25	0	0	0	0	0	0	0	0	0	X 2	B	(-20) pts on weapon speed
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	10	5	15	10	5	5	1500	C	+3 to Dodging and Unarmed skill
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	5	5	20	5	15	5	1500	B	+3 to Stealing and Disarm skill
+_(TRANS)_	_(TRANS)_	0	0	0	0	0	0	5	5	0	5	10	15	1500	A	+3 to ID Monster and ID Item skill
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	x2	A	"x2 damage on all Elf Archers, Elf Spearmen, Elf peasants (male and female)."
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	x2	B	"x2 damage on Liches, Vampires, Zombies, Skeletons, Ghosts, and Wights"
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	x2	A	x2 damage on all Titans
+_(TRANS)_	_(TRANS)_	0	0	0	10	0	5	10	10	5	0	10	10	2500	C	"Regenerate 1 hp/x and 1 sp/x while walking, etc."
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	1000	B	(5) pois damage and +2 Disarm skill
+_(TRANS)_	_(TRANS)_	20	20	20	0	0	0	0	0	0	0	0	0	1500	C	(6-8) cold damage and +5 AC
+_(TRANS)_	_(TRANS)_	0	0	0	20	20	20	0	0	0	0	0	0	1500	C	+20 Air Resistance and 1/2 damage from missile attacks
+_(TRANS)_	_(TRANS)_	0	0	0	20	20	20	0	0	0	0	0	0	1000	B	+10 Water Resistance and +2 Alchemy skill
+_(TRANS)_	_(TRANS)_	0	0	0	5	5	5	5	5	0	15	5	5	1500	C	Character with item takes no damage from drowning
+_(TRANS)_	_(TRANS)_	0	0	0	5	0	0	5	5	0	5	15	5	1000	B	Character with item takes no damage from falling
+
+		515	515	525	345	315	310	260	315	235	200	395	380			
+
+Treasure Level	If treasure Level = 3 add all A and B															
+A= 3 to 4	If treasure Level = 4 add all A and B and C
+B= 3 to 5	If treasure Level = 5 add al B and C and D
+C= 4 to 5	If treasure Level = 6 add all D
+D= 5 to 6	

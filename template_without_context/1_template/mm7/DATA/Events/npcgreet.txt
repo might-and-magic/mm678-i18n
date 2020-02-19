@@ -1,0 +1,209 @@
+#	Greeting 1	Greeting 2	Notes	Owner
+1	_(TRANS)_	_(TRANS)_		Markham
+2	_(TRANS)_	_(TRANS)_		Judge
+3	_(TRANS)_	_(TRANS)_		Docent
+4	_(TRANS)_	_(TRANS)_		Bard
+5	_(TRANS)_	_(TRANS)_		Sally
+6	_(TRANS)_	_(TRANS)_		Malwick
+7	_(TRANS)_	_(TRANS)_		Malwick
+8	_(TRANS)_	_(TRANS)_		Sal
+9	_(TRANS)_	_(TRANS)_		Malwick
+10	_(TRANS)_	_(TRANS)_		Brent
+11	_(TRANS)_	_(TRANS)_		Elemental Guild Membership
+12	_(TRANS)_	_(TRANS)_		Self Guild Membership
+13	_(TRANS)_	_(TRANS)_		
+14	_(TRANS)_	_(TRANS)_		Donna
+15	_(TRANS)_	_(TRANS)_		Grant
+16	_(TRANS)_	_(TRANS)_		Mia
+17	_(TRANS)_	_(TRANS)_		School of Sorcery Guard
+18	_(TRANS)_	_(TRANS)_	Welcome Sign	Docent cheat
+19	_(TRANS)_	_(TRANS)_	Blacksmith	Docent cheat
+20	_(TRANS)_	_(TRANS)_	Tavern	Docent cheat
+21	_(TRANS)_	_(TRANS)_	Armor Shop	Docent cheat
+22	_(TRANS)_	_(TRANS)_	Carolyn's place	Docent cheat
+23	_(TRANS)_	_(TRANS)_	Roger's house	Docent cheat
+24	_(TRANS)_	_(TRANS)_	Training grounds	Docent cheat
+25	_(TRANS)_	_(TRANS)_	Healer's tent	Docent cheat
+26	_(TRANS)_	_(TRANS)_	Well of Fire Resistance	Docent cheat
+27	_(TRANS)_	_(TRANS)_	Markham's headquarters	Docent cheat
+28	_(TRANS)_	_(TRANS)_	Spirit Guild	Docent cheat
+29	_(TRANS)_	_(TRANS)_	Air Guild	Docent cheat
+30	_(TRANS)_	_(TRANS)_	Alchemist	Docent cheat
+31	_(TRANS)_	_(TRANS)_	Body Guild	Docent cheat
+32	_(TRANS)_	_(TRANS)_	Magic Shop	Docent cheat
+33	_(TRANS)_	_(TRANS)_	Fire Guild	Docent cheat
+34	_(TRANS)_	_(TRANS)_	Dragonflies	Docent cheat
+35	_(TRANS)_	_(TRANS)_	Fire Dragon Cave	Docent cheat
+36	_(TRANS)_	_(TRANS)_	Temple of the Moon	Docent cheat
+37	_(TRANS)_	_(TRANS)_	Normal	William Lasker
+38	_(TRANS)_	_(TRANS)_	Killed Thieves	William Lasker
+39	_(TRANS)_	_(TRANS)_	Spy	William Lasker
+40	_(TRANS)_	_(TRANS)_	Tea no (normal)	Seknit Undershadow
+41	_(TRANS)_	_(TRANS)_	Tea yes	Seknit Undershadow
+42	_(TRANS)_	_(TRANS)_	Assassin	Seknit Undershadow
+43	_(TRANS)_	_(TRANS)_	Normal	Sir Charles Quixote
+44	_(TRANS)_	_(TRANS)_	Crusader Quest	Sir Charles Quixote
+45	_(TRANS)_	_(TRANS)_	Hero Quest	Sir Charles Quixote
+46	_(TRANS)_	_(TRANS)_	Hero	Sir Charles Quixote
+47	_(TRANS)_	_(TRANS)_	Good	Alice Hargreaves
+48	_(TRANS)_	_(TRANS)_	Evil	Alice Hargreaves
+49	_(TRANS)_	_(TRANS)_	Normal	William Setag
+50	_(TRANS)_	_(TRANS)_	Villain	William Setag
+51	_(TRANS)_	_(TRANS)_	Normal	Bartholomew Hume
+52	_(TRANS)_	_(TRANS)_	Master	Bartholomew Hume
+53	_(TRANS)_	_(TRANS)_	Dungeon event greeting	Bartholomew Hume
+54	_(TRANS)_	_(TRANS)_	Normal	Stephan Sand
+55	_(TRANS)_	_(TRANS)_	Ninja	Stephan Sand
+56	_(TRANS)_	_(TRANS)_	Normal	Lawrence Mark
+57	_(TRANS)_	_(TRANS)_	Master Archer	Lawrence Mark
+58	_(TRANS)_	_(TRANS)_	Normal	Steagal Snick
+59	_(TRANS)_	_(TRANS)_	Sniper	Steagal Snick
+60	_(TRANS)_	_(TRANS)_	Normal	Leda Rowan
+61	_(TRANS)_	_(TRANS)_	Champion	Leda Rowan
+62	_(TRANS)_	_(TRANS)_	Normal	Frederick Og
+63	_(TRANS)_	_(TRANS)_	Black Knight	Frederick Og
+64	_(TRANS)_	_(TRANS)_	Normal	Lysander Sweet
+65	_(TRANS)_	_(TRANS)_	Ranger Lord	Lysander Sweet
+66	_(TRANS)_	_(TRANS)_	Normal	Ebednezer Sour
+67	_(TRANS)_	_(TRANS)_	Bounty Hunter	Ebednezer Sour
+68	_(TRANS)_	_(TRANS)_	Normal	Faerie King
+69	_(TRANS)_	_(TRANS)_	Normal	Oldest Tree
+70	_(TRANS)_	_(TRANS)_	On the Ranger Lord quest	Oldest Tree
+71	_(TRANS)_	_(TRANS)_	Finished the Heart quest	Oldest Tree
+72	_(TRANS)_	_(TRANS)_	Normal	Rebecca Devine
+73	_(TRANS)_	_(TRANS)_	Priest of Light	Rebecca Devine
+74	_(TRANS)_	_(TRANS)_	Normal	Daedalus Falk
+75	_(TRANS)_	_(TRANS)_	Priest of Dark	Daedalus Falk
+76	_(TRANS)_	_(TRANS)_	Normal	Thomas Grey
+77	_(TRANS)_	_(TRANS)_	Archmage	Thomas Grey
+78	_(TRANS)_	_(TRANS)_	Normal	Halfgild Wynac
+79	_(TRANS)_	_(TRANS)_	Lich	Halfgild Wynac
+80	_(TRANS)_	_(TRANS)_	Normal	Anthony Green
+81	_(TRANS)_	_(TRANS)_	Arch Druid	Anthony Green
+82	_(TRANS)_	_(TRANS)_	Normal	Tor Anwyn
+83	_(TRANS)_	_(TRANS)_	Warlock	Tor Anwyn
+84	_(TRANS)_	_(TRANS)_	Possible Golem explanation	Golem
+85	_(TRANS)_	_(TRANS)_	Kill the goblins	Butler
+86	_(TRANS)_	_(TRANS)_	Goblins are killed	Butler
+87	_(TRANS)_	_(TRANS)_	Normal	Dwarf King
+88	_(TRANS)_	_(TRANS)_	Rescued all the dwarves	Dwarf King
+89	_(TRANS)_	_(TRANS)_	Normal	Dwarf Engineer
+90	_(TRANS)_	_(TRANS)_	Normal	Dwarf Prisoner
+91	_(TRANS)_	_(TRANS)_	Normal	Ellen Rockway
+92	_(TRANS)_	_(TRANS)_	Normal	Alain Hani
+93	_(TRANS)_	_(TRANS)_	Normal	Queen Catherine
+94	_(TRANS)_	_(TRANS)_	Betrayed me	Queen Catherine
+95	_(TRANS)_	_(TRANS)_	Normal	ElfKing
+96	_(TRANS)_	_(TRANS)_	Betrayed me	ElfKing
+97	_(TRANS)_	_(TRANS)_	Artifact	Messenger
+98	_(TRANS)_	_(TRANS)_	Normal	Arbiter
+99	_(TRANS)_	_(TRANS)_	Normal	Wizard Ambassador
+100	_(TRANS)_	_(TRANS)_	Normal	Necro Ambassador
+101	_(TRANS)_	_(TRANS)_	Normal	Evil Arbiter
+102	_(TRANS)_	_(TRANS)_	Chosen	Evil Arbiter
+103	_(TRANS)_	_(TRANS)_	Installed	Evil Arbiter
+104	_(TRANS)_	_(TRANS)_	Normal	Good Arbiter
+105	_(TRANS)_	_(TRANS)_	Chosen	Good Arbiter
+106	_(TRANS)_	_(TRANS)_	Installed	Good Arbiter
+107	_(TRANS)_	_(TRANS)_	Normal	Gavin Magnus
+108	_(TRANS)_	_(TRANS)_	Finished Proving Ground	Gavin Magnus
+109	_(TRANS)_	_(TRANS)_	Finished all Good quests	Gavin Magnus
+110	_(TRANS)_	_(TRANS)_	No Proving Grounds	Resurectra
+111	_(TRANS)_	_(TRANS)_	Normal	Resurectra
+112	_(TRANS)_	_(TRANS)_	Completed Temple of Dark Mission	Resurectra
+113	_(TRANS)_	_(TRANS)_	Party Evil	Resurectra
+114	_(TRANS)_	_(TRANS)_	Normal	Crag Hack
+115	_(TRANS)_	_(TRANS)_	Completed Vampire Mission	Crag Hack
+116	_(TRANS)_	_(TRANS)_	Party Evil	Crag Hack
+117	_(TRANS)_	_(TRANS)_	Normal	Sir Caneghem
+118	_(TRANS)_	_(TRANS)_	Completed Soul Jars	Sir Caneghem
+119	_(TRANS)_	_(TRANS)_	Party Evil	Sir Caneghem
+120	_(TRANS)_	_(TRANS)_	Not finished with good	Robert the Wise
+121	_(TRANS)_	_(TRANS)_	Normal	Robert the Wise
+122	_(TRANS)_	_(TRANS)_	Not finished with Breeding Pit	Kastore
+123	_(TRANS)_	_(TRANS)_	Normal	Kastore
+124	_(TRANS)_	_(TRANS)_	Completed all Evil	Kastore
+125	_(TRANS)_	_(TRANS)_	Party Good	Kastore
+126	_(TRANS)_	_(TRANS)_	Normal	Maximus
+127	_(TRANS)_	_(TRANS)_	Completed Jars	Maximus
+128	_(TRANS)_	_(TRANS)_	Party Good	Maximus
+129	_(TRANS)_	_(TRANS)_	Normal	Dark Shade
+130	_(TRANS)_	_(TRANS)_	Completed Clanker	Dark Shade
+131	_(TRANS)_	_(TRANS)_	Party Good	Dark Shade
+132	_(TRANS)_	_(TRANS)_	Not finished with good	Tolberti
+133	_(TRANS)_	_(TRANS)_	Normal	Tolberti
+134	_(TRANS)_	_(TRANS)_	Normal	Archibald
+135	_(TRANS)_	_(TRANS)_	In Clanker's Lab	Archibald
+136	_(TRANS)_	_(TRANS)_	"Clanker's, Party Good"	Archibald
+137	_(TRANS)_	_(TRANS)_	Completed Breeding Pit	Archibald
+138	_(TRANS)_	_(TRANS)_	Fort Riverstride Guard	
+139	_(TRANS)_	_(TRANS)_	Watchtower 6 Guard	
+140	_(TRANS)_	_(TRANS)_	Temple of Light Guard	
+141	_(TRANS)_	_(TRANS)_	Temple of Dark Guard	
+142	_(TRANS)_	_(TRANS)_	Castle Gryphonheart Guard	
+143	_(TRANS)_	_(TRANS)_	Castle Navan Guard	
+144	_(TRANS)_	_(TRANS)_	Castle Lambent Guard	
+145	_(TRANS)_	_(TRANS)_	Castle Gloaming Guard	
+146	_(TRANS)_	_(TRANS)_	Eric-- School of Sorcery Receptionist	
+147	_(TRANS)_	_(TRANS)_	Loren Steel	
+148	_(TRANS)_	_(TRANS)_	Fake Loren Steel	
+149	_(TRANS)_	_(TRANS)_	Markham's House Guard	
+150	_(TRANS)_	_(TRANS)_		Messenger
+151	_(TRANS)_	_(TRANS)_		Withern
+152	_(TRANS)_	_(TRANS)_		Withern
+153	_(TRANS)_	_(TRANS)_		Haldar
+154	_(TRANS)_	_(TRANS)_		Haldar
+155	_(TRANS)_	_(TRANS)_		Davrick
+156	_(TRANS)_	_(TRANS)_		Davrick
+157	_(TRANS)_	_(TRANS)_		Norbert
+158	_(TRANS)_	_(TRANS)_		Norbert
+159	_(TRANS)_	_(TRANS)_		Johann
+160	_(TRANS)_	_(TRANS)_		Johann
+161	_(TRANS)_	_(TRANS)_		Messenger
+162	_(TRANS)_	_(TRANS)_		Niles Stantley
+163	_(TRANS)_	_(TRANS)_		Spark Burnkindle
+164	_(TRANS)_	_(TRANS)_		Spark Burnkindle
+165	_(TRANS)_	_(TRANS)_		Seth Drakkson
+166	_(TRANS)_	_(TRANS)_		Seth Drakkson
+167	_(TRANS)_	_(TRANS)_		Seth Drakkson
+168	_(TRANS)_	_(TRANS)_		Niles Stantley
+169	_(TRANS)_	_(TRANS)_		Baby Dragon
+170	_(TRANS)_	_(TRANS)_		Darron Temper
+171	_(TRANS)_	_(TRANS)_		Gary Zimm
+172	_(TRANS)_	_(TRANS)_		Roland
+173	_(TRANS)_	_(TRANS)_		Statuette First
+174	_(TRANS)_	_(TRANS)_		Statuette Finished
+175	_(TRANS)_	_(TRANS)_		Painting First
+176	_(TRANS)_	_(TRANS)_		Painting Finished
+177	_(TRANS)_	_(TRANS)_		Arcomage First
+178	_(TRANS)_	_(TRANS)_		Arcomage Finished
+179	_(TRANS)_	_(TRANS)_	Hint NPC In Bracada	
+180	_(TRANS)_	_(TRANS)_	Hint NPC In Celeste	
+181	_(TRANS)_	_(TRANS)_	Hint NPC In The Pit	
+182	_(TRANS)_	_(TRANS)_	Hint NPC In Nighon	
+183	_(TRANS)_	_(TRANS)_	Hint NPC in Barrow Downs	
+184	_(TRANS)_	_(TRANS)_	Hint NPC in Tatalia	
+185	_(TRANS)_	_(TRANS)_	Hint NPC in Avlee	
+186	_(TRANS)_	_(TRANS)_	Hint NPC in Stone City	
+187	_(TRANS)_	_(TRANS)_	Hint NPC in Harmondale	
+188	_(TRANS)_	_(TRANS)_	Hint NPC in Tularean Forest (4)	
+189	_(TRANS)_	_(TRANS)_	Hint NPC in Erathia (3)	
+190	_(TRANS)_	_(TRANS)_	Hint NPC in Deyja (5)	
+191	_(TRANS)_	_(TRANS)_	Ore for weapon	
+192	_(TRANS)_	_(TRANS)_	Ore for armor	
+193	_(TRANS)_	_(TRANS)_	Ore for misc	
+194	_(TRANS)_	_(TRANS)_	Ambush	
+195	_(TRANS)_	_(TRANS)_	Trading Triangle 1 1	
+196	_(TRANS)_	_(TRANS)_	Trading Triangle 1 2	
+197	_(TRANS)_	_(TRANS)_	Trading Triangle 1 3	
+198	_(TRANS)_	_(TRANS)_	Trading Triangle 2 1	
+199	_(TRANS)_	_(TRANS)_	Trading Triangle 2 2	
+200	_(TRANS)_	_(TRANS)_	Trading Triangle 2 3	
+201	_(TRANS)_	_(TRANS)_	"Archibald contacts party, and party is good (Roland quest)"	
+202	_(TRANS)_	_(TRANS)_	"Archibald contacts party, and party is evil (Roland quest)"	
+203	_(TRANS)_	_(TRANS)_	Guard Stone City	
+204	_(TRANS)_	_(TRANS)_	Goblin spy	
+205	_(TRANS)_	_(TRANS)_		
+			
+			
+			Hothfarr IX

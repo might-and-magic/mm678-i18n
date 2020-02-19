@@ -1,0 +1,87 @@
+Item#	message text	Location	Item Name
+700	_(TRANS)_	Rejuvenation	Empty Message Scroll
+701	_(TRANS)_	Pure Might	Empty Message Scroll
+702	_(TRANS)_	Pure Accuracy	Empty Message Scroll
+703	_(TRANS)_	Pure Personality	Empty Message Scroll
+704	_(TRANS)_	Pure Endurance	Empty Message Scroll
+705	_(TRANS)_	Pure Intellect	Empty Message Scroll
+706	_(TRANS)_	Pure Speed	Empty Message Scroll
+707	_(TRANS)_	Pure Luck	Empty Message Scroll
+708	_(TRANS)_	Slaying Potion	Empty Message Scroll
+709	_(TRANS)_	Stone To Flesh	Empty Message Scroll
+710	_(TRANS)_	Might Boost	Empty Message Scroll
+711	_(TRANS)_	Intellect Boost	Empty Message Scroll
+712	_(TRANS)_	Personality Boost	Empty Message Scroll
+713	_(TRANS)_	Endurance Boost	Empty Message Scroll
+714	_(TRANS)_	Speed Boost	Empty Message Scroll
+715	_(TRANS)_	Accuracy Boost	Empty Message Scroll
+716	_(TRANS)_	Flaming Potion	Empty Message Scroll
+717	_(TRANS)_	Freezing Potion	Empty Message Scroll
+718	_(TRANS)_	Noxious Potion	Empty Message Scroll
+719	_(TRANS)_	Shocking Potion	Empty Message Scroll
+720	_(TRANS)_	Swift Potion	Empty Message Scroll
+721	_(TRANS)_	Cure Paralysis	Empty Message Scroll
+722	_(TRANS)_	Divine Restoration	Empty Message Scroll
+723	_(TRANS)_	Divine Cure	Empty Message Scroll
+724	_(TRANS)_	Divine Power	Empty Message Scroll
+725	_(TRANS)_	Luck Boost	Empty Message Scroll
+726	_(TRANS)_	Fire Resistance	Empty Message Scroll
+727	_(TRANS)_	Air Resistance	Empty Message Scroll
+728	_(TRANS)_	Water Resistance	Empty Message Scroll
+729	_(TRANS)_	Earth Resistance	Empty Message Scroll
+730	_(TRANS)_	Mind Resistance	Empty Message Scroll
+731	_(TRANS)_	Body Resistance	Empty Message Scroll
+732	_(TRANS)_		Scroll for Minotaur Promo
+733	_(TRANS)_		Vampire Promo Clue (6)
+734	_(TRANS)_		Vampire Promo Clue (2)
+735	_(TRANS)_		Vampire Promo Clue (5)
+736	_(TRANS)_		Vampire Promo Clue (7)
+737	_(TRANS)_		Vampire Promo Clue (5)
+738	_(TRANS)_		Vampire Promo Clue (2)
+739	_(TRANS)_		Vampire Promo Clue (3)
+740	_(TRANS)_		Vampire Promo Clue (4)
+741	_(TRANS)_		Dadeross' Letter to Fellmoon
+742	_(TRANS)_		Blackmail Letter
+743	_(TRANS)_		Journal Scrap
+744	_(TRANS)_		Hint for vault of time
+745	_(TRANS)_		In frederick talimere's inventory
+746	_(TRANS)_		Empty Message Scroll
+747	_(TRANS)_		escaton riddle clue
+748	_(TRANS)_		minotaur lair clue
+749	_(TRANS)_		regnan fleet cannonball clue
+750	_(TRANS)_		Old Scroll
+751	Missing Scroll Text 739		Empty Message Scroll
+752	Missing Scroll Text 739		Empty Message Scroll
+753	Missing Scroll Text 739		Empty Message Scroll
+754	Missing Scroll Text 739		Empty Message Scroll
+755	Missing Scroll Text 739		Empty Message Scroll
+756	Missing Scroll Text 739		Empty Message Scroll
+757	Missing Scroll Text 739		Empty Message Scroll
+758	Missing Scroll Text 739		Empty Message Scroll
+759	Missing Scroll Text 739		Empty Message Scroll
+760	Missing Scroll Text 739		Empty Message Scroll
+761	Missing Scroll Text 739		Empty Message Scroll
+762	Missing Scroll Text 739		Empty Message Scroll
+763	Missing Scroll Text 739		Empty Message Scroll
+764	Missing Scroll Text 739		Empty Message Scroll
+765	Missing Scroll Text 739		Empty Message Scroll
+766	Missing Scroll Text 739		Empty Message Scroll
+767	Missing Scroll Text 739		Empty Message Scroll
+768	Missing Scroll Text 739		Empty Message Scroll
+769	Missing Scroll Text 739		Empty Message Scroll
+770	Missing Scroll Text 739		Empty Message Scroll
+771	Missing Scroll Text 739		Empty Message Scroll
+772			
+773			
+774			
+775			
+776			
+777			
+778			
+779			
+780			Ritual of Dark Containment
+781			
+			
+			
+			
+			

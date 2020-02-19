@@ -1,0 +1,116 @@
+															
+															
+#	Fire Spells		Res	Short Name	A	X	M	Spell Description	Normal	Expert	Master				
+1	1	_(TRANS)_	none	_(TRANS)_	1	1	1	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+2	2	_(TRANS)_	Fire	_(TRANS)_	2	1	0	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+3	3	_(TRANS)_	none	_(TRANS)_	3	3	3	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+4	4	_(TRANS)_	Fire	_(TRANS)_	4	4	4	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+5	5	_(TRANS)_	none	_(TRANS)_	5	5	5	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+6	6	_(TRANS)_	Fire	_(TRANS)_	8	8	8	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+7	7	_(TRANS)_	Fire	_(TRANS)_	10	10	10	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+8	8	_(TRANS)_	Fire	_(TRANS)_	15	15	15	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+9	9	_(TRANS)_	Fire	_(TRANS)_	20	20	20	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+10	10	_(TRANS)_	Fire	_(TRANS)_	25	25	25	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+11	11	_(TRANS)_	Fire	_(TRANS)_	30	30	30	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+	Air Spells		Res					Spell Description							
+12	1	_(TRANS)_	none	_(TRANS)_	1	1	1	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+13	2	_(TRANS)_	Elec	_(TRANS)_	2	1	0	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+14	3	_(TRANS)_	none	_(TRANS)_	3	3	3	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+15	4	_(TRANS)_	Elec	_(TRANS)_	4	4	4	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+16	5	_(TRANS)_	none	_(TRANS)_	5	5	5	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+17	6	_(TRANS)_	none	_(TRANS)_	8	8	8	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+18	7	_(TRANS)_	Elec	_(TRANS)_	10	10	10	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+19	8	_(TRANS)_	none	_(TRANS)_	15	15	15	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+20	9	_(TRANS)_	Phys	_(TRANS)_	20	20	20	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+21	10	_(TRANS)_	none	_(TRANS)_	25	25	25	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+22	11	_(TRANS)_	Elec	_(TRANS)_	30	30	30	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+	Water Spells		Res					Spell Description							
+23	1	_(TRANS)_	none	_(TRANS)_	1	1	1	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+24	2	_(TRANS)_	Cold	_(TRANS)_	2	1	0	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+25	3	_(TRANS)_	none	_(TRANS)_	3	3	3	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+26	4	_(TRANS)_	Pois	_(TRANS)_	4	4	4	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+27	5	_(TRANS)_	none	_(TRANS)_	5	5	5	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+28	6	_(TRANS)_	Cold	_(TRANS)_	8	8	8	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+29	7	_(TRANS)_	none	_(TRANS)_	10	10	10	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+30	8	_(TRANS)_	Pois	_(TRANS)_	15	15	15	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+31	9	_(TRANS)_	none	_(TRANS)_	20	20	20	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+32	10	_(TRANS)_	Cold	_(TRANS)_	25	25	25	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+33	11	_(TRANS)_	none	_(TRANS)_	30	30	30	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+	Earth Spells		Res					Spell Description							
+34	1	_(TRANS)_	Magic	_(TRANS)_	1	1	1	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+35	2	_(TRANS)_	Phys	_(TRANS)_	2	1	0	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+36	3	_(TRANS)_	none	_(TRANS)_	3	3	3	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+37	4	_(TRANS)_	Phys	_(TRANS)_	4	4	4	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+38	5	_(TRANS)_	none	_(TRANS)_	5	5	5	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+39	6	_(TRANS)_	Phys	_(TRANS)_	8	8	8	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+40	7	_(TRANS)_	none	_(TRANS)_	10	10	10	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+41	8	_(TRANS)_	Phys	_(TRANS)_	15	15	15	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+42	9	_(TRANS)_	Magic	_(TRANS)_	20	20	20	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+43	10	_(TRANS)_	Phys	_(TRANS)_	25	25	25	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+44	11	_(TRANS)_	Magic	_(TRANS)_	30	30	30	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+	Spirit Spells		Res					Spell Description							
+45	1	_(TRANS)_	Magic	_(TRANS)_	1	1	0	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+46	2	_(TRANS)_	none	_(TRANS)_	2	2	2	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+47	3	_(TRANS)_	none	_(TRANS)_	3	3	3	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+48	4	_(TRANS)_	none	_(TRANS)_	4	4	4	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+49	5	_(TRANS)_	none	_(TRANS)_	5	5	5	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+50	6	_(TRANS)_	none	_(TRANS)_	8	8	8	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+51	7	_(TRANS)_	none	_(TRANS)_	10	10	10	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+52	8	_(TRANS)_	Magic	_(TRANS)_	15	15	15	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+53	9	_(TRANS)_	none	_(TRANS)_	20	20	20	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+54	10	_(TRANS)_	none	_(TRANS)_	25	25	25	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+55	11	_(TRANS)_	none	_(TRANS)_	30	30	30	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+	Mind Spells		Res					Spell Description							
+56	1	_(TRANS)_	none	_(TRANS)_	1	1	1	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+57	2	_(TRANS)_	none	_(TRANS)_	2	2	2	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+58	3	_(TRANS)_	Magic	_(TRANS)_	3	3	3	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+59	4	_(TRANS)_	none	_(TRANS)_	4	4	4	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+60	5	_(TRANS)_	none	_(TRANS)_	5	5	5	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+61	6	_(TRANS)_	Magic	_(TRANS)_	8	8	8	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+62	7	_(TRANS)_	Magic	_(TRANS)_	10	10	10	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+63	8	_(TRANS)_	Magic	_(TRANS)_	15	15	15	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+64	9	_(TRANS)_	none	_(TRANS)_	20	20	20	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+65	10	_(TRANS)_	Magic	_(TRANS)_	25	25	25	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+66	11	_(TRANS)_	none	_(TRANS)_	30	30	30	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+	Body Spells		Res					Spell Description							
+67	1	_(TRANS)_	none	_(TRANS)_	1	1	1	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+68	2	_(TRANS)_	none	_(TRANS)_	2	2	2	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+69	3	_(TRANS)_	none	_(TRANS)_	3	3	3	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+70	4	_(TRANS)_	Magic	_(TRANS)_	4	4	4	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+71	5	_(TRANS)_	none	_(TRANS)_	5	5	5	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+72	6	_(TRANS)_	none	_(TRANS)_	8	8	8	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+73	7	_(TRANS)_	none	_(TRANS)_	10	10	10	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+74	8	_(TRANS)_	none	_(TRANS)_	15	15	15	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+75	9	_(TRANS)_	none	_(TRANS)_	20	20	20	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+76	10	_(TRANS)_	Magic	_(TRANS)_	25	25	25	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+77	11	_(TRANS)_	none	_(TRANS)_	30	30	30	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+	Light Spells		Res					Spell Description							
+78	1	_(TRANS)_	none	_(TRANS)_	20	20	20	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+79	2	_(TRANS)_	none	_(TRANS)_	25	25	25	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+80	3	_(TRANS)_	none	_(TRANS)_	30	30	30	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+81	4	_(TRANS)_	Magic	_(TRANS)_	35	35	35	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+82	5	_(TRANS)_	Magic	_(TRANS)_	40	40	40	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+83	6	_(TRANS)_	none	_(TRANS)_	45	45	45	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+84	7	_(TRANS)_	Magic	_(TRANS)_	50	50	50	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+85	8	_(TRANS)_	none	_(TRANS)_	55	55	55	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+86	9	_(TRANS)_	Magic	_(TRANS)_	60	60	60	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+87	10	_(TRANS)_	Fire	_(TRANS)_	65	65	65	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+88	11	_(TRANS)_	none	_(TRANS)_	70	70	70	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+	Dark Spells		Res					Spell Description							
+89	1	_(TRANS)_	none	_(TRANS)_	20	20	20	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+90	2	_(TRANS)_	Pois	_(TRANS)_	30	30	30	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+91	3	_(TRANS)_	Magic	_(TRANS)_	40	40	40	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+92	4	_(TRANS)_	Phys	_(TRANS)_	50	50	50	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+93	5	_(TRANS)_	Magic	_(TRANS)_	60	60	60	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+94	6	_(TRANS)_	none	_(TRANS)_	70	70	70	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+95	7	_(TRANS)_	Magic	_(TRANS)_	80	80	80	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+96	8	_(TRANS)_	Magic	_(TRANS)_	90	90	90	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+97	9	_(TRANS)_	Pois	_(TRANS)_	100	100	100	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+98	10	_(TRANS)_	Magic	_(TRANS)_	150	150	150	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+99	11	_(TRANS)_	Magic	_(TRANS)_	200	200	200	_(TRANS)_	_(TRANS)_	_(TRANS)_	_(TRANS)_				
+															
+															
+															
+															
+															
+															

@@ -1,0 +1,790 @@
+#	Text	Notes	Owner
+1	_(TRANS)_		
+2	_(TRANS)_		
+3	_(TRANS)_	Malwick no	
+4	_(TRANS)_		
+5	_(TRANS)_	speech stays until contest is won	
+6	_(TRANS)_	speech stays until contest is won	Markham
+7	_(TRANS)_	Replace this topic with 8 after it is spoken	
+8	_(TRANS)_	Replaces topic 7 permanently	
+9	_(TRANS)_	"y/n.  If no, change text to 21.  If yes, print text 22, and remove this npc.  "	
+10	_(TRANS)_	Malwick	
+11	_(TRANS)_	"give fireball wand, remove this npc. (Mr. Malwick)"	
+12	_(TRANS)_	Sally	
+13	_(TRANS)_	Sally	
+14	_(TRANS)_	Sally	
+15	_(TRANS)_	Sally	
+16	_(TRANS)_	Sharktooth
+17	_(TRANS)_	Sharktooth
+18	_(TRANS)_	Sharktooth
+19	_(TRANS)_	Sharktooth
+20	_(TRANS)_	Sharktooth
+21	_(TRANS)_	Malwick
+22	_(TRANS)_	Adventurer 1
+23	_(TRANS)_	Adventurer 1
+24	_(TRANS)_	
+25	_(TRANS)_	judge
+26	_(TRANS)_	hat
+27	_(TRANS)_	instrument
+28	_(TRANS)_	floor tile
+29	_(TRANS)_	longbow
+30	_(TRANS)_	seashell
+31	_(TRANS)_	red potion
+32	_(TRANS)_	all 
+33	_(TRANS)_	none
+34	_(TRANS)_	bard
+35	_(TRANS)_	bard
+36	_(TRANS)_	bard
+37	_(TRANS)_	bard
+38	_(TRANS)_	bard
+39	_(TRANS)_	Adventurer 1
+40	_(TRANS)_	Adventurer 1
+41	_(TRANS)_	Adventurer 1
+42	_(TRANS)_	Adventurer 1
+43	_(TRANS)_	
+44	_(TRANS)_	
+45	_(TRANS)_	
+46	_(TRANS)_	
+47	_(TRANS)_	
+48	_(TRANS)_		
+49	_(TRANS)_		
+50	_(TRANS)_		
+51	_(TRANS)_		
+52	_(TRANS)_		
+53	_(TRANS)_	Tour Off	
+54	_(TRANS)_	Tour On	
+55	_(TRANS)_	Rogue Promo first time	William Lasker
+56	_(TRANS)_	Return w/o vase	William Lasker
+57	_(TRANS)_	Return w/ vase	William Lasker
+58	_(TRANS)_	"Spy, party is evil"	William Lasker
+59	_(TRANS)_	Not completed arbiter	William Lasker
+60	_(TRANS)_	First time Spy	William Lasker
+61	_(TRANS)_	Return with weight	William Lasker
+62	_(TRANS)_	No weight	William Lasker
+63	_(TRANS)_	Done nothing	William Lasker
+64	_(TRANS)_	Success	William Lasker
+65	_(TRANS)_	Pipes Quest	Faerie King
+66	_(TRANS)_	Drink Tea	Seknit Undershadow
+67	_(TRANS)_	First time Assassin	Seknit Undershadow
+68	_(TRANS)_	Party good	Seknit Undershadow
+69	_(TRANS)_	No Arbiter	Seknit Undershadow
+70	_(TRANS)_	No Rogue	Seknit Undershadow
+71	_(TRANS)_	Fail	Seknit Undershadow
+72	_(TRANS)_	Success	Seknit Undershadow
+73	_(TRANS)_		Niles missing message
+74	_(TRANS)_	First time Crusader	Sir Charles Quixote
+75	_(TRANS)_	Success	Sir Charles Quixote
+76	_(TRANS)_	Fail	Sir Charles Quixote
+77	_(TRANS)_	First time Hero	Sir Charles Quixote
+78	_(TRANS)_	Party evil	Sir Charles Quixote
+79	_(TRANS)_	No Arbiter	Sir Charles Quixote
+80	_(TRANS)_	Success	Sir Charles Quixote
+81	_(TRANS)_	Fail	Sir Charles Quixote
+82	_(TRANS)_	No Crusader	William Setag
+83	_(TRANS)_	Error	Alice Hargreaves
+84	_(TRANS)_	Rescue Me	Alice Hargreaves
+85	_(TRANS)_	Thanks for rescuing me?	Alice Hargreaves
+86	_(TRANS)_	Who are you?	Alice Hargreaves
+87	_(TRANS)_	Where are you taking me?	Alice Hargreaves
+88	_(TRANS)_	First time Villain	William Setag
+89	_(TRANS)_	Party good	William Setag
+90	_(TRANS)_	No arbiter	William Setag
+91	_(TRANS)_	Success	William Setag
+92	_(TRANS)_	Fail	William Setag
+93	_(TRANS)_	First time Initiate	Bartholomew Hume
+94	_(TRANS)_	Success	Bartholomew Hume
+95	_(TRANS)_	Fail	Bartholomew Hume
+96	_(TRANS)_	First Time Master	Bartholomew Hume
+97	_(TRANS)_	Party evil	Bartholomew Hume
+98	_(TRANS)_	No arbiter	Bartholomew Hume
+99	_(TRANS)_	No Crusader	William Setag
+100	_(TRANS)_		
+101	_(TRANS)_		
+102	_(TRANS)_		
+103	_(TRANS)_		
+104	_(TRANS)_		
+105	_(TRANS)_		
+106	_(TRANS)_		
+107	_(TRANS)_		
+108	_(TRANS)_		
+109	_(TRANS)_		
+110	_(TRANS)_		
+111	_(TRANS)_		
+112	_(TRANS)_	
+113	_(TRANS)_	
+114	_(TRANS)_	
+115	_(TRANS)_	
+116	_(TRANS)_	
+117	_(TRANS)_	
+118	_(TRANS)_	
+119	_(TRANS)_	
+120	_(TRANS)_	
+121	_(TRANS)_	
+122	_(TRANS)_	
+123	_(TRANS)_	
+124	_(TRANS)_	
+125	_(TRANS)_	
+126	_(TRANS)_	
+127	_(TRANS)_	
+128	_(TRANS)_		
+129	_(TRANS)_		
+130	_(TRANS)_		
+131	_(TRANS)_		
+132	_(TRANS)_		
+133	Missing Text 133	Roland 2	
+134	_(TRANS)_	Success	Bartholomew Hume
+135	_(TRANS)_	Fail	Bartholomew Hume
+136	_(TRANS)_	First time Ninja	Stephan Sand
+137	_(TRANS)_	Not initiate	Stephan Sand
+138	_(TRANS)_	Party good	Stephan Sand
+139	_(TRANS)_	No arbiter	Stephan Sand
+140	_(TRANS)_	"Key, no tomb"	Stephan Sand
+141	_(TRANS)_	No key	Stephan Sand
+142	_(TRANS)_	Success	Stephan Sand
+143	_(TRANS)_	First time Master Archer	Lawrence Mark
+144	_(TRANS)_	No Arbiter	Lawrence Mark
+145	_(TRANS)_	Party evil	Lawrence Mark
+146	_(TRANS)_	No Warrior Mage	Lawrence Mark
+147	_(TRANS)_	Success	Lawrence Mark
+148	_(TRANS)_	Fail	Lawrence Mark
+149	_(TRANS)_	First time Warrior Mage	Steagal Snick
+150	_(TRANS)_	Success	Steagal Snick
+151	_(TRANS)_	Fail	Steagal Snick
+152	_(TRANS)_	First time Sniper	Steagal Snick
+153	_(TRANS)_	No arbiter	Steagal Snick
+154	_(TRANS)_	Party good	Steagal Snick
+155	_(TRANS)_	Success	Steagal Snick
+156	_(TRANS)_	Fail	Steagal Snick
+157	_(TRANS)_	First time Champion	Leda Rowan
+158	_(TRANS)_	No arbiter	Leda Rowan
+159	_(TRANS)_	Party evil	Leda Rowan
+160	_(TRANS)_	No cavalier	Leda Rowan
+161	_(TRANS)_	Success	Leda Rowan
+162	_(TRANS)_	Fail	Leda Rowan
+163	_(TRANS)_	First time Cavalier	Frederick Og
+164	_(TRANS)_	Success	Frederick Og
+165	_(TRANS)_	Fail	Frederick Og
+166	_(TRANS)_	First Time Black Knight	Frederick Og
+167	_(TRANS)_	No arbiter	Frederick Og
+168	_(TRANS)_	Party good	Frederick Og
+169	_(TRANS)_	Success	Frederick Og
+170	_(TRANS)_	Fail	Frederick Og
+171	_(TRANS)_	First Time Ranger Lord	Lysander Sweet
+172	_(TRANS)_	No arbiter	Lysander Sweet
+173	_(TRANS)_	No Hunter	Lysander Sweet
+174	_(TRANS)_	Party Evil	Lysander Sweet
+175	_(TRANS)_	No tree	Lysander Sweet
+176	_(TRANS)_	Fail	Lysander Sweet
+177	_(TRANS)_	Success	Lysander Sweet
+178	_(TRANS)_	First time Hunter	Ebednezer Sour
+179	_(TRANS)_	Fail	Ebednezer Sour
+180	_(TRANS)_	First time Bounty Hunter	Ebednezer Sour
+181	_(TRANS)_	No arbiter	Ebednezer Sour
+182	_(TRANS)_	Party good	Ebednezer Sour
+183	_(TRANS)_	Success	Ebednezer Sour
+184	_(TRANS)_	Fail	Ebednezer Sour
+185	_(TRANS)_	Hunter end promo	Faerie King
+186	_(TRANS)_	First time Heart of Wood	Oldest Tree
+187	_(TRANS)_	Success	Oldest Tree
+188	_(TRANS)_	Fail	Oldest Tree
+189	_(TRANS)_	First time Priest of Light	Rebecca Devine
+190	_(TRANS)_	No arbiter	Rebecca Devine
+191	_(TRANS)_	No priest	Rebecca Devine
+192	_(TRANS)_	Party evil	Rebecca Devine
+193	_(TRANS)_	Success	Rebecca Devine
+194	_(TRANS)_	Fail	Rebecca Devine
+195	_(TRANS)_	First time Priest	Daedalus Falk
+196	_(TRANS)_	Success	Daedalus Falk
+197	_(TRANS)_	Fail	Daedalus Falk
+198	_(TRANS)_	First time Priest of Dark	Daedalus Falk
+199	_(TRANS)_	No arbiter	Daedalus Falk
+200	_(TRANS)_	Party good	Daedalus Falk
+201	_(TRANS)_	Success	Daedalus Falk
+202	_(TRANS)_	Fail	Daedalus Falk
+203	_(TRANS)_	First time Wizard	Thomas Grey
+204	_(TRANS)_	Success	Thomas Grey
+205	_(TRANS)_	Fail	Thomas Grey
+206	_(TRANS)_	First time Archmage	Thomas Grey
+207	_(TRANS)_	No arbiter	Thomas Grey
+208	_(TRANS)_	Party evil	Thomas Grey
+209	_(TRANS)_	Success	Thomas Grey
+210	_(TRANS)_	Fail	Thomas Grey
+211	_(TRANS)_	First time Lich	Halfgild Wynac
+212	_(TRANS)_	No wizard	Halfgild Wynac
+213	_(TRANS)_	No arbiter	Halfgild Wynac
+214	_(TRANS)_	Party good	Halfgild Wynac
+215	_(TRANS)_	Success	Halfgild Wynac
+216	_(TRANS)_	Fail	Halfgild Wynac
+217	_(TRANS)_	First time Great Druid	Anthony Green
+218	_(TRANS)_	No stonehenges	Anthony Green
+219	_(TRANS)_	At least one stonehenge	Anthony Green
+220	_(TRANS)_	Success	Anthony Green
+221	_(TRANS)_	First time Arch Druid	Anthony Green
+222	_(TRANS)_	No arbiter	Anthony Green
+223	_(TRANS)_	Party evil	Anthony Green
+224	_(TRANS)_	Success	Anthony Green
+225	_(TRANS)_	Fail	Anthony Green
+226	_(TRANS)_	First time Warlock	Tor Anwyn
+227	_(TRANS)_	No Great Druid	Tor Anwyn
+228	_(TRANS)_	No arbiter	Tor Anwyn
+229	_(TRANS)_	Party good	Tor Anwyn
+230	_(TRANS)_	Success	Tor Anwyn
+231	_(TRANS)_	Fail	Tor Anwyn
+232	_(TRANS)_	Golem torso	Golem
+233	_(TRANS)_	Golem left leg	Golem
+234	_(TRANS)_	Golem right leg	Golem
+235	_(TRANS)_	Golem left arm	Golem
+236	_(TRANS)_	Golem right arm	Golem
+237	_(TRANS)_	Golem head	Golem
+238	_(TRANS)_	Golem Abbey head	Golem
+239	_(TRANS)_	No parts	Golem
+240	_(TRANS)_	All parts	Golem
+241	_(TRANS)_	Swap normal for Abbey	Golem
+242	_(TRANS)_	Swap Abbey for normal	Golem
+243	_(TRANS)_	Error	Golem
+244	_(TRANS)_	Success	Butler
+245	_(TRANS)_	Fail	Butler
+246	_(TRANS)_	First time dwarf rescue	Dwarf King
+247	_(TRANS)_	Success	Dwarf King
+248	_(TRANS)_	Fail	Dwarf King
+249	_(TRANS)_	Talk to my boss	Ellen Rockway
+250	_(TRANS)_	Talked to my boss	Ellen Rockway
+251	_(TRANS)_	Finished my quest	Ellen Rockway
+252	_(TRANS)_	Betrayed the other side	Ellen Rockway
+253	_(TRANS)_	Artifact	Ellen Rockway
+254	_(TRANS)_	Failed the quest	Ellen Rockway
+255	_(TRANS)_	Betrayed us	Ellen Rockway
+256	_(TRANS)_	Talk to my boss	Alain Hani
+257	_(TRANS)_	Talked to my boss	Alain Hani
+258	_(TRANS)_	Finished my quest	Alain Hani
+259	_(TRANS)_	Betrayed the other side	Alain Hani
+260	_(TRANS)_	Artifact	Alain Hani
+261	_(TRANS)_	Failed the quest	Alain Hani
+262	_(TRANS)_	Betrayed us	Alain Hani
+263	_(TRANS)_	First time Prisoner of War	Queen Catherine
+264	_(TRANS)_	Success	Queen Catherine
+265	_(TRANS)_	Fail	Queen Catherine
+266	_(TRANS)_	Betrayal	Queen Catherine
+267	_(TRANS)_	Fake prisoner	Queen Catherine
+268	_(TRANS)_	First time Riverstride plans	Queen Catherine
+269	_(TRANS)_	Success	Queen Catherine
+270	_(TRANS)_	Fail	Queen Catherine
+271	_(TRANS)_	Idiots	Queen Catherine
+272	_(TRANS)_	We stole the plans	Queen Catherine
+273	_(TRANS)_	Time ran out - Prisoner	Queen Catherine
+274	_(TRANS)_	Time ran out - Riverstride	Queen Catherine
+275	_(TRANS)_	First time Riverstride plans	ElfKing
+276	_(TRANS)_	Success	ElfKing
+277	_(TRANS)_	Fail	ElfKing
+278	_(TRANS)_	Betrayal	ElfKing
+279	_(TRANS)_	Fake plans	ElfKing
+280	_(TRANS)_	First time Prison Break	ElfKing
+281	_(TRANS)_	Success	ElfKing
+282	_(TRANS)_	Fail	ElfKing
+283	_(TRANS)_	Idiots	ElfKing
+284	_(TRANS)_	We rescued Loren	ElfKing
+285	_(TRANS)_	Time ran out - Riverstride	ElfKing
+286	_(TRANS)_	Time ran out - Prisoner	ElfKing
+287	_(TRANS)_	Artifact	Queen Catherine
+288	_(TRANS)_	Artifact	ElfKing
+289	_(TRANS)_	Build Castle	Arbiter hint
+290	_(TRANS)_	Elf vs. Human	Arbiter hint
+291	_(TRANS)_	Artifact	Arbiter artifact
+292	_(TRANS)_	I choose you!	Evil Arbiter
+293	_(TRANS)_	Hint - Proving Ground	Evil Arbiter
+294	_(TRANS)_	Hint - Tasks	Evil Arbiter
+295	_(TRANS)_	Hint - Kill Opposing person	Evil Arbiter
+296	_(TRANS)_	Hint - Get devil part	Evil Arbiter
+297	_(TRANS)_	Hint - Do the ship	Evil Arbiter
+298	_(TRANS)_	Hint - Return piece	Evil Arbiter
+299	_(TRANS)_	I choose you!	Good Arbiter
+300	_(TRANS)_	Hint - Proving Ground	Good Arbiter
+301	_(TRANS)_	Hint - Tasks	Good Arbiter
+302	_(TRANS)_	Hint - Kill Opposing person	Good Arbiter
+303	_(TRANS)_	Hint - Get devil part	Good Arbiter
+304	_(TRANS)_	Hint - Do the ship	Good Arbiter
+305	_(TRANS)_	Hint - Return piece	Good Arbiter
+306	_(TRANS)_	First Time Good Proving Grounds	Gavin Magnus
+307	_(TRANS)_	Success	Gavin Magnus
+308	_(TRANS)_	Fail	Gavin Magnus
+309	_(TRANS)_	First Time Temple of Dark	Resurectra
+310	_(TRANS)_	Fail	Resurectra
+311	_(TRANS)_	Light not Dark	Resurectra
+312	_(TRANS)_	Dark not Light	Resurectra
+313	_(TRANS)_	Success	Resurectra
+314	_(TRANS)_	First Time Strike the Devils	Resurectra
+315	_(TRANS)_	Success	Resurectra
+316	_(TRANS)_	Fail	Resurectra
+317	_(TRANS)_	First Time Vampires	Crag Hack
+318	_(TRANS)_	Success	Crag Hack
+319	_(TRANS)_	Fail	Crag Hack
+320	_(TRANS)_	First Time Soul Jars	Sir Caneghm
+321	_(TRANS)_	Success	Sir Caneghm
+322	_(TRANS)_	Fail	Sir Caneghm
+323	_(TRANS)_	First Time Tolberti	Robert the Wise
+324	_(TRANS)_	Success	Robert the Wise
+325	_(TRANS)_	Fail	Robert the Wise
+326	_(TRANS)_	First Time Temple of Light	Kastore
+327	_(TRANS)_	Fail	Kastore
+328	_(TRANS)_	Light not Dark	Kastore
+329	_(TRANS)_	Dark not Light	Kastore
+330	_(TRANS)_	Success	Kastore
+331	_(TRANS)_	First Time Strike the Devils	Kastore
+332	_(TRANS)_	Success	Kastore
+333	_(TRANS)_	Fail	Kastore
+334	_(TRANS)_	First Time Soul Jars	Maximus
+335	_(TRANS)_	Success	Maximus
+336	_(TRANS)_	Fail	Maximus
+337	_(TRANS)_	First Time Clanker's Lab	Dark Shade
+338	_(TRANS)_	Success	Dark Shade
+339	_(TRANS)_	Fail	Dark Shade
+340	_(TRANS)_	First Time Robert	Tolberti
+341	_(TRANS)_	Success	Tolberti
+342	_(TRANS)_	Fail	Tolberti
+343	_(TRANS)_	First Time Breeding Pit	Archibald
+344	_(TRANS)_	Success	Archibald
+345	_(TRANS)_	Fail	Archibald
+346	_(TRANS)_	Final Task First Time	Resurectra
+347	_(TRANS)_	Success	Resurectra
+348	_(TRANS)_	Fail	Resurectra
+349	_(TRANS)_	Final Task First Time	Kastore
+350	_(TRANS)_	Success	Kastore
+351	_(TRANS)_	Fail	Kastore
+352	_(TRANS)_		Monster hunt 1
+353	_(TRANS)_		Monster hunt 2
+354	_(TRANS)_		Monster hunt 3
+355	_(TRANS)_	Arcomage Rules	
+356	_(TRANS)_	Arcomage Conditions 1	
+357	_(TRANS)_	Arcomage Conditions 2	
+358	_(TRANS)_	Arcomage Conditions 3	
+359	_(TRANS)_	Arcomage Conditions 4	
+360	_(TRANS)_	Arcomage Conditions 5	
+361	_(TRANS)_	Arcomage Conditions 6	
+362	_(TRANS)_	Arcomage Conditions 7	
+363	_(TRANS)_	Arcomage Conditions 8	
+364	_(TRANS)_	Arcomage Conditions 9	
+365	_(TRANS)_	Arcomage Conditions 10	
+366	_(TRANS)_	Arcomage Conditions 11	
+367	_(TRANS)_	Arcomage Conditions 12	
+368	_(TRANS)_	Arcomage Conditions 13
+369	_(TRANS)_	skill 200
+370	_(TRANS)_	skill 201
+371	_(TRANS)_	skill 202
+372	_(TRANS)_	skill 203
+373	_(TRANS)_	skill 204
+374	_(TRANS)_	skill 205
+375	_(TRANS)_	skill 206
+376	_(TRANS)_	skill 207
+377	_(TRANS)_	skill 208
+378	_(TRANS)_	skill 209
+379	_(TRANS)_	skill 210
+380	_(TRANS)_	skill 211
+381	_(TRANS)_	skill 212
+382	_(TRANS)_	skill 213
+383	_(TRANS)_	skill 214
+384	_(TRANS)_	skill 215
+385	_(TRANS)_	skill 216
+386	_(TRANS)_	skill 217
+387	_(TRANS)_	skill 218
+388	_(TRANS)_	skill 219
+389	_(TRANS)_	skill 220
+390	_(TRANS)_	skill 221
+391	_(TRANS)_	skill 222
+392	_(TRANS)_	skill 223
+393	_(TRANS)_	skill 224
+394	_(TRANS)_	skill 225
+395	_(TRANS)_	skill 226
+396	_(TRANS)_	skill 227
+397	_(TRANS)_	skill 228
+398	_(TRANS)_	skill 229
+399	_(TRANS)_	skill 230
+400	_(TRANS)_	skill 231
+401	_(TRANS)_	skill 232
+402	_(TRANS)_	skill 233
+403	_(TRANS)_	skill 234
+404	_(TRANS)_	skill 235
+405	_(TRANS)_	skill 236
+406	_(TRANS)_	skill 237
+407	_(TRANS)_	skill 238
+408	_(TRANS)_	skill 239
+409	_(TRANS)_	skill 240
+410	_(TRANS)_	skill 241
+411	_(TRANS)_	skill 242
+412	_(TRANS)_	skill 243
+413	_(TRANS)_	skill 244
+414	_(TRANS)_	skill 245
+415	_(TRANS)_	skill 246
+416	_(TRANS)_	skill 247
+417	_(TRANS)_	skill 248
+418	_(TRANS)_	skill 249
+419	_(TRANS)_	skill 250
+420	_(TRANS)_	skill 251
+421	_(TRANS)_	skill 252
+422	_(TRANS)_	skill 253
+423	_(TRANS)_	skill 254
+424	_(TRANS)_	skill 255
+425	_(TRANS)_	skill 256
+426	_(TRANS)_	skill 257
+427	_(TRANS)_	skill 258
+428	_(TRANS)_	skill 259
+429	_(TRANS)_	skill 260
+430	_(TRANS)_	skill 261
+431	_(TRANS)_	skill 262
+432	_(TRANS)_	skill 263
+433	_(TRANS)_	skill 264
+434	_(TRANS)_	skill 265
+435	_(TRANS)_	skill 266
+436	_(TRANS)_	skill 267
+437	_(TRANS)_	skill 268
+438	_(TRANS)_	skill 269
+439	_(TRANS)_	skill 270
+440	_(TRANS)_	skill 271
+441	_(TRANS)_	skill 272
+442	_(TRANS)_	skill 273
+443	_(TRANS)_	skill 274
+444	_(TRANS)_	skill 275
+445	_(TRANS)_	skill 276
+446	_(TRANS)_	skill 277
+447	_(TRANS)_	skill 278
+448	_(TRANS)_	skill 279	
+449	_(TRANS)_	skill 280	
+450	_(TRANS)_	First time Arcomage cards	Used to be Expert Diplomacy
+451	_(TRANS)_	Fail	Used to be Master Diplomacy
+452	_(TRANS)_	Success	Used to be GM Diplomacy
+453	_(TRANS)_	First Time scarf quest	Used to be Expert Thievery
+454	_(TRANS)_	Fail	Used to be Master Thievery
+455	_(TRANS)_	Success	Used to be GM Thievery
+456	_(TRANS)_	skill 287	
+457	_(TRANS)_	skill 288	
+458	_(TRANS)_	skill 289	
+459	_(TRANS)_	skill 290	
+460	_(TRANS)_	skill 291	
+461	_(TRANS)_	skill 292	
+462	_(TRANS)_	skill 293	
+463	_(TRANS)_	skill 294	
+464	_(TRANS)_	skill 295
+465	_(TRANS)_	skill 296
+466	_(TRANS)_	skill 297
+467	_(TRANS)_	skill 298
+468	_(TRANS)_	skill 299
+469	_(TRANS)_	skill 300
+470	_(TRANS)_	skill 301
+471	_(TRANS)_	skill 302
+472	_(TRANS)_	skill 303
+473	_(TRANS)_	skill 304
+474	_(TRANS)_	skill 305
+475	_(TRANS)_	skill 306
+476	_(TRANS)_	skill 307
+477	_(TRANS)_	skill 308
+478	_(TRANS)_	skill 309
+479	_(TRANS)_	skill 310
+480	_(TRANS)_		
+481	_(TRANS)_	Do you want a membership?	
+482	_(TRANS)_	Here's the membership	
+483	_(TRANS)_	Not enough gold	
+484	_(TRANS)_	Need the bones	Dwarf King
+485	_(TRANS)_	Get Lantern	
+486	_(TRANS)_	Don't have Lantern	
+487	_(TRANS)_	Returned Lantern	
+488	_(TRANS)_	Get Haldar's Remains	
+489	_(TRANS)_	Don't have Haldar's Remains	
+490	_(TRANS)_	Returned Haldar's Remains	
+491	_(TRANS)_	Get Davrik's Ring	
+492	_(TRANS)_	Don't have Davrik's Ring	
+493	_(TRANS)_	Returned Davrik's Ring	
+494	_(TRANS)_	Sealed Letter to Lord Markum	
+495	_(TRANS)_	Don't have Peacock Feather	
+496	_(TRANS)_	Returned with Peacock Feather	
+497	_(TRANS)_	Letter from Norbert Thrush	
+498	_(TRANS)_	First Time Pipes Quest	Johann Kerrid
+499	_(TRANS)_	Success	Johann Kerrid
+500	_(TRANS)_	Fail	Johann Kerrid
+501	_(TRANS)_	First Time Good	Niles Stantley
+502	_(TRANS)_	First Time Evil	Niles Stantley
+503	_(TRANS)_	Success	Niles Stantley
+504	_(TRANS)_	Fail	Niles Stantley
+505	_(TRANS)_	Kill Troggies First Time	Spark Burnkindle
+506	_(TRANS)_	Fail	Spark Burnkindle
+507	_(TRANS)_	Success	Spark Burnkindle
+508	_(TRANS)_	Kill Griffins First Time	Seth Drakkson
+509	_(TRANS)_	"Fail, killed no griffins"	Seth Drakkson
+510	_(TRANS)_	"Fail, haven't killed Erathian griffins"	Seth Drakkson
+511	_(TRANS)_	"Fail, haven't killed Bracada griffins"	Seth Drakkson
+512	_(TRANS)_	Success	Seth Drakkson
+513	_(TRANS)_	R-click text	Baby Dragon
+514	_(TRANS)_	Master Staff hint	James Teacher Hints
+515	_(TRANS)_	Grandmaster Staff hint	James Teacher Hints
+516	_(TRANS)_	Master Sword hint	James Teacher Hints
+517	_(TRANS)_	Grandmaster Sword hint	James Teacher Hints
+518	_(TRANS)_	Master Dagger hint	James Teacher Hints
+519	_(TRANS)_	Grandmaster Dagger hint	James Teacher Hints
+520	_(TRANS)_	Master Axe hint	James Teacher Hints
+521	_(TRANS)_	Grandmaster Axe hint	James Teacher Hints
+522	_(TRANS)_	Master Spear hint	James Teacher Hints
+523	_(TRANS)_	Grandmaster Spear hint	James Teacher Hints
+524	_(TRANS)_	Master Bow hint	James Teacher Hints
+525	_(TRANS)_	Grandmaster Bow hint	James Teacher Hints
+526	_(TRANS)_	Master Mace hint	James Teacher Hints
+527	_(TRANS)_	Grandmaster Mace hint	James Teacher Hints
+528	_(TRANS)_	Master Shield hint	James Teacher Hints
+529	_(TRANS)_	Grandmaster shield hint	James Teacher Hints
+530	_(TRANS)_	Master Leather hint	James Teacher Hints
+531	_(TRANS)_	Grandmaster Leather hint	James Teacher Hints
+532	_(TRANS)_	Master Chain hint	James Teacher Hints
+533	_(TRANS)_	Grandmaster Chain hint	James Teacher Hints
+534	_(TRANS)_	Master Plate hint	James Teacher Hints
+535	_(TRANS)_	Grandmaster Plate hint	James Teacher Hints
+536	_(TRANS)_	Master Fire Magic hint	James Teacher Hints
+537	_(TRANS)_	Grandmaster Fire Magic hint	James Teacher Hints
+538	_(TRANS)_	Master Air Magic hint	James Teacher Hints
+539	_(TRANS)_	Grandmaster Air Magic hint	James Teacher Hints
+540	_(TRANS)_	Master Water Magic hint	James Teacher Hints
+541	_(TRANS)_	Grandmaster Water Magic hint	James Teacher Hints
+542	_(TRANS)_	Master Earth Magic hint	James Teacher Hints
+543	_(TRANS)_	Grandmaster Earth Magic hint	James Teacher Hints
+544	_(TRANS)_	Master Spirit Magic hint	James Teacher Hints
+545	_(TRANS)_	Grandmaster Spirit Magic hint	James Teacher Hints
+546	_(TRANS)_	Master Mind Magic hint	James Teacher Hints
+547	_(TRANS)_	Grandmaster Mind Magic hint	James Teacher Hints
+548	_(TRANS)_	Master Body Magic hint	James Teacher Hints
+549	_(TRANS)_	Grandmaster Body Magic hint	James Teacher Hints
+550	_(TRANS)_	Master Identify Item hint	James Teacher Hints
+551	_(TRANS)_	Grandmaster Identify Item hint	James Teacher Hints
+552	_(TRANS)_	Master Merchant	James Teacher Hints
+553	_(TRANS)_	Grandmaster Merchant hint	James Teacher Hints
+554	_(TRANS)_	Master Repair Item hint	James Teacher Hints
+555	_(TRANS)_	Grandmaster Repair Item hint	James Teacher Hints
+556	_(TRANS)_	Master Body Building hint	James Teacher Hints
+557	_(TRANS)_	Grandmaster Body Building hint	James Teacher Hints
+558	_(TRANS)_	Master Meditation hint	James Teacher Hints
+559	_(TRANS)_	Grandmaster Meditation hint	James Teacher Hints
+560	_(TRANS)_	Master Perception hint	James Teacher Hints
+561	_(TRANS)_	Grandmaster Perception hint	James Teacher Hints
+562	_(TRANS)_	Master Disarm Trap hint	James Teacher Hints
+563	_(TRANS)_	Grandmaster Disarm Trap hint	James Teacher Hints
+564	_(TRANS)_	Master Dodging hint	James Teacher Hints
+565	_(TRANS)_	Grandmaster Dodging hint	James Teacher Hints
+566	_(TRANS)_	Master Unarmed Combat hint	James Teacher Hints
+567	_(TRANS)_	Grandmaster of Unarmed Combat Hint	James Teacher Hints
+568	_(TRANS)_	Master Identify Monster hint	James Teacher Hints
+569	_(TRANS)_	Grandmaster Identify Monster Hint	James Teacher Hints
+570	_(TRANS)_	Master Armsmater hint	James Teacher Hints
+571	_(TRANS)_	Grandmaster Armsmaster hint	James Teacher Hints
+572	_(TRANS)_	Master Stealing hint	James Teacher Hints
+573	_(TRANS)_	Grandmaster Stealing hint	James Teacher Hints
+574	_(TRANS)_	Master Alchemy hint	James Teacher Hints
+575	_(TRANS)_	Grandmaster Alchemy hint	James Teacher Hints
+576	_(TRANS)_	Master Learning hint	James Teacher Hints
+577	_(TRANS)_	Grandmaster Learning hint	James Teacher Hints
+578	_(TRANS)_	Master Light Magic hint	James Teacher Hints
+579	_(TRANS)_	Grandmaster Light Magic hint	James Teacher Hints
+580	_(TRANS)_	Master Dark Magic hint	James Teacher Hints
+581	_(TRANS)_	Grandmaster Dark Magic hint	James Teacher Hints
+582	_(TRANS)_		
+583	_(TRANS)_		
+584	_(TRANS)_		
+585	_(TRANS)_		
+586	_(TRANS)_		
+587	_(TRANS)_		
+588	_(TRANS)_		
+589	_(TRANS)_		
+590	_(TRANS)_		
+591	_(TRANS)_		
+592	_(TRANS)_		
+593	_(TRANS)_		
+594	_(TRANS)_		
+595	_(TRANS)_		
+596	_(TRANS)_		
+597	_(TRANS)_		
+598	_(TRANS)_		
+599	_(TRANS)_		
+600	_(TRANS)_		
+601	_(TRANS)_		James Quest Hint
+602	_(TRANS)_		James Quest Hint
+603	_(TRANS)_		James Quest Hint
+604	_(TRANS)_		James Quest Hint
+605	_(TRANS)_		James Quest Hint
+606	_(TRANS)_		James Quest Hint
+607	_(TRANS)_		James Quest Hint
+608	_(TRANS)_		James Quest Hint
+609	_(TRANS)_		James Quest Hint
+610	_(TRANS)_		James Quest Hint
+611	_(TRANS)_		James Quest Hint
+612	_(TRANS)_		James Quest Hint
+613	_(TRANS)_		James Quest Hint
+614	_(TRANS)_		James Quest Hint
+615	_(TRANS)_		James Quest Hint
+616	_(TRANS)_		James Quest Hint
+617	_(TRANS)_		James Quest Hint
+618	_(TRANS)_		James Quest Hint
+619	_(TRANS)_		James Quest Hint
+620	_(TRANS)_		James Quest Hint
+621	_(TRANS)_		James Quest Hint
+622	_(TRANS)_		James Quest Hint
+623	_(TRANS)_		James Quest Hint
+624	_(TRANS)_		James Quest Hint
+625	_(TRANS)_		James Quest Hint
+626	_(TRANS)_		James Quest Hint
+627	_(TRANS)_		James Quest Hint
+628	_(TRANS)_		James Quest Hint
+629	_(TRANS)_		James Quest Hint
+630	_(TRANS)_		James Quest Hint
+631	_(TRANS)_		James Quest Hint
+632	_(TRANS)_	x	James Quest Hint
+633	_(TRANS)_		James Quest Hint
+634	_(TRANS)_		James Quest Hint
+635	_(TRANS)_		James Quest Hint
+636	_(TRANS)_		James Quest Hint
+637	_(TRANS)_		James Quest Hint
+638	_(TRANS)_		James Quest Hint
+639	_(TRANS)_	x	James Quest Hint
+640	_(TRANS)_	x	James Quest Hint
+641	_(TRANS)_		James Quest Hint
+642	_(TRANS)_		James Quest Hint
+643	_(TRANS)_		James Quest Hint
+644	_(TRANS)_		
+645	_(TRANS)_		
+646	_(TRANS)_		
+647	_(TRANS)_		
+648	_(TRANS)_		
+649	_(TRANS)_		
+650	_(TRANS)_		
+651	_(TRANS)_		
+652	_(TRANS)_		
+653	_(TRANS)_		
+654	_(TRANS)_		
+655	_(TRANS)_		
+656	_(TRANS)_	
+657	_(TRANS)_	Statuette First Time
+658	_(TRANS)_	Fail
+659	_(TRANS)_	Success
+660	_(TRANS)_	Painting First Time
+661	_(TRANS)_	Brought None
+662	_(TRANS)_	Have at least one
+663	_(TRANS)_	Brought All
+664	_(TRANS)_	Arcomage First Time
+665	_(TRANS)_	Fail
+666	_(TRANS)_	Success
+667	_(TRANS)_	I lost it
+668	_(TRANS)_	I lost it
+669	_(TRANS)_	
+670	_(TRANS)_	
+671	_(TRANS)_	
+672	_(TRANS)_	
+673	_(TRANS)_	
+674	_(TRANS)_	
+675	_(TRANS)_	
+676	_(TRANS)_	
+677	_(TRANS)_	
+678	_(TRANS)_	
+679	_(TRANS)_	
+680	_(TRANS)_	
+681	_(TRANS)_	
+682	_(TRANS)_	
+683	_(TRANS)_	
+684	_(TRANS)_	
+685	_(TRANS)_	
+686	_(TRANS)_	
+687	_(TRANS)_	
+688	_(TRANS)_	
+689	_(TRANS)_	
+690	_(TRANS)_	
+691	_(TRANS)_	
+692	_(TRANS)_	
+693	_(TRANS)_	
+694	_(TRANS)_	
+695	_(TRANS)_	
+696	_(TRANS)_	
+697	_(TRANS)_	
+698	_(TRANS)_	
+699	_(TRANS)_	
+700	_(TRANS)_	
+701	_(TRANS)_	
+702	_(TRANS)_	
+703	_(TRANS)_	
+704	_(TRANS)_	
+705	_(TRANS)_	
+706	_(TRANS)_	
+707	_(TRANS)_	
+708	_(TRANS)_	
+709	_(TRANS)_	
+710	_(TRANS)_	
+711	_(TRANS)_	
+712	_(TRANS)_	
+713	_(TRANS)_	
+714	_(TRANS)_	
+715	_(TRANS)_	
+716	_(TRANS)_	
+717	_(TRANS)_	Ore to weapon
+718	_(TRANS)_	No ore
+719	_(TRANS)_	Ore to Armor
+720	_(TRANS)_	No ore	
+721	_(TRANS)_	Ore to Misc	
+722	_(TRANS)_	No ore	
+723	_(TRANS)_		James Hint
+724	_(TRANS)_		James Hint
+725	_(TRANS)_		James Hint
+726	_(TRANS)_		James Hint
+727	_(TRANS)_	Butler Text	
+728	_(TRANS)_	Butler Text	
+729	_(TRANS)_	Butler Text	
+730	_(TRANS)_	Butler Text	
+731	_(TRANS)_	Goblin Spy	
+732	_(TRANS)_	Butler Text	
+733	_(TRANS)_		
+734	_(TRANS)_	"Archibald contacts party, and party is good (Roland quest)"	
+735	_(TRANS)_	"Archibald contacts party, and party is evil (Roland quest)"	
+736	_(TRANS)_	Evil advisors (when Tolberti's quest is ready)	
+737	_(TRANS)_	Good advisors (when Robert the Wise's quest is ready)	
+738	_(TRANS)_	Ambush gave gold	
+739	_(TRANS)_	Ambush didn't give gold	
+740	_(TRANS)_	Trading Triangle 1 1 Buy	2
+741	_(TRANS)_	Trading Triangle 1 1 Sell	2
+742	_(TRANS)_	Trading Triangle 1 2 Buy	3
+743	_(TRANS)_	Trading Triangle 1 2 Sell	3
+744	_(TRANS)_	Trading Triangle 1 3 Buy	4
+745	_(TRANS)_	Trading Triangle 1 3 Sell	4
+746	_(TRANS)_	Trading Triangle 2 1 Buy	13
+747	_(TRANS)_	Trading Triangle 2 1 Sell	13
+748	_(TRANS)_	Trading Triangle 2 2 Buy	11
+749	_(TRANS)_	Trading Triangle 2 2 Sell	11
+750	_(TRANS)_	Trading Triangle 2 3 Buy	14
+751	_(TRANS)_	Trading Triangle 2 3 Sell	14
+752	_(TRANS)_	Boat Hint for area 13
+753	_(TRANS)_	Hint NPC
+754	_(TRANS)_	Hint NPC
+755	_(TRANS)_	"Ambush, not enough gold"
+756	_(TRANS)_	Failed game
+757	_(TRANS)_	Failed contest
+758	_(TRANS)_	Failed test
+759	_(TRANS)_	Failed challenge
+760	_(TRANS)_	Already won
+761	_(TRANS)_	Won Game
+762	_(TRANS)_	Won Contest
+763	_(TRANS)_	Won Test
+764	_(TRANS)_	Won Challenge
+765	_(TRANS)_	Goblin spy (caught)
+766	_(TRANS)_	
+767	_(TRANS)_	
+768		
+769		
+770		
+771		
+772		
+773		
+774		
+775		
+776		
+777		
+778		
+779		
+780		
+781		
+782		
+783		
+784		
+785		
+786		
+787		
+788		
+789		

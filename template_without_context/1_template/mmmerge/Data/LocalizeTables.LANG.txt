@@ -1,0 +1,55 @@
+Table (of Game struct)	Id	Field	New text
+Houses	48	Name	_(TRANS_CONTEXT:'location')_
+Houses	45	Name	_(TRANS_CONTEXT:'location')_
+
+ClassNames	47		_(TRANS_CONTEXT:'class')_
+
+TransTxt	20		_(TRANS_CONTEXT:'trans')_
+TransTxt	22		_(TRANS_CONTEXT:'trans')_
+
+NPCText	1673		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1674		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1675		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1676		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1677		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1678		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1679		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1680		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1681		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1682		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1683		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2158		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1685		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1686		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1687		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1688		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1690		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2161		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2102		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2103		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2104		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2105		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2106		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2107		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2108		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	2109		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1684		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1689		_(TRANS_CONTEXT:'npc conversation')_
+NPCText	1692		_(TRANS_CONTEXT:'npc conversation')_
+
+NPCTopic	1765		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1766		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1767		_(TRANS_CONTEXT:'npctopic')_
+NPCTopic	1768		_(TRANS_CONTEXT:'npctopic')_
+
+ItemsTxt	543	Notes	_(TRANS_CONTEXT:'items')_
+ItemsTxt	543	Name	_(TRANS_CONTEXT:'items')_
+ItemsTxt	624	Notes	_(TRANS_CONTEXT:'items')_
+ItemsTxt	624	Name	_(TRANS_CONTEXT:'items')_
+ItemsTxt	625	Notes	_(TRANS_CONTEXT:'items')_
+ItemsTxt	625	Name	_(TRANS_CONTEXT:'items')_
+
+GlobalTxt	737		_(TRANS_CONTEXT:'global')_
+GlobalTxt	634		_(TRANS_CONTEXT:'global')_
+GlobalTxt	675		_(TRANS_CONTEXT:'global')_
+GlobalTxt	676		_(TRANS_CONTEXT:'global')_

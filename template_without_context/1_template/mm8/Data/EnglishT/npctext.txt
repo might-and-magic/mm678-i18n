@@ -1,0 +1,1048 @@
+#	Text	Notes	Owner
+1	_(TRANS)_		S'ton
+2	_(TRANS)_		S'ton
+3	_(TRANS)_		S'ton
+4	_(TRANS)_		Dadeross
+5	_(TRANS)_		Dadeross
+6	_(TRANS)_		Dadeross
+7	_(TRANS)_		Brekish Onefang
+8	_(TRANS)_		Brekish Onefang
+9	_(TRANS)_		Brekish Onefang
+10	_(TRANS)_		Fredrick Talimere
+11	_(TRANS)_		Fredrick Talimere
+12	_(TRANS)_		Fredrick Talimere
+13	_(TRANS)_		Fredrick Talimere
+14	_(TRANS)_		Rohtnax
+15	_(TRANS)_		Rohtnax
+16	_(TRANS)_		Rohtnax
+17	_(TRANS)_		Pascella Tisk
+18	_(TRANS)_		Pascella Tisk
+19	_(TRANS)_		Pascella Tisk
+20	_(TRANS)_		Dadeross
+21	_(TRANS)_		Dadeross
+22	_(TRANS)_		Brekish Onefang
+23	_(TRANS)_		Brekish Onefang
+24	_(TRANS)_		Old Dark Elf
+25	_(TRANS)_		Old Dark Elf
+26	_(TRANS)_		Cauri Blackthorne
+27	_(TRANS)_		Cauri Blackthorne
+28	_(TRANS)_		Cauri Blackthorne
+29	_(TRANS)_	PLACEHOLDER	Fredrick Talimere
+30	_(TRANS)_		Old Dark Elf
+31	_(TRANS)_		Cleric of the Sun
+32	_(TRANS)_		Elgar Fellmoon
+33	_(TRANS)_		Elgar Fellmoon
+34	_(TRANS)_		Elgar Fellmoon
+35	_(TRANS)_		Elgar Fellmoon
+36	_(TRANS)_		Elgar Fellmoon
+37	_(TRANS)_		Elgar Fellmoon
+38	_(TRANS)_		Elgar Fellmoon
+39	_(TRANS)_		Old Dark Elf
+40	_(TRANS)_		Arion Hunter
+41	_(TRANS)_		Arion Hunter
+42	_(TRANS)_		TROLL PROMO
+43	_(TRANS)_		TROLL PROMO
+44	_(TRANS)_		TROLL PROMO
+45	_(TRANS)_		TROLL PROMO
+46	_(TRANS)_		Volog Sandwind
+47	_(TRANS)_		Cauri Blackthorne
+48	_(TRANS)_		TROLL PROMO
+49	_(TRANS)_		TROLL PROMO
+50	_(TRANS)_		Bastian Loudrin
+51	_(TRANS)_		Bastian Loudrin
+52	_(TRANS)_		Bastian Loudrin
+53	_(TRANS)_		Bastian Loudrin
+54	_(TRANS)_		Bastian Loudrin
+55	_(TRANS)_		Bastian Loudrin
+56	_(TRANS)_		Overdune Snapfinger
+57	_(TRANS)_		Overdune Snapfinger (add tomb details after tomb done and placed)
+58	_(TRANS)_		Overdune Snapfinger
+59	_(TRANS)_		Overdune Snapfinger
+60	_(TRANS)_		OVERDUNE'S FATHER
+61	_(TRANS)_		Leane Stormlance
+62	_(TRANS)_		Leane Stormlance
+63	_(TRANS)_		Blazen Stormlance
+64	_(TRANS)_		Blazen Stormlance
+65	_(TRANS)_		Blazen Stormlance
+66	_(TRANS)_		Charles Quixote
+67	_(TRANS)_		Charles Quixote
+68	_(TRANS)_		Dervish Chevron
+69	_(TRANS)_		Leane Stormlance
+70	_(TRANS)_		Charles Quixote
+71	_(TRANS)_		Charles Quixote
+72	_(TRANS)_		Deftclaw Redreaver
+73	_(TRANS)_		Deftclaw Redreaver
+74	_(TRANS)_		Deftclaw Redreaver
+75	_(TRANS)_		Deftclaw Redreaver
+76	_(TRANS)_		Deftclaw Redreaver
+77	_(TRANS)_		Deftclaw Redreaver
+78	_(TRANS)_		Deftclaw Redreaver
+79	_(TRANS)_		Deftclaw Redreaver
+80	_(TRANS)_		Deftclaw Redreaver
+81	_(TRANS)_		Deftclaw Redreaver
+82	_(TRANS)_		Charles Quixote
+83	_(TRANS)_		Charles Quixote
+84	_(TRANS)_		Charles Quixote
+85	_(TRANS)_		Charles Quixote
+86	_(TRANS)_		Deftclaw Redreaver
+87	_(TRANS)_		Masul
+88	_(TRANS)_		MINOTAUR CLUE GUY
+89	_(TRANS)_		MINOTAUR CLUE GUY
+90	_(TRANS)_		MINOTAUR CLUE GUY
+91	_(TRANS)_		Tessalar
+92	_(TRANS)_		Tessalar
+93	_(TRANS)_		Tessalar
+94	_(TRANS)_		Tessalar
+95	_(TRANS)_		Tessalar
+96	_(TRANS)_		Dadeross
+97	_(TRANS)_		Dadeross
+98	_(TRANS)_		Tessalar
+99	_(TRANS)_		Tessalar
+100	_(TRANS)_		Dadeross
+101	_(TRANS)_		Dadeross
+102	_(TRANS)_		Dadeross
+103	_(TRANS)_		Verish
+104	_(TRANS)_		Verish
+105	_(TRANS)_		Verish
+106	_(TRANS)_		Verish
+107	_(TRANS)_		Verish
+108	_(TRANS)_		Verish
+109	_(TRANS)_		Lathean
+110	_(TRANS)_		Lathean
+111	_(TRANS)_		Lathean
+112	_(TRANS)_		Lathean
+113	_(TRANS)_		Vetrinus Taleshire
+114	_(TRANS)_		Vetrinus Taleshire
+115	_(TRANS)_		Vetrinus Taleshire
+116	_(TRANS)_		Vetrinus Taleshire
+117	_(TRANS)_		Lathean
+118	_(TRANS)_		Cleric Promo Clue
+119	_(TRANS)_		Cleric Promo Clue
+120	_(TRANS)_		Verish
+121	_(TRANS)_		Lathean
+122	_(TRANS)_		
+123	_(TRANS)_		
+124	_(TRANS)_		
+125	_(TRANS)_		
+126	_(TRANS)_		
+127	_(TRANS)_		
+128	_(TRANS)_		
+129	_(TRANS)_		
+130	_(TRANS)_		
+131	_(TRANS)_		
+132	_(TRANS)_		
+133	_(TRANS)_		Monster hunt 1
+134	_(TRANS)_		Monster hunt 2
+135	_(TRANS)_		Monster hunt 3
+136	_(TRANS)_	Arcomage Rules	
+137	_(TRANS)_	Arcomage Conditions 1	
+138	_(TRANS)_	Arcomage Conditions 2	
+139	_(TRANS)_	Arcomage Conditions 3	
+140	_(TRANS)_	Arcomage Conditions 4	
+141	_(TRANS)_	Arcomage Conditions 5	
+142	_(TRANS)_	Arcomage Conditions 6	
+143	_(TRANS)_	Arcomage Conditions 7	
+144	_(TRANS)_	Arcomage Conditions 8	
+145	_(TRANS)_	Arcomage Conditions 9	
+146	_(TRANS)_	Arcomage Conditions 10	
+147	_(TRANS)_	Arcomage Conditions 11	
+148	_(TRANS)_	Arcomage Conditions 12	
+149	_(TRANS)_	Arcomage Conditions 13	
+150	_(TRANS)_		Vetrinus Taleshire
+151	_(TRANS)_		
+152	_(TRANS)_		
+153	_(TRANS)_		
+154	_(TRANS)_		
+155	_(TRANS)_		
+156	_(TRANS)_		Sandro
+157	_(TRANS)_		Sandro
+158	_(TRANS)_		Sandro
+159	_(TRANS)_		Sandro
+160	_(TRANS)_		Dyson Leland
+161	_(TRANS)_		Dyson Leland
+162	_(TRANS)_		Dyson Leland
+163	_(TRANS)_		Dyson Leland
+164	_(TRANS)_		Sandro
+165	_(TRANS)_		Oskar Tyre
+166	_(TRANS)_		Oskar Tyre
+167	_(TRANS)_		Oskar Tyre
+168	_(TRANS)_		Oskar Tyre
+169	_(TRANS)_		Elgar Fellmoon NPC 53
+170	_(TRANS)_		Elgar Fellmoon NPC 53
+171	_(TRANS)_		Elgar Fellmoon NPC 53
+172	_(TRANS)_		Elgar Fellmoon NPC 53
+173	_(TRANS)_		Elgar Fellmoon NPC 53
+174	_(TRANS)_		Elgar Fellmoon NPC 53
+175	_(TRANS)_		Elgar Fellmoon NPC 53
+176	_(TRANS)_		Elgar Fellmoon NPC 53
+177	_(TRANS)_		Elgar Fellmoon NPC 53
+178	_(TRANS)_		Elgar Fellmoon NPC 53
+179	_(TRANS)_		Elgar Fellmoon NPC 53
+180	_(TRANS)_		Elgar Fellmoon NPC 53
+181	_(TRANS)_		Elgar Fellmoon NPC 53
+182	_(TRANS)_		Elgar Fellmoon NPC 53
+183	_(TRANS)_		Elgar Fellmoon NPC 53
+184	_(TRANS)_		Charles Quixote NPC 65
+185	_(TRANS)_		Charles Quixote NPC 65
+186	_(TRANS)_		Charles Quixote NPC 65
+187	_(TRANS)_		Charles Quixote NPC 65
+188	_(TRANS)_		Charles Quixote NPC 65
+189	_(TRANS)_		Charles Quixote NPC 65
+190	_(TRANS)_		Charles Quixote NPC 65
+191	_(TRANS)_		Deftclaw Redreaver NPC 66
+192	_(TRANS)_		Deftclaw Redreaver NPC 66
+193	_(TRANS)_		Deftclaw Redreaver NPC 66
+194	_(TRANS)_		Deftclaw Redreaver NPC 66
+195	_(TRANS)_		Deftclaw Redreaver NPC 66
+196	_(TRANS)_		Deftclaw Redreaver NPC 66
+197	_(TRANS)_		Deftclaw Redreaver NPC 66
+198	_(TRANS)_		Oskar Tyre NPC 67
+199	_(TRANS)_		Oskar Tyre NPC 67
+200		roster 1 join	
+201		roster 1 full	
+202	_(TRANS)_	roster 2 join	
+203	_(TRANS)_	roster 2 full	
+204	_(TRANS)_	roster 3 join	
+205		roster 3 full	
+206	_(TRANS)_	roster 4 join	
+207	_(TRANS)_	roster 4 full	
+208	_(TRANS)_	roster 5 join
+209	_(TRANS)_	roster 5 full
+210	_(TRANS)_	roster 6 join
+211	_(TRANS)_	roster 6 full
+212	_(TRANS)_	roster 7 join
+213	_(TRANS)_	roster 7 full
+214	_(TRANS)_	roster 8 join
+215	_(TRANS)_	roster 8 full
+216	_(TRANS)_	roster 9 join
+217	_(TRANS)_	roster 9 full
+218	_(TRANS)_	roster 10 join
+219	_(TRANS)_	roster 10 full
+220	_(TRANS)_	roster 11 join
+221	_(TRANS)_	roster 11 full
+222	_(TRANS)_	roster 12 join
+223	_(TRANS)_	roster 12 full
+224	_(TRANS)_	roster 13 join
+225	_(TRANS)_	roster 13 full
+226	_(TRANS)_	roster 14 join
+227	_(TRANS)_	roster 14 full
+228	_(TRANS)_	roster 15 join
+229	_(TRANS)_	roster 15 full
+230	_(TRANS)_	roster 16 join
+231	_(TRANS)_	roster 16 full
+232	_(TRANS)_	roster 17 join
+233	_(TRANS)_	roster 17 full
+234	_(TRANS)_	roster 18 join
+235	_(TRANS)_	roster 18 full
+236	_(TRANS)_	roster 19 join
+237	_(TRANS)_	roster 19 full
+238	_(TRANS)_	roster 20 join
+239	_(TRANS)_	roster 20 full
+240	_(TRANS)_	roster 21 join
+241	_(TRANS)_	roster 21 full
+242	_(TRANS)_	roster 22 join
+243	_(TRANS)_	roster 22 full
+244	_(TRANS)_	roster 23 join
+245	_(TRANS)_	roster 23 full
+246	_(TRANS)_	roster 24 join
+247	_(TRANS)_	roster 24 full
+248	_(TRANS)_	roster 25 join
+249	_(TRANS)_	roster 25 full
+250	_(TRANS)_	roster 26 join
+251	_(TRANS)_	roster 26 full
+252	_(TRANS)_	roster 27 join
+253	_(TRANS)_	roster 27 full
+254	_(TRANS)_	roster 28 join
+255	_(TRANS)_	roster 28 full
+256	_(TRANS)_	roster 29 join
+257	_(TRANS)_	roster 29 full
+258	_(TRANS)_	roster 30 join
+259	_(TRANS)_	roster 30 full
+260	_(TRANS)_	roster 31 join
+261	_(TRANS)_	roster 31 full
+262	_(TRANS)_	roster 32 join
+263	_(TRANS)_	roster 32 full
+264	_(TRANS)_	roster 33 join
+265	_(TRANS)_	roster 33 full
+266	_(TRANS)_	roster 34 join
+267	_(TRANS)_	roster 34 full
+268	_(TRANS)_	roster 35 join
+269	_(TRANS)_	roster 35 full
+270		roster 36 join
+271		roster 36 full
+272		roster 37 join
+273		roster 37 full
+274		roster 38 join
+275		roster 38 full
+276		roster 39 join
+277		roster 39 full
+278		roster 40 join
+279		roster 40 full
+280		roster 41 join
+281		roster 41 full
+282		roster 42 join
+283		roster 42 full
+284		roster 43 join
+285		roster 43 full
+286		roster 44 join
+287		roster 44 full
+288		roster 45 join	
+289		roster 45 full	
+290		roster 46 join	
+291		roster 46 full	
+292		roster 47 join	
+293		roster 47 full	
+294		roster 48 join	
+295		roster 48 full	
+296		roster 49 join	
+297		roster 49 full	
+298			
+299			
+300	_(TRANS)_	Expert Staff (2)	James
+301	_(TRANS)_	Master Staff (4)	James
+302	_(TRANS)_	Grand Master Staff (6)	James
+303	_(TRANS)_	Expert Sword (2)	James
+304	_(TRANS)_	Master Sword (13)	James
+305	_(TRANS)_	Grand Master Sword (5)	James
+306	_(TRANS)_	Expert Dagger (3)	James
+307	_(TRANS)_	Master Dagger (2)	James
+308	_(TRANS)_	Grand Master Dagger (13)	James
+309	_(TRANS)_	Expert Axe (5)	James
+310	_(TRANS)_	Master Axe (2)	James
+311	_(TRANS)_	Grand Master Axe (7)	James
+312	_(TRANS)_	Expert Spear (2)	James
+313	_(TRANS)_	Master Spear (3)	James
+314	_(TRANS)_	Grand Master Spear (1)	James
+315	_(TRANS)_	Expert Bow (1)	James
+316	_(TRANS)_	Master Bow (2)	James
+317	_(TRANS)_	Grand Master Bow (3)	James
+318	_(TRANS)_	Expert Mace (2)	James
+319	_(TRANS)_	Master Mace (5)	James
+320	_(TRANS)_	Grand Master Mace (4)	James
+321	_(TRANS)_		Hevatia Deverbero NPC 466
+322	_(TRANS)_		Hevatia Deverbero NPC 466
+323	_(TRANS)_		Verish NPC 467
+324	_(TRANS)_	Expert Shield (3)	James
+325	_(TRANS)_	Master Shield (6)	James
+326	_(TRANS)_	Grand Master Shield (5)	James
+327	_(TRANS)_	Expert Leather (1)	James
+328	_(TRANS)_	Master Leather (7)	James
+329	_(TRANS)_	Grand Master Leather (4)	James
+330	_(TRANS)_	Expert Chain (2)	James
+331	_(TRANS)_	Master Chain (13)	James
+332	_(TRANS)_	Grand Master Chain (3)	James
+333	_(TRANS)_	Expert Plate (1)	James
+334	_(TRANS)_	Master Plate (2)	James
+335	_(TRANS)_	Grand Master Plate (5)	James
+336	_(TRANS)_	Expert Fire_Magic (2)	James
+337	_(TRANS)_	Master Fire_Magic (7)	James
+338	_(TRANS)_	Grand Master Fire_Magic (11)	James
+339	_(TRANS)_	Expert Air_Magic (1)	James
+340	_(TRANS)_	Master Air_Magic (1)	James
+341	_(TRANS)_	Grand Master Air_Magic (9)	James
+342	_(TRANS)_	Expert Water_Magic (2)	James
+343	_(TRANS)_	Master Water_Magic (4)	James
+344	_(TRANS)_	Grand Master Water_Magic (12)	James
+345	_(TRANS)_	Expert Earth_Magic (1)	James
+346	_(TRANS)_	Master Earth_Magic (8)	James
+347	_(TRANS)_	Grand Master Earth_Magic (10)	James
+348	_(TRANS)_	Expert Spirit_Magic (2)	James
+349	_(TRANS)_	Master Spirit_Magic (5)	James
+350	_(TRANS)_	Grand Master Spirit_Magic (8)	James
+351	_(TRANS)_	Expert Mind_Magic (3)	James
+352	_(TRANS)_	Master Mind_Magic (7)	James
+353	_(TRANS)_	Grand Master Mind_Magic (8)	James
+354	_(TRANS)_	Expert Body_Magic (1)	James
+355	_(TRANS)_	Master Body_Magic (5)	James
+356	_(TRANS)_	Grand Master Body_Magic (8)	James
+357	_(TRANS)_	Expert Light_Magic (2)	James
+358	_(TRANS)_	Master Light_Magic (13)	James
+359	_(TRANS)_	Grand Master Light_Magic (8)	James
+360	_(TRANS)_	Expert Dark_Magic (3)	James
+361	_(TRANS)_	Master Dark_Magic (13)	James
+362	_(TRANS)_	Grand Master Dark_Magic (6)	James
+363	_(TRANS)_	Expert Dark Elf	James
+364	_(TRANS)_	Master Dark Elf (2)	James
+365	_(TRANS)_	Grand Master Dark Elf (3)	James
+366	_(TRANS)_	Expert Vampire	James
+367	_(TRANS)_	Master Vampire (6)	James
+368	_(TRANS)_	Grand Master Vampire (6)	James
+369	_(TRANS)_	Expert Dragon	James
+370	_(TRANS)_	Master Dragon (5)	James
+371	_(TRANS)_	Grand Master Dragon (5)	James
+372	_(TRANS)_	Expert Identify_Item	James
+373	_(TRANS)_	Master Identify_Item	James
+374	_(TRANS)_	Grand Master Identify_Item	James
+375	_(TRANS)_	Expert Merchant (1)	James
+376	_(TRANS)_	Master Merchant (3)	James
+377	_(TRANS)_	Grand Master Merchant (2)	James
+378	_(TRANS)_	Expert Repair_Item	James
+379	_(TRANS)_	Master Reapir_Item	James
+380	_(TRANS)_	Grand Master Repair_Item	James
+381	_(TRANS)_	Expert Body_building (1)	James
+382	_(TRANS)_	Master Body_Building (5)	James
+383	_(TRANS)_	Grand Master Body_Building (4)	James
+384	_(TRANS)_	Expert Meditation (2)	James
+385	_(TRANS)_	Master Meditation (7)	James
+386	_(TRANS)_	Grand Master Meditation (6)	James
+387	_(TRANS)_	Expert Perception (3)	James
+388	_(TRANS)_	Master Perception (6)	James
+389	_(TRANS)_	Grand Master Perception (7)	James
+390	_(TRANS)_	Expert Regeneration	James
+391	_(TRANS)_	Master Regeneration	James
+392	_(TRANS)_	Grand Master Regeneration	James
+393	_(TRANS)_	Expert Disarm_Trap (1)	James
+394	_(TRANS)_	Master Disarm_Trap (13)	James
+395	_(TRANS)_	Grand Master Disarm_Trap (3)	James
+396	_(TRANS)_		Verish NPC 467
+397	_(TRANS)_		Nelix Uriel NPC 468
+398	_(TRANS)_		Nelix Uriel NPC 468
+399	_(TRANS)_		Sethrc Thistlebone NPC 469
+400	_(TRANS)_		Sethrc Thistlebone NPC 469
+401	_(TRANS)_		Rionel NPC 470
+402	_(TRANS)_	Expert Identify_Monster	James
+403	_(TRANS)_	Master Identify_Monster	James
+404	_(TRANS)_	Grand Master Identify_Monster	James
+405	_(TRANS)_	Expert Armsmaster	James
+406	_(TRANS)_	Master Armsmaster	James
+407	_(TRANS)_	Grand Master Armsmaster	James
+408	_(TRANS)_		Rionel NPC 470
+409	_(TRANS)_		Adric Stellare NPC 471
+410	_(TRANS)_		Adric Stellare NPC 471
+411	_(TRANS)_	Expert Alchemy	James
+412	_(TRANS)_	Master Alchemy	James
+413	_(TRANS)_	Grand Master Alchemy	James
+414	_(TRANS)_	Expert Learning (7)	James
+415	_(TRANS)_	Master Learning (6)	James
+416	_(TRANS)_	Grand Master Learning (5)	James		
+417	_(TRANS)_	Expert Staff hint	Expert Staff (2)	James	Puddle Thain
+418	_(TRANS)_	Master Staff hint	Master Staff (4)	James	Celia Stone
+419	_(TRANS)_	Grandmaster Staff hint	Grand Master Staff (6)	James	Tristen Stillwater
+420	_(TRANS)_	Expert Sword hint	Expert Sword (2)	James	Aerie Luodrin
+421	_(TRANS)_	Master Sword hint	Master Sword (13)	James	Jaycin Cardron
+422	_(TRANS)_	Grandmaster Sword hint	Grand Master Sword (5)	James	Miyon Dragontracker
+423	_(TRANS)_	Expert Dagger hint	Expert Dagger (3)	James	Lori Vespers
+424	_(TRANS)_	Master Dagger hint	Master Dagger (2)	James	Jobber
+425	_(TRANS)_	Grandmaster Dagger hint	Grand Master Dagger (13)	James	Karla Nirses
+426	_(TRANS)_	Expert Axe hint	Expert Axe (5)	James	Herald Foestryke
+427	_(TRANS)_	Master Axe hint	Master Axe (2)	James	Jasp Hunter 
+428	_(TRANS)_	Grandmaster Axe hint	Grand Master Axe (7)	James	Garic Senjac
+429	_(TRANS)_	Expert Spear hint	Expert Spear (2)	James	Matric Townsaver
+430	_(TRANS)_	Master Spear hint	Master Spear (3)	James	Ashandra Withersmythe
+431	_(TRANS)_	Grandmaster Spear hint	Grand Master Spear (1)	James	Yarrow
+432	_(TRANS)_	Expert Bow hint	Expert Bow (1)	James	Shivan Keeneye
+433	_(TRANS)_	Master Bow hint	Master Bow (2)	James	Oberic Nosewort
+434	_(TRANS)_	Grandmaster Bow hint	Grand Master Bow (3)	James	Solis
+435	_(TRANS)_	Expert Mace hint	Expert Mace (2)	James	Lisha Sourbrow
+436	_(TRANS)_	Master Mace hint	Master Mace (5)	James	Robert Morningstar
+437	_(TRANS)_	Grandmaster Mace hint	Grand Master Mace (4)	James	Brother Hearthsworn
+438	_(TRANS)_	Expert Shield hint	Expert Shield (3)	James	Qillain Moore
+439	_(TRANS)_	Master Shield hint	Master Shield (6)	James	Sheldon Nightwood
+440	_(TRANS)_	Grandmaster shield hint	Grand Master Shield (5)	James	Peryn Reaverston
+441	_(TRANS)_	Expert Leather hint	Expert Leather (1)	James	Thadin
+442	_(TRANS)_	Master Leather hint	Master Leather (7)	James	Shamus Hollyfield
+443	_(TRANS)_	Grandmaster Leather hint	Grand Master Leather (4)	James	Medwari Elmsmire
+444	_(TRANS)_	Expert Chain hint	Expert Chain (2)	James	Tobren Forgewright 
+445	_(TRANS)_	Master Chain hint	Master Chain (13)	James	Halian Eversmyle
+446	_(TRANS)_	Grandmaster Chain hint	Grand Master Chain (3)	James	Seline Burnkindle
+447	_(TRANS)_	Expert Plate hint	Expert Plate (1)	James	Bone
+448	_(TRANS)_	Master Plate hint	Master Plate (2)	James	Botham
+449	_(TRANS)_	Grandmaster Plate hint	Grand Master Plate (5)	James	Seth Ironfist
+450	_(TRANS)_	Expert Fire Magic hint	Expert Fire_Magic (2)	James	Taren Temper
+451	_(TRANS)_	Master Fire Magic hint	Master Fire_Magic (7)	James	Solomon Steele
+452	_(TRANS)_	Grandmaster Fire Magic hint	Grand Master Fire_Magic (11)	James	Inferno
+453	_(TRANS)_	Expert Air Magic hint	Expert Air_Magic (1)	James	Reshie
+454	_(TRANS)_	Master Air Magic hint	Master Air_Magic (7)	James	Hollis Stormeye
+455	_(TRANS)_	Grandmaster Air Magic hint	Grand Master Air_Magic (9)	James	Cloud Nedlon
+456	_(TRANS)_	Expert Water Magic hint	Expert Water_Magic (2)	James	Ulbrecht Pederton
+457	_(TRANS)_	Master Water Magic hint	Master Water_Magic (4)	James	Gregory Mist
+458	_(TRANS)_	Grandmaster Water Magic hint	Grand Master Water_Magic (12)	James	Black Current
+459	_(TRANS)_	Expert Earth Magic hint	Expert Earth_Magic (1)	James	Ostrin Grivic
+460	_(TRANS)_	Master Earth Magic hint	Master Earth_Magic (2)	James	Dorothy Sablewood
+461	_(TRANS)_	Grandmaster Earth Magic hint	Grand Master Earth_Magic (10)	James	Griven
+462	_(TRANS)_	Expert Spirit Magic hint	Expert Spirit_Magic (2)	James	Straton Hawthorne
+463	_(TRANS)_	Master Spirit Magic hint	Master Spirit_Magic (5)	James	Bethold Kern
+464	_(TRANS)_	Grandmaster Spirit Magic hint	Grand Master Spirit_Magic (8)	James	Lasiter Ravensight
+465	_(TRANS)_	Expert Mind Magic hint	Expert Mind_Magic (3)	James	Shane Krewlen 
+466	_(TRANS)_	Master Mind Magic hint	Master Mind_Magic (7)	James	Barthine Lotts
+467	_(TRANS)_	Grandmaster Mind Magic hint	Grand Master Mind_Magic (8)	James	Gilad Dreamwright
+468	_(TRANS)_	Expert Body Magic hint	Expert Body_Magic (1)	James	Zevah Poised
+469	_(TRANS)_	Master Body Magic hint	Master Body_Magic (5)	James	Tugor Arin
+470	_(TRANS)_	Grandmaster Body Magic hint	Grand Master Body_Magic (8)	James	Critias Snowtree
+471	_(TRANS)_	Expert Light Magic hint	Expert Light_Magic (2)	James	Archibald Dawnsglow
+472	_(TRANS)_	Master Light Magic hint	Master Light_Magic (13)	James	Lunius Dawnbringer
+473	_(TRANS)_	Grandmaster Light Magic hint	Grand Master Light_Magic (8)	James	Aldrin Cleareye
+474	_(TRANS)_	Expert Dark Magic hint	Expert Dark_Magic (3)	James	Patwin Darkenmore
+475	_(TRANS)_	Master Dark Magic hint	Master Dark_Magic (13)	James	Carla Umberpool
+476	_(TRANS)_	Grandmaster Dark Magic hint	Grand Master Dark_Magic (6)	James	Sithicus Shadowrunner
+477	_(TRANS)_	Expert Identify Item hint	Expert Identify_Item (1)	James	Kyra Sparkmen
+478	_(TRANS)_	Master Identify Item hint	Master Identify_Item (3)	James	Eithian
+479	_(TRANS)_	Grandmaster Identify Item hint	Grand Master Identify_Item (6)	James	Elzbet Roggen
+480	_(TRANS)_	Expert Merchant hint	Expert Merchant (1)	James	Fishner Thomb
+481	_(TRANS)_	Master Merchant	Master Merchant (3)	James	Fenton Iverson
+482	_(TRANS)_	Grandmaster Merchant hint	Grand Master Merchant (2)	James	Raven Quicktoungue
+483	_(TRANS)_	Expert Repair Item hint	Expert Repair_Item (3)	James	Evandar Lotts 
+484	_(TRANS)_	Master Repair Item hint	Master Reapir_Item (1)	James	Quick Jeni
+485	_(TRANS)_	Grandmaster Repair Item hint	Grand Master Repair_Item (6)	James	Quethrin Tonk
+486	_(TRANS)_	Expert Body Building hint	Expert Body_building (1)	James	Menasaur
+487	_(TRANS)_	Master Body Building hint	Master Body_Building (5)	James	Kenneth Otterton
+488	_(TRANS)_	Grandmaster Body Building hint	Grand Master Body_Building (4)	James	Mikel Smithson
+489	_(TRANS)_	Expert Meditation hint	Expert Meditation (2)	James	Alton Putnam
+490	_(TRANS)_	Master Meditation hint	Master Meditation (7)	James	Gretchin Nevermore
+491	_(TRANS)_	Grandmaster Meditation hint	Grand Master Meditation (6)	James	Lenord Nightcrawler
+492	_(TRANS)_	Expert Perception hint	Expert Perception (3)	James	Silk Nightwalker
+493	_(TRANS)_	Master Perception hint	Master Perception (6)	James	Helga Steeleye
+494	_(TRANS)_	Grandmaster Perception hint	Grand Master Perception (8)	James	Balan Suretrail
+495	_(TRANS)_	Expert Regeneration hint	Expert Regeneration (4)	James	Kethric Tarent
+496	_(TRANS)_	Master Regeneration hint	Master Regeneration (7)	James	William Sampson
+497	_(TRANS)_	Grand Master Regeneration hint	Grand Master Regeneration	James	Ush the Many Tailed
+498	_(TRANS)_	Expert Disarm Trap hint	Expert Disarm_Trap (1)	James	Chevon Wist
+499	_(TRANS)_	Master Disarm Trap hint	Master Disarm_Trap (13)	James	Kelli Lightfingers
+500	_(TRANS)_	Grandmaster Disarm Trap hint	Grand Master Disarm_Trap (3)	James	Gareth Lifter
+501	_(TRANS)_		Infaustus NPC 472		
+502	_(TRANS)_		Infaustus NPC 472		
+503	_(TRANS)_		Brimstone NPC 473		
+504	_(TRANS)_		Brimstone NPC 473		
+505	_(TRANS)_		Tempus NPC 476		
+506		Grandmaster of Unarmed Combat Hint	Grand Master Unarmed	James	
+507	_(TRANS)_	Expert Identify Monster hint	Expert Identify_Monster (5)	James	Tessa Maker
+508	_(TRANS)_	Master Identify Monster hint	Master Identify_Monster (7)	James	Matric Keenedge
+509	_(TRANS)_	Grandmaster Identify Monster Hint	Grand Master Identify_Monster (2)	James	Blacken Stonecleaver
+510	_(TRANS)_	Expert Armsmaster hint	Expert Armsmaster (5)	James	Norbert Slayer
+511	_(TRANS)_	Master Armsmater hint	Master Armsmaster (1)	James	Lasatin the Scarred
+512	_(TRANS)_	Grandmaster Armsmaster hint	Grand Master Armsmaster (13)	James	Jasper Steelcoif
+513	_(TRANS)_		Tempus NPC 476		
+514	_(TRANS)_		Thorne Understone NPC 477		
+515	_(TRANS)_		Thorne Understone NPC 477		
+516	_(TRANS)_	Expert Alchemy hint	Expert Alchemy (3)	James	Tabitha Watershed
+517	_(TRANS)_	Master Alchemy hint	Master Alchemy (7)	James	Kethry Treasurestone
+518	_(TRANS)_	Grandmaster Alchemy hint	Grand Master Alchemy (1)	James	Ich
+519	_(TRANS)_	Expert Learning hint	Expert Learning (7)	James	Petra Mithrit
+520	_(TRANS)_	Master Learning hint	Master Learning (6)	James	Garret Mistspring
+521	_(TRANS)_	Grandmaster Learning hint	Grand Master Learning (5)	James	Wanda Lightsworn
+522	_(TRANS)_	Expert Vampire hint	Expert Vampire (2)	James	Flynn Shador
+523	_(TRANS)_	Master Vampire hint	Master Vampire (6)	James	Douglas Dirthmoore
+524	_(TRANS)_	Grand Master Vampire (6)	Grand Master Vampire (6)	James	Payge Arachnia
+525	_(TRANS)_	Expert Dark Elf	Expert Dark Elf (3)	James	Fedwin Dervish
+526	_(TRANS)_	Master Dark Elf (2)	Master Dark Elf (2)	James	Lanshee Caverhill
+527	_(TRANS)_	Grand Master Dark Elf (3)	Grand Master Dark Elf (3)	James	Ton Agraynel
+528	_(TRANS)_	Expert Dragon	Expert Dragon	James	Ishton
+529	_(TRANS)_	Master Dragon (5)	Master Dragon (5)	James	Erthint
+530	_(TRANS)_	Grand Master Dragon (5)	Grand Master Dragon (5)	James	Klain Scarwing
+531	_(TRANS)_	Blazen Stormlance		James	
+532	_(TRANS)_	James			
+533	_(TRANS)_	James			
+534	_(TRANS)_				
+535	_(TRANS)_				
+536	_(TRANS)_				
+537	_(TRANS)_				
+538	_(TRANS)_				
+539	_(TRANS)_				
+540	_(TRANS)_				
+541	_(TRANS)_				
+542	_(TRANS)_				
+543	_(TRANS)_		Ulbrecht NPC 478		
+544	_(TRANS)_		Ulbrecht NPC 478
+545	_(TRANS)_		Artorius Veritas NPC 480
+546	_(TRANS)_		Artorius Veritas NPC 480
+547	_(TRANS)_		Duroth NPC 481
+548	_(TRANS)_		Duroth NPC 481
+549			
+550	_(TRANS)_		Oskar Tyre NPC 67
+551	_(TRANS)_		Oskar Tyre NPC 67
+552	_(TRANS)_		Oskar Tyre NPC 67
+553	_(TRANS)_		Oskar Tyre NPC 67
+554	_(TRANS)_		Oskar Tyre NPC 67
+555	_(TRANS)_		Masul NPC 68
+556	_(TRANS)_		Masul NPC 68
+557	_(TRANS)_		Masul NPC 68
+558	_(TRANS)_		Masul NPC 68
+559	_(TRANS)_		Masul NPC 68
+560	_(TRANS)_		Masul NPC 68
+561	_(TRANS)_		Masul NPC 68
+562	_(TRANS)_		Sandro NPC 69
+563	_(TRANS)_		Sandro NPC 69
+564	_(TRANS)_		Sandro NPC 69
+565	_(TRANS)_		Sandro NPC 69
+566	_(TRANS)_		Sandro NPC 69
+567	_(TRANS)_		Sandro NPC 69
+568	_(TRANS)_		Sandro NPC 69
+569	_(TRANS)_		XANTHOR's LACKEY NPC 77
+570	_(TRANS)_		XANTHOR NPC 23
+571	_(TRANS)_		XANTHOR NPC 23
+572	_(TRANS)_		XANTHOR NPC 23
+573	_(TRANS)_		XANTHOR NPC 23
+574	_(TRANS)_		XANTHOR NPC 23
+575	_(TRANS)_		XANTHOR NPC 23
+576	_(TRANS)_		XANTHOR NPC 23
+577	_(TRANS)_		XANTHOR NPC 23
+578	_(TRANS)_		Thant NPC 10
+579	_(TRANS)_		Escaton
+580	_(TRANS)_		Escaton
+581	_(TRANS)_		Escaton
+582	_(TRANS)_		Escaton
+583	_(TRANS)_		Escaton
+584	_(TRANS)_		Escaton
+585	_(TRANS)_		Escaton
+586	_(TRANS)_		Escaton
+587	_(TRANS)_		Escaton
+588	_(TRANS)_		Escaton
+589	_(TRANS)_		Escaton
+590	_(TRANS)_		Escaton
+591	_(TRANS)_		Escaton
+592	_(TRANS)_		Escaton
+593	_(TRANS)_		Escaton
+594	_(TRANS)_		Escaton
+595	_(TRANS)_		Escaton
+596	_(TRANS)_		Escaton
+597	_(TRANS)_		Escaton
+598	_(TRANS)_		Escaton
+599	_(TRANS)_		Escaton
+600	_(TRANS)_		Escaton
+601	_(TRANS)_		Escaton
+602	_(TRANS)_		Escaton
+603	_(TRANS)_		Escaton
+604	_(TRANS)_		Escaton
+605	_(TRANS)_		Escaton
+606	_(TRANS)_		Escaton
+607	_(TRANS)_		Escaton
+608	_(TRANS)_		Shalwend
+609	_(TRANS)_		Acwalander
+610	_(TRANS)_		Gralkor
+611	_(TRANS)_		Pyrannaste
+612	_(TRANS)_		Thanys
+613	_(TRANS)_		Thanys
+614	_(TRANS)_		Masul NPC 68
+615	_(TRANS)_		Brekish Onefang NPC 1
+616	_(TRANS)_		Dadeross
+617	_(TRANS)_		Dadeross
+618	_(TRANS)_		Bounty Hunter
+619	_(TRANS)_		James
+620	_(TRANS)_		James
+621	_(TRANS)_		James
+622	_(TRANS)_		James
+623	_(TRANS)_		James
+624	_(TRANS)_		James
+625	_(TRANS)_		James
+626	_(TRANS)_		James
+627	_(TRANS)_		James
+628	_(TRANS)_		James
+629	_(TRANS)_		James
+630	_(TRANS)_		James
+631	_(TRANS)_		James
+632	_(TRANS)_		James 
+633	_(TRANS)_		James
+634	_(TRANS)_		James
+635	_(TRANS)_		James
+636	_(TRANS)_		James
+637	_(TRANS)_		James
+638	_(TRANS)_		James
+639	_(TRANS)_		James
+640	_(TRANS)_		James
+641			James
+642			James
+643	_(TRANS)_		James
+644	_(TRANS)_		James
+645	_(TRANS)_		James
+646	_(TRANS)_		James
+647	_(TRANS)_		James
+648	_(TRANS)_		James
+649	_(TRANS)_		James
+650	_(TRANS)_		James
+651	_(TRANS)_		James
+652	_(TRANS)_		James
+653	_(TRANS)_		James
+654	_(TRANS)_		James
+655	_(TRANS)_		James
+656	_(TRANS)_		James
+657	_(TRANS)_		James
+658	_(TRANS)_		James
+659	_(TRANS)_		James
+660	_(TRANS)_		James
+661	_(TRANS)_		James
+662	_(TRANS)_		James
+663	_(TRANS)_		James
+664	_(TRANS)_		James
+665	_(TRANS)_		James
+666	_(TRANS)_		James
+667	_(TRANS)_		James
+668	_(TRANS)_		James
+669	_(TRANS)_		James
+670	_(TRANS)_		James
+671	_(TRANS)_		James
+672	_(TRANS)_		James
+673	_(TRANS)_		James
+674	_(TRANS)_		James
+675	_(TRANS)_		James
+676	_(TRANS)_		James
+677	_(TRANS)_		James
+678	_(TRANS)_		James
+679	_(TRANS)_		James
+680	_(TRANS)_		James
+681	_(TRANS)_		James
+682	_(TRANS)_		James
+683	_(TRANS)_		James
+684	_(TRANS)_		James
+685	_(TRANS)_		James
+686	_(TRANS)_		James
+687	_(TRANS)_		James
+688	_(TRANS)_		James
+689	_(TRANS)_		James
+690	_(TRANS)_		James
+691	_(TRANS)_		James
+692	_(TRANS)_		James
+693	_(TRANS)_		James
+694	_(TRANS)_		James
+695	_(TRANS)_		James
+696	_(TRANS)_		James
+697	_(TRANS)_		James
+698	_(TRANS)_		James
+699	_(TRANS)_		James
+700	_(TRANS)_		James
+701	_(TRANS)_		James
+702	_(TRANS)_		James
+703	_(TRANS)_		James
+704	_(TRANS)_		James
+705	_(TRANS)_		James
+706	_(TRANS)_		James
+707	_(TRANS)_		James
+708	_(TRANS)_		James
+709	_(TRANS)_		James
+710	_(TRANS)_		James
+711	_(TRANS)_		James
+712	_(TRANS)_		James
+713	_(TRANS)_		
+714	_(TRANS)_		
+715	_(TRANS)_		
+716	_(TRANS)_		
+717	_(TRANS)_		
+718	_(TRANS)_		
+719	_(TRANS)_		
+720	_(TRANS)_	
+721	_(TRANS)_	
+722	_(TRANS)_	
+723	_(TRANS)_	
+724	_(TRANS)_	
+725	_(TRANS)_	
+726	_(TRANS)_	
+727	_(TRANS)_	
+728	_(TRANS)_	
+729	_(TRANS)_	Failed game
+730	_(TRANS)_	Failed contest
+731	_(TRANS)_	Failed test
+732	_(TRANS)_	Failed challenge
+733	_(TRANS)_	Already won
+734	_(TRANS)_	Won Game
+735	_(TRANS)_	Won Contest
+736	_(TRANS)_	Won Test
+737	_(TRANS)_	Won Challenge
+738	_(TRANS)_	
+739	_(TRANS)_	
+740	_(TRANS)_	
+741	_(TRANS)_	
+742	_(TRANS)_	
+743	_(TRANS)_	
+744	_(TRANS)_	
+745	_(TRANS)_	
+746	_(TRANS)_	
+747	_(TRANS)_	
+748	_(TRANS)_	James
+749	_(TRANS)_	James
+750	_(TRANS)_	James
+751	_(TRANS)_	James
+752	_(TRANS)_	James
+753	_(TRANS)_	James
+754	_(TRANS)_	James
+755	_(TRANS)_	James
+756	_(TRANS)_	James
+757	_(TRANS)_	James
+758	_(TRANS)_	James
+759	_(TRANS)_	James
+760	_(TRANS)_	James
+761	_(TRANS)_	James
+762	_(TRANS)_	James
+763	_(TRANS)_	James
+764	_(TRANS)_	James
+765	_(TRANS)_	James
+766	_(TRANS)_	James
+767	_(TRANS)_	James
+768			
+769	_(TRANS)_		
+770	_(TRANS)_	James	
+771	_(TRANS)_	James	
+772	_(TRANS)_	James	
+773	_(TRANS)_	James	
+774	_(TRANS)_	James	
+775	_(TRANS)_	James	
+776	_(TRANS)_	James	
+777	_(TRANS)_	James	
+778	_(TRANS)_	James	
+779	_(TRANS)_	James	
+780	_(TRANS)_	James	
+781	_(TRANS)_	James	
+782	_(TRANS)_		Sahil Ittalle
+783	_(TRANS)_		Sahil Ittalle
+784	_(TRANS)_		Sahil Ittalle
+785	_(TRANS)_		Sahil Ittalle
+786	_(TRANS)_		Sahil Ittalle
+787	_(TRANS)_		Sahil Ittalle
+788	_(TRANS)_		Sahil Ittalle
+789	_(TRANS)_		Sahil Ittalle
+790	_(TRANS)_		James
+791	_(TRANS)_		James
+792	_(TRANS)_		James
+793	_(TRANS)_		James
+794	_(TRANS)_		
+795	_(TRANS)_		Roland Ironfist
+796	_(TRANS)_		Roland Ironfist
+797	_(TRANS)_		Roland Ironfist
+798	_(TRANS)_		Catherine Ironfist
+799	_(TRANS)_		Catherine Ironfist
+800	_(TRANS)_		Catherine Ironfist
+801	_(TRANS)_		James
+802	_(TRANS)_		James
+803	_(TRANS)_		James
+804	_(TRANS)_		James
+805			
+806			
+807			
+808			
+809			
+810	_(TRANS)_		Asael Fromago
+811	_(TRANS)_		Asael Fromago
+812	_(TRANS)_		Asael Fromago
+813	_(TRANS)_		Asael Fromago
+814	_(TRANS)_		Asael Fromago
+815	_(TRANS)_		Asael Fromago
+816	_(TRANS)_		Asael Fromago
+817	_(TRANS)_		Hint Ravenshore
+818	_(TRANS)_		Hint Ravenshore
+819	_(TRANS)_		Hint Ravenshore
+820	_(TRANS)_		Hint Ravenshore
+821	_(TRANS)_		"Hint Ravenshore, Dagger Wound, Ravage Roaming, Shadowspire"
+822	_(TRANS)_		"Hint Ravenshore, Dagger Wound, Ravage Roaming, Shadowspire"
+823	_(TRANS)_		"Hint Ravenshore, Dagger Wound, Ravage Roaming, Shadowspire"
+824	_(TRANS)_		Hint Alvar
+825	_(TRANS)_		Hint Alvar
+826	_(TRANS)_		"Hint Ravenshore, Alvar"
+827	_(TRANS)_		"Hint Ravenshore, Alvar"
+828	_(TRANS)_		Hint Ironsand
+829	_(TRANS)_		Hint Ironsand
+830	_(TRANS)_		Hint Ironsand
+831	_(TRANS)_		Hint anywhere
+832	_(TRANS)_		Poundlin Deerhunter
+833	_(TRANS)_		Bazalath NPC 443
+834	_(TRANS)_		Isram Delver NPC 418
+835	_(TRANS)_		topic 675
+836	_(TRANS)_		Elsie Apple NPC 405
+837	_(TRANS)_		Aznog Black NPC 409
+838	_(TRANS)_		Mortie Bith NPC 408
+839	_(TRANS)_		Jillian Applebee NPC 406
+840	_(TRANS)_		Plane of Earth one
+841	_(TRANS)_		Plane of Earth two
+842	_(TRANS)_		Plane of Air one
+843	_(TRANS)_		Plane of Air two
+844	_(TRANS)_		Plane of Water one
+845	_(TRANS)_		Plane of Water two
+846	_(TRANS)_		Plane of Fire one
+847	_(TRANS)_		Plane of Fire two
+848	_(TRANS)_		Overdune Snapfinger NPC 7
+849	_(TRANS)_		Lathius
+850	_(TRANS)_		Lathius
+851	_(TRANS)_		Seer
+852	_(TRANS)_		Seer
+853	_(TRANS)_		Charles Quixote
+854	_(TRANS)_		K Memoria
+855	_(TRANS)_		K Memoria
+856	_(TRANS)_		Maylander
+857	_(TRANS)_		Maylander
+858	_(TRANS)_		Thelbourne
+859	_(TRANS)_		Thelbourne
+860	_(TRANS)_		Deftclaw Redreaver
+861	_(TRANS)_		D Farswell
+862	_(TRANS)_		D Farswell
+863	_(TRANS)_		B Featherwind NPC422
+864	_(TRANS)_		Weldrick Falconeye NPC 420
+865	_(TRANS)_		K Fellburn NPC 423
+866	_(TRANS)_		L Gallowswell NPC 428
+867	_(TRANS)_		A Fiddlebone NPC 424
+868	_(TRANS)_		Sethrik Fist NPC 425
+869	_(TRANS)_		Bigfist Slowstepper NPC 426
+870	_(TRANS)_		Zephyr NPC 427
+871	_(TRANS)_		Davee Sail NPC 503
+872	_(TRANS)_		Erik Jarblower NPC 504
+873	_(TRANS)_		Jarrena Marmon NPC 505
+874	_(TRANS)_		Pirate Paul NPC 506
+875	_(TRANS)_		Yoel Wargreen NPC 507
+876	_(TRANS)_		Pordo NPC 508
+877	_(TRANS)_		Vish NPC 509
+878	_(TRANS)_		Ferris NPC 510
+879	_(TRANS)_		ex-captain terrence NPC 511
+880	_(TRANS)_		F Ferne NPC 512
+881	_(TRANS)_		Dierdre Wallace NPC 513
+882	_(TRANS)_		Dierdre Wallace NPC 513
+883	_(TRANS)_		Nalani NPC 514
+884	_(TRANS)_		R Mercer NPC 515
+885	_(TRANS)_		James Hint
+886	_(TRANS)_		Bastian Loudrin
+887	_(TRANS)_		Elgar Fellmoon
+888	_(TRANS)_		Shalwend
+889	_(TRANS)_		Acwalander
+890	_(TRANS)_		Gralkor
+891	_(TRANS)_		Pyrannaste
+892	_(TRANS)_		Bastian Loudrin
+893	_(TRANS)_		Leane
+894	_(TRANS)_		Leane
+895	_(TRANS)_		seer
+896	_(TRANS)_		seer
+897	_(TRANS)_		seer
+898	_(TRANS)_		seer
+899	_(TRANS)_		seer
+900	_(TRANS)_		seer
+901	_(TRANS)_		seer
+902	_(TRANS)_		seer
+903	_(TRANS)_		seer
+904	_(TRANS)_		seer
+905	_(TRANS)_		seer
+906	_(TRANS)_		seer
+907	_(TRANS)_		seer
+908	_(TRANS)_		seer
+909	_(TRANS)_		seer
+910	_(TRANS)_		seer
+911	_(TRANS)_		seer
+912	_(TRANS)_		seer
+913	_(TRANS)_		seer
+914	_(TRANS)_		seer
+915	_(TRANS)_		seer
+916	_(TRANS)_		seer
+917	_(TRANS)_		seer
+918	_(TRANS)_		seer
+919	_(TRANS)_		Jeebes
+920	_(TRANS)_		Jeebes
+921	_(TRANS)_		
+922	_(TRANS)_		
+923	_(TRANS)_		
+924	_(TRANS)_		
+925	_(TRANS)_		
+926	_(TRANS)_		
+927	_(TRANS)_		
+928	_(TRANS)_		
+929	_(TRANS)_		
+930	_(TRANS)_		
+931	_(TRANS)_		
+932	_(TRANS)_		
+933	_(TRANS)_		
+934	_(TRANS)_		
+935	_(TRANS)_		
+936	_(TRANS)_		
+937	_(TRANS)_		
+938	_(TRANS)_		
+939	_(TRANS)_		
+940	_(TRANS)_		
+941	_(TRANS)_		
+942	_(TRANS)_		
+943			
+944		
+945		
+946		
+947		
+948		
+949		
+950		
+951		
+952		
+953		
+954		
+955		
+956		
+957		
+958		
+959		
+960		
+961		
+962		
+963		
+964		
+965		
+966		
+967		
+968		
+969		
+970		
+971		
+972		
+973		
+974		
+975		
+976		
+977		
+978		
+979		
+980		
+981		
+982		
+983		
+984		
+985		
+986		
+987		
+988		
+989		
+990		
+991		
+992		
+993		
+994		
+995		
+996		
+997		
+998		
+999		
+1000		
+1001		
+1002		
+1003		
+1004		
+1005		
+1006		
+1007		
+1008
+1009
+1010
+1011
+1012
+1013
+1014
+1015
+1016
+1017
+1018
+1019
+1020
+1021
+1022
+1023
+1024
+1025
+1026
+1027
+1028
+1029
+1030
+1031
+1032
+1033
+1034
+1035
+1036
+1037
+1038
+1039
+1040
+1041
+1042
+1043
+1044
+1045
+1046
+1047

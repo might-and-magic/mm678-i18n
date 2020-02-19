@@ -1,0 +1,52 @@
+News # 	Text	Notes
+0	Group 0.	Default change me text
+1	_(TRANS)_	Peasant
+2	_(TRANS)_	Adventurer
+3	_(TRANS)_	Ambusher
+4	_(TRANS)_	Guard
+5	_(TRANS)_	"Peasant message 2, Emerald Island"
+6	_(TRANS)_	"Adventurer message 2, Emerald Island"
+7	Group 7	
+8	Group 8	
+9	Group 9	
+10	_(TRANS)_	Southern Village Group in Harmondale
+11	_(TRANS)_	Main village in Harmondale
+12	_(TRANS)_	Tent camp in Erathia
+13	_(TRANS)_	Stedwick Group
+14	_(TRANS)_	Stilt city dwellers in the Tularean Forest
+15	_(TRANS)_	Group walkers in the Tularean forest
+16	_(TRANS)_	Northern town on Deyja
+17	_(TRANS)_	Southern town in Deyja
+18	_(TRANS)_	Stable and Tele dwellers in Bracada
+19	_(TRANS)_	Eastern village and boat dwellers in Bracada
+20	_(TRANS)_	Ridge walkers in Bracada
+21	_(TRANS)_	Peasents up till town fountain in Celeste
+22	_(TRANS)_	Peasents after town fountain in Celeste
+23	_(TRANS)_	Peasents in first area of the pit
+24	_(TRANS)_	Peasents in the second area of the pit
+25	_(TRANS)_	Peasents in the third area of the pit
+26	_(TRANS)_	Peasents in main town of nighon
+27	_(TRANS)_	Peasents in western town of Nighon
+28	_(TRANS)_	Peasents in Eastern village of Nighon
+29	_(TRANS)_	Peasents in the Mercenary guild village
+30	_(TRANS)_	Peasents in the wharf town
+31	_(TRANS)_	Peasents in the village area
+32	_(TRANS)_	Peasents in the Dock area
+33	_(TRANS)_	Peasents good endgame
+34	_(TRANS)_	Peasents evil endgame
+35	_(TRANS)_	Peasants in 6/7 endgame
+36	_(TRANS)_	Peasants in 5/8 endgame
+37	_(TRANS)_	
+38	_(TRANS)_	
+39	_(TRANS)_	
+40	_(TRANS)_	
+41	_(TRANS)_	
+42	_(TRANS)_	
+43	_(TRANS)_	
+44	_(TRANS)_	
+45	_(TRANS)_	
+46	_(TRANS)_	
+47	_(TRANS)_
+48	_(TRANS)_
+49	_(TRANS)_
+50	_(TRANS)_

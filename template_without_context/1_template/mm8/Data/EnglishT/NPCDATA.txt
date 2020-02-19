@@ -1,0 +1,1002 @@
+NPC Data (Special)			Group			Current	Profession	Greet	Join	Event	Event	Event	Event	Event	Event	
+#	Name	Pic	A	B	C	2D Location	 1 - 76	#	Y / N	# A	# B	# C	# D	# E	# F	Notes
+1	_(TRANS)_	833	0	0	0	173	0	3	0	7	8	9	0	0	0	"(1) Lizardman Throne Room, Lizardman Leader pre Qbit 6 after, NPC 35"
+2	_(TRANS)_	1040	0	0	0	173	0	2	0	20	5	6	72	0	0	"(1) Lizardman Throne Room, Minotaur, Caravan Leader pre Qbit 6, cut after bit set becomes 36"
+3	_(TRANS)_	884	0	0	0	195	0	10	0	28	0	0	0	0	0	"(2) Merchanthouse, door"
+4	_(TRANS)_	2179	0	0	0	174	0	12	0	32	188	187	0	0	0	"(2) Smuggler's Cove, wererat smuggler leader"
+5	_(TRANS)_	2104	0	0	0	176	0	14	0	41	0	0	0	0	0	"(3) Merchant Guild, dark elf merchant one"
+6	_(TRANS)_	2102	0	0	0	0	0	0	0	0	0	0	0	0	0	Dark Elf Merchant Two
+7	_(TRANS)_	2923	0	0	0	0	0	16	0	45	701	0	0	0	0	"(4) 2DLoc initially ""0"". Set to 177 in Event 42"
+8	_(TRANS)_	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"(3) Drk Elf Rch House, pc"
+9	_(TRANS)_	2927	0	0	0	180	0	31	0	94	96	0	0	0	0	"(6) Necromancers' Guild ,w 180"
+10	_(TRANS)_	1163	0	0	0	180	0	0	0	158	0	0	0	0	0	"(6) Necromancers' Guild, w 180"
+11	_(TRANS)_	2907	0	0	0	181	0	0	0	97	98	99	0	0	0	"(6) Necromancers' Guild, pc w 181"
+12	_(TRANS)_	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"(6) Necromancer Rich House, pc"
+13	_(TRANS)_	2922	0	0	0	183	0	29	0	744	0	0	0	0	0	"(8) Minotaur Lair, (2) Merchant House of Alvar"
+14	_(TRANS)_	1	0	0	0	0	0	0	0	0	0	0	0	0	0	"(8) Minotaur Lair, pc"
+15	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		23
+16	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+17	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+18	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+19	_(TRANS)_	2160	0	0	0	179	0	21	0	63	56	58	57	0	0	"(5) Dragon Hunters' Camp, (2) Merchant House of Alvar"	
+20	_(TRANS)_	1	0	0	0	0	0	0	0	0	0	0	0	0	0	(5) Dragon Hunters' Camp	
+21	_(TRANS)_	2161	0	0	0	178	0	19	0	48	60	62	0	0	0	"(5) Dragon's Cave, (2) Merchant House of Alvar"	
+22	_(TRANS)_	1	0	0	0	0	0	0	0	0	0	0	0	0	0	(8) Barbarian Fortress	
+23	_(TRANS)_	2138	0	0	0	0	0	45	0	152	0	0	0	0	0	(2) Rich Dark Elf House	
+24	_(TRANS)_	2182	0	0	0	0	0	0	0	590	591	592	0	0	0	(2) Merchant House of Alvar	
+25	_(TRANS)_	2181	0	0	0	0	0	55	0	587	588	589	0	0	0	(2) Merchant House of Alvar	
+26	_(TRANS)_	2184	0	0	0	184	0	48	0	159	0	0	0	0	0	(14) Eschaton's Palace	
+27	_(TRANS)_	2163	0	0	0	442	0	53	0	170	0	0	0	0	0	(14) Prison of the Lord of Fire	
+28	_(TRANS)_	2164	0	0	0	440	0	51	0	168	0	0	0	0	0	(14) Prison of the Lord of Water	
+29	_(TRANS)_	2162	0	0	0	441	0	52	0	169	0	0	0	0	0	(14) Prison of the Lord of Earth	
+30	_(TRANS)_	2159	0	0	0	439	0	50	0	167	0	0	0	0	0	(14) Prison of the Lord of Air	
+31	_(TRANS)_	816	0	0	0	0	0	1	0	1	2	3	0	0	0	"(1) Outside, Lizardman Journeyman Merchant of Alvar"	
+32	_(TRANS)_	2905	0	0	0	237	0	5	0	10	11	0	0	0	0	"(1) Cleric House, Cleric PC that joins party"	
+33	_(TRANS)_	832	0	0	0	225	0	6	0	14	15	16	17	0	0	"(1) Peasant House, Find Brother Secondary Quest"	
+34	_(TRANS)_	835	0	0	0	226	0	7	0	18	19	584	0	0	0	"(1) Peasant House, Prophecies of the Snake Secondary Quest"	
+35	_(TRANS)_	1	0	0	0	0	0	0	0	0	0	0	0	0	0	STILL USED?	
+36	_(TRANS)_	1040	0	0	0	0	0	0	0	0	0	0	0	0	0	"(3) Drk Elf Medium House, After Qbit 6 set"	
+37	_(TRANS)_	1248	0	0	0	182	0	37	0	102	0	0	0	0	0	(7) w 182 - door inside the Sun Temple	
+38	_(TRANS)_	1173	0	0	0	0	0	107	0	0	0	0	0	0	0	Necromancer Guard	
+39	_(TRANS)_	2926	0	0	0	0	0	108	0	0	0	0	0	0	0	Dragon Guard	
+40	_(TRANS)_	1073	0	0	0	0	0	109	0	0	0	0	0	0	0	Dragon Hunter Guard	
+41	_(TRANS)_	1237	0	0	0	0	0	110	0	0	0	0	0	0	0	Wererat Guard	
+42	_(TRANS)_	1073	0	0	0	0	0	111	0	0	0	0	0	0	0	Placemon in dh camp area 5	
+43	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+44	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		
+45	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+46	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		7
+47	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+48	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+49	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		8
+50	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+51	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+52	_(TRANS)_	882	0	0	0	304	0	0	0	22	23	733	0	0	0	(3) Dark Elf Promotion Quest	
+53	_(TRANS)_	884	0	0	0	175	0	24	0	104	105	731	0	0	0	"(2) Merchanthouse, Council Chamber"	
+54	_(TRANS)_	1246	0	0	0	391	0	104	0	27	0	0	0	0	0	(8) Cleric of the Sun	
+55	_(TRANS)_	947	0	0	0	0	0	0	0	24	25	0	0	0	0	"(8) Dark Elf Hero, Promotion Quest"	
+56	_(TRANS)_	2924	0	0	0	339	0	0	0	35	36	37	0	0	0	(4)Troll Promo	
+57	_(TRANS)_	881	0	0	0	306	0	54	0	581	582	583	0	0	0	(3) Guy who talks about alliance promo	
+58	_(TRANS)_	1123	0	0	0	0	0	13	0	0	0	0	0	0	0	(6) Guard in Necromancers' Guild	
+59	_(TRANS)_	884	0	0	0	0	0	105	0	0	0	0	0	0	0	(7) Statues in Area 7 for Dark Elf Promo	39
+60	_(TRANS)_	983	0	0	0	0	0	17	0	0	0	0	0	0	0	"(4) 2D Loc set in event 42, Event 47 set in event 46 "	
+61	_(TRANS)_	1145	0	0	0	0	0	0	0	0	0	0	0	0	0	"(6) Mad Necromancer's Lair, Mad Necromancer"	
+62	_(TRANS)_	1080	0	0	0	316	0	0	0	52	0	51	0	0	0	"(5) House at Dragon Hunter fort, Knight Promo Start"	
+63	_(TRANS)_	2907	0	0	0	285	0	0	0	50	659	0	0	0	0	"(2) Cleric, Rescue Blazen Stormlance Secondary Quest"
+64	_(TRANS)_	1074	0	0	0	0	0	0	0	735	0	0	0	0	0	(5) Quixote's Chamber (179) after Quixote goes to w 175
+65	_(TRANS)_	2160	0	0	0	0	0	23	0	0	0	58	0	0	0	"(2) Merchanthouse, Council Chamber"
+66	_(TRANS)_	2161	0	0	0	0	0	25	0	123	60	62	0	0	0	"(2) Merchanthouse, Council Chamber"
+67	_(TRANS)_	1248	0	0	0	0	0	26	0	130	0	0	0	0	0	"(2) Merchanthouse, Council Chamber"
+68	_(TRANS)_	2922	0	0	0	0	0	27	0	137	0	0	0	0	0	"(2) Merchanthouse, Council Chamber"
+69	_(TRANS)_	2927	0	0	0	0	0	28	0	144	0	0	0	0	0	"(2) Merchanthouse, Council Chamber"
+70	_(TRANS)_	2921	0	0	0	402	0	30	0	66	172	0	0	0	0	"(8) Minotaur Lair, house near entrance"
+71	_(TRANS)_	1025	0	0	0	418	0	0	0	69	70	0	0	0	0	"(8) Minotaur Lair, house near entrance, Promo dude"
+72	_(TRANS)_	2901	0	0	0	390	0	0	0	80	0	78	76	77	0	(2) Cleric Promo dude
+73	_(TRANS)_	1251	0	0	0	0	0	0	0	0	0	0	0	0	0	(7) Cleric in the foyer of the Temple of the Sun
+74	_(TRANS)_	2927	0	0	0	355	0	0	0	86	0	0	0	0	0	(2) Necro Promo dude
+75	_(TRANS)_	1160	0	0	0	360	0	0	0	82	83	738	0	0	0	(6) Vampire Promo Dude
+76	_(TRANS)_	1163	0	0	0	0	0	0	0	0	0	0	0	0	0	"(6) Thant after Sandro leaves, placed here leaving N guild after alliance formed"
+77	_(TRANS)_	1240	0	0	0	0	0	44	0	151	0	0	0	0	0	(2) Rich Dark Elf House place w276 after fleet sunk
+78	_(TRANS)_	820	0	0	0	241	0	0	0	174	0	0	0	0	0	(1)Begin Jungle Fever Secondary Quest
+79	_(TRANS)_	816	0	0	0	229	0	0	0	177	585	0	0	0	0	(1) Poisoned Water Supply Secondary Quest	
+80	_(TRANS)_	972	0	0	0	339	0	0	0	734	0	0	0	0	0	(4)Secondary Troll promo dude	7
+81	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		7
+82	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		7
+83	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		7
+84	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		8
+85	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		8
+86	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		8
+87	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		8
+88	_(TRANS)_	808	0	0	0	230	0	0	0	179	180	181	0	0	0	(1) Potion of Pure Speed Secondary Quest	
+89	_(TRANS)_	806	0	0	0	224	0	0	0	182	0	586	0	0	0	(1) Idol of the Snake Secondary Quest	
+90	_(TRANS)_	824	0	0	0	232	0	0	0	296	190	584	0	0	0	(1) Brother of Rohtnax	
+91	_(TRANS)_	935	0	0	0	283	0	0	0	184	185	0	0	0	0	(2) Kill Dire Wolves and Cash for Pelts Secondary Quests	
+92	_(TRANS)_	977	0	0	0	244	0	0	0	190	671	0	0	0	0	(2) Hint About Location of Anointed Potion	
+93	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+94	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+95	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+96	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+97	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+98	_(TRANS)_	1243	0	0	0	271	0	0	0	193	0	0	0	0	0	(2) Recover Shield Eclipse for Cleric Secondary Quest	
+99	_(TRANS)_	949	0	0	0	325	0	0	0	201	202	203	0	0	0	(3) Potion of Pure Luck Secondary Quest	
+100	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		23
+101	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+102	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+103	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+104	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+105	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+106	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+107	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+108	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+109	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		23
+110	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+111	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		39
+112	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+113	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+114	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+115	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		39
+116	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+117	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+118	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+119	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		39
+120	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+121	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+122	_(TRANS)_	1062	0	0	0	267	0	0	0	191	192	0	0	0	0	(2) Pays for Naga Hides	
+123	_(TRANS)_	891	0	0	0	327	0	0	0	198	199	0	0	0	0	(3) Kill All Ogres Secondary Quest and Pays bounty on Ogre Ears	
+124	_(TRANS)_	1250	0	0	0	401	0	0	0	244	245	246	0	0	0	(8) Potion of Pure Accuracy Secondary Quest	
+125	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		39
+126	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+127	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		9
+128	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+129	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+130	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+131	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+132	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+133	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+134	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+135	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+136	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+137	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+138	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+139	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+140	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+141	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+142	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+143	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+144	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+145	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+146	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+147	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+148	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+149	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+150	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+151	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+152	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+153	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+154	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+155	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+156	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+157	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+158	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+159	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		7
+160	_(TRANS)_	973	0	0	0	333	0	0	0	210	211	0	0	0	0	(4) Potion of Pure Endurance Secondary Quest	
+161	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+162	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		8
+163	_(TRANS)_	871	0	0	0	328	0	0	0	204	205	0	0	0	0	(3) Pays for Wasp Stingers	
+164	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+165	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+166	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+167	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+168	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		9
+169	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+170	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+171	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+172	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+173	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+174	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+175	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+176	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+177	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+178	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+179	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+180	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+181	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+182	_(TRANS)_	815	0	0	0	235	0	0	0	294	585	0	0	0	0	(1) CureJungle Fever Secondary Quest	
+183	_(TRANS)_	807	0	0	0	236	0	0	0	295	586	0	0	0	0	(1) CureJungle Fever Secondary Quest	
+184	_(TRANS)_	975	0	0	0	335	0	0	0	575	669	0	0	0	0	(4) Fire Resistance Potion Secondary Quest	
+185	_(TRANS)_	1116	0	0	0	374	0	0	0	232	233	234	0	0	0	(6) Potion of Pure Intellect Secondary Quest	
+186	_(TRANS)_	974	0	0	0	337	0	0	0	206	207	0	0	0	0	(4) Begin Deliver Fire Resistance Potions Secondary Quest	
+187	_(TRANS)_	1013	0	0	0	397	0	0	0	242	243	0	0	0	0	(8) Buys Wyvern Horns	
+188	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+189	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+190	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+191	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+192	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		9
+193	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+194	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+195	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		9
+196	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+197	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+198	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+199	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+200	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+201	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+202	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		12
+203	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+204	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+205	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+206	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+207	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+208	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+209	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+210	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+211	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		9
+212	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+213	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+214	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+215	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+216	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+217	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+218	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+219	_(TRANS)_	978	0	0	0	339	0	0	0	195	196	197	0	0	0	(4) Royal Wasp Jelly Secondary Quest	
+220	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+221	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+222	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+223	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+224	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+225	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+226	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+227	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		39
+228	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+229	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+230	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+231	_(TRANS)_	1074	0	0	0	344	0	0	0	213	0	0	0	0	0	(5) Dragon Hunters Dragonbane Secondary Quest	
+232	_(TRANS)_	1240	0	0	0	393	0	0	0	238	239	240	0	0	0	(7) Potion of Pure Personallity Quest	
+233	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+234	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		39
+235	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		39
+236	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		39
+237	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+238	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+239	_(TRANS)_	2925	0	0	0	352	0	0	0	216	0	0	0	0	0	(5) Dragons Dragonbane Secondary Quest	
+240	_(TRANS)_	1065	0	0	0	340	0	0	0	219	0	0	0	0	0	(5) Kill All Dragons Secondary quest	
+241	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+242	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+243	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+244	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+245	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+246	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+247	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+248	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+249	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+250	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+251	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		10
+252	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+253	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+254	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		7
+255	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+256	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+257	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		6
+258	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		9
+259	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+260	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		4
+261	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		8
+262	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		39
+263	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+264	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+265	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		5
+266	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+267	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+268	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+269	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		2
+270	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		3
+271	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		13
+272	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		14
+273	_(TRANS)_	2926	0	0	0	350	0	0	0	221	0	0	0	0	0	(5) Kill All Dragon Hunters Secondary Quest	
+274	_(TRANS)_	1071	0	0	0	318	0	0	0	223	224	0	0	0	0	(5) Drum of Vicotry Secondary Quest	
+275	_(TRANS)_	1102	0	0	0	384	0	0	0	226	227	0	0	0	0	(6) Bone of Doom Secondary Quest	
+276	_(TRANS)_	1101	0	0	0	372	0	0	0	229	728	0	0	0	0	(6) Puzzle Box Secondary Quest	
+277	_(TRANS)_	1122	0	0	0	366	0	0	0	235	236	0	0	0	0	(6) Vial of Grave Dirt Secondary Quest	
+278	_(TRANS)_	1205	0	0	0	432	0	0	0	249	247	248	0	0	0	(13) Lost Treasure of the Dread Pirate Stanley Secondary Quest	
+279	_(TRANS)_	834	0	0	0	240	0	0	0	250	251	584	0	0	0	(1) Simple Trading Triangle	
+280	_(TRANS)_	1243	0	0	0	251	0	0	0	252	253	0	0	0	0	(2) Simple Trading Triangle	
+281	_(TRANS)_	872	0	0	0	313	0	0	0	254	255	0	0	0	0	(3) Simple Trading Triangle	
+282	_(TRANS)_	1252	0	0	0	395	0	0	0	256	257	0	0	0	0	(7) Long Trading Triangle	
+283	_(TRANS)_	1147	0	0	0	370	0	0	0	258	259	0	0	0	0	(6) Long Trading Triangle 	
+284	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		 
+285	_(TRANS)_	1236	0	0	0	0	0	0	0	741	0	0	0	0	0	Arion Hunters daughter	 
+286	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		 
+287	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		 
+288	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		 
+289	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		  
+290	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0		 
+291	_(TRANS)_	1200	0	0	0	436	0	98	0	260	261	0	0	0	0	(13) Long trading Triangle	
+292	_(TRANS)_	1113	0	0	0	369	0	0	0	262	263	0	0	0	0	(6) Mysterious Trading Triangle	
+293	_(TRANS)_	896	0	0	0	274	0	0	0	264	265	0	0	0	0	(2) Mysterious Trading Triangle	
+294	_(TRANS)_	1016	0	0	0	452	0	0	0	266	267	0	0	0	0	(8) Mysterious Trading Triangle	
+295	_(TRANS)_	2903	0	0	0	0	0	115	0	53	54	55	0	0	0	(6) Part of Knight Promotion Quest	
+296	_(TRANS)_	1212	0	0	0	115	0	0	0	298	0	0	0	0	0	(13) False Report Secondary Quest	
+297	_(TRANS)_	1067	0	0	0	272	0	0	0	579	577	578	0	0	0	(2) Bounty Hunter Quest	
+298	_(TRANS)_	888	0	0	0	301	0	0	0	579	577	578	0	0	0	(3) Bounty Hunter Quest	
+299	_(TRANS)_	1	0	0	0	0	0	0	0	0	0	0	0	0	0		
+300	_(TRANS)_	940	0	0	0	254	0	49	0	303	421	422	0	0	0	Expert Sword (2)	
+301	_(TRANS)_	1206	0	0	0	316	0	49	0	304	420	422	0	0	0	Master Sword (5)	
+302	_(TRANS)_	1070	0	0	0	423	0	49	0	305	420	421	0	0	0	Grand Master Sword (13)	
+303	_(TRANS)_	1073	0	0	0	318	0	49	0	309	427	428	0	0	0	Expert Axe (5)
+304	_(TRANS)_	986	0	0	0	284	0	49	0	310	426	428	0	0	0	Master Axe (2)
+305	_(TRANS)_	1046	0	0	0	413	0	49	0	311	426	427	0	0	0	Grand Master Axe (8)
+306	_(TRANS)_	978	0	0	0	248	0	49	0	300	418	419	0	0	0	Expert Staff (2)
+307	_(TRANS)_	978	0	0	0	331	0	49	0	301	417	419	571	0	0	Master Staff (4)
+308	_(TRANS)_	1128	0	0	0	377	0	49	0	302	417	418	0	0	0	Grand Master Staff (6)
+309	_(TRANS)_	867	0	0	0	259	0	49	0	312	430	431	0	0	0	Expert Spear (2)
+310	_(TRANS)_	926	0	0	0	287	0	49	0	313	429	431	0	0	0	Master Spear (3)
+311	_(TRANS)_	800	0	0	0	240	0	49	0	314	429	430	0	0	0	Grand Master Spear (1)
+312	_(TRANS)_	931	0	0	0	288	0	49	0	306	424	425	0	0	0	Expert Dagger (3)
+313	_(TRANS)_	1245	0	0	0	260	0	49	0	307	423	425	0	0	0	Master Dagger (2)
+314	_(TRANS)_	1217	0	0	0	424	0	49	0	308	423	424	0	0	0	Grand Master Dagger (13)
+315	_(TRANS)_	805	0	0	0	230	0	49	0	315	433	434	0	0	0	Expert Bow (1)
+316	_(TRANS)_	897	0	0	0	282	0	49	0	316	432	434	0	0	0	Master Bow (2)
+317	_(TRANS)_	869	0	0	0	289	0	49	0	317	432	433	0	0	0	Grand Master Bow (3)
+318	_(TRANS)_	958	0	0	0	259	0	49	0	318	436	437	0	0	0	Expert Mace (2)
+319	_(TRANS)_	1014	0	0	0	317	0	49	0	319	435	437	0	0	0	Master Mace (5)
+320	_(TRANS)_	986	0	0	0	332	0	49	0	320	435	436	572	0	0	Grand Master Mace (4)
+321	_(TRANS)_	807	0	0	0	227	0	49	0	327	442	443	0	0	0	Exper Leather (1)
+322	_(TRANS)_	1032	0	0	0	417	0	49	0	328	441	443	0	0	0	Master Leather (8)
+323	_(TRANS)_	970	0	0	0	333	0	49	0	329	441	442	573	0	0	Grand Master Leather (4)
+324	_(TRANS)_	920	0	0	0	249	0	49	0	330	445	446	0	0	0	Expert Chain (2)
+325	_(TRANS)_	1210	0	0	0	290	0	49	0	331	444	446	0	0	0	Master Chain (3)
+326	_(TRANS)_	937	0	0	0	425	0	49	0	332	444	445	0	0	0	Grand Master Chain (13)
+327	_(TRANS)_	818	0	0	0	233	0	49	0	333	448	449	292	0	0	Expert Plate (1)
+328	_(TRANS)_	1068	0	0	0	273	0	49	0	334	447	449	0	0	0	Master Plate (2)
+329	_(TRANS)_	1081	0	0	0	319	0	49	0	335	447	448	0	0	0	Grand Master Plate (5)
+330	_(TRANS)_	885	0	0	0	291	0	49	0	324	439	440	0	0	0	Expert Shield (3)
+331	_(TRANS)_	1115	0	0	0	362	0	49	0	325	438	440	0	0	0	Master Shield (6)
+332	_(TRANS)_	1063	0	0	0	320	0	49	0	326	438	439	0	0	0	Grand Master Shield (5)
+333	_(TRANS)_	876	0	0	0	268	0	49	0	336	451	452	0	0	0	Expert Fire_Magic (2)
+334	_(TRANS)_	892	0	0	0	300	0	49	0	337	450	452	0	0	0	Master Fire_Magic (3)
+335	_(TRANS)_	1257	0	0	0	321	0	49	0	338	450	451	0	0	0	Grand Master Fire_Magic (11)
+336	_(TRANS)_	1244	0	0	0	247	0	49	0	342	457	458	0	0	0	Expert Water_Magic (2)
+337	_(TRANS)_	978	0	0	0	334	0	49	0	343	456	458	574	0	0	Master Water_Magic (4)
+338	_(TRANS)_	1273	0	0	0	323	0	49	0	344	456	457	0	0	0	Grand Master Water_Magic (12)
+339	_(TRANS)_	823	0	0	0	238	0	49	0	339	454	455	0	0	0	Expert Air_Magic (1)
+340	_(TRANS)_	1029	0	0	0	419	0	49	0	340	453	455	0	0	0	Master Air_Magic (7)
+341	_(TRANS)_	1267	0	0	0	450	0	49	0	341	453	454	0	0	0	Grand Master Air_Magic (9)
+342	_(TRANS)_	835	0	0	0	242	0	49	0	345	460	461	0	0	0	Expert Earth_Magic (1)
+343	_(TRANS)_	949	0	0	0	299	0	49	0	346	459	461	0	0	0	Master Earth_Magic (2)
+344	_(TRANS)_	1262	0	0	0	477	0	49	0	347	459	460	0	0	0	Grand Master Earth_Magic (10)
+345	_(TRANS)_	1240	0	0	0	280	0	49	0	348	463	464	0	0	0	Expert Spirit_Magic (2)
+346	_(TRANS)_	1072	0	0	0	347	0	49	0	349	462	464	0	0	0	Master Spirit_Magic (5)
+347	_(TRANS)_	1250	0	0	0	388	0	49	0	350	462	463	0	0	0	Grand Master Spirit_Magic (7)
+348	_(TRANS)_	862	0	0	0	292	0	49	0	351	466	467	0	0	0	Expert Mind_Magic (3)
+349	_(TRANS)_	1026	0	0	0	416	0	49	0	352	465	467	0	0	0	Master Mind_Magic (8)
+350	_(TRANS)_	1088	0	0	0	389	0	49	0	353	465	466	0	0	0	Grand Master Mind_Magic (7)
+351	_(TRANS)_	801	0	0	0	231	0	49	0	354	469	470	290	0	0	Expert Body_Magic (1)
+352	_(TRANS)_	1066	0	0	0	341	0	49	0	355	468	470	0	0	0	Master Body_Magic (5)
+353	_(TRANS)_	1240	0	0	0	390	0	49	0	356	468	469	0	0	0	Grand Master Body_Magic (7)
+354	_(TRANS)_	1245	0	0	0	256	0	49	0	357	472	473	0	0	0	Expert Light_Magic (2)
+355	_(TRANS)_	1203	0	0	0	391	0	49	0	358	471	473	0	0	0	Master Light_Magic (7)
+356	_(TRANS)_	1242	0	0	0	426	0	49	0	359	471	472	0	0	0	Grand Master Light_Magic (13)
+357	_(TRANS)_	866	0	0	0	293	0	49	0	360	475	476	0	0	0	Expert Dark_Magic (3)
+358	_(TRANS)_	1215	0	0	0	373	0	49	0	361	474	476	0	0	0	Master Dark_Magic (6)
+359	_(TRANS)_	1165	0	0	0	427	0	49	0	362	474	475	0	0	0	Grand Master Dark_Magic (13)
+360	_(TRANS)_	1168	0	0	0	363	0	49	0	366	523	524	0	0	0	Expert Vampire(6)
+361	_(TRANS)_	1163	0	0	0	359	0	49	0	367	522	524	0	0	0	Master Vampire (6)
+362	_(TRANS)_	1181	0	0	0	358	0	49	0	368	522	523	0	0	0	Grand Master Vampire (6)
+363	_(TRANS)_	901	0	0	0	294	0	49	0	363	526	527	0	0	0	Expert Dark Elf (3)
+364	_(TRANS)_	933	0	0	0	266	0	49	0	364	525	527	0	0	0	Master Dark Elf (2)
+365	_(TRANS)_	902	0	0	0	295	0	49	0	365	525	526	0	0	0	Grand Master Dark Elf (3)
+366	_(TRANS)_	2925	0	0	0	350	0	49	0	369	529	530	0	0	0	Expert Dragon(5)
+367	_(TRANS)_	2926	0	0	0	351	0	49	0	370	528	530	0	0	0	Master Dragon (5)
+368	_(TRANS)_	2926	0	0	0	352	0	49	0	371	528	529	0	0	0	Grand Master Dragon (5)
+369	_(TRANS)_	807	0	0	0	228	0	49	0	393	499	500	0	0	0	Expert Disarm_Trap (1)
+370	_(TRANS)_	1211	0	0	0	296	0	49	0	394	498	500	0	0	0	Master Disarm_Trap (3)
+371	_(TRANS)_	901	0	0	0	428	0	49	0	395	498	499	0	0	0	Grand Master Disarm_Trap (13)
+372	_(TRANS)_	889	0	0	0	297	0	49	0	387	493	494	0	0	0	Expert Perception (3)
+373	_(TRANS)_	1119	0	0	0	371	0	49	0	388	492	494	0	0	0	Master Perception (6)
+374	_(TRANS)_	1031	0	0	0	407	0	49	0	389	492	493	0	0	0	Grand Master Perception (8)
+375	_(TRANS)_	816	0	0	0	232	0	49	0	375	481	482	291	0	0	Expert Merchant (1)
+376	_(TRANS)_	875	0	0	0	308	0	49	0	376	480	482	0	0	0	Master Merchant (3)
+377	_(TRANS)_	949	0	0	0	263	0	49	0	377	480	481	0	0	0	Grand Master Merchant (2)
+378	_(TRANS)_	1083	0	0	0	392	0	49	0	414	520	521	0	0	0	Expert Learning (7)
+379	_(TRANS)_	1129	0	0	0	357	0	49	0	415	519	521	0	0	0	Master Learning (6)
+380	_(TRANS)_	1080	0	0	0	342	0	49	0	416	519	520	0	0	0	Grand Master Learning (5)
+381	_(TRANS)_	1060	0	0	0	269	0	49	0	384	490	491	0	0	0	Expert Meditation (2)
+382	_(TRANS)_	930	0	0	0	305	0	49	0	385	489	491	0	0	0	Master Meditation (7)
+383	_(TRANS)_	1162	0	0	0	356	0	49	0	386	489	490	0	0	0	Grand Master Meditation (6)
+384	_(TRANS)_	802	0	0	0	235	0	49	0	381	487	488	0	0	0	Expert Body_building (1)
+385	_(TRANS)_	1013	0	0	0	343	0	49	0	382	486	488	0	0	0	Master Body_Building (5)
+386	_(TRANS)_	971	0	0	0	336	0	49	0	383	486	487	576	0	0	Grand Master Body_Building (4)
+387	_(TRANS)_	918	0	0	0	298	0	49	0	372	478	479	0	0	0	Expert Identify_Item (1)
+388	_(TRANS)_	834	0	0	0	229	0	49	0	373	477	479	0	0	0	Master Identify_Item (3)
+389	_(TRANS)_	1157	0	0	0	365	0	49	0	374	477	478	0	0	0	Grand Master Identify_Item (6)
+390	_(TRANS)_	1241	0	0	0	281	0	49	0	378	484	485	0	0	0	Expert Repair_Item (2)
+391	_(TRANS)_	1079	0	0	0	348	0	49	0	379	483	485	0	0	0	Master Reapir_Item (5)
+392	_(TRANS)_	1244	0	0	0	393	0	49	0	380	483	484	0	0	0	Grand Master Repair_Item (7)
+393	_(TRANS)_	1086	0	0	0	345	0	49	0	402	508	509	0	0	0	Expert Identify_Monster (5)
+394	_(TRANS)_	1103	0	0	0	394	0	49	0	403	507	509	0	0	0	Master Identify_Monster (7)
+395	_(TRANS)_	1072	0	0	0	275	0	49	0	404	507	508	0	0	0	Grand Master Identify_Monster (2)
+396	_(TRANS)_	1065	0	0	0	346	0	49	0	405	511	512	0	0	0	Expert Armsmaster (5)
+397	_(TRANS)_	802	0	0	0	234	0	49	0	406	510	512	293	0	0	Master Armsmaster (1)
+398	_(TRANS)_	1209	0	0	0	429	0	49	0	407	510	511	0	0	0	Grand Master Armsmaster (13)
+399	_(TRANS)_	958	0	0	0	302	0	49	0	411	517	518	0	0	0	Expert Alchemy (3)
+400	_(TRANS)_	1223	0	0	0	395	0	49	0	412	516	518	0	0	0	Master Alchemy (7)
+401	_(TRANS)_	805	0	0	0	228	0	49	0	413	516	517	0	0	0	Grand Master Alchemy (1)
+402	_(TRANS)_	972	0	0	0	338	0	49	0	390	496	497	0	0	0	Expert Regeneration (4)
+403	_(TRANS)_	1247	0	0	0	396	0	49	0	391	495	497	0	0	0	Master Regeneration (7)
+404	_(TRANS)_	834	0	0	0	243	0	49	0	392	495	496	0	0	0	Grand Master Regeneration (1)
+405	_(TRANS)_	919	0	0	0	250	0	60	0	676	0	0	0	0	0	Hint NPC in Ravenshore
+406	_(TRANS)_	958	0	0	0	255	0	62	0	679	0	0	0	0	0	Hint NPC in Ravenshore
+407	_(TRANS)_	1061	0	0	0	319	0	0	0	675	0	0	0	0	0	Hint NPC in DH camp
+408	_(TRANS)_	1250	0	0	0	379	0	61	0	678	0	0	0	0	0	Hint NPC in Shadowspire
+409	_(TRANS)_	978	0	0	0	253	0	0	0	677	0	0	0	0	0	Troll Hint NPC in Ravenshore
+410	_(TRANS)_	1078	0	0	0	262	0	0	0	0	597	0	0	0	0	Arcomange Secondary Quest (2)
+411	_(TRANS)_	863	0	0	0	326	0	106	0	594	0	0	0	0	0	Ore Weapon (3)
+412	_(TRANS)_	881	0	0	0	314	0	106	0	595	0	0	0	0	0	Ore Armor (3)
+413	_(TRANS)_	920	0	0	0	315	0	106	0	596	0	0	0	0	0	Ore Item (3)
+414	_(TRANS)_	1153	0	0	0	361	0	106	0	594	0	0	0	0	0	Ore Item (6)
+415	_(TRANS)_	1168	0	0	0	375	0	106	0	595	0	0	0	0	0	Ore Item (6)
+416	_(TRANS)_	1117	0	0	0	378	0	106	0	596	0	0	0	0	0	Ore Item (6)
+417	_(TRANS)_	940	0	0	0	258	0	58	0	672	0	0	0	0	0	"Ravenshore, Vault of Time Hint"
+418	_(TRANS)_	1067	0	0	0	317	0	58	0	674	0	0	0	0	0	Hint NPC in DH camp
+419	_(TRANS)_	971	0	0	0	286	0	0	0	661	663	0	0	0	0	Hint Npc
+420	_(TRANS)_	1064	0	0	0	349	0	93	0	711	0	0	0	0	0	Hint Npc
+421	_(TRANS)_	877	0	0	0	329	0	58	0	709	0	0	0	0	0	Hint Npc
+422	_(TRANS)_	880	0	0	0	330	0	58	0	710	0	0	0	0	0	Hint Npc
+423	_(TRANS)_	934	0	0	0	380	0	58	0	712	0	0	0	0	0	Hint Npc
+424	_(TRANS)_	899	0	0	0	382	0	94	0	714	0	0	0	0	0	Hint Npc
+425	_(TRANS)_	901	0	0	0	385	0	95	0	715	0	0	0	0	0	Hint Npc
+426	_(TRANS)_	976	0	0	0	331	0	94	0	716	0	0	0	0	0	Hint Npc
+427	_(TRANS)_	1266	0	0	0	445	0	96	0	717	0	0	0	0	0	Hint Npc
+428	_(TRANS)_	936	0	0	0	381	0	58	0	713	0	0	0	0	0	Hint Npc
+429	_(TRANS)_	866	0	0	0	257	0	0	0	663	665	0	0	0	0	Hint Npc
+430	_(TRANS)_	987	0	0	0	335	0	0	0	668	671	0	0	0	0	Hint Npc
+431	_(TRANS)_	981	0	0	0	336	0	0	0	669	0	0	0	0	0	Hint Npc
+432	_(TRANS)_	985	0	0	0	337	0	0	0	670	0	0	0	0	0	Hint Npc
+433	_(TRANS)_	883	0	0	0	311	0	0	0	664	0	0	0	0	0	Hint Npc
+434	_(TRANS)_	864	0	0	0	307	0	0	0	665	0	0	0	0	0	Hint Npc
+435	_(TRANS)_	884	0	0	0	265	0	0	0	661	0	0	0	0	0	Hint Npc
+436	_(TRANS)_	986	0	0	0	252	0	0	0	662	671	0	0	0	0	Hint Npc
+437	_(TRANS)_	924	0	0	0	246	0	0	0	663	662	0	0	0	0	Hint Npc
+438	_(TRANS)_	984	0	0	0	245	0	0	0	660	0	0	0	0	0	Hint Npc
+439	_(TRANS)_	930	0	0	0	270	0	0	0	659	665	0	0	0	0	Hint Npc
+440	_(TRANS)_	898	0	0	0	278	0	0	0	658	663	0	0	0	0	Hint Npc
+441	_(TRANS)_	878	0	0	0	264	0	0	0	657	666	0	0	0	0	Hint Npc
+442	_(TRANS)_	865	0	0	0	303	0	57	0	654	655	656	0	0	0	Cheese Connoisseur in Alvar
+443	_(TRANS)_	2926	0	0	0	350	0	0	0	673	0	0	0	0	0	Dragon Hint NPC in Dragon Cave
+444	_(TRANS)_	1261	0	0	0	457	0	63	0	680	0	0	0	0	0	Hint NPC in Plane of Earth
+445	_(TRANS)_	1260	0	0	0	458	0	64	0	681	0	0	0	0	0	Hint NPC in Plane of Earth
+446	_(TRANS)_	1267	0	0	0	443	0	65	0	682	0	0	0	0	0	Hint NPC in Plane of Air
+447	_(TRANS)_	1265	0	0	0	444	0	66	0	683	0	0	0	0	0	Hint NPC in Plane of Air
+448	_(TRANS)_	1272	0	0	0	472	0	67	0	684	0	0	0	0	0	Hint NPC in Plane of Water
+449	_(TRANS)_	1271	0	0	0	473	0	68	0	685	0	0	0	0	0	Hint NPC in Plane of Water
+450	_(TRANS)_	1	0	0	0	0	0	0	0	601	0	0	0	0	0	Roster PC
+451	_(TRANS)_	1	0	0	0	0	0	0	0	602	0	0	0	0	0	Roster PC
+452	_(TRANS)_	2901	0	0	0	0	0	103	0	603	0	0	0	0	0	Roster PC
+453	_(TRANS)_	1	0	0	0	0	0	0	0	604	0	0	0	0	0	Roster PC
+454	_(TRANS)_	2921	0	0	0	257	0	71	0	605	0	0	0	0	0	Roster PC
+455	_(TRANS)_	2918	0	0	0	309	0	72	0	606	0	0	0	0	0	Roster PC
+456	_(TRANS)_	1	0	0	0	0	0	0	0	607	0	0	0	0	0	Roster PC
+457	_(TRANS)_	2925	0	0	0	351	0	73	0	608	0	0	0	0	0	Roster PC
+458	_(TRANS)_	2910	0	0	0	279	0	74	0	706	0	0	0	0	0	Roster PC
+459	_(TRANS)_	2907	0	0	0	261	0	75	0	707	0	0	0	0	0	Roster PC
+460	_(TRANS)_	2904	0	0	0	0	0	0	0	611	0	0	0	0	0	Roster PC
+461	_(TRANS)_	2924	0	0	0	0	0	0	0	612	0	0	0	0	0	(4) troll promo
+462	_(TRANS)_	1	0	0	0	0	0	0	0	613	0	0	0	0	0	Roster PC
+463	_(TRANS)_	2917	0	0	0	310	0	76	0	708	0	0	0	0	0	Roster PC
+464	_(TRANS)_	2915	0	0	0	364	0	77	0	615	0	0	0	0	0	Roster PC
+465	_(TRANS)_	2926	0	0	0	483	0	79	0	616	0	0	0	0	0	Roster PC
+466	_(TRANS)_	2928	0	0	0	383	0	80	0	688	0	0	0	0	0	Roster PC
+467	_(TRANS)_	2905	0	0	0	482	0	81	0	689	0	0	0	0	0	Roster PC
+468	_(TRANS)_	2903	0	0	0	480	0	82	0	690	0	0	0	0	0	Roster PC
+469	_(TRANS)_	2923	0	0	0	479	0	83	0	691	0	0	0	0	0	Roster PC
+470	_(TRANS)_	2921	0	0	0	408	0	84	0	692	0	0	0	0	0	Roster PC
+471	_(TRANS)_	2919	0	0	0	312	0	85	0	693	0	0	0	0	0	Roster PC
+472	_(TRANS)_	2914	0	0	0	368	0	86	0	694	0	0	0	0	0	Roster PC
+473	_(TRANS)_	2925	0	0	0	484	0	87	0	695	0	0	0	0	0	Roster PC
+474	_(TRANS)_	2928	0	0	0	0	0	0	0	625	0	0	0	0	0	(6) Necro Promo
+475	_(TRANS)_	2907	0	0	0	0	0	0	0	626	0	0	0	0	0	(2) Eclipse secondary quest
+476	_(TRANS)_	2903	0	0	0	481	0	88	0	696	0	0	0	0	0	Roster PC
+477	_(TRANS)_	2924	0	0	0	478	0	89	0	697	0	0	0	0	0	Roster PC
+478	_(TRANS)_	2922	0	0	0	412	0	90	0	698	0	0	0	0	0	Roster PC
+479	_(TRANS)_	2920	0	0	0	0	0	0	0	630	0	0	0	0	0	(7) dark elf promo 
+480	_(TRANS)_	2915	0	0	0	376	0	91	0	699	0	0	0	0	0	Roster PC
+481	_(TRANS)_	2926	0	0	0	485	0	92	0	700	0	0	0	0	0	Roster PC
+482	_(TRANS)_	2911	0	0	0	367	0	78	0	633	0	0	0	0	0	Roster PC
+483	_(TRANS)_	1	0	0	0	0	0	0	0	634	0	0	0	0	0	Roster PC
+484	_(TRANS)_	2903	0	0	0	0	0	0	0	635	0	0	0	0	0	(6) knight promo
+485	_(TRANS)_	1	0	0	0	0	0	0	0	636	0	0	0	0	0	Roster PC
+486	_(TRANS)_	1	0	0	0	0	0	0	0	637	0	0	0	0	0	Roster PC
+487	_(TRANS)_	1	0	0	0	0	0	0	0	638	0	0	0	0	0	Roster PC
+488	_(TRANS)_	1	0	0	0	0	0	0	0	639	0	0	0	0	0	Roster PC
+489	_(TRANS)_	1	0	0	0	0	0	0	0	640	0	0	0	0	0	Roster PC
+490	_(TRANS)_	1	0	0	0	0	0	0	0	641	0	0	0	0	0	Roster PC
+491	_(TRANS)_	1	0	0	0	0	0	0	0	642	0	0	0	0	0	Roster PC
+492	_(TRANS)_	1	0	0	0	0	0	0	0	643	0	0	0	0	0	Roster PC
+493	_(TRANS)_	1	0	0	0	0	0	0	0	644	0	0	0	0	0	Roster PC
+494	_(TRANS)_	1	0	0	0	0	0	0	0	645	0	0	0	0	0	Roster PC
+495	_(TRANS)_	1	0	0	0	0	0	0	0	646	0	0	0	0	0	Roster PC
+496	_(TRANS)_	1	0	0	0	0	0	0	0	647	0	0	0	0	0	Roster PC
+497	_(TRANS)_	1	0	0	0	0	0	0	0	648	0	0	0	0	0	Roster PC
+498	_(TRANS)_	1	0	0	0	0	0	0	0	649	0	0	0	0	0	Roster PC
+499	_(TRANS)_	1259	0	0	0	467	0	69	0	686	0	0	0	0	0	Hint NPC in Plane of Fire
+500	_(TRANS)_	1257	0	0	0	468	0	70	0	687	0	0	0	0	0	Hint NPC in Plane of Fire
+501	_(TRANS)_	1080	0	0	0	0	0	0	0	704	0	0	0	0	0	Arena Master
+502	_(TRANS)_	878	0	0	0	187	0	113	0	705	732	0	0	0	0	Seer
+503	_(TRANS)_	1208	0	0	0	399	0	97	0	718	0	0	0	0	0	Hint NPC
+504	_(TRANS)_	1213	0	0	0	430	0	98	0	719	0	0	0	0	0	Hint NPC
+505	_(TRANS)_	1216	0	0	0	431	0	98	0	720	0	0	0	0	0	HintNPC
+506	_(TRANS)_	1201	0	0	0	433	0	98	0	721	0	0	0	0	0	HintNPC
+507	_(TRANS)_	1173	0	0	0	386	0	99	0	722	0	0	0	0	0	HintNPC
+508	_(TRANS)_	1010	0	0	0	400	0	100	0	723	0	0	0	0	0	HintNPC
+509	_(TRANS)_	1011	0	0	0	398	0	100	0	724	0	0	0	0	0	HintNPC
+510	_(TRANS)_	1030	0	0	0	403	0	58	0	725	0	0	0	0	0	HintNPC
+511	_(TRANS)_	1204	0	0	0	434	0	101	0	726	0	0	0	0	0	HintNPC
+512	_(TRANS)_	1222	0	0	0	435	0	98	0	727	0	0	0	0	0	HintNPC
+513	_(TRANS)_	1180	0	0	0	387	0	62	0	728	0	0	0	0	0	HintNPC
+514	_(TRANS)_	1221	0	0	0	437	0	98	0	729	0	0	0	0	0	HintNPC
+515	_(TRANS)_	1224	0	0	0	438	0	102	0	730	0	0	0	0	0	HintNPC
+516	_(TRANS)_	800	0	0	0	0	0	0	0	0	0	0	0	0	0	
+517	_(TRANS)_	818	0	0	0	0	0	0	0	0	0	0	0	0	0	
+518	_(TRANS)_	933	0	0	0	0	0	0	0	0	0	0	0	0	0	
+519	_(TRANS)_	860	0	0	0	0	0	0	0	0	0	0	0	0	0	
+520	_(TRANS)_	1009	0	0	0	0	0	0	0	0	0	0	0	0	0	
+521	_(TRANS)_	1238	0	0	0	0	0	0	0	0	0	0	0	0	0	
+522	_(TRANS)_	977	0	0	0	0	0	0	0	0	0	0	0	0	0	
+523	_(TRANS)_	1061	0	0	0	0	0	0	0	0	0	0	0	0	0	
+524	_(TRANS)_	1183	0	0	0	0	0	0	0	0	0	0	0	0	0	
+525	_(TRANS)_	1251	0	0	0	0	0	0	0	0	0	0	0	0	0	
+526	_(TRANS)_	1208	0	0	0	0	0	0	0	0	0	0	0	0	0	
+527	_(TRANS)_	1044	0	0	0	0	0	0	0	0	0	0	0	0	0
+528	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+529	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+530	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+531	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+532	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+533	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+534	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+535	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+536	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+537	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+538	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+539	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+540	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+541	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+542	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+543	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+544	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+545	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+546	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+547	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+548	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+549	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+550	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+551	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+552	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+553	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+554	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+555	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+556	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+557	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+558	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+559	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+560	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+561	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+562	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+563	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+564	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+565	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+566	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+567	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+568	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+569	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+570	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+571	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+572	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+573	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+574	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+575	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+576	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+577	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+578	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+579	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+580	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+581	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+582	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+583	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+584	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+585	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+586	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+587	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+588	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+589	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+590	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+591	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+592	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+593	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+594	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+595	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+596	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+597	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+598	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+599	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+600	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+601	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+602	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+603	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+604	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+605	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+606	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+607	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+608	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+609	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+610	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+611	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+612	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+613	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+614	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+615	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+616	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+617	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+618	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+619	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+620	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+621	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+622	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+623	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+624	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+625	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+626	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+627	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+628	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+629	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+630	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+631	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+632	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+633	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+634	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+635	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+636	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+637	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+638	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+639	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+640	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+641	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+642	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+643	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+644	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+645	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+646	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+647	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+648	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+649	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+650	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+651	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+652	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+653	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+654	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+655	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+656	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+657	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+658	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+659	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+660	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+661	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+662	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+663	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+664	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+665	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+666	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+667	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+668	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+669	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+670	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+671	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+672	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+673	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+674	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+675	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+676	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+677	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+678	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+679	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+680	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+681	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+682	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+683	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+684	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+685	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+686	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+687	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+688	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+689	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+690	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+691	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+692	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+693	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+694	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+695	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+696	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+697	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+698	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+699	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+700	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+701	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+702	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+703	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+704	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+705	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+706	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+707	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+708	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+709	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+710	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+711	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+712	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+713	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+714	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+715	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+716	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+717	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+718	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+719	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+720	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+721	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+722	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+723	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+724	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+725	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+726	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+727	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+728	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+729	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+730	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+731	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+732	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+733	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+734	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+735	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+736	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+737	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+738	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+739	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+740	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+741	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+742	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+743	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+744	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+745	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+746	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+747	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+748	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+749	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+750	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+751	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+752	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+753	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+754	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+755	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+756	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+757	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+758	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+759	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+760	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+761	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+762	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+763	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+764	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+765	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+766	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+767	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+768	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+769	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+770	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+771	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+772	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+773	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+774	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+775	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+776	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+777	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+778	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+779	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+780	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+781	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+782	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+783	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+784	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+785	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+786	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+787	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+788	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+789	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+790	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+791	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+792	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+793	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+794	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+795	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+796	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+797	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+798	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+799	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+800	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+801	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+802	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+803	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+804	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+805	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+806	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+807	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+808	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+809	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+810	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+811	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+812	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+813	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+814	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+815	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+816	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+817	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+818	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+819	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+820	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+821	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+822	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+823	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+824	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+825	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+826	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+827	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+828	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+829	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+830	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+831	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+832	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+833	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+834	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+835	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+836	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+837	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+838	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+839	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+840	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+841	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+842	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+843	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+844	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+845	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+846	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+847	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+848	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+849	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+850	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+851	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+852	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+853	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+854	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+855	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+856	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+857	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+858	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+859	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+860	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+861	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+862	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+863	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+864	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+865	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+866	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+867	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+868	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+869	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+870	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+871	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+872	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+873	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+874	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+875	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+876	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+877	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+878	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+879	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+880	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+881	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+882	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+883	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+884	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+885	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+886	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+887	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+888	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+889	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+890	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+891	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+892	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+893	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+894	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+895	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+896	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+897	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+898	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+899	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+900	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+901	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+902	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+903	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+904	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+905	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+906	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+907	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+908	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+909	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+910	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+911	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+912	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+913	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+914	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+915	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+916	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+917	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+918	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+919	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+920	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+921	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+922	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+923	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+924	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+925	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+926	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+927	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+928	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+929	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+930	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+931	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+932	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+933	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+934	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+935	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+936	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+937	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+938	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+939	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+940	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+941	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+942	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+943	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+944	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+945	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+946	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+947	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+948	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+949	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+950	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+951	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+952	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+953	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+954	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+955	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+956	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+957	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+958	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+959	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+960	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+961	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+962	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+963	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+964	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+965	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+966	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+967	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+968	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+969	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+970	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+971	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+972	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+973	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+974	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+975	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+976	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+977	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+978	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+979	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+980	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+981	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+982	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+983	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+984	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+985	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+986	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+987	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+988	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+989	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+990	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+991	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+992	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+993	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+994	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+995	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+996	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+997	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+998	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+999	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+1000	_(TRANS)_	0	0	0	0	0	0	0	0	0	0	0	0	0	0

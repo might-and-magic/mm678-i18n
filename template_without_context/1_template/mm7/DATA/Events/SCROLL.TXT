@@ -1,0 +1,87 @@
+Item#	message text	Location	Item Name
+700	_(TRANS)_	Event	Message from Erathia
+701	_(TRANS)_	Event	Cipher
+702	_(TRANS)_	"Event, School of Sorcery"	Scroll of Waves
+703	_(TRANS)_	"Player Castle, Event (I believe)"	Basic Cryptography
+704	_(TRANS)_	Event	Message from Mr. Stantley
+705	_(TRANS)_	Fort Riverstride	Riverstride Plans
+706	_(TRANS)_	Event	False Riverstride Plans
+707	_(TRANS)_	Chest in fort in Area 2	Fragment of Soldier's Diary
+708	_(TRANS)_	Tularean Caves	Letter from Mr. Stantley
+709	_(TRANS)_	"Grand Temple of Light, somewhere accesible"	Torn Page
+710	_(TRANS)_	"White Cliff Caves, near the cards and skeleton"	Remains of a Journal
+711	_(TRANS)_	Torture chamber of Castle Harmondale	Journal Excerpt
+712	_(TRANS)_	Message from Archibald to Evil Ambassador	Letter from Archibald
+713	_(TRANS)_	Mercenary Guild	Letter from Malwick
+714	_(TRANS)_	Tularean Caves	Letter from Gavin Magnus
+715	_(TRANS)_	Dragon Cave on Emerald Island	Journal Fragment
+716	_(TRANS)_	Castle Harmondale either obviously placed or on a goblin	Letter to Hairbaugh
+717	_(TRANS)_	Erathian Sewers	Letter from Mr. Stantley
+718	_(TRANS)_	Grand Temple of the Sun	"Journal Entry, 23rd April"
+719	_(TRANS)_	Nighon in chest	"Journal Entry, 30th June"
+720	_(TRANS)_	Lord Markham's Manor	Excerpt from a Diary
+721	_(TRANS)_	Bandit Caves	Letter
+722	_(TRANS)_	Barrow Downs	"Journal Entry, 11th December"
+723	_(TRANS)_	Fort Riverstride	Orders from Steadwick
+724	_(TRANS)_	Tatalia	"Journal Entry, 2nd January"
+725	_(TRANS)_	Deyja	"Journal Entry, 19th September"
+726	_(TRANS)_	Red Dwarf Mines	Journal Entry
+727	Missing Scroll Text 727		Empty Message Scroll
+728	_(TRANS)_	In Chest with Abby Normal Head in Bracada Desert	Bill of Sale
+729	Missing Scroll Text 729		Empty Message Scroll
+730	Missing Scroll Text 730		Empty Message Scroll
+731	Missing Scroll Text 731		Empty Message Scroll
+732	Missing Scroll Text 732		Empty Message Scroll
+733	Missing Scroll Text 733		Empty Message Scroll
+734	_(TRANS)_	Temple of Baa	Letter from Xenofex
+735	Missing Scroll Text 735		Empty Message Scroll
+736	Missing Scroll Text 736		Empty Message Scroll
+737	Missing Scroll Text 737		Empty Message Scroll
+738	Missing Scroll Text 738		Empty Message Scroll
+739	Missing Scroll Text 739		Empty Message Scroll
+740	_(TRANS)_	Rejuvenation	
+741	_(TRANS)_	Pure Might	
+742	_(TRANS)_	Pure Accuracy	
+743	_(TRANS)_	Pure Personality	
+744	_(TRANS)_	Pure Endurance	
+745	_(TRANS)_	Pure Intellect	
+746	_(TRANS)_	Pure Speed	
+747	_(TRANS)_	Pure Luck
+748	_(TRANS)_	Slaying Potion
+749	_(TRANS)_	Stone To Flesh
+750	_(TRANS)_	Might Boost
+751	_(TRANS)_	Intellect Boost
+752	_(TRANS)_	Personality Boost
+753	_(TRANS)_	Endurance Boost
+754	_(TRANS)_	Speed Boost
+755	_(TRANS)_	Accuracy Boost
+756	_(TRANS)_	Flaming Potion
+757	_(TRANS)_	Freezing Potion
+758	_(TRANS)_	Noxious Potion
+759	_(TRANS)_	Shocking Potion
+760	_(TRANS)_	Swift Potion
+761	_(TRANS)_	Cure Paralysis
+762	_(TRANS)_	Divine Restoration
+763	_(TRANS)_	Divine Cure
+764	_(TRANS)_	Divine Power
+765	_(TRANS)_	Luck Boost
+766	_(TRANS)_	Fire Resistance
+767	_(TRANS)_	Air Resistance
+768	_(TRANS)_	Water Resistance
+769	_(TRANS)_	Earth Resistance
+770	_(TRANS)_	Mind Resistance
+771	_(TRANS)_	Body Resistance
+772		
+773		
+774		
+775		
+776		
+777		
+778		
+779			
+780			Ritual of Dark Containment
+781			
+			
+			
+			
+			

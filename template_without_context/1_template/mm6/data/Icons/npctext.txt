@@ -1,0 +1,522 @@
+Text Number From NPC Events.Doc		
+#	Text	Notes
+1	_(TRANS)_	
+2	_(TRANS)_	
+3	_(TRANS)_	
+4	_(TRANS)_	
+5	_(TRANS)_	
+6	_(TRANS)_	
+7	_(TRANS)_	
+8	_(TRANS)_	
+9	_(TRANS)_	
+10	_(TRANS)_	
+11	_(TRANS)_	
+12	_(TRANS)_	
+13	_(TRANS)_	
+14	_(TRANS)_	
+15	_(TRANS)_	
+16	_(TRANS)_	
+17	_(TRANS)_	
+18	_(TRANS)_	
+19	_(TRANS)_	
+20	_(TRANS)_	
+21	_(TRANS)_	
+22	_(TRANS)_	
+23	_(TRANS)_	
+24	_(TRANS)_	
+25	_(TRANS)_	
+26	_(TRANS)_	
+27	_(TRANS)_	
+28	_(TRANS)_	
+29	_(TRANS)_	
+30	_(TRANS)_	Bringing Nicolai home
+31	_(TRANS)_	This text can only be accessed via an external event.
+32	_(TRANS)_	
+33	_(TRANS)_	
+34	_(TRANS)_	
+35	_(TRANS)_	
+36	_(TRANS)_	
+37	_(TRANS)_	
+38	missing text 38	
+39	_(TRANS)_	Archibald speaks
+40	_(TRANS)_	
+41	_(TRANS)_	
+42	missing text 42	
+43	_(TRANS)_	
+44	_(TRANS)_	
+45	_(TRANS)_	
+46	_(TRANS)_	
+47	_(TRANS)_	
+48	_(TRANS)_	
+49	_(TRANS)_	
+50	_(TRANS)_	
+51	_(TRANS)_	
+52	_(TRANS)_	
+53	_(TRANS)_	
+54	_(TRANS)_	seer unfinished
+55	_(TRANS)_	seer unfinished
+56	_(TRANS)_	btb award default
+57	_(TRANS)_	seer unfinished
+58	1	divine intervention
+59	2	divine intervention
+60	3	divine intervention
+61	_(TRANS)_	
+62	_(TRANS)_	unused.
+63	_(TRANS)_	
+64	_(TRANS)_	
+65	_(TRANS)_	
+66	_(TRANS)_	
+67	_(TRANS)_	
+68	_(TRANS)_	
+69	_(TRANS)_	
+70	_(TRANS)_	
+71	_(TRANS)_	
+72	_(TRANS)_	
+73	_(TRANS)_	
+74	_(TRANS)_	
+75	_(TRANS)_	
+76	_(TRANS)_	
+77	_(TRANS)_	
+78	_(TRANS)_	
+79	_(TRANS)_	
+80	_(TRANS)_	
+81	_(TRANS)_	
+82	_(TRANS)_	
+83	_(TRANS)_	
+84	_(TRANS)_	
+85	_(TRANS)_	
+86	_(TRANS)_	
+87	_(TRANS)_	
+88	_(TRANS)_	
+89	_(TRANS)_	
+90	_(TRANS)_	
+91	_(TRANS)_	
+92	_(TRANS)_	
+93	_(TRANS)_	
+94	_(TRANS)_	
+95	_(TRANS)_	
+96	_(TRANS)_	
+97	_(TRANS)_	
+98	_(TRANS)_	
+99	_(TRANS)_	
+100	_(TRANS)_	
+101	_(TRANS)_	
+102	_(TRANS)_	
+103	_(TRANS)_	
+104	_(TRANS)_	
+105	_(TRANS)_	
+106	_(TRANS)_	
+107	_(TRANS)_	
+108	_(TRANS)_	
+109	_(TRANS)_	
+110	_(TRANS)_	
+111	_(TRANS)_	
+112	_(TRANS)_	
+113	_(TRANS)_	
+114	_(TRANS)_	
+115	_(TRANS)_	
+116	_(TRANS)_	
+117	_(TRANS)_	
+118	_(TRANS)_	
+119	_(TRANS)_	
+120	_(TRANS)_	
+121	_(TRANS)_	
+122	_(TRANS)_	
+123	_(TRANS)_	
+124	_(TRANS)_	
+125	_(TRANS)_	
+126	_(TRANS)_	
+127	_(TRANS)_	
+128	_(TRANS)_	
+129	_(TRANS)_	
+130	_(TRANS)_	
+131	_(TRANS)_	
+132	_(TRANS)_	
+133	_(TRANS)_	
+134	_(TRANS)_	
+135	_(TRANS)_	
+136	_(TRANS)_	
+137	_(TRANS)_	
+138	_(TRANS)_	
+139	_(TRANS)_	
+140	_(TRANS)_	
+141	_(TRANS)_	
+142	_(TRANS)_	
+143	_(TRANS)_	
+144	_(TRANS)_	
+145	_(TRANS)_	
+146	_(TRANS)_	
+147	_(TRANS)_	
+148	_(TRANS)_	
+149	_(TRANS)_	
+150	_(TRANS)_	
+151	_(TRANS)_	
+152	_(TRANS)_	
+153	_(TRANS)_	
+154	_(TRANS)_	
+155	_(TRANS)_	
+156	_(TRANS)_	
+157	_(TRANS)_	
+158	_(TRANS)_	
+159	_(TRANS)_	
+160	_(TRANS)_	
+161	_(TRANS)_	
+162	_(TRANS)_	
+163	_(TRANS)_	
+164	_(TRANS)_	
+165	_(TRANS)_	
+166	_(TRANS)_	
+167	_(TRANS)_	
+168	_(TRANS)_	
+169	_(TRANS)_	
+170	_(TRANS)_	
+171	_(TRANS)_	
+172	_(TRANS)_	
+173	_(TRANS)_	
+174	_(TRANS)_	
+175	_(TRANS)_	
+176	_(TRANS)_	
+177	_(TRANS)_	
+178	_(TRANS)_	
+179	_(TRANS)_	
+180	_(TRANS)_	
+181	_(TRANS)_	
+182	_(TRANS)_	
+183	_(TRANS)_	
+184	_(TRANS)_	
+185	_(TRANS)_	
+186	_(TRANS)_	
+187	_(TRANS)_	
+188	_(TRANS)_	
+189	_(TRANS)_	
+190	_(TRANS)_	
+191	_(TRANS)_	
+192	_(TRANS)_	
+193	_(TRANS)_	
+194	_(TRANS)_	
+195	_(TRANS)_	
+196	_(TRANS)_	
+197	_(TRANS)_	
+198	_(TRANS)_	
+199	_(TRANS)_	
+200	_(TRANS)_	
+201	_(TRANS)_	
+202	_(TRANS)_	
+203	_(TRANS)_	
+204	_(TRANS)_	
+205	_(TRANS)_	
+206	_(TRANS)_	
+207	_(TRANS)_	
+208	_(TRANS)_	
+209	_(TRANS)_	
+210	_(TRANS)_	
+211	_(TRANS)_	
+212	_(TRANS)_	
+213	_(TRANS)_	
+214	_(TRANS)_	
+215	_(TRANS)_	
+216	_(TRANS)_	
+217	_(TRANS)_	
+218	_(TRANS)_	
+219	_(TRANS)_	
+220	_(TRANS)_	
+221	_(TRANS)_	
+222	_(TRANS)_	
+223	_(TRANS)_	
+224	_(TRANS)_	
+225	_(TRANS)_	
+226	_(TRANS)_	
+227	_(TRANS)_	
+228	_(TRANS)_	
+229	_(TRANS)_	
+230	_(TRANS)_	
+231	_(TRANS)_	
+232	_(TRANS)_	
+233	_(TRANS)_	
+234	_(TRANS)_	
+235	_(TRANS)_	
+236	_(TRANS)_	
+237	_(TRANS)_	
+238	_(TRANS)_	
+239	_(TRANS)_	
+240	_(TRANS)_	
+241	_(TRANS)_	
+242	_(TRANS)_	
+243	_(TRANS)_	
+244	_(TRANS)_	
+245	_(TRANS)_	
+246	_(TRANS)_	
+247	_(TRANS)_	
+248	_(TRANS)_	
+249	_(TRANS)_	
+250	_(TRANS)_	
+251	_(TRANS)_	
+252	_(TRANS)_	
+253	_(TRANS)_	
+254	_(TRANS)_	
+255	_(TRANS)_	
+256	_(TRANS)_	
+257	_(TRANS)_	
+258	_(TRANS)_	
+259	_(TRANS)_	
+260	_(TRANS)_	
+261	_(TRANS)_	
+262	_(TRANS)_	
+263	_(TRANS)_	
+264	_(TRANS)_	
+265	_(TRANS)_	
+266	_(TRANS)_	
+267	_(TRANS)_	
+268	_(TRANS)_	
+269	_(TRANS)_	
+270	_(TRANS)_	
+271	_(TRANS)_	
+272	_(TRANS)_	
+273	_(TRANS)_	
+274	_(TRANS)_	
+275	_(TRANS)_	
+276	_(TRANS)_	
+277	_(TRANS)_	
+278	_(TRANS)_	
+279	_(TRANS)_	
+280	_(TRANS)_	
+281	_(TRANS)_	
+282	_(TRANS)_	
+283	_(TRANS)_	
+284	_(TRANS)_	
+285	_(TRANS)_	
+286	_(TRANS)_	
+287	_(TRANS)_	
+288	_(TRANS)_	
+289	_(TRANS)_	
+290	_(TRANS)_	
+291	_(TRANS)_	
+292	_(TRANS)_	
+293	_(TRANS)_	
+294	_(TRANS)_	
+295	_(TRANS)_	
+296	_(TRANS)_	
+297	_(TRANS)_	
+298	_(TRANS)_	
+299	_(TRANS)_	
+300	_(TRANS)_	
+301	_(TRANS)_	
+302	_(TRANS)_	
+303	_(TRANS)_	
+304	_(TRANS)_	
+305	_(TRANS)_	
+306	_(TRANS)_	
+307	_(TRANS)_	
+308	_(TRANS)_	
+309	_(TRANS)_	
+310	_(TRANS)_	
+311	_(TRANS)_	
+312	_(TRANS)_	
+313	_(TRANS)_	
+314	_(TRANS)_	
+315	_(TRANS)_	
+316	_(TRANS)_	
+317	_(TRANS)_	
+318	_(TRANS)_	
+319	_(TRANS)_	
+320	_(TRANS)_	
+321	_(TRANS)_	
+322	_(TRANS)_	
+323	_(TRANS)_	
+324	_(TRANS)_	
+325	_(TRANS)_	
+326	_(TRANS)_	
+327	_(TRANS)_	
+328	_(TRANS)_	
+329	_(TRANS)_	
+330	_(TRANS)_	
+331	_(TRANS)_	
+332	_(TRANS)_	
+333	_(TRANS)_	
+334	_(TRANS)_	
+335	_(TRANS)_	
+336	_(TRANS)_	
+337	_(TRANS)_	
+338	_(TRANS)_	
+339	_(TRANS)_	
+340	_(TRANS)_	
+341	_(TRANS)_	
+342	_(TRANS)_	
+343	_(TRANS)_	
+344	_(TRANS)_	
+345	_(TRANS)_	
+346	_(TRANS)_	
+347	_(TRANS)_	
+348	_(TRANS)_	
+349	_(TRANS)_	
+350	_(TRANS)_	
+351	_(TRANS)_	
+352	_(TRANS)_	
+353	_(TRANS)_	
+354	_(TRANS)_	
+355	_(TRANS)_	
+356	_(TRANS)_	
+357	_(TRANS)_	
+358	_(TRANS)_	
+359	_(TRANS)_	
+360	_(TRANS)_	
+361	_(TRANS)_	
+362	_(TRANS)_	
+363	_(TRANS)_	
+364	_(TRANS)_	
+365	_(TRANS)_	
+366	_(TRANS)_	
+367	_(TRANS)_	
+368	_(TRANS)_	
+369	_(TRANS)_	
+370	_(TRANS)_	
+371	_(TRANS)_	
+372	_(TRANS)_	
+373	_(TRANS)_	
+374	_(TRANS)_	
+375	_(TRANS)_	old odd jobs
+376	_(TRANS)_	old player house 1
+377	_(TRANS)_	old player house 2
+378	_(TRANS)_	
+379	_(TRANS)_	
+380	_(TRANS)_	
+381	_(TRANS)_	
+382	_(TRANS)_	
+383	_(TRANS)_	
+384	_(TRANS)_	
+385	_(TRANS)_	
+386	_(TRANS)_	
+387	_(TRANS)_	
+388	_(TRANS)_	
+389	_(TRANS)_	
+390	_(TRANS)_	
+391	_(TRANS)_	
+392	_(TRANS)_	
+393	_(TRANS)_	
+394	_(TRANS)_	
+395	_(TRANS)_	
+396	_(TRANS)_	
+397	_(TRANS)_	
+398	_(TRANS)_	
+399	_(TRANS)_	
+400	_(TRANS)_	
+401	_(TRANS)_	Should never see this
+402	_(TRANS)_	
+403	_(TRANS)_	
+404	_(TRANS)_	
+405	_(TRANS)_	
+406	_(TRANS)_	
+407	_(TRANS)_	
+408	_(TRANS)_	
+409	_(TRANS)_	
+410	_(TRANS)_	
+411	_(TRANS)_	
+412	_(TRANS)_	
+413	_(TRANS)_	
+414	_(TRANS)_	
+415	_(TRANS)_	
+416	_(TRANS)_	
+417	_(TRANS)_	
+418	_(TRANS)_	
+419	_(TRANS)_	
+420	_(TRANS)_	
+421	_(TRANS)_	
+422	_(TRANS)_	
+423	_(TRANS)_	
+424	_(TRANS)_	
+425	_(TRANS)_	
+426	_(TRANS)_	
+427	_(TRANS)_	Seer Hint 1
+428	_(TRANS)_	Seer Hint 2
+429	_(TRANS)_	
+430	_(TRANS)_	Seer Hint 3
+431	_(TRANS)_	
+432	_(TRANS)_	Seer Hint 4
+433	_(TRANS)_	Seer Hint 5
+434	_(TRANS)_	Seer Hint 6
+435	_(TRANS)_	Seer Hint 7
+436	_(TRANS)_	
+437	_(TRANS)_	Seer Hint 8
+438	_(TRANS)_	Seer Hint 9
+439	_(TRANS)_	Seer Hint 10
+440	_(TRANS)_	
+441	_(TRANS)_	
+442	_(TRANS)_	
+443	_(TRANS)_	
+444	_(TRANS)_	
+445	_(TRANS)_	
+446	_(TRANS)_	
+447	_(TRANS)_	
+448	_(TRANS)_	
+449	_(TRANS)_	
+450	_(TRANS)_	
+451	_(TRANS)_	
+452	_(TRANS)_	
+453	_(TRANS)_	
+454	_(TRANS)_	
+455		
+456		
+457		
+458		
+459		
+460		
+461		
+462		
+463		
+464		
+465		
+466		
+467		
+468		
+469		
+470		
+471		
+472		
+473		
+474		
+475		
+476		
+477		
+478		
+479		
+480		
+481		
+482		
+483		
+484		
+485		
+486		
+487		
+488		
+489		
+490		
+491		
+492		
+493		
+494		
+495		
+496		
+497		
+498		
+499		
+500		
+501		
+502		
+503		
+504		
+505		
+506		
+507		
+508		
+509		
+510		
+511		
+512		
+513		
+514		
+515		
+516		
+517	_(TRANS)_	
+518		
+519		
+		

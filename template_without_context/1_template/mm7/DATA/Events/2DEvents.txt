@@ -1,0 +1,528 @@
+2D Events by Type ( NPC's present are from NPC database)																		Schedules		Other Exits		Questbit	Enter																																										
+#	#	Type	Map	Picture	Name	Proprieter Name	Title	Picture	State	Rep	Per	Val	A	B	C	Notes:	Notes(2):	Open	Closed	Pic	Map	Restrictions	Text																																										
+1	1	Weapon Shop	1	57	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+2	2	Weapon Shop	2	57	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		14			6	18	0	0	0	0																																										
+3	3	Weapon Shop	3	57	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		21			6	18	0	0	0	0																																										
+4	4	Weapon Shop	4	62	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		21			6	18	0	0	0	0																																										
+5	5	Weapon Shop	7	60	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+6	6	Weapon Shop	8	58	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			18	6	0	0	0	0																																										
+7	7	Weapon Shop	10	61	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		14			18	6	0	0	0	0																																										
+8	8	Weapon Shop	13	57	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		21			6	18	0	0	0	0																																										
+9	9	Weapon Shop	14	62	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		21			6	18	0	0	0	0																																										
+10	10	Weapon Shop	39	59	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2.5	1		14			6	18	0	0	0	0																																										
+11	11	Weapon Shop	21	57	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2.5	1		21			6	18	0	0	0	0																																										
+12	12	Weapon Shop	13	57	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		21			6	18	0	0	0	0																																										
+13	13	Weapon Shop	0	57	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+14	14	Weapon Shop	0	57	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+15	1	Armor Shop	1	1	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+16	2	Armor Shop	2	1	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		14			6	18	0	0	0	0																																										
+17	3	Armor Shop	3	1	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		21			6	18	0	0	0	0																																										
+18	4	Armor Shop	4	6	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		21			6	18	0	0	0	0																																										
+19	5	Armor Shop	7	4	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+20	6	Armor Shop	8	2	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			18	6	0	0	0	0																																										
+21	7	Armor Shop	10	5	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		14			18	6	0	0	0	0																																										
+22	8	Armor Shop	13	1	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		21			6	18	0	0	0	0																																										
+23	9	Armor Shop	14	6	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		21			6	18	0	0	0	0																																										
+24	10	Armor Shop	39	3	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2.5	1		14			6	18	0	0	0	0																																										
+25	11	Armor Shop	21	1	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2.5	1		21			6	18	0	0	0	0																																										
+26	12	Armor Shop	13	1	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		21			6	18	0	0	0	0																																										
+27	13	Armor Shop	0	1	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+28	14	Armor Shop	0	1	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+29	1	Magic Shop	1	21	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+30	2	Magic Shop	2	21	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		14			6	18	0	0	0	0																																										
+31	3	Magic Shop	3	21	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		21			6	18	0	0	0	0																																										
+32	4	Magic Shop	4	26	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		21			6	18	0	0	0	0																																										
+33	5	Magic Shop	5	22	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		28			18	6	0	0	0	0																																										
+34	6	Magic Shop	6	24	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		28			6	18	0	0	0	0																																										
+35	7	Magic Shop	7	24	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+36	8	Magic Shop	8	22	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			18	6	0	0	0	0																																										
+37	9	Magic Shop	10	25	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		21			18	6	0	0	0	0																																										
+38	10	Magic Shop	39	23	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2.5	1.5		14			6	18	0	0	0	0																																										
+39	11	Magic Shop	0	21	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+40	12	Magic Shop	0	21	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+41	13	Magic Shop	0	21	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+42	1	Alchemist	1	7	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		7			6	18	0	0	0	0																																										
+43	2	Alchemist	2	7	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		7			6	18	0	0	0	0																																										
+44	3	Alchemist	3	7	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1		7			6	18	0	0	0	0																																										
+45	4	Alchemist	4	12	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1		7			6	18	0	0	0	0																																										
+46	5	Alchemist	5	8	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	1.5		14			18	6	0	0	0	0																																										
+47	6	Alchemist	6	10	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	1.5		14			6	18	0	0	0	0																																										
+48	7	Alchemist	7	10	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	2		14			6	18	0	0	0	0																																										
+49	8	Alchemist	8	8	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	2		14			18	6	0	0	0	0																																										
+50	9	Alchemist	39	9	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	1		7			6	18	0	0	0	0																																										
+51	10	Alchemist	21	7	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	1		7			6	18	0	0	0	0																																										
+52	11	Alchemist	0	7	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+53	12	Alchemist	0	7	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		7			6	18	0	0	0	0																																										
+54	1	Stables	2	27	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1					6	18	0	0	0	0																																										
+55	2	Stables	3	27	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1					6	18	0	0	0	0																																										
+56	3	Stables	4	32	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1					6	18	0	0	0	0																																										
+57	4	Stables	5	28	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	1					18	6	0	0	0	0																																										
+58	5	Stables	6	30	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	1					6	18	0	0	0	0																																										
+59	6	Stables	13	27	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	10	1					6	18	0	0	0	0																																										
+60	7	Stables	14	32	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	10	1					6	18	0	0	0	0																																										
+61	8	Stables	0	27	Placeholder	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+62	9	Stables	0	27	Placeholder	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+63	1	Boats	1	19	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+64	2	Boats	3	19	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1					6	18	0	0	0	0																																										
+65	3	Boats	4	19	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1					6	18	0	0	0	0																																										
+66	4	Boats	6	19	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	1					6	18	0	0	0	0																																										
+67	5	Boats	9	19	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	10	1					6	18	0	0	0	0																																										
+68	6	Boats	11	19	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+69	7	Boats	13	19	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	1					6	18	0	0	0	0																																										
+70	8	Boats	14	19	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	1					6	18	0	0	0	0																																										
+71	9	Boats	9	19	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	10	1					6	18	0	0	0	0																																										
+72	10	Boats	0	19	Placeholder	Placeholder	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+73	11	Boats	0	19	Placeholder	Placeholder	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+74	1	Temple	1	39	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	10	1					1	24	0	0	0	0																																										
+75	2	Temple	2	193	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	25	1					1	24	0	0	0	0																																										
+76	3	Temple	3	193	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	30	1.5					1	24	0	0	0	0																																										
+77	4	Temple	4	44	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	30	1.5					1	24	0	0	0	0																																										
+78	5	Temple	5	40	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	40	1.5					13	12	0	0	0	0																																										
+79	6	Temple	6	42	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	40	1.5					1	24	0	0	0	0																																										
+80	7	Temple	7	42	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	50	2					1	24	0	0	0	0																																										
+81	8	Temple	8	40	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	50	2					13	12	0	0	0	0																																										
+82	9	Temple	10	43	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	100	2.5					13	12	0	0	0	0																																										
+83	10	Temple	13	193	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	30	1.5					1	24	0	0	0	0																																										
+84	11	Temple	14	44	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	30	1.5					1	24	0	0	0	0																																										
+85	12	Temple	39	41	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	40	1.5					1	24	0	0	0	0																																										
+86	13	Temple	21	193	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	1					1	24	0	0	0	0																																										
+87	14	Temple	0	39	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					1	24	0	0	0	0																																										
+88	15	Temple	0	39	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					1	24	0	0	0	0																																										
+89	1	Training	1	51	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	10	1				5	6	18	0	0	0	0																																										
+90	2	Training	2	51	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	20	1				15	6	18	0	0	0	0																																										
+91	3	Training	3	51	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	25	1				25	6	18	0	0	0	0																																										
+92	4	Training	4	56	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	25	1				25	6	18	0	0	0	0																																										
+93	5	Training	7	54	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	30	1.5				200	6	18	0	0	0	0																																										
+94	6	Training	8	52	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	30	1.5				200	18	6	0	0	0	0																																										
+95	7	Training	10	55	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	50	2.5				No Max	18	6	0	0	0	0																																										
+96	8	Training	13	51	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	40	2				50	6	18	0	0	0	0																																										
+97	9	Training	14	56	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	80	2				50	6	18	0	0	0	0																																										
+98	10	Training	39	53	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	40	3				100	6	18	0	0	0	0																																										
+99	11	Training	1	51	Placeholder	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+100	12	Training	1	51	Placeholder	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+101	13	Training	1	51	Placeholder	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+102	1	Town Hall	2	45	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+103	2	Town Hall	3	45	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+104	3	Town Hall	4	50	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+105	4	Town Hall	7	48	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					6	18	0	0	0	0																																										
+106	5	Town Hall	8	46	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1					18	6	0	0	0	0																																										
+107	1	Tavern	1	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	6	1					5	2	0	0	0	0																																										
+108	2	Tavern	2	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	6	1					5	2	0	0	0	0																																										
+109	3	Tavern	3	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	12	1					5	2	0	0	0	0																																										
+110	4	Tavern	4	38	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	12	1					5	2	0	0	0	0																																										
+111	5	Tavern	5	34	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	14	1					17	14	0	0	0	0																																										
+112	6	Tavern	6	36	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	14	1					5	2	0	0	0	0																																										
+113	7	Tavern	7	36	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	30	1.5					5	2	0	0	0	0																																										
+114	8	Tavern	8	34	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	30	1.5					17	14	0	0	0	0																																										
+115	9	Tavern	9	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	6	1					5	2	0	0	0	0																																										
+116	10	Tavern	10	37	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	60	2					17	14	0	0	0	0																																										
+117	11	Tavern	11	35	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	18	1					5	2	0	0	0	0																																										
+118	12	Tavern	13	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	20	1.5					5	2	0	0	0	0																																										
+119	13	Tavern	14	38	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	20	1.5					5	2	0	0	0	0																																										
+120	14	Tavern	39	35	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	20	1.5					5	2	0	0	0	0																																										
+121	15	Tavern	0	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	6	1					8	2	0	0	0	0																																										
+122	16	Tavern	0	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	6	1					8	2	0	0	0	0																																										
+123	17	Tavern	0	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	6	1					8	2	0	0	0	0																																										
+124	18	Tavern	0	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	6	1					8	2	0	0	0	0																																										
+125	19	Tavern	0	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	6	1					8	2	0	0	0	0																																										
+126	20	Tavern	0	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	6	1					8	2	0	0	0	0																																										
+127	21	Tavern	0	33	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	6	1					8	2	0	0	0	0																																										
+128	1	Bank	2	13	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1	1					6	18	0	0	0	0																																										
+129	2	Bank	3	13	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1	1					6	18	0	0	0	0																																										
+130	3	Bank	4	18	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1	1					6	18	0	0	0	0																																										
+131	4	Bank	7	16	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1	1					6	18	0	0	0	0																																										
+132	5	Bank	8	14	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1	1					18	6	0	0	0	0																																										
+133	6	Bank	13	13	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1	1					6	18	0	0	0	0																																										
+134	7	Bank	14	18	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1	1					6	18	0	0	0	0																																										
+135	8	Bank	39	15	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1	1					6	18	0	0	0	0																																										
+136	9	Bank	0	13	Placeholder	Placeholder	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1	1					6	18	0	0	0	0																																										
+137	10	Bank	0	13	Placeholder	Placeholder	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1	1					6	18	0	0	0	0																																										
+138	11	Bank	0	13	Placeholder	Placeholder	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1	1					6	18	0	0	0	0																																										
+139	1	Fire Guild	1	67	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		14			6	18	0	0	0	0																																										
+140	2	Fire Guild	2	67	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+141	3	Fire Guild	4	67	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+142	4	Fire Guild	10	67	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	2.5		28			18	6	0	0	0	0																																										
+143	1	Air Guild	1	63	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		14			6	18	0	0	0	0																																										
+144	2	Air Guild	2	63	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+145	3	Air Guild	4	63	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+146	4	Air Guild	7	63	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	2.5		28			6	18	0	0	0	0																																										
+147	1	Water Guild	2	71	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		14			6	18	0	0	0	0																																										
+148	2	Water Guild	4	71	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+149	3	Water Guild	6	71	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+150	4	Water Guild	9	71	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	2.5		28			6	18	0	0	0	0																																										
+151	1	Earth Guild	2	66	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		14			6	18	0	0	0	0																																										
+152	2	Earth Guild	4	66	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+153	3	Earth Guild	39	66	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+154	4	Earth Guild	8	66	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	2.5		28			18	6	0	0	0	0																																										
+155	1	Spirit Guild	1	70	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		14			6	18	0	0	0	0																																										
+156	2	Spirit Guild	2	70	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+157	3	Spirit Guild	5	70	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			18	6	0	0	0	0																																										
+158	4	Spirit Guild	3	70	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	2.5		28			6	18	0	0	0	0																																										
+159	1	Mind Guild	2	69	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		14			6	18	0	0	0	0																																										
+160	2	Mind Guild	3	69	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+161	3	Mind Guild	13	69	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+162	4	Mind Guild	14	69	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	2.5		28			6	18	0	0	0	0																																										
+163	1	Body Guild	1	64	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	2	1		14			6	18	0	0	0	0																																										
+164	2	Body Guild	2	64	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	3	1.5		14			6	18	0	0	0	0																																										
+165	3	Body Guild	3	64	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		28			6	18	0	0	0	0																																										
+166	4	Body Guild	14	64	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	2.5		28			6	18	0	0	0	0																																										
+167	1	Light Guild	6	68	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		14			6	18	0	0	0	0																																										
+168	2	Light Guild	7	68	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	2.5		14			6	18	0	0	0	0																																										
+169	1	Dark Guild	5	65	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	4	2		14			18	6	0	0	0	0																																										
+170	2	Dark Guild	8	65	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	5	2.5		14			18	6	0	0	0	0																																										
+171	1	Self Guild	1	65	Placeholder	Placeholder	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		14			6	18	0	0	0	0																																										
+172	2	Self Guild	1	65	Placeholder	Placeholder	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5	1		14			6	18	0	0	0	0																																										
+173	1	Castle Entrance	2	192	_(TRANS)_	Placeholder		0	0	0	0	1.5				129		6	18	0	0	0	0																																										
+174	2	Throne	1	168	_(TRANS)_	Placeholder		0	0	0	0	1.5				168				0	0	0	0																																										
+175	1	Castle Entrance	3	133	_(TRANS)_	Placeholder		0	0	0	0	1.5				133		6	18	0	0	0	0																																										
+176	2	Throne	1	169	_(TRANS)_	Placeholder		0	0	0	0	1.5				169		6	18	0	0	0	0																																										
+177	1	Castle Entrance	4	134	_(TRANS)_	Placeholder		0	0	0	0	1.5				134		6	18	0	0	0	0																																										
+178	2	Throne	1	170	_(TRANS)_	Placeholder		0	0	0	0	1.5				170		6	18	0	0	0	0																																										
+179	1	Castle Entrance	8	144	_(TRANS)_	Placeholder		0	0	0	0	1.5				1		6	18	0	0	0	0																																										
+180	2	Throne	1	172	_(TRANS)_	Placeholder		0	0	0	0	1.5				172		18	6	0	0	0	0																																										
+181	1	Castle Entrance	7	141	_(TRANS)_	Placeholder		0	0	0	0	1.5				1		6	18	0	0	0	0																																										
+182	2	Throne	1	171	_(TRANS)_	Placeholder		0	0	0	0	1.5				171		6	18	0	0	0	0																																										
+183	1	Castle Entrance	1	1	_(TRANS)_	Placeholder		0	0	0	0	1.5				1		6	18	0	0	0	0																																										
+184	2	Throne	1	181	_(TRANS)_	Placeholder		0	0	0	0	1.5				Kastore		18	6	0	0	0	0																																										
+185	1	Master Thief	1	173	_(TRANS)_			0	0	0	0	1.5				1				0	0	0	0																																										
+186	1	Lord and Judge	1	72	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+187	1	Jail	1	167	_(TRANS)_	Placeholder		0	0	0	0	1.5								0	0	0	0																																										
+188	1	Seer Good	2	179	_(TRANS)_	Placeholder		0	0	0	0	1.5				1				0	0	0	0																																										
+189	1	The Seer	2	178	_(TRANS)_	Placeholder		0	0	0	0	1.5				1				0	0	0	0																																										
+190	1	Seer Evil	2	180	_(TRANS)_	Placeholder		0	0	0	0	1.5				1				0	0	0	0																																										
+191	1	Dungeon Ent	1	127	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	3	0	0	0																																										
+192	2	Dungeon Ent	1	128	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	3	0	0	0																																										
+193	3	Dungeon Ent	2	129	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+194	4	Dungeon Ent	2	130	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+195	5	Dungeon Ent	3	131	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+196	6	Dungeon Ent	3	132	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+197	7	Dungeon Ent	4	135	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+198	8	Dungeon Ent	4	136	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+199	9	Dungeon Ent	5	137	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+200	10	Dungeon Ent	5	138	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+201	11	Dungeon Ent	6	139	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+202	12	Dungeon Ent	6	140	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+203	13	Dungeon Ent	7	142	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+204	14	Dungeon Ent	7	143	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+205	15	Dungeon Ent	8	145	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+206	16	Dungeon Ent	8	146	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+207	17	Dungeon Ent	9	147	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+208	18	Dungeon Ent	9	148	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+209	19	Dungeon Ent	10	149	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+210	20	Dungeon Ent	10	150	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+211	21	Dungeon Ent	11	154	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+212	22	Dungeon Ent	12	156	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+213	23	Dungeon Ent	13	160	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+214	24	Dungeon Ent	13	161	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+215	25	Dungeon Ent	13	162	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+216	26	Dungeon Ent	14	163	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+217	27	Dungeon Ent	14	164	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+218	28	Dungeon Ent	14	165	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+219	29	Dungeon Ent	15	166	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+220	30	Dungeon Ent	10	157	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+221	31	Dungeon Ent	10	151	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+222	32	Dungeon Ent	10	151	_(TRANS)_	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+223	1	Hive Ent	1	1	Placeholder	Placeholder		0	0	0	0	1.5						6	18	0	0	0	0																																										
+224	1	House 224	1	73	_(TRANS)_			0	0	0	0	1.5																																																					
+225	2	House 225	1	74	_(TRANS)_			0	0	0	0	1.5																																																					
+226	3	House 226	1	75	_(TRANS)_			0	0	0	0	1.5																																																					
+227	4	House P4	1	73	House 227			0	0	0	0	1.5																																																					
+228	5	House P5	1	74	House 228			0	0	0	0	1.5																																																					
+229	6	House P6	1	75	House 229			0	0	0	0	1.5																																																					
+230	7	House P7	1	73	House 230			0	0	0	0	1.5																																																					
+231	8	House P8	1	74	House 231			0	0	0	0	1.5																																																					
+232	9	House P9	1	75	House 232			0	0	0	0	1.5																																																					
+233	10	House P10	1	73	House 233			0	0	0	0	1.5																																																					
+234	11	House P11	1	74	House 234			0	0	0	0	1.5																																																					
+235	12	House P12	1	75	House 235			0	0	0	0	1.5																																																					
+236	13	House P13	1	73	House 236			0	0	0	0	1.5																																																					
+237	14	House P14	1	74	House 237			0	0	0	0	1.5																																																					
+238	1	Out01 Boat	1	186	_(TRANS)_	_(TRANS)_	_(TRANS_CONTEXT:'npcprof')_	0	0	0	0	1.5						6	18	0	0	0	0																																										
+239	16	House M1	1	76	_(TRANS)_			0	0	0	0	1.5				76
+240	17	House M2	1	77	_(TRANS)_			0	0	0	0	1.5				76
+241	18	House M3	1	76	House 241			0	0	0	0	1.5				76
+242	19	House M4	1	77	House 242			0	0	0	0	1.5				76
+243	20	House M5	1	76	House 243			0	0	0	0	1.5				76
+244	21	House M6	1	77	House 244			0	0	0	0	1.5				76
+245	22	House M7	1	76	House 245			0	0	0	0	1.5				76
+246	23	House M8	1	77	House 246			0	0	0	0	1.5				76
+247	24	House M9	1	76	House 247			0	0	0	0	1.5				76
+248	25	House M10	1	77	House 248			0	0	0	0	1.5				76
+249	26	House M11	1	76	House 249			0	0	0	0	1.5				76
+250	27	House M12	1	77	House 250			0	0	0	0	1.5				76
+251	28	House M13	1	76	House 251			0	0	0	0	1.5				76
+252	29	House M14	1	77	House 252			0	0	0	0	1.5				76
+253	30	House M15	1	76	House 253			0	0	0	0	1.5				76
+254	31	House R1	1	79	House 254			0	0	0	0	1.5				79
+255	32	House R2	1	80	House 255			0	0	0	0	1.5				79
+256	33	House R3	1	79	House 256			0	0	0	0	1.5				79
+257	34	House R4	1	80	House 257			0	0	0	0	1.5				79
+258	35	House R5	1	79	House 258			0	0	0	0	1.5				79
+259	36	House R6	1	80	House 259			0	0	0	0	1.5				79
+260	37	House R7	1	79	House 260			0	0	0	0	1.5				79
+261	38	House R8	1	80	House 261			0	0	0	0	1.5				79
+262	39	House R9	1	79	House 262			0	0	0	0	1.5				79
+263	40	House R10	1	80	House 263			0	0	0	0	1.5				79
+264	41	House R11	1	79	House 264			0	0	0	0	1.5				79
+265	42	House R12	1	80	House 265			0	0	0	0	1.5				79
+266	43	House R13	1	79	House 266			0	0	0	0	1.5				79
+267	44	House R14	1	80	House 267			0	0	0	0	1.5				79
+268	45	House R15	1	79	House 268			0	0	0	0	1.5				79
+269		H_House P15	3	73	_(TRANS)_			0	0	0	0	1.5				73
+270		H_House P16	3	74	_(TRANS)_			0	0	0	0	1.5				73
+271		H_House P17	3	75	House 271			0	0	0	0	1.5				73
+272		H_House P18	3	73	House 272			0	0	0	0	1.5				73
+273		H_House P19	3	74	House 273			0	0	0	0	1.5				73
+274		H_House P20	3	75	_(TRANS)_			0	0	0	0	1.5				73
+275		Lord Markham	17	177	_(TRANS)_			0	0	0	0	1.5				73
+276		H_House P22	3	73	_(TRANS)_			0	0	0	0	1.5				73
+277		H_House P23	3	74	_(TRANS)_			0	0	0	0	1.5				73
+278								0	0	0	0	1.5				73
+279		H_House P25	3	75	_(TRANS)_			0	0	0	0	1.5				73
+280		Harmondy Room(Torn up)	21	195				0	0	0	0	1.5				73
+281		Harmondy Room(Fixed up)	21	194				0	0	0	0	1.5				73
+282		H_House P28	3	73	House 282			0	0	0	0	1.5				73
+283		H_House P29	3	74	_(TRANS)_			0	0	0	0	1.5				73
+284		H_House P30	3	75	_(TRANS)_			0	0	0	0	1.5				73
+285		H_House P31	3	73	_(TRANS)_			0	0	0	0	1.5				73
+286		H_House P32	3	74	_(TRANS)_			0	0	0	0	1.5				73
+287								0	0	0	0	1.5				73
+288		H_House P34	3	75	_(TRANS)_			0	0	0	0	1.5				73
+289		H_House P35	3	73	_(TRANS)_			0	0	0	0	1.5				73
+290		H_House P36	3	74	_(TRANS)_			0	0	0	0	1.5				73
+291		H_House M16	3	76	_(TRANS)_			0	0	0	0	1.5				76
+292								0	0	0	0	1.5				76
+293		H_House M18	3	77	_(TRANS)_			0	0	0	0	1.5				76
+294		H_House M19	3	76	_(TRANS)_			0	0	0	0	1.5				76
+295		H_House M20	3	77	_(TRANS)_			0	0	0	0	1.5				76
+296								0	0	0	0	1.5				76
+297								0	0	0	0	1.5				76
+298		H_House M23	3	76	_(TRANS)_			0	0	0	0	1.5				76
+299		H_House M24	3	77	_(TRANS)_			0	0	0	0	1.5				76
+300								0	0	0	0	1.5				76
+301		H_House M26	3	76	_(TRANS)_			0	0	0	0	1.5				76
+302		H_House M27	3	77	_(TRANS)_			0	0	0	0	1.5				76
+303		H_House R16	3	79	_(TRANS)_			0	0	0	0	1.5				79
+304		H_House R17	3	80	_(TRANS)_			0	0	0	0	1.5				79
+305		H_House R18	3	79	_(TRANS)_			0	0	0	0	1.5				79
+306		H_House R19	3	80	_(TRANS)_			0	0	0	0	1.5				79
+307		H_House R20	3	79	_(TRANS)_			0	0	0	0	1.5				79
+308		E_House P1	4	82	_(TRANS)_			0	0	0	0	1.5				82
+309		E_House P2	4	83	_(TRANS)_			0	0	0	0	1.5				82
+310		E_House P3	4	82	_(TRANS)_			0	0	0	0	1.5				82
+311		E_House P4	4	83	_(TRANS)_			0	0	0	0	1.5				82
+312		E_House P5	4	82	_(TRANS)_			0	0	0	0	1.5				82
+313		E_House P6	4	83	_(TRANS)_			0	0	0	0	1.5				82
+314		E_House P7	4	82	_(TRANS)_			0	0	0	0	1.5				82
+315		E_House P8	4	83	_(TRANS)_			0	0	0	0	1.5				82
+316		E_House P9	4	82	_(TRANS)_			0	0	0	0	1.5				82
+317		E_House P10	4	83	_(TRANS)_			0	0	0	0	1.5				82
+318		E_House P11	4	82	_(TRANS)_			0	0	0	0	1.5				82
+319		E_House M1	4	85	_(TRANS)_			0	0	0	0	1.5				85
+320		E_House M2	4	86	_(TRANS)_			0	0	0	0	1.5				85
+321		E_House M3	4	85	_(TRANS)_			0	0	0	0	1.5				85
+322		E_House M4	4	86	_(TRANS)_			0	0	0	0	1.5				85
+323		E_House M5	4	85	_(TRANS)_			0	0	0	0	1.5				85
+324		E_House M6	4	86	House 324			0	0	0	0	1.5				85
+325		E_House M7	4	85	House 325			0	0	0	0	1.5				85
+326		E_House M8	4	86	House 326			0	0	0	0	1.5				85
+327		E_House R1	4	88	_(TRANS)_			0	0	0	0	1.5				88
+328		E_House R2	4	89	_(TRANS)_			0	0	0	0	1.5				88
+329		E_House R3	4	88	_(TRANS)_			0	0	0	0	1.5				88
+330		E_House R4	4	89	_(TRANS)_			0	0	0	0	1.5				88
+331		N_House P1	5	109	_(TRANS)_			0	0	0	0	1.5				109
+332		N_House P2	5	110	_(TRANS)_			0	0	0	0	1.5				109
+333		N_House P3	5	109	_(TRANS)_			0	0	0	0	1.5				109
+334		N_House P4	5	110	_(TRANS)_			0	0	0	0	1.5				109
+335		N_House P5	5	109	_(TRANS)_			0	0	0	0	1.5				109
+336		N_House P6	5	110	_(TRANS)_			0	0	0	0	1.5				109
+337		N_House M1	5	112	_(TRANS)_			0	0	0	0	1.5				112
+338		N_House M2	5	113	_(TRANS)_			0	0	0	0	1.5				112
+339		N_House M3	5	112	_(TRANS)_			0	0	0	0	1.5				112
+340		N_House M4	5	113	_(TRANS)_			0	0	0	0	1.5				112
+341		N_House M5	5	112	_(TRANS)_			0	0	0	0	1.5				112
+342		N_House M6	5	113	_(TRANS)_			0	0	0	0	1.5				112
+343		N_House M7	5	112	_(TRANS)_			0	0	0	0	1.5				112
+344		N_House M8	5	113	_(TRANS)_			0	0	0	0	1.5				112
+345		N_House R1	5	115	_(TRANS)_			0	0	0	0	1.5				115
+346		N_House R2	5	116	_(TRANS)_			0	0	0	0	1.5				115
+347		N_House R3	5	115	_(TRANS)_			0	0	0	0	1.5				115
+348		Wz_House M10	9	73	_(TRANS)_			0	0	0	0	1.5				
+349		Wz_House P10	9	74	_(TRANS)_			0	0	0	0	1.5				
+350		Wz_House M13	9	75	_(TRANS)_			0	0	0	0	1.5				
+351		H_House M43	13	73	_(TRANS)_			0	0	0	0	1.5				
+352		Wa_House P1	10	118	_(TRANS)_			0	0	0	0	1.5				118
+353		Wa_House P2	10	119	_(TRANS)_			0	0	0	0	1.5				118
+354		Wa_House P3	10	118	_(TRANS)_			0	0	0	0	1.5				118
+355		Wa_House P4	10	119	_(TRANS)_			0	0	0	0	1.5				118
+356		Wa_House P5	10	118	_(TRANS)_			0	0	0	0	1.5				118
+357		Wa_House M1	10	121	_(TRANS)_			0	0	0	0	1.5				121
+358		Wa_House M2	10	122	_(TRANS)_			0	0	0	0	1.5				121
+359		Wa_House M3	10	121	_(TRANS)_			0	0	0	0	1.5				121
+360		Wa_House M4	10	122	_(TRANS)_			0	0	0	0	1.5				121
+361		Wa_House M5	10	121	_(TRANS)_			0	0	0	0	1.5				121
+362		Wa_House M6	10	122	_(TRANS)_			0	0	0	0	1.5				121
+363		Wa_House M7	10	121	_(TRANS)_			0	0	0	0	1.5				121
+364		Wa_House R1	10	124	_(TRANS)_			0	0	0	0	1.5				124
+365		Wa_House R2	10	125	_(TRANS)_			0	0	0	0	1.5				124
+366		Wa_House R3	10	126	_(TRANS)_			0	0	0	0	1.5				124
+367		H_House M40	13	73	_(TRANS)_			0	0	0	0	1.5				
+368		H_House M41	13	74	_(TRANS)_			0	0	0	0	1.5				
+369		H_House M42	13	75	_(TRANS)_			0	0	0	0	1.5				
+370		E_House P12	14	82	_(TRANS)_			0	0	0	0	1.5				82
+371		E_House P13	14	83	_(TRANS)_			0	0	0	0	1.5				82
+372								0	0	0	0	1.5				82
+373								0	0	0	0	1.5				82
+374								0	0	0	0	1.5				82
+375								0	0	0	0	1.5				82
+376		E_House M9	14	85	_(TRANS)_			0	0	0	0	1.5				85
+377		E_House M10	14	86	_(TRANS)_			0	0	0	0	1.5				85
+378		E_House M11	14	85	_(TRANS)_			0	0	0	0	1.5				85
+379		E_House M12	14	86	_(TRANS)_			0	0	0	0	1.5				85
+380								0	0	0	0	1.5				85
+381								0	0	0	0	1.5				85
+382		E_House R5	14	88	_(TRANS)_			0	0	0	0	1.5				88
+383		E_House R6	14	89	_(TRANS)_			0	0	0	0	1.5				88
+384		E_House R7	14	90	_(TRANS)_			0	0	0	0	1.5				88
+385		E_House R8	14	88	_(TRANS)_			0	0	0	0	1.5				88
+386								0	0	0	0	1.5				88
+387		H_Human P37	13	73	_(TRANS)_			0	0	0	0	1.5				73
+388		H_Human P38	13	74	_(TRANS)_			0	0	0	0	1.5				73
+389		H_Human P39	13	75	_(TRANS)_			0	0	0	0	1.5				73
+390								0	0	0	0	1.5				73
+391								0	0	0	0	1.5				73
+392		H_Human P42	13	73	_(TRANS)_			0	0	0	0	1.5				73
+393		H_Human P43	13	74	_(TRANS)_			0	0	0	0	1.5				73
+394		H_Human P44	13	75	_(TRANS)_			0	0	0	0	1.5				73
+395								0	0	0	0	1.5				73
+396		H_Human P46	13	73	_(TRANS)_			0	0	0	0	1.5				73
+397		H_Human P47	13	74	_(TRANS)_			0	0	0	0	1.5				73
+398		H_Human P48	13	75	_(TRANS)_			0	0	0	0	1.5				73
+399								0	0	0	0	1.5				73
+400		H_Human P50	13	73	_(TRANS)_			0	0	0	0	1.5				73
+401		H_Human P51	13	74	_(TRANS)_			0	0	0	0	1.5				73
+402		H_Human M28	13	75	_(TRANS)_			0	0	0	0	1.5				76
+403								0	0	0	0	1.5				76
+404		H_Human M30	13	76	_(TRANS)_			0	0	0	0	1.5				76
+405		H_Human M31	13	77	_(TRANS)_			0	0	0	0	1.5				76
+406								0	0	0	0	1.5				76
+407								0	0	0	0	1.5				76
+408		H_Human M34	13	76	_(TRANS)_			0	0	0	0	1.5				76
+409								0	0	0	0	1.5				76
+410		H_House R21	13	79	_(TRANS)_			0	0	0	0	1.5				79
+411		H_House R22	13	80	_(TRANS)_			0	0	0	0	1.5				79
+412		H_House R23	13	80	_(TRANS)_			0	0	0	0	1.5				79
+413		D_House P1	39	91	_(TRANS)_			0	0	0	0	1.5				91
+414		D_House P2	39	92	_(TRANS)_			0	0	0	0	1.5				91
+415		D_House P3	39	91	_(TRANS)_			0	0	0	0	1.5				91
+416		D_House P4	39	92	_(TRANS)_			0	0	0	0	1.5				91
+417		D_House M1	39	94	_(TRANS)_			0	0	0	0	1.5				94
+418		D_House M2	39	95	_(TRANS)_			0	0	0	0	1.5				94
+419		D_House M3	39	94	_(TRANS)_			0	0	0	0	1.5				94
+420		D_House R1	39	97	_(TRANS)_			0	0	0	0	1.5				97
+421		D_House R2	39	174	_(TRANS)_			0	0	0	0	1.5				97
+422		Wz_House P1	7	100	_(TRANS)_			0	0	0	0	1.5				100
+423		Wz_House P2	7	101	_(TRANS)_			0	0	0	0	1.5				100
+424		Wz_House M1	7	103	_(TRANS)_			0	0	0	0	1.5				103
+425		Wz_House M2	7	104	_(TRANS)_			0	0	0	0	1.5				103
+426		Wz_House M3	7	103	_(TRANS)_			0	0	0	0	1.5				103
+427		Wz_House M4	7	104	_(TRANS)_			0	0	0	0	1.5				103
+428		Wz_House M5	7	103	_(TRANS)_			0	0	0	0	1.5				103
+429		Wz_House M6	7	104	_(TRANS)_			0	0	0	0	1.5				103
+430		Wz_House R1	7	106	_(TRANS)_			0	0	0	0	1.5				106
+431		Wz_House R2	7	107	_(TRANS)_			0	0	0	0	1.5				106																																																	
+432		Wz_House R3	7	106	_(TRANS)_			0	0	0	0	1.5				106																																																	
+433		N_House P7	8	109	_(TRANS)_			0	0	0	0	1.5				109																																																	
+434		N_House P8	8	110	_(TRANS)_			0	0	0	0	1.5				109																																																	
+435		N_House P9	8	109	_(TRANS)_			0	0	0	0	1.5				109																																																	
+436		N_House P10	8	110	_(TRANS)_			0	0	0	0	1.5				109																																																	
+437		N_House M11	8	109	_(TRANS)_			0	0	0	0	1.5				109																																																	
+438		N_House M12	8	110	_(TRANS)_			0	0	0	0	1.5				109																																																	
+439		N_House R6	8	109	_(TRANS)_			0	0	0	0	1.5				109																																																	
+440								0	0	0	0	1.5				109																																																	
+441		N_House M9	8	112	_(TRANS)_			0	0	0	0	1.5				112																																																	
+442		N_House M10	8	113	_(TRANS)_			0	0	0	0	1.5				112																																																	
+443		N_House R4	8	115	_(TRANS)_			0	0	0	0	1.5				115																																																	
+444		N_House R5	8	116	_(TRANS)_			0	0	0	0	1.5				115																																																	
+445	1	Dungeon Ent	11	155	_(TRANS)_			0	0	0	0	1.5																																																					
+446								0	0	0	0	1.5																																																					
+447								0	0	0	0	1.5																																																					
+448								0	0	0	0	1.5																																																					
+449								0	0	0	0	1.5																																																					
+450								0	0	0	0	1.5																																																					
+451								0	0	0	0	1.5																																																					
+452								0	0	0	0	1.5																																																					
+453								0	0	0	0	1.5																																																					
+454								0	0	0	0	1.5																																																					
+455								0	0	0	0	1.5																																																					
+456								0	0	0	0	1.5																																																					
+457								0	0	0	0	1.5																																																					
+458								0	0	0	0	1.5																																																					
+459								0	0	0	0	1.5																																																					
+460								0	0	0	0	1.5																																																					
+461								0	0	0	0	1.5																																																					
+462								0	0	0	0	1.5																																																					
+463								0	0	0	0	1.5																																																					
+464								0	0	0	0	1.5																																																					
+465		H_House P52	2	73	_(TRANS)_			0	0	0	0	1.5																																																					
+466		H_House P53	2	74	_(TRANS)_			0	0	0	0	1.5																																																					
+467		H_House P54(not used)	2	75	_(TRANS)_			0	0	0	0	1.5																																																					
+468		H_House M36	2	79	_(TRANS)_			0	0	0	0	1.5																																																					
+469		H_House M37	2	73	_(TRANS)_			0	0	0	0	1.5																																																					
+470		H_House M38	2	74	_(TRANS)_			0	0	0	0	1.5																																																					
+471		H_House M39	2	75	_(TRANS)_			0	0	0	0	1.5																																																					
+472		H_House R24	2	73	_(TRANS)_			0	0	0	0	1.5																																																					
+473		H_House R25(not used)	2	73	House 473			0	0	0	0	1.5																																																					
+474		Wz_House P3	6	100	_(TRANS)_			0	0	0	0	1.5																																																					
+475		Wz_House P4	6	101	_(TRANS)_			0	0	0	0	1.5																																																					
+476		Wz_House P5	6	100	_(TRANS)_			0	0	0	0	1.5																																																					
+477		Wz_House P6	6	101	_(TRANS)_			0	0	0	0	1.5																																																					
+478		Wz_House P7	6	100	_(TRANS)_			0	0	0	0	1.5																																																					
+479		Wz_House M7	6	103	_(TRANS)_			0	0	0	0	1.5
+480		Wz_House M8	6	103	_(TRANS)_			0	0	0	0	1.5
+481		Wz_House M9	6	104	_(TRANS)_			0	0	0	0	1.5
+482		Wz_House R4	6	106	_(TRANS)_			0	0	0	0	1.5
+483		Wz_House R5	6	107	_(TRANS)_			0	0	0	0	1.5
+484		Wz_House R6	6	106	_(TRANS)_			0	0	0	0	1.5
+485		H_House P55	2	73	_(TRANS)_			0	0	0	0	1.5
+486		H_House P56	2	74	_(TRANS)_			0	0	0	0	1.5
+487		H_House P57	2	75	_(TRANS)_			0	0	0	0	1.5
+488		H_House P58	2	73	_(TRANS)_			0	0	0	0	1.5
+489		H_House P59	2	74	_(TRANS)_			0	0	0	0	1.5
+490		H_House M45	2	76	_(TRANS)_			0	0	0	0	1.5
+491		H_House M46	2	77	_(TRANS)_			0	0	0	0	1.5
+492		H_House P60	3	73	_(TRANS)_			0	0	0	0	1.5
+493		H_House P61	3	74	_(TRANS)_			0	0	0	0	1.5
+494		H_House P62	3	75	_(TRANS)_			0	0	0	0	1.5
+495		H_House M47	3	76	_(TRANS)_			0	0	0	0	1.5
+496		H_House M43	3	77	_(TRANS)_			0	0	0	0	1.5
+497		N_House M11	5	112	_(TRANS)_			0	0	0	0	1.5
+498		N_House M12	5	113	_(TRANS)_			0	0	0	0	1.5
+499		N_House P15	5	110	_(TRANS)_			0	0	0	0	1.5
+500		Wz_House P8	6	100	_(TRANS)_			0	0	0	0	1.5
+501		Wz_House P9	6	101	_(TRANS)_			0	0	0	0	1.5
+502		Wz_House M11	6	103	_(TRANS)_			0	0	0	0	1.5
+503		Wz_House M12	6	104	_(TRANS)_			0	0	0	0	1.5
+504		E_House P18	14	82	_(TRANS)_			0	0	0	0	1.5
+505		E_House P19	14	83	_(TRANS)_			0	0	0	0	1.5
+506		E_House P20	14	82	_(TRANS)_			0	0	0	0	1.5
+507		Wa_House R4	10	124	_(TRANS)_			0	0	0	0	1.5
+508		Wa_House R5	10	125	_(TRANS)_			0	0	0	0	1.5
+509		Wa_House R6	10	126	_(TRANS)_			0	0	0	0	1.5
+510		Wa_House M8	10	121	_(TRANS)_			0	0	0	0	1.5
+511		Wa_House M9	10	122	_(TRANS)_			0	0	0	0	1.5
+512		Wa_House M10	10	121	_(TRANS)_			0	0	0	0	1.5
+513		Wa_House M11	10	122	_(TRANS)_			0	0	0	0	1.5
+514		H_House M44	12	77	_(TRANS)_			0	0	0	0	1.5
+515		D_House P5	11	91	_(TRANS)_			0	0	0	0	1.5
+516		D_Hosue M6	11	94	_(TRANS)_			0	0	0	0	1.5
+517		D_House R4	11	97	_(TRANS)_			0	0	0	0	1.5
+518		D_House M4	11	94	_(TRANS)_			0	0	0	0	1.5
+519		D_House M5	11	94	_(TRANS)_			0	0	0	0	1.5
+520		D_Hosue R3	11	97	_(TRANS)_			0	0	0	0	1.5
+521		Thomas Grey	29	106	_(TRANS)_			0	0	0	0	1.5
+522		Alice Hargreaves	48	81	_(TRANS)_			0	0	0	0	1.5
+523												
+524												
+525												
+								

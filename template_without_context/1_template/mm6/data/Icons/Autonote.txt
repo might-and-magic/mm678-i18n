@@ -1,0 +1,130 @@
+Note bit	Autonote Text	Category
+1	_(TRANS)_	Stat
+2	_(TRANS)_	Stat
+3	_(TRANS)_	Stat
+4	_(TRANS)_	Award
+5	_(TRANS)_	Award
+6	_(TRANS)_	Award
+7	_(TRANS)_	Award
+8	_(TRANS)_	Award
+9	_(TRANS)_	Stat
+10		misc
+11	_(TRANS)_	Stat
+12	_(TRANS)_	Stat
+13	_(TRANS)_	Stat
+14	_(TRANS)_	Stat
+15		
+16		
+17	_(TRANS)_	Stat
+18	_(TRANS)_	Stat
+19	_(TRANS)_	Stat
+20	_(TRANS)_	Stat
+21	_(TRANS)_	Stat
+22	_(TRANS)_	Stat
+23	_(TRANS)_	Stat
+24	_(TRANS)_	Stat
+25	_(TRANS)_	Stat
+26	_(TRANS)_	Stat
+27	_(TRANS)_	Stat
+28	_(TRANS)_	Stat
+29	_(TRANS)_	Stat
+30	_(TRANS)_	Stat
+31	_(TRANS)_	Stat
+32	_(TRANS)_	Stat
+33	_(TRANS)_	Stat
+34	_(TRANS)_	Stat
+35	_(TRANS)_	Stat
+36	_(TRANS)_	Stat
+37	_(TRANS)_	Stat
+38	_(TRANS)_	Stat
+39	_(TRANS)_	Stat
+40	_(TRANS)_	Stat
+41	_(TRANS)_	Stat
+42	_(TRANS)_	Stat
+43	_(TRANS)_	Stat
+44	_(TRANS)_	Stat
+45	_(TRANS)_	Stat
+46	_(TRANS)_	Stat
+47	_(TRANS)_	Stat
+48	_(TRANS)_	Stat
+49	_(TRANS)_	Stat
+50	_(TRANS)_	Stat
+51	_(TRANS)_	misc
+52	_(TRANS)_	Stat
+53	_(TRANS)_	Stat
+54	_(TRANS)_	potion
+55	_(TRANS)_	potion
+56	_(TRANS)_	potion
+57	_(TRANS)_	potion
+58	_(TRANS)_	potion
+59	_(TRANS)_	potion
+60	_(TRANS)_	potion
+61	_(TRANS)_	potion
+62	_(TRANS)_	potion
+63	_(TRANS)_	potion
+64	_(TRANS)_	potion
+65	_(TRANS)_	potion
+66	_(TRANS)_	potion
+67	_(TRANS)_	potion
+68	_(TRANS)_	potion
+69	_(TRANS)_	potion
+70	_(TRANS)_	potion
+71	_(TRANS)_	potion
+72	_(TRANS)_	potion
+73	_(TRANS)_	potion
+74	_(TRANS)_	potion
+75	_(TRANS)_	potion
+76	_(TRANS)_	potion
+77	_(TRANS)_	potion
+78	_(TRANS)_	potion
+79	_(TRANS)_	obelisk
+80	_(TRANS)_	obelisk
+81	_(TRANS)_	obelisk
+82	_(TRANS)_	obelisk
+83	_(TRANS)_	obelisk
+84	_(TRANS)_	obelisk
+85	_(TRANS)_	obelisk
+86	_(TRANS)_	obelisk
+87	_(TRANS)_	obelisk
+88	_(TRANS)_	obelisk
+89	_(TRANS)_	obelisk
+90	_(TRANS)_	obelisk
+91	_(TRANS)_	obelisk
+92	_(TRANS)_	obelisk
+93	_(TRANS)_	obelisk
+94	_(TRANS)_	
+95	_(TRANS)_	
+96	_(TRANS)_	
+97	_(TRANS)_	misc
+98	_(TRANS)_	misc
+99	_(TRANS)_	misc
+100	_(TRANS)_	misc
+101	_(TRANS)_	misc
+102	_(TRANS)_	misc
+103	_(TRANS)_	misc
+104	_(TRANS)_	misc
+105	_(TRANS)_	misc
+106	_(TRANS)_	misc
+107	_(TRANS)_	misc
+108	_(TRANS)_	seer
+109	_(TRANS)_	seer
+110	_(TRANS)_	seer
+111	_(TRANS)_	seer
+112	_(TRANS)_	seer
+113	_(TRANS)_	seer
+114	_(TRANS)_	seer
+115	_(TRANS)_	seer
+116	_(TRANS)_	seer
+117	_(TRANS)_	misc
+118	_(TRANS)_	misc
+119	_(TRANS)_	misc
+120	_(TRANS)_	misc
+121	_(TRANS)_	misc
+122	_(TRANS)_	misc
+123	_(TRANS)_	misc
+124	_(TRANS)_	
+125	_(TRANS)_	
+126	_(TRANS)_	
+127	_(TRANS)_	
+128	_(TRANS)_	
+		

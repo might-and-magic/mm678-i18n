@@ -1,0 +1,64 @@
+	[Help]
+GlobalCharset	CHINESEBIG5_CHARSET
+EditsCharset	CHINESEBIG5_CHARSET
+Caption	幫助
+Button1.Caption	確定
+Memo1.Lines.Strings	版本 %VERSION%
+作者：Sergey Rozhenko
+http://sites.google.com/site/sergroj/
+sergroj@mail.ru
+中文翻譯：tomchen (tomchen.org)	
+	
+	
+	[Main Form]
+GlobalCharset	CHINESEBIG5_CHARSET
+SSaveQuestion	將更改儲存到「%s」？
+SSaveQuestionUntitled	將更改儲存到無標題文檔？
+SReopenQuestion	確定要重新打開「%s」，不儲存更改？
+SSearchNotFound	無法找到「%s」
+SSearchOtherEnd	繼續從檔案的另一端搜尋？
+STxtAssociationCaption	打開
+Caption	txt表格編輯器
+EditX.Hint	固定行
+EditY.Hint	固定列
+SaveDialog1.Filter	txt表|*.txt|所有檔案|*.*
+OpenDialog1.Filter	txt表|*.txt|所有檔案|*.*
+File1.Caption	檔案
+New1.Caption	新建
+Open1.Caption	打開
+Save1.Caption	儲存
+SaveAs1.Caption	另外儲存為...
+Recent1.Caption	最近的文檔
+Exit1.Caption	離開
+Edit1.Caption	編輯
+Undo1.Caption	撤銷
+Redo1.Caption	重做
+Cut1.Caption	剪下
+Copy1.Caption	複製
+Paste1.Caption	粘貼
+SelectAll1.Caption	全選
+Find1.Caption	查找…
+FindNext1.Caption	查找下一個
+Replace1.Caption	替換...
+WordWrap1.Caption	自動換行
+InsertRow1.Caption	插入行
+DeleteRow1.Caption	移除行
+AddRow1.Caption	添加行
+InsertColumn1.Caption	插入列
+DeleteColumn1.Caption	移除列
+AddColumn1.Caption	添加列
+SelectRow1.Caption	選擇行
+SelectColumn1.Caption	選擇列
+Options1.Caption	選項
+Language1.Caption	語言
+Associate1.Caption	添加到*.txt檔案的右鍵菜單
+Associatewithert1.Caption	關聯*.ert檔案
+Associatewithers1.Caption	關聯*.ers檔案
+Help1.Caption	幫助
+Undo2.Caption	撤銷
+Redo2.Caption	重做
+Cut2.Caption	複製
+Copy2.Caption	剪下
+Paste2.Caption	粘貼
+Delete1.Caption	移除
+SelectAll2.Caption	全選

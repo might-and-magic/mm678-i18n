@@ -1,0 +1,65 @@
+	[Help]
+GlobalCharset	GB2312_CHARSET
+EditsCharset	GB2312_CHARSET
+Caption	帮助
+Button1.Caption	确定
+Memo1.Lines.Strings	版本 %VERSION%
+作者：Sergey Rozhenko
+http://sites.google.com/site/sergroj/
+sergroj@mail.ru
+中文翻译：tomchen (tomchen.org)
+	
+	
+	
+	[Main Form]
+GlobalCharset	GB2312_CHARSET
+SSaveQuestion	将更改保存到“%s”？
+SSaveQuestionUntitled	将更改保存到无标题文档？
+SReopenQuestion	确定要重新打开“%s”，不保存更改？
+SSearchNotFound	无法找到“%s”
+SSearchOtherEnd	继续从文件的另一端搜索？
+STxtAssociationCaption	打开
+Caption	txt表格编辑器
+EditX.Hint	固定行
+EditY.Hint	固定列
+SaveDialog1.Filter	txt表|*.txt|所有文件|*.*
+OpenDialog1.Filter	txt表|*.txt|所有文件|*.*
+File1.Caption	文件
+New1.Caption	新建
+Open1.Caption	打开
+Save1.Caption	保存
+SaveAs1.Caption	另存为...
+Recent1.Caption	最近的文档
+Exit1.Caption	退出
+Edit1.Caption	编辑
+Undo1.Caption	撤销
+Redo1.Caption	重做
+Cut1.Caption	剪切
+Copy1.Caption	复制
+Paste1.Caption	粘贴
+SelectAll1.Caption	全选
+Find1.Caption	查找…
+FindNext1.Caption	查找下一个
+Replace1.Caption	替换...
+WordWrap1.Caption	自动换行
+InsertRow1.Caption	插入行
+DeleteRow1.Caption	删除行
+AddRow1.Caption	添加行
+InsertColumn1.Caption	插入列
+DeleteColumn1.Caption	删除列
+AddColumn1.Caption	添加列
+SelectRow1.Caption	选择行
+SelectColumn1.Caption	选择列
+Options1.Caption	选项
+Language1.Caption	语言
+Associate1.Caption	添加到*.txt文件的右键菜单
+Associatewithert1.Caption	关联*.ert文件
+Associatewithers1.Caption	关联*.ers文件
+Help1.Caption	帮助
+Undo2.Caption	撤销
+Redo2.Caption	重做
+Cut2.Caption	复制
+Copy2.Caption	剪切
+Paste2.Caption	粘贴
+Delete1.Caption	删除
+SelectAll2.Caption	全选

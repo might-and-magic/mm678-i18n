@@ -10,6 +10,6 @@ csv2po.py:
 * `generateProd()`: generate 4_prod/ (2_dev/, 3_i18n/ exist)
 * `generateDevOnly()`: generate 2_dev/
 
-add_dbcs_special.py to generate 5_postprod/
+make_postprod.py to generate 5_postprod/
 
 make 6_finalprod semi-manually

@@ -11,19 +11,7 @@
 
 import re
 from pathlib import Path
-
-def getFilePaths(pathObj, extension = 'txt', recursive = True):
-	if recursive:
-		pathPre = '**/'
-	else:
-		pathPre = ''
-	if type(extension) is list:
-		retList = []
-		for thisExt in extension:
-			retList += getFilePaths(pathObj, extension = thisExt, recursive = recursive)
-		return retList
-	else:
-		return list(pathObj.glob(pathPre + '*.' + extension))
+from getfilepaths import getFilePaths
 
 
 # encoding could be set to "gb2312", "big5", "gbk", "euc_jp" and "euc_kr"
@@ -55,4 +43,4 @@ def addDbcsSpecial(inputPath, outputPath, encoding):
 		fout.close()
 
 
-addDbcsSpecial(Path('4_prod/zh_CN'), Path('5_postprod/zh_CN'), "gb2312")
+# addDbcsSpecial(Path('4_prod/zh_CN'), Path('5_postprod/zh_CN'), "gb2312")

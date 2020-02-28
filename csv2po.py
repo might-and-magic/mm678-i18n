@@ -627,7 +627,7 @@ def exec():
 
 
 if __name__ == "__main__":
-	exec()
+	# exec()
 	# generateDevAndI18n()
 	# generateProd()
 	# generateDevOnly()

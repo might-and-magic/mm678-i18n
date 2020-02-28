@@ -1,21 +1,9 @@
 # ZhConvert
 
 from pathlib import Path
+from getfilepaths import getFilePaths
 from opencc import OpenCC
 cc = OpenCC('tw2sp')
-
-def getFilePaths(pathObj, extension = 'txt', recursive = True):
-	if recursive:
-		pathPre = '**/'
-	else:
-		pathPre = ''
-	if type(extension) is list:
-		retList = []
-		for thisExt in extension:
-			retList += getFilePaths(pathObj, extension = thisExt, recursive = recursive)
-		return retList
-	else:
-		return list(pathObj.glob(pathPre + '*.' + extension))
 
 quoteDict = {
 '「': '“',

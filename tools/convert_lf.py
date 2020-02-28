@@ -4,19 +4,7 @@
 
 import re
 from pathlib import Path
-
-def getFilePaths(pathObj, extension = 'txt', recursive = True):
-	if recursive:
-		pathPre = '**/'
-	else:
-		pathPre = ''
-	if type(extension) is list:
-		retList = []
-		for thisExt in extension:
-			retList += getFilePaths(pathObj, extension = thisExt, recursive = recursive)
-		return retList
-	else:
-		return list(pathObj.glob(pathPre + '*.' + extension))
+from getfilepaths import getFilePaths
 
 def convertLf(inputPath, outputPath, encoding = None, SlashNTolf = True): # check LF (non CRLF)
 	f = inputPath.open(mode = 'r', newline = '\r\n', encoding = encoding)

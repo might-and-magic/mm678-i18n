@@ -7,7 +7,7 @@ local function GetPlayer(p)
 end
 
 local function GetMonster(p)
-	if p == 0 then
+	if (p == 0) or (p < Map.Monsters["?ptr"]) then
 		return
 	end
 	local i = (p - Map.Monsters["?ptr"]) / Map.Monsters[0]["?size"]
@@ -401,31 +401,42 @@ function events.GameInitialized2()
 		return u2[TargetBuf+i*4], u2[TargetBuf+i*4+2]
 	end
 
-	NewCode = mem.asmpatch(0x425507, [[
-	pop ebx
-	pop ebp
-	cmp dword [ss:esp+0x8], 0
+	local function MonsterCanCastSpellHook(d)
+		local Mon, MonId = GetMonster(d.esi)
+		if Mon then
+			local TargetRef, TargetId = GetMonsterTarget(MonId)
+			local t = {Spell = u4[d.ebp-0x8], Monster = Mon, Target = 0, Distance = u4[d.ebp-0xC], Result = d.eax, TargetRef = TargetRef}
+			if TargetRef == 4 then
+				t.Target = Party
+			elseif TargetRef == 3 then
+				t.Target = Map.Monsters[TargetId]
+			end
+			events.call("MonsterCanCastSpell", t)
+			d.eax = t.Result
+		end
+	end
+
+	NewCode = mem.asmhook(0x42543c, [[
+	cmp dword [ss:ebp-0x8], 0
 	je @end
 	nop
 	nop
 	nop
 	nop
 	nop
-	@end:
-	retn 0xC]])
+	@end:]])
+	mem.hook(NewCode+6, MonsterCanCastSpellHook)
 
-	mem.autohook(NewCode+9, function(d)
-		local Mon, MonId = GetMonster(u4[d.esp+0x4])
-		local TargetRef, TargetId = GetMonsterTarget(MonId)
-		local t = {Spell = u4[d.esp+0x8], Monster = Mon, Target = 0, Distance = u4[d.esp+0xC], Result = d.eax, TargetRef = TargetRef}
-		if TargetRef == 4 then
-			t.Target = Party
-		elseif TargetRef == 3 then
-			t.Target = Map.Monsters[TargetId]
-		end
-		events.call("MonsterCanCastSpell", t)
-		d.eax = t.Result
-	end)
+	NewCode = mem.asmhook(0x42544f, [[
+	cmp dword [ss:ebp-0x8], 0
+	je @end
+	nop
+	nop
+	nop
+	nop
+	nop
+	@end:]])
+	mem.hook(NewCode+6, MonsterCanCastSpellHook)
 
 	mem.autohook(0x404d9f, function(d)
 		local Mon, MonId = GetMonster(d.esi)

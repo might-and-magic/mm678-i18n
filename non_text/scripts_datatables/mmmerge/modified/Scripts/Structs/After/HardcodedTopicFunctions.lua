@@ -519,26 +519,26 @@ function events.GameInitialized2()
 		end
 	end)
 
-	local function AltQuestion(Text)
+	-- local function AltQuestion(Text)
 
-		NeedAnswer = true
+	-- 	NeedAnswer = true
 
-		local co = coroutine.create(function() StdQuestion(Text) end)
-		coroutine.resume(co)
+	-- 	local co = coroutine.create(function() StdQuestion(Text) end)
+	-- 	coroutine.resume(co)
 
-		while not Answer do
-			Sleep(25, 25, {Game.CurrentScreen})
-		end
+	-- 	while not Answer do
+	-- 		Sleep(25, 25, {Game.CurrentScreen})
+	-- 	end
 
-		local result = Answer
-		Answer = nil
+	-- 	local result = Answer
+	-- 	Answer = nil
 
-		return result
+	-- 	return result
 
-	end
+	-- end
 
 	-- temporary, while MMPatch 2.3 have this bug
-	Question = AltQuestion
+	-- Question = AltQuestion
 
 	----
 

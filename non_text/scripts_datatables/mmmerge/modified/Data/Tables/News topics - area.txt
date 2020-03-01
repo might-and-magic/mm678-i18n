@@ -258,7 +258,7 @@ Area	Topic Name	Text
 137	358	358
 137	359	359
 137	360	360
-62	Wild Dragonflies	Wild Dragonflies have infested the northwestern side of Emerald Island recently, making it dangerous to store things in our shed out there.  Dragonflies aren't terribly powerful, but they are fast and can even occasionally shoot fire at you.  Don't take them too lightly!
-62	Contestants	You're contestants in the Scavenger Hunt?  If so, I wouldn't wander off to the Dragon Cave, then.  Morcarack doesn't tolerate strangers very well.  I bet the missing people went there thinking his cave was the Abandoned Temple--they're probably long dead.
-62	Reefs	The signal rocket on the west side of the island should be set of to warn ships off from approaching to close to that side of the island.  The reefs off the west coast have proven deadly in the past.
-62	Marshes	Beware the marshes of the southern tip of the island.  The dragon flies that pester our town spawn there!  
+62	NPCTopic 788	NPCText 987
+62	NPCTopic 790	NPCText 989
+62	NPCTopic 993	NPCText 1627
+62	NPCTopic 994	NPCText 1628

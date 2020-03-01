@@ -90,10 +90,12 @@
 					for i,v in RoomData do
 						RoomData[i] = 0
 					end
+					local count = 0
 					for i,DataId in pairs(Room) do
 						RoomData[i] = DataId
+						count = count + 1
 					end
-					RoomData.count = #Room
+					RoomData.count = count
 				end
 			else
 				mapvars[strData] = {}

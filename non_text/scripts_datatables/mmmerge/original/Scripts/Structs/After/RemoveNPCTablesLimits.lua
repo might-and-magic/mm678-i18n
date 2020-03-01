@@ -308,14 +308,19 @@ if mmver == 8 then
 				local Topic = TeacherTopics[d.ecx]
 				if Topic then
 					d.eax = Topic.SId
+				else
+					d.eax = 0
 				end
 			end)
 
 		mem.hook(0x4b2811, function(d) d.eax = mem.u4[Game.NPCText["?ptr"] + TeacherTopics[d.ecx].Text*8 - 8] end)
 
 		mem.nop(0x4b0dfd, 2)
-		mem.hook(0x4b0e00, function(d) d.edx = TeacherTopics[d.esi].Mas - 1
-										d.edi = 3 end)
+		mem.hook(0x4b0e00, function(d)
+				local Topic = TeacherTopics[d.esi]
+				d.edx = (Topic and Topic.Mas or 1) - 1
+				d.edi = 3
+			end)
 
 		-- Required gold
 		local function GetReqGold(d)

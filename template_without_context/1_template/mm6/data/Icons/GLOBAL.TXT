@@ -104,7 +104,7 @@ Global Text
 101	_(TRANS_CONTEXT:'npcprof')_
 102	_(TRANS)_
 103	_(TRANS)_
-104	_(TRANS_CONTEXT:'spells')_
+104	_(TRANS)_
 105	_(TRANS_CONTEXT:'npcprof')_
 106	_(TRANS)_
 107	_(TRANS_CONTEXT:'stats')_

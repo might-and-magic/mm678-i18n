@@ -109,7 +109,7 @@ function events.MonsterCastSpell(t)
 		local Mon = t.Monster
 		local count = 0
 		for i,v in Map.Monsters do
-			if (v.Group == Mon.Group or v.Ally == Mon.Ally or Game.HostileTxt[v.Id][Mon.Id] == 0) and GetDist(v,x,y,z) < 2000 then
+			if (v.Group == Mon.Group or v.Ally == Mon.Ally or Game.HostileTxt[ceil(v.Id/3)][ceil(Mon.Id/3)] == 0) and GetDist(v,x,y,z) < 2000 then
 				v.HP = math.min(v.HP + Heal, v.FullHP)
 				Game.ShowMonsterBuffAnim(i)
 				count = count + 1

@@ -273,12 +273,12 @@ function events.GetAttackDelay(t)
 	if PLT then
 		t.Result = t.Result + (PLT.AttackDelay[t.Ranged and 1 or 2] or 0)
 
-		local MHItem = Pl.ItemMainHand > 0 and Pl.Items[Pl.ItemMainHand] or false
-		if MHItem and not MHItem.Broken and Game.ItemsTxt[MHItem.Number].Skill == 7 then
-			t.Result = max(t.Result, 5)
-		else
-			t.Result = max(t.Result, 30)
-		end
+		-- local MHItem = Pl.ItemMainHand > 0 and Pl.Items[Pl.ItemMainHand] or false
+		-- if MHItem and not MHItem.Broken and Game.ItemsTxt[MHItem.Number].Skill == 7 then
+		-- 	t.Result = max(t.Result, 5)
+		-- else
+		-- 	t.Result = max(t.Result, 30)
+		-- end
 	else
 		StoreEffects(Pl)
 	end

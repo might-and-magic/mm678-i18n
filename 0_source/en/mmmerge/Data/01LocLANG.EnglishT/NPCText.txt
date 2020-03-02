@@ -2783,11 +2783,11 @@ And then the being spoke to me, in a voice so calm, my own shivers ceased. “I wi
 2390	I'm simply not impressed.  Your reputation is but %11.  I won't talk to you unless it improves.		
 2391	Your reputation is just too pure for me.  I don't like it.  It's not right.  Maybe if I heard some more bad gossip about you we could talk.  Until then…		
 2392	Oh, all right.  But I really don't want to be seen with you.  Let's not make this a habit.		
-2393	Jars. Yessss. You have helped us greatly.		
+2393	n/a		
 2394	Thank you, %06.  Now, what did you want?		
-2395	Join guild		
+2395	n/a		
 2396	<gulp> I get it. Yes, %06.  What do you want of me?		
-2397	Well, sorcerers among you seeking for power of dark arts? Pay 10000 bill and step into our chambers.		
+2397	n/a		
 2398			
 2399	%02, eh?  I'll remember that.	Monster BTB	
 2400	%02 again.  What do you want?		
@@ -2808,11 +2808,11 @@ And then the being spoke to me, in a voice so calm, my own shivers ceased. “I wi
 2415	The stories I hear about you are %11, but that isn't good enough.  Be on your way.		
 2416	I can sense goodness upon you, %02.  Bring yourself down to %11, and then return to me.		
 2417	Your groveling has touched my heart.  I will talk to you for a moment.		
-2418	We will not allow any rambler to sneak here. Pay and study or scram!		
+2418	n/a		
 2419	Yes, good.  What do you want?		
-2420	Perfect! Now i call all sorcerers among you necromancers, don't pretend to be good anymore.		
+2420	n/a		
 2421	Please, don't slay me!  I will tell you what you want to know!		
-2422	Welcome, necromancers.		
+2422	n/a		
 2423			
 2424	Hi.  Name's %01.  	Thief BT	
 2425	How're you doin', %02?		

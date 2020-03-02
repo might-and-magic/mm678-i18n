@@ -11,12 +11,12 @@
 <tr>
 <td>无</td>
 <td>魔法门678整合版（英文）</td>
-<td>阅读下方的“魔法门678整合版的下载地址和使用方法”</td>
+<td>阅读下文段落“[魔法门678整合版的下载地址和使用方法](#魔法门678整合版的下载地址和使用方法)”</td>
 </tr>
 <tr>
 <td>魔法门678整合版（英文）</td>
 <td>魔法门678整合版（简体中文）</td>
-<td>魔法门678整合版简体中文汉化包</td>
+<td>下载[魔法门678整合版简体中文汉化包](https://github.com/might-and-magic/mm678-i18n/releases/download/1.3/MMMerge_zh_CN.zip)</td>
 </tr>
 <tr>
 <td>无</td>
@@ -26,27 +26,27 @@
 <tr>
 <td>魔法门8原版（简体 或 繁体中文 或 英文）</td>
 <td>魔法门8灰脸补丁高清完美版（简体中文）</td>
-<td>魔法门8简体中文升级灰脸完美补丁（灰脸补丁、MMExtension、音乐、简体中文汉化包合一）</td>
+<td>下载[魔法门8简体中文升级灰脸完美补丁](https://github.com/might-and-magic/mm678-i18n/releases/download/1.3/MM8_zh_CN_update.zip)（灰脸补丁、MMExtension、高压缩音乐、简体中文汉化包合一）</td>
 </tr>
 <tr>
 <td>魔法门8原版（英文）</td>
 <td>魔法门8灰脸补丁高清完美版（英文）</td>
-<td>魔法门8灰脸补丁+音乐</td>
+<td>下载[魔法门8灰脸补丁](https://grayface.github.io/mm/#GrayFace-MM8-Patch)，自已将从2开始编号的MP3或WAV背景音乐文件放入Music文件夹中</td>
 </tr>
 <tr>
 <td>魔法门8灰脸补丁高清完美版（英文）</td>
 <td>魔法门8灰脸补丁高清完美版（简体中文）</td>
-<td>魔法门8灰脸补丁简体中文汉化包（如无音乐则需+音乐）</td>
+<td>下载[魔法门8灰脸补丁简体中文汉化包](https://github.com/might-and-magic/mm678-i18n/releases/download/1.3/MM8_GrayFace_zh_CN.zip)（如无音乐则需放入音乐文件）</td>
 </tr>
 <tr>
 <td>魔法门7原版（英文）</td>
 <td>魔法门7灰脸补丁高清完美版（英文）</td>
-<td>魔法门7灰脸补丁英文版+音乐</td>
+<td>下载[魔法门7灰脸补丁英文版](https://grayface.github.io/mm/#GrayFace-MM8-Patch)（如无音乐则需放入音乐文件）</td>
 </tr>
 <tr>
 <td>魔法门6原版（英文）</td>
 <td>魔法门6灰脸补丁高清完美版（英文）</td>
-<td>魔法门6灰脸补丁英文版+音乐</td>
+<td>下载[魔法门6灰脸补丁英文版](https://grayface.github.io/mm/#GrayFace-MM8-Patch)（如无音乐则需放入音乐文件）</td>
 </tr>
 <tr>
 <td>魔法门6或7原版（中文 或 英文）</td>

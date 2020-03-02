@@ -2696,3 +2696,19 @@
 2695	_(TRANS)_		
 2696	_(TRANS)_		
 2697	_(TRANS)_		
+2698	_(TRANS)_	See Scripts/Global/PromotionTopics.lua	
+2699	_(TRANS)_	See Scripts/Global/PromotionTopics.lua	
+2700	_(TRANS)_	See Scripts/Global/PromotionTopics.lua	
+2701	_(TRANS)_	See Scripts/Global/PromotionTopics.lua	
+2702	_(TRANS)_	See Scripts/Global/PromotionTopics.lua	
+2703	_(TRANS)_	See Scripts/Global/PromotionTopics.lua	
+2704	_(TRANS)_	See Scripts/Global/Quest_SavingGoobers.lua	
+2705	_(TRANS)_	See Scripts/Global/Quest_SavingGoobers.lua	
+2706	_(TRANS)_	See Scripts/Global/Quest_SavingGoobers.lua	
+2707	_(TRANS)_	See Scripts/Global/Quest_SavingGoobers.lua	
+2708	_(TRANS)_	See Scripts/Global/Quest_SavingGoobers.lua	
+2709	_(TRANS)_	See Scripts/Global/Quest_CrossContinents.lua	
+2710	_(TRANS)_	See Scripts/Global/Quest_CrossContinents.lua	
+2711	_(TRANS)_	See Scripts/Global/Quest_CrossContinents.lua	
+2712	_(TRANS)_	See Scripts/Global/Quest_CrossContinents.lua	
+2713	_(TRANS)_	See Scripts/Global/Quest_CrossContinents.lua	

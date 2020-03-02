@@ -3088,3 +3088,19 @@ And then the being spoke to me, in a voice so calm, my own shivers ceased. “I wi
 2695	Your paltry wealth isn't enough to even tempt me.  I will not be bribed.		
 2696	n/a		
 2697	I will not bow to your threats!		
+2698	Jars. Yessss. You have helped us greatly.	See Scripts/Global/PromotionTopics.lua	
+2699	Join guild	See Scripts/Global/PromotionTopics.lua	
+2700	Well, sorcerers among you seeking for power of dark arts? Pay 10000 bill and step into our chambers.	See Scripts/Global/PromotionTopics.lua	
+2701	We will not allow any rambler to sneak here. Pay and study or scram!	See Scripts/Global/PromotionTopics.lua	
+2702	Perfect! Now i call all sorcerers among you necromancers, don't pretend to be good anymore.	See Scripts/Global/PromotionTopics.lua	
+2703	Welcome, necromancers.	See Scripts/Global/PromotionTopics.lua	
+2704	, 	See Scripts/Global/Quest_SavingGoobers.lua	
+2705	(	See Scripts/Global/Quest_SavingGoobers.lua	
+2706	)	See Scripts/Global/Quest_SavingGoobers.lua	
+2707	Well, this is %s.	See Scripts/Global/Quest_SavingGoobers.lua	
+2708	Done!	See Scripts/Global/Quest_SavingGoobers.lua	
+2709	Anya Charo	See Scripts/Global/Quest_CrossContinents.lua	
+2710	Wan Ruchos	See Scripts/Global/Quest_CrossContinents.lua	
+2711	Noah Charo	See Scripts/Global/Quest_CrossContinents.lua	
+2712	Chan Os Wy	See Scripts/Global/Quest_CrossContinents.lua	
+2713	R.C. Wosch	See Scripts/Global/Quest_CrossContinents.lua	

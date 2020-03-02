@@ -35,31 +35,24 @@ icon IB-M3d-%s										UA				BtnN
 if else								
 pcx IB-R-%s	560-468	450	34	26						UA				BtnN
 if down													BtnR	
-icon UI-BtnRd														BtnR
-;icon IB-M2d-%s										UA				BtnR
+icon IB-M2d-%s										UA				BtnR
 if else								
-icon UI-BtnRu														BtnR
-;pcx IB-R-%s	518-468	450	34	26						UA				BtnR
-if down													BtnC	
-icon IB-M1d-%s										UA				BtnC
-if else								
-pcx IB-R-%s	476-468	450	34	26						UA				BtnC
+pcx IB-R-%s	518-468	450	34	26						UA				BtnR
 if down													BtnZ	
-icon UI-BtnZd														BtnZ
+icon IB-M1d-%s										UA				BtnZ
 if else								
-icon UI-BtnZu														BtnZ
+pcx IB-R-%s	476-468	450	34	26						UA				BtnZ
 if								
 
 action	107												BtnEsc		BUTTON ACTIONS
 action	205												BtnN
 action	104												BtnR
-action	105												BtnC
 action	106												BtnZ
 
 					R-4-x	B-y	+	+		UA			BtnEsc	Menu	DRAW BUTTONS
 					R-37-x	B-y	+	+		UA			BtnZ	Menu
 					39-x	B-y	+	+		UA			BtnN	Menu
-					5-x	B-y	+	+		UA			BtnC	Menu
+					5-x	B-y	+	+		UA			BtnR	Menu
 
 icon UI-MMap			133	7			-	+	Merge.UI=2					Minimap	MINIMAP
 
@@ -77,8 +70,6 @@ icon UI-FrGol			149-w-s				+	+						Food1
 	80+s	1	99-s	21	2	0	+	+						Food1	Food
 icon topbar	419+w	1	48-w	21	R	0	-	erase						Food1	Erase Background
 icon topbar	179	1	48-w	21	R	0	-	behind						Food1	New Background
-					R		+						BtnR	Food1	Rest
-
 
 SCREEN									Merge.UI>1						RECOVER GOLD
 recover													Gold1

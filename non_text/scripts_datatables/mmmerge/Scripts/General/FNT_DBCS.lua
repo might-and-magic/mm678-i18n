@@ -149,6 +149,10 @@ end
 
 -- ============ DBCS library START ============
 
+function DBCS.isSupportedEncoding(encoding)
+	return encodingRegex[encoding] ~= nil
+end
+
 function DBCS.loadDbcsFnt(heightAndDecoStr, highByte)
 	local dbFntAddr
 	if dbcsFnts[heightAndDecoStr] == nil then
@@ -212,9 +216,11 @@ function DBCS.validateHighByte(encoding, highByte)
 end
 
 function DBCS.encodeSpecial(str, encoding)
-	local reg = encodingRegex[encoding]
-	str = string.gsub(str, "(" .. reg .. ")", "\14\32\14%1\7\15")
-	str = string.gsub(str, "\15\14", "")
+	if string.find(str, "\7") == nil then
+		local reg = encodingRegex[encoding]
+		str = string.gsub(str, "(" .. reg .. ")", "\14\32\14%1\7\15")
+		str = string.gsub(str, "\15\14", "")
+	end
 	return str
 end
 
@@ -226,9 +232,35 @@ end
 
 function DBCS.setPlayerName(number, str)
 	Party[number - 1].Name = DBCS.encodeSpecial(str, globalEncoding)
+	Party[number - 1].Name = DBCS.truncate(Party[number - 1].Name, globalEncoding)
 end
 
+local function lastIndexOf(haystack, needle)
+	local i, j
+	local k = 0
+	repeat
+		i = j
+		j, k = string.find(haystack, needle, k + 1, true)
+	until j == nil
+	return i
+end
 
+function DBCS.truncate(str, encoding)
+	-- find last \15, its pos is pos. if no \15, then pos = 0. find next \14 after pos. if no \14 exists, end, otherwise \14's pos is pos.
+	-- see if \32 exists at the pos 6 characters after this pos, if \32 found, see is it "\32\14ENCODING\7" before \32, then continue at the pos 6 characters after this pos ...,
+	-- if \32 is not found, or \32 is found but can't validate, then add \15.
+	-- example for testing:
+	-- DBCS.truncate("\14\32\14\189\164\7\32\14\189\165\7\15fdfd\14\32\14\189\164\7\32\14\189\165\7", "gb2312")
+	pos = lastIndexOf(str, "\15") or 0
+	pos = string.find(str, "\14", pos)
+	if pos == nil then
+		return str
+	end
+	while string.sub(str, pos + 5, pos + 5) == "\7" and string.match(string.sub(str, pos + 1, pos + 5), "^\32\14" .. encodingRegex[encoding] .. "\7$") ~= nil and pos + 5 < #str do
+		pos = pos + 5
+	end
+	return string.sub(str, 0, pos) .. "\15"
+end
 
 -- ============ DBCS library END ============
 
@@ -402,11 +434,52 @@ local function dbcsProc(d)
 end
 
 
-if globalEncoding == "gb2312" or
-	globalEncoding == "big5" or
-	globalEncoding == "gbk" or
-	globalEncoding == "euc_jp" or
-	globalEncoding == "euc_kr" then
-		mem.hook(testCharOrigBegin, dbcsProc)
-		mem.asmpatch(mmv(0x443053, 0x44C50A, 0x449C3B), "jmp absolute " .. testCharOrigBegin, mmv(9, 9, 9))
+if DBCS.isSupportedEncoding(globalEncoding) then
+	mem.hook(testCharOrigBegin, dbcsProc)
+	mem.asmpatch(mmv(0x443053, 0x44C50A, 0x449C3B), "jmp absolute " .. testCharOrigBegin, mmv(9, 9, 9))
 end
+
+
+
+-- ============ Compatibility for traditional DBCS MM8's roster names BEGIN ============
+
+function GetFromFile(fname, n, col)
+	local t = {}
+	for s in Game.LoadTextFileFromLod(fname):gmatch("\r\n"..("[^\t]*\t"):rep(col-1).."([^\t]*)") do
+		t[#t+1] = (s:sub(1,1) == '"' and s:sub(2, -2) or s)
+	end
+	return t[n]
+end
+
+function getRosterTxtInfo(index, infoType) -- infoType can be "Biography" or anything else (which means Name)
+	local col = 2
+	if infoType == "Biography" then
+		col = 124
+	end
+	return GetFromFile("roster.txt", index + 2, col)
+end
+
+function events.AfterLoadMap()
+	if Party.PlayersArray[1].Name ~= getRosterTxtInfo(1) and DBCS.isSupportedEncoding(globalEncoding) and mmver == 8 then
+		for i, pl in Party.PlayersArray do
+			if i == 0 then
+				pl.Name = DBCS.encodeSpecial(pl.Name, globalEncoding)
+				pl.Name = DBCS.truncate(pl.Name, globalEncoding)
+				pl.Biography = DBCS.encodeSpecial(pl.Biography, globalEncoding)
+				pl.Biography = DBCS.truncate(pl.Biography, globalEncoding)
+			else
+				pl.Name = getRosterTxtInfo(i)
+				mem.copy(pl["?ptr"]+200, getRosterTxtInfo(i, "Biography"))
+			end
+		end
+		for i, pl in Party do
+			pl.Name = DBCS.encodeSpecial(pl.Name, globalEncoding)
+			pl.Name = DBCS.truncate(pl.Name, globalEncoding)
+			pl.Biography = DBCS.encodeSpecial(pl.Biography, globalEncoding)
+			pl.Biography = DBCS.truncate(pl.Biography, globalEncoding)
+		end
+	end
+end
+
+
+-- ============ Compatibility for traditional DBCS MM8's roster names END ============

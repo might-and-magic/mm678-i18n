@@ -1603,7 +1603,7 @@ evt.Global[847] = function()
 		Party.QBits[741] = false
 
 		if NoLiches then
-			Message(Game.NPCText[2393])
+			Message(Game.NPCText[2698])
 		else
 			Message(Game.NPCText[1150])
 		end
@@ -1629,11 +1629,11 @@ Quest{
 								return evt.Subtract{"Gold", 10000}	end,
 	Done		= function() Promote({42,43,48}, 44, {Experience = 15000}, {Experience = 5000}) end,
 	After		= function() Promote({42,43,48}, 44, {Experience = 15000}) end,
-	Texts = {	Topic 	= Game.NPCText[2395],
-				Give 	= Game.NPCText[2397],
-				Undone	= Game.NPCText[2418],
-				Done	= Game.NPCText[2420],
-				After	= Game.NPCText[2422]}
+	Texts = {	Topic 	= Game.NPCText[2699], -- "Join guild"
+				Give 	= Game.NPCText[2700],
+				Undone	= Game.NPCText[2701],
+				Done	= Game.NPCText[2702],
+				After	= Game.NPCText[2703]}
 	}
 
 --------------------------------------------

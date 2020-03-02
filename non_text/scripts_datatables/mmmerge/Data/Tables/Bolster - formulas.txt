@@ -3,8 +3,7 @@ def	HP	max(HP, (MonSettings.HPBySize and MonsterHeight/160 or 1)*(HP/MonsterLeve
 def	AC	AC*MonsterPower*BolsterMul	def - default for all kinds of monsters, used if there are no special one.
 def	MoveSpeed	(MonSettings.Style == 2 or MonSettings.Style == 0) and (min(MoveSpeed*PartyLevel/MonsterLevel, MonSettings.Style == 2 and MoveSpeed*3 or MoveSpeed*1.35)) or MoveSpeed	*Number of monster kind* - used only for selected kind of monsters. Kind of monsters - same number as in Hostile.txt from EnglishT.lod
 def	MaxDamage	max(MaxDamage, min(MaxDamage*(PartyLevel/MonsterLevel)^0.75*BolsterMul*MonsterPower^0.7, BoostedHP/4*BolsterMul))	
-def	SpellSkill	MonSettings.Style == 3 and min(SpellSkill*PartyLevel/MonsterLevel, 10*BolsterMul) or min(SpellSkill*MonsterPower, 7)	"Stat" values: HP, AC, MoveSpeed, MinDamage, MaxDamage, SpellSkill, SpellMastery, AllowNewSpell, 
-AllowSummons
+def	SpellSkill	MonSettings.Style == 3 and min(SpellSkill*PartyLevel/MonsterLevel, 10*BolsterMul) or min(SpellSkill*MonsterPower, 7)	"Stat" values: HP, AC, MoveSpeed, MinDamage, MaxDamage, SpellSkill, SpellMastery, AllowNewSpell, AllowSummons
 def	SpellMastery	MonSettings.Style == 3 and min(floor(SpellMastery + PartyLevel/MonsterLevel), 4) or min(SpellMastery + MonsterPower, 3)	
 def	AllowNewSpell	MapSettings.Spells and MonSettings.Spells and PartyLevel/MonsterLevel > 2	"Formula" accept any expressions with lua syntax, quick reference:
 def	AllowSummons	MapSettings.Summons and MonSettings.Summons and PartyLevel/MonsterLevel > 2	+; -; *; /; ^; sqrt(x); min(...); max(...); random(x[, y])

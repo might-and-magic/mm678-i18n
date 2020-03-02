@@ -46,10 +46,10 @@ Id	Item id	Notes		X	Y	X	Y	X	Y	X	Y	X	Y	X	Y	X	Y	X	Y	X	Y	X	Y	X	Y	X	Y
 44	1674	Steel Chain Mail		0	0	0	0	0	0	0	0	0	0		
 45	1675	Noble Chain Mail		0	0	0	0	0	0	0	0	0	0		
 46	1676	Royal Chain Mail		0	0	0	0	0	0	0	0	0	0		
-47	1677	Majestic Chain Mail		0	0	0	0	0	0	0	0	0	0		
+47	1677	Majestic Chain Mail		43	81	52	93	45	110	41	98	49	112		
 48	1678	Plate Armor		0	0	0	0	0	0	0	0	0	0		
 49	1679	Steel Plate Armor		0	0	0	0	0	0	0	0	0	0		
-50	1680	Golden Plate Armor		0	0	0	0	0	0	0	0	0	0		
+50	1680	Golden Plate Armor		28	83	58	94	44	112	40	101	48	116		
 51	2026	Galahad		43	81	52	93	45	110	41	98	49	112		
 52	2027	Pellinore		28	83	58	94	44	112	40	101	48	116		
 53	2041	Apollo		43	81	61	96	45	110	41	98	49	112		

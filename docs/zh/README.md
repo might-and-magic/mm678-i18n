@@ -9,7 +9,7 @@
 | 魔法门678整合版（英文） | 魔法门678整合版（简体中文） | 下载[魔法门678整合版简体中文汉化包](https://github.com/might-and-magic/mm678-i18n/releases/download/1.3/MMMerge_zh_CN.zip) |
 | 无 | 魔法门6或7或8原版（英文） | GOG或Uplay上购买 |
 | 魔法门8原版（简体 或 繁体中文 或 英文） | 魔法门8灰脸补丁高清完美版（简体中文） | 下载[魔法门8简体中文升级灰脸完美补丁](https://github.com/might-and-magic/mm678-i18n/releases/download/1.3/MM8_zh_CN_update.zip)（灰脸补丁、MMExtension、高压缩音乐、简体中文汉化包合一） |
-| 魔法门8原版（英文） | 魔法门8灰脸补丁高清完美版（英文） | 下载[魔法门8灰脸补丁](https://grayface.github.io/mm/#GrayFace-MM8-Patch)，自已将从2开始编号的MP3或WAV背景音乐文件放入Music文件夹中 |
+| 魔法门8原版（英文） | 魔法门8灰脸补丁高清完美版（英文） | 下载[魔法门8灰脸补丁](https://grayface.github.io/mm/#GrayFace-MM8-Patch)，然后自已将从2开始编号的MP3或WAV背景音乐文件放入Music文件夹中 |
 | 魔法门8灰脸补丁高清完美版（英文） | 魔法门8灰脸补丁高清完美版（简体中文） | 下载[魔法门8灰脸补丁简体中文汉化包](https://github.com/might-and-magic/mm678-i18n/releases/download/1.3/MM8_GrayFace_zh_CN.zip)（如无音乐则需放入音乐文件） |
 | 魔法门7原版（英文） | 魔法门7灰脸补丁高清完美版（英文） | 下载[魔法门7灰脸补丁英文版](https://grayface.github.io/mm/#GrayFace-MM8-Patch)（如无音乐则需放入音乐文件） |
 | 魔法门6原版（英文） | 魔法门6灰脸补丁高清完美版（英文） | 下载[魔法门6灰脸补丁英文版](https://grayface.github.io/mm/#GrayFace-MM8-Patch)（如无音乐则需放入音乐文件） |
@@ -26,10 +26,11 @@
 ①MM678 Merged.zip是整合版文件，②MM678 Patch 08.10.2019.zip是后来补充的更新文件。解压①，再解压②到①解压出来的文件夹中，覆盖原文件即可。如需汉化，请下载并解压下述的③MMMerge_zh_CN.zip，同样覆盖前述文件。
 
 ## 语言包下载地址
-GitHub或百度网盘任选。最新简体中文语言文件版本号：v1.2.2
+GitHub或百度网盘任选。最新简体中文语言文件版本号：v1.3
 ### GitHub下载
-* [MMMerge_zh_CN.zip（魔法门678整合版简体中文汉化包）](https://github.com/might-and-magic/mm678-i18n/releases/download/1.2.2/MMMerge_zh_CN.zip)
-* [MM8_GrayFace_zh_CN.zip（魔法门8灰脸补丁简体中文汉化包）](https://github.com/might-and-magic/mm678-i18n/releases/download/1.2.2/MM8_GrayFace_zh_CN.zip)
+* [MMMerge_zh_CN.zip（魔法门678整合版简体中文汉化包）](https://github.com/might-and-magic/mm678-i18n/releases/download/1.3/MMMerge_zh_CN.zip)
+* [MM8_zh_CN_update.zip（魔法门8简体中文升级灰脸完美补丁）](https://github.com/might-and-magic/mm678-i18n/releases/download/1.3/MM8_zh_CN_update.zip)
+* [MM8_GrayFace_zh_CN.zip（魔法门8灰脸补丁简体中文汉化包）](https://github.com/might-and-magic/mm678-i18n/releases/download/1.3/MM8_GrayFace_zh_CN.zip)
 ### 百度网盘下载
 [百度网盘链接](https://pan.baidu.com/s/1WlMmiIiv8t45FccP94_fUw)（长期链接，更新了的话还是在这个链接里面下载。整合版及MM8的汉化包都在里面）。提取码：wxd3
 

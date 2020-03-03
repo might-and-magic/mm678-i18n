@@ -462,7 +462,7 @@ end
 function events.AfterLoadMap()
 	if Party.PlayersArray[1].Name ~= getRosterTxtInfo(1) and DBCS.isSupportedEncoding(globalEncoding) and mmver == 8 then
 		for i, pl in Party.PlayersArray do
-			if i == 0 then
+			if i == 0 or i > 35 then
 				pl.Name = DBCS.encodeSpecial(pl.Name, globalEncoding)
 				pl.Name = DBCS.truncate(pl.Name, globalEncoding)
 				pl.Biography = DBCS.encodeSpecial(pl.Biography, globalEncoding)

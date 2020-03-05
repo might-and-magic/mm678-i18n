@@ -4,7 +4,7 @@
 /6_finalprod/
 /non_text/video/mmmerge/
 !/non_text/video/mmmerge/6intro.bik
-/non_text/video/*.zip
+/non_text/video/zh_CN/mmmerge/*.zip
 /non_text/scripts_datatables/original-merge/
 /tools/input/
 /tools/output/

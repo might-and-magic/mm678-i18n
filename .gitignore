@@ -1,11 +1,10 @@
 /1_template/
 /4_prod/
 /5_postprod/
-/6_finalprod/zh_CN/mm6/
-/6_finalprod/zh_CN/mm7/
-/6_finalprod/zh_CN/mm8_zh_CN_update/
-/6_finalprod/zh_CN/*.zip
-/non_text/sound/
+/6_finalprod/
+/non_text/video/mmmerge/
+!/non_text/video/mmmerge/6intro.bik
+/non_text/video/*.zip
 /non_text/scripts_datatables/original-merge/
 /tools/input/
 /tools/output/

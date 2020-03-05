@@ -3104,3 +3104,4 @@ And then the being spoke to me, in a voice so calm, my own shivers ceased. “I wi
 2711	Noah Charo	See Scripts/Global/Quest_CrossContinents.lua	
 2712	Chan Os Wy	See Scripts/Global/Quest_CrossContinents.lua	
 2713	R.C. Wosch	See Scripts/Global/Quest_CrossContinents.lua	
+2714	Placeholder	Last entry in NPCText.txt is a placeholder and must not be used	

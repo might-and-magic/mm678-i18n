@@ -18,11 +18,6 @@ NPCText	1680		Good tidings. I am %s, %s %s. I'd love to see the world and taste 
 NPCText	1681		I cannot travel with you, your party is too full.
 NPCText	1682		apprentice,skilled,well known,masterful,great
 NPCText	1683		What wretch would want to deal with scum like yourself? Repent for your sins and do not show your face here until you do.
-NPCText	2158		The Controlled Breach is a place the consortium has created where it’s possible to see and interact with the Runaway Chaos, and through which the Uneasy Origin Matter can be reached. It’s an artificial realm-esque area where matters *Verdant snickers* can be safely handled without jeopardizing any real world places. 
-Ruins of Escaton's Crystal should be enough magic-filled to allow our old friend - town portal spell - teleport you there.
-Once there, all you need to do is find the Runaway Chaos and return it to the Uneasy Origin Matter. What can you expect on the way? Aye, this even I cannot tell you. Since it’s a result of a time anomaly, we have obviously never seen it before. 
-What will happen to you after you go in and leave?
-Well, um. Let’s not overthink things. I’m sure it’s going to be fun, though!
 NPCText	1685		Choose name for your dragon.
 NPCText	1686		Dragon's name will be "%s", are you sure? (Y/N)
 NPCText	1687		Hatchling is too young to join you.

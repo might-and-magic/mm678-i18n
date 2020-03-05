@@ -12,4 +12,4 @@ csv2po.py:
 
 make_postprod.py to generate 5_postprod/
 
-make 6_finalprod semi-manually
+make 6_finalprod/ semi-manually

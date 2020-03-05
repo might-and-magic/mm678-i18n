@@ -18,7 +18,6 @@ NPCText	1680		_(TRANS_CONTEXT:'npc conversation')_
 NPCText	1681		_(TRANS_CONTEXT:'npc conversation')_
 NPCText	1682		_(TRANS_CONTEXT:'npc conversation')_
 NPCText	1683		_(TRANS_CONTEXT:'npc conversation')_
-NPCText	2158		_(TRANS_CONTEXT:'npc conversation')_
 NPCText	1685		_(TRANS_CONTEXT:'npc conversation')_
 NPCText	1686		_(TRANS_CONTEXT:'npc conversation')_
 NPCText	1687		_(TRANS_CONTEXT:'npc conversation')_

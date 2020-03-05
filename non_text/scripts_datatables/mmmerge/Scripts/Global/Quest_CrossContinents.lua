@@ -739,14 +739,14 @@ if not QSet.QuestFinished then
 			end
 
 			if QSet.RiddlesAnswered <= 5 or not QSet.GotFQHint3 then
-				CCTimers.Riddle = CCTimers.Riddle or function()
+				-- CCTimers.Riddle = CCTimers.Riddle or function()
 					local NPC = Game.NPC[RunChaosNPC]
 					NPC.Pic			= ChaosPortraits[QSet.RiddlesAnswered+1] or ChaosPortraits[#ChaosPortraits]
 					NPC.Name		= ChaosNames[QSet.RiddlesAnswered+1] or ChaosNames[#ChaosNames]
 					NPC.Profession	= ChaosProfs[QSet.RiddlesAnswered+1] or ChaosProfs[#ChaosProfs]
-					RemoveTimer(CCTimers.Riddle)
-				end
-				Timer(CCTimers.Riddle, const.Second, false)
+					-- RemoveTimer(CCTimers.Riddle)
+				-- end
+				-- Timer(CCTimers.Riddle, const.Second, false)
 			end
 
 		end,

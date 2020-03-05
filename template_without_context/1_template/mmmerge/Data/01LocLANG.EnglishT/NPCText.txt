@@ -2712,3 +2712,4 @@
 2711	_(TRANS)_	See Scripts/Global/Quest_CrossContinents.lua	
 2712	_(TRANS)_	See Scripts/Global/Quest_CrossContinents.lua	
 2713	_(TRANS)_	See Scripts/Global/Quest_CrossContinents.lua	
+2714	Placeholder	Last entry in NPCText.txt is a placeholder and must not be used	

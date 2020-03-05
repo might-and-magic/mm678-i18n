@@ -460,7 +460,7 @@ function getRosterTxtInfo(index, infoType) -- infoType can be "Biography" or any
 end
 
 function events.AfterLoadMap()
-	if Party.PlayersArray[1].Name ~= getRosterTxtInfo(1) and DBCS.isSupportedEncoding(globalEncoding) and mmver == 8 then
+	if mmver == 8 and Party.PlayersArray[1].Name ~= getRosterTxtInfo(1) and DBCS.isSupportedEncoding(globalEncoding) then
 		for i, pl in Party.PlayersArray do
 			if i == 0 or i > 35 then
 				pl.Name = DBCS.encodeSpecial(pl.Name, globalEncoding)

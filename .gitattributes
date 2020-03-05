@@ -1,4 +1,4 @@
-* text eol=crlf
+* text=auto
 *.txt -text
 *.str -text
 *.po eol=lf

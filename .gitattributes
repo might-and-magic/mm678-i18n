@@ -1,0 +1,5 @@
+* text eol=crlf
+*.txt -text
+*.str -text
+*.po eol=lf
+*.pot eol=lf

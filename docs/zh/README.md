@@ -69,7 +69,7 @@ Ctrl+F1打开控制台
 * 技术、修图：Tom Chen
 * 翻译：Tom Chen、jackking、1qwop0、云斯顿.博拉格 等
 
-大致上是优先用Tom的魔法门6修正“完美版”（2018年版）的翻译文字，其次是简体中文原版的魔法门7的文字，最后是简体中文原版的魔法门8（简体中文原版的魔法门8基本上是由繁体中文原版的魔法门8转换而来的）。然后进行了文字的修正、统一。总体上遵循简体中文官方版本魔法门6、7译名，除部分常见名词，包括：Knight/剑客->骑士；Druid/教士/僧侣->德鲁伊；Priest/神父->神甫；Staff/棍棒/长棍->手杖；Mace/锤棍->钉锤；等等。除少数（如魔法）外，英文相同者通常中文名均统一（如职业、生物的Lich都是巫妖；职业、6中生物、7剧情中尼根的团体Warlock都是邪术师）。然后用修正统一的翻译去生成整合版和MM8的汉化文件（所以MM8的汉化也是修正和统一的了）。
+大致上是优先用Tom的魔法门6修正“完美版”（2018年版）的翻译文字，其次是简体中文原版的魔法门7的文字，最后是简体中文原版的魔法门8（简体中文原版的魔法门8基本上是由繁体中文原版的魔法门8转换而来的）。然后进行了文字的修正、统一。总体上遵循简体中文官方版本魔法门6、7译名，除部分常见名词，包括：Knight/剑客->骑士；Druid/教士/僧侣->德鲁伊；Paladin/游侠->圣武士；Priest/神父->神甫；Staff/棍棒/长棍->手杖；Mace/锤棍->钉锤；等等。除少数（如魔法）外，英文相同者通常中文名均统一（如职业、生物的Lich都是巫妖；职业、6中生物、7剧情中尼根的团体Warlock都是邪术师）。然后用修正统一的翻译去生成整合版和MM8的汉化文件（所以MM8的汉化也是修正和统一的了）。
 
 对于专有名词，您可以查阅魔法门6、7、8和整合版的简体、繁体、英文所有版本的所有专有名词对照表：[mm678allzhversiontrans.xlsx Excel文件下载](https://github.com/might-and-magic/mm678-i18n/raw/master/translation-reference/zh/mm678allzhversiontrans.xlsx)
 
@@ -169,7 +169,9 @@ Ctrl+F1打开控制台
 
 ## 截图
 ![魔法门678整合版简体中文版截图0](https://github.com/might-and-magic/mm678-i18n/raw/master/docs/img/mmerge_zhcn_0.jpg)
+
 ![魔法门678整合版简体中文版截图1](https://github.com/might-and-magic/mm678-i18n/raw/master/docs/img/mmerge_zhcn_1.jpg)
+
 ![魔法门678整合版简体中文版截图2](https://github.com/might-and-magic/mm678-i18n/raw/master/docs/img/mmerge_zhcn_2.jpg)
 
 ## 版权

@@ -39,10 +39,8 @@ def batchCheckLf(encoding = None, pathObj = Path('.'), extension = 'txt'):
 		checkLf(p, encoding)
 
 # batchValidateFilesEncoding(inputEncoding = 'GB2312', pathObj = Path('0_source/zh_CN'), extension = ['txt', 'str', 'ini'])
-# batchValidateFilesEncoding(inputEncoding = 'UTF-8', pathObj = Path('template_without_context'), extension = ['txt', 'str', 'ini'])
+batchValidateFilesEncoding(inputEncoding = 'UTF-8', pathObj = Path('template_without_context'), extension = ['txt', 'str', 'ini'])
 
 # batchCheckLf(encoding = 'cp1252', pathObj = Path('0_source/en'), extension = ['txt', 'str'])
 # batchCheckLf(encoding = 'gb2312', pathObj = Path('0_source/zh_CN'), extension = ['txt', 'str'])
 # batchCheckLf(encoding = 'UTF-8', pathObj = Path('0_source/zh_CN/customlist'), extension = 'list')
-
-# batchValidateFilesEncoding(inputEncoding = 'cp1252', pathObj = Path('2_dev'), extension = ['py'])

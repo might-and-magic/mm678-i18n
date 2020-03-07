@@ -618,7 +618,7 @@ def generateProd():
 
 def exec():
 	generateDevAndI18n()
-	generateProd()
+	# generateProd()
 	log('End.', 'n')
 
 

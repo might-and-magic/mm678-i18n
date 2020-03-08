@@ -16,7 +16,7 @@
   * MM6开头介绍
   * 方尖塔记录消失问题
 * 其他
-  * 自动化生成6_finalprod
+  * 自动化生成6_finalprod(DOING)
   * 全部的繁体汉化包自动生成
   * 其他语言的语言包自动生成
   * 其他语言的介绍文字
@@ -37,7 +37,42 @@ News topics - area.txt last lines   +   Scripts/General/NPCNewsTopics.lua's Proc
 
 OTHER: compare rodril and master branch
 
+## Percent sign
+
+* MM8 & MMMerge history:
+  * %30: February 4, 1172 (date of the history article)
+  * %31: your main character's name
+  * %32: his/her (possessive case)
+  * %33: he/she (subjective case)
+  * %34: him/her (objective case)
+* MM7 history:
+  * %30: February 4, 1172 (date of the history article)
+  * %31, %32, %33, %34: your four characters' name
+* MM6 NPCbtb:
+  * %01：NPC名字
+  * %02：角色名字
+  * %03：NPC的第三人称所有格
+  * %04：贿赂的金币数量
+  * %05：时间（“早晨”等）
+  * %06：先生sir/女士lady
+  * %07：爵士Sir/夫人Lady
+  * %08：Award（完成的任务）之一
+  * %09：NPC的第三人称所有格
+  * %10：爵士Lord/夫人Lady
+  * %11：声誉
+  * %12：声誉
+  * %13：随机的名字
+  * %14：兄弟/姐妹 brother/sister（根据NPC的性别）
+  * %15：女儿（哪怕角色是男的，bug！）
+  * %16：兄弟/姐妹 brother/sister（根据NPC的性别）
+
+## Other bugs
+
 Noble Plate Armor no dressed status image `evt.GiveItem{1,0,880}`
+
+幽灵沼泽门不对
+
+阿拉莫斯城堡传送器
 
 tools/add_context.py
 csv2po.py exec()
@@ -62,7 +97,6 @@ ZDDB02.STR - ZDDB10.STR, ZDTL01.STR, ZDTL02.STR, ZDWJ01.STR, ZDWJ1.STR, ZDWJ2.ST
 
 yes, useful
 roster.txt
-
 
 above overwrites below:
 

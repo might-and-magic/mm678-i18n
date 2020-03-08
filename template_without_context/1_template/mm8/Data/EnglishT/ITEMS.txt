@@ -628,7 +628,7 @@ Item #	Pic File	Name	Value	Equip Stat	Skill Group	Mod1	Mod2	material	ID/Rep/St	N
 625	null	quest item 625	0	N / A	Misc	0	0	0	0	0	1	0	0	0	0	quest item 625
 626	item207	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	78	0	0	0	0	_(TRANS)_
 627	item293	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	102	0	0	0	0	_(TRANS)_
-628	item294	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	103	0	0	0	0	_(TRANS)_
+628	item294	_(TRANS_CONTEXT:'items mm8')_	0	N / A	Misc	0	0	0	0	_(TRANS)_	103	0	0	0	0	_(TRANS)_
 629	item295	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	104	0	0	0	0	_(TRANS)_
 630	item298	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	105	0	0	0	0	_(TRANS)_
 631	item299	_(TRANS)_	0	N / A	Misc	0	0	0	0	_(TRANS)_	106	0	0	0	0	_(TRANS)_

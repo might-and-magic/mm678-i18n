@@ -1049,11 +1049,11 @@ local function OnLoadMap(WasInGame)
 
 	local MazeLevel = mapvars.MazeLevel
 	if MazeLevel == 1 then
-		evt.hint[1] = evt.str[1] -- "Exit Breach Basement."
+		evt.hint[1] = "Exit Breach Basement."
 	else
-		evt.hint[1] = string.format(evt.str[2], MazeLevel-1) -- "Go up to the %sth floor."
+		evt.hint[1] = "Go up to the " .. MazeLevel-1 .. "th floor."
 	end
-	evt.hint[2] = string.format(evt.str[3], MazeLevel+1) -- "Go down to the %sth floor."
+	evt.hint[2] = "Go down to the " .. MazeLevel+1 .. "th floor."
 
 end
 ---------------------------------
@@ -1141,7 +1141,7 @@ local function FloorTrap()
 			local Skill, Mas = SplitSkill(Pl.Skills[const.Skills.DisarmTraps])
 			if Mas == 4 or Skill > ceil(mapvars.MazeLevel/Mas) then
 				TrapSpells[Cell] = 0
-				Game.ShowStatusText(evt.str[4]) -- "Trap disarmed!"
+				Game.ShowStatusText("Trap disarmed !")
 				evt.FaceAnimation(Game.CurrentPlayer, const.FaceAnimation.DisarmTrap)
 				Cell = mapvars.CellsInfo[Cell]
 				local F = Map.Facets[Cell.Floor]
@@ -1158,7 +1158,7 @@ local function FloorTrap()
 
 		Cell = mapvars.CellsInfo[Cell]
 		evt.FaceAnimation(Game.CurrentPlayer, random(5,6))
-		Game.ShowStatusText(evt.str[5]) -- "Trap!"
+		Game.ShowStatusText("Trap !")
 		evt.CastSpell{TrapSpell, 3, 7, Cell.cX, Cell.cY, Cell.cZ + 200, Party.X, Party.Y, Party.Z + random(100)}
 
 		if random(1,3) == 1 then

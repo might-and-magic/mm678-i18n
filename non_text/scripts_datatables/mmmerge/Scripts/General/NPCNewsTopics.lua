@@ -83,13 +83,7 @@ local function GetNewsTopic(i)
 end
 
 local function ProcessNamesTXT()
-	local FilePath = "Data/Tables/NPC names.txt"
-
-	for LocalizedFilePath in path.find("Data/*LocalizeTables.*_NPCNames.txt") do
-		FilePath = LocalizedFilePath
-	end
-
-	local NamesTXT = io.open(FilePath, "r")
+	local NamesTXT = io.open("Data/Tables/NPC names.txt", "r")
 
 	if not NamesTXT then
 		return
@@ -158,27 +152,10 @@ local function ProcessMapNewsTXT()
 
 		MapNews[CurNum] = MapNews[CurNum] or {}
 
-		local NameInLod = Words[2]
-		local find1 = string.find(NameInLod, "^%d+$")
-		local find2 = string.find(NameInLod, "^[A-Za-z]+ %d+$")
-		if find1 then
-			NameInLod = GetNewsTopic(tonumber(NameInLod))
-		elseif find2 then
-			NameInLod = string.split(NameInLod, " ")
-			NameInLod = Game[NameInLod[1]][tonumber(NameInLod[2])]
-		end
+		local NameInLod = tonumber(Words[2])
+		local TextInLod = tonumber(Words[3])
 
-		local TextInLod = Words[3]
-		local find1 = string.find(TextInLod, "^%d+$")
-		local find2 = string.find(TextInLod, "^[A-Za-z]+ %d+$")
-		if find1 then
-			TextInLod = Game.NPCNews[tonumber(TextInLod)]
-		elseif find2 then
-			TextInLod = string.split(TextInLod, " ")
-			TextInLod = Game[TextInLod[1]][tonumber(TextInLod[2])]
-		end
-
-		table.insert(MapNews[CurNum], {Name = NameInLod, Text = TextInLod})
+		table.insert(MapNews[CurNum], {Name = NameInLod and GetNewsTopic(NameInLod) or Words[2], Text = TextInLod and Game.NPCNews[TextInLod] or Words[3]})
 	end
 
 	io.close(NewsTXT)

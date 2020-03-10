@@ -58,7 +58,7 @@ local function SwapAllignmentDark()
 		if string.lower(Answer) == TXT.Yes then
 			v.Skills[const.Skills.Dark] = math.max(v.Skills[const.Skills.Dark], v.Skills[const.Skills.Light])
 			v.Skills[const.Skills.Light] = 0
-			for i = 77, 87 do
+			for i = 77, 88 do
 				v.Spells[i] = false
 			end
 

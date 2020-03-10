@@ -1603,7 +1603,7 @@ evt.Global[847] = function()
 		Party.QBits[741] = false
 
 		if NoLiches then
-			Message(Game.NPCText[2698])
+			Message("Jars. Yessss. You have helped us greatly.")
 		else
 			Message(Game.NPCText[1150])
 		end
@@ -1629,11 +1629,11 @@ Quest{
 								return evt.Subtract{"Gold", 10000}	end,
 	Done		= function() Promote({42,43,48}, 44, {Experience = 15000}, {Experience = 5000}) end,
 	After		= function() Promote({42,43,48}, 44, {Experience = 15000}) end,
-	Texts = {	Topic 	= Game.NPCText[2699], -- "Join guild"
-				Give 	= Game.NPCText[2700],
-				Undone	= Game.NPCText[2701],
-				Done	= Game.NPCText[2702],
-				After	= Game.NPCText[2703]}
+	Texts = {	Topic 	= "Join guild",
+				Give 	= "Well, sorcerers among you seeking for power of dark arts? Pay 10000 bill and step into our chambers.",
+				Undone	= "We will not allow any rambler to sneak here. Pay and study or scram!",
+				Done	= "Perfect! Now i call all sorcerers among you necromancers, don't pretend to be good anymore.",
+				After	= "Welcome, necromancers."}
 	}
 
 --------------------------------------------

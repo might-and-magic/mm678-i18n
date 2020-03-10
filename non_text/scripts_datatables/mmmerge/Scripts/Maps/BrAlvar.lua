@@ -106,7 +106,7 @@ SwitchDayLight("Time_1", mapvars.DayState or 1)
 local function SplitParty()
 
 	if Party.count > 1 then
-		Game.ShowStatusText(evt.str[1], 5) -- "Your friends have disappeared!"
+		Game.ShowStatusText("Your friends have disappeared!", 5)
 		Party.QBits[1714] = true
 	end
 
@@ -240,7 +240,7 @@ evt.map[50] = function() -- Ironfist
 end
 
 Game.Houses[706].Picture = 119
-Game.Houses[706].Name = Game.MapStats[52].Name -- "Ogre Fortress"
+Game.Houses[706].Name = "Ogre Fortress"
 
 evt.map[51] = function() -- Ogre Fortress
 	evt.EnterHouse{706}
@@ -277,7 +277,7 @@ end
 
 evt.map[60] = function()
 	if not mapvars.SwordsAggro and (mapvars.Prince == nil or Game.NPC[mapvars.Prince].House ~= 705) then
-		Message(evt.str[2]) -- 'Someone shouts: "Prince Nicolai have been kidnapped!".'
+		Message('Someone shouts: "Prince Nicolai have been kidnapped!".')
 		evt.SetMonGroupBit{15, const.MonsterBits.Hostile, true}
 		mapvars.SwordsAggro = true
 	end
@@ -462,7 +462,7 @@ for i = 1, 3 do
 			QSet.BrFirstFloor = true
 			SwitchDoor(CurModel)
 		else
-			Game.ShowStatusText(evt.str[3]) -- "Door won't budge!"
+			Game.ShowStatusText("Door won't budge!")
 		end
 	end
 
@@ -493,7 +493,7 @@ for i = 1, 3 do
 			evt.SummonMonsters{3, 2, 3, 401, 1156, 3127, 13}
 			SwitchDoor(CurModel)
 		else
-			Game.ShowStatusText(evt.str[3]) -- "Door won't budge!"
+			Game.ShowStatusText("Door won't budge!")
 		end
 	end
 
@@ -535,7 +535,7 @@ for i = 3, 4 do
 		if QSet.BrThirdFloor then
 			SwitchDoor(CurModel)
 		else
-			Game.ShowStatusText(evt.str[3]) -- "Door won't budge!"
+			Game.ShowStatusText("Door won't budge.")
 		end
 	end
 
@@ -576,7 +576,7 @@ evt.map[CurEvt] = function()
 	if QSet.BrThirdFloor then
 		SwitchDoor(CurModel)
 	else
-		Game.ShowStatusText(evt.str[3]) -- "Door won't budge!"
+		Game.ShowStatusText("Door won't budge.")
 	end
 end
 
@@ -655,7 +655,7 @@ for i = 1, 3 do
 			SwitchDoor(CurModel)
 			JumpToTop(X,Y)
 		else
-			Game.ShowStatusText(evt.str[4]) -- "Button won't budge."
+			Game.ShowStatusText("Button won't budge.")
 		end
 	end
 

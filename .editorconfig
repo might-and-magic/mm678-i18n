@@ -1,0 +1,15 @@
+root = true
+
+[*.txt]
+indent_style = tab
+indent_size = 4
+end_of_line = crlf
+trim_trailing_whitespace = false
+insert_final_newline = false
+
+[non_text/scripts_datatables/mmmerge/Scripts/**.lua]
+indent_style = tab
+indent_size = 4
+end_of_line = crlf
+trim_trailing_whitespace = false
+insert_final_newline = false

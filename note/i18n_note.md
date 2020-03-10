@@ -17,6 +17,7 @@
   * 方尖塔记录消失问题
 * 其他
   * 自动化生成6_finalprod(DOING)
+  * lod (DOING)
   * 全部的繁体汉化包自动生成
   * 其他语言的语言包自动生成
   * 其他语言的介绍文字
@@ -70,9 +71,11 @@ OTHER: compare rodril and master branch
 
 Noble Plate Armor no dressed status image `evt.GiveItem{1,0,880}`
 
-幽灵沼泽门不对
+幽灵沼泽门不对 mm6
 
-阿拉莫斯城堡传送器
+阿拉莫斯城堡传送器 mm6
+
+Weather effect can't switch off immediately
 
 tools/add_context.py
 csv2po.py exec()

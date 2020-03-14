@@ -4,11 +4,30 @@
 @import "{{ site.theme }}";
 
 body {
-    font-size: 16px;
+	font-size: 16px;
 }
+
 .wrapper {
-    max-width: 1400px;
+	max-width: 1400px;
 }
+
 section {
-    max-width: 1400px;
+	max-width: 1400px;
+	margin-top: 20px;
+}
+
+#header {
+	pointer-events: none;
+	background: none;
+	border: none;
+	box-shadow: none;
+
+	nav li.fork {
+		position: absolute;
+		right: 1em;
+	
+		a {
+			pointer-events: auto;
+		}
+	}
 }

@@ -165,7 +165,7 @@ Ctrl+F1打开控制台
 * [2020-02-21] v1.2.2：技能专家大师描述检查统一；火炬加点数问题修复；火炬名；“游侠/武士”（Paladin）改为“圣武士”
 * [2020-03-03] v1.3：谜语和需键盘输入处（阴影教传送门、黑摩尔城堡棺材、最终的失控混沌谜语等）跳出问题修复；弓箭和榴弹枪恢复时间无下限；“缺口”（Breach）改为“大裂缝”；翻译维尔丹任务、大裂缝及其地下室、少数升职任务未译字串；通关证书翻译和背景修饰；魔幻牌几张牌修正；加入魔法门8简中升级包
 * [2020-03-04] v1.3.1：hotfix：修复将队员姓名替换为吸血鬼飞龙等的问题
-* [2020-？未发布] v1.3.2：魔法门8的“历史”未译的按原文翻译，部分重译；修复失控混沌NPC姓名问题；修复无法读LocalizeTables.*.txt中含多行的字串问题
+* [2020-？未发布] v2.0：根据新版整合版升级；视频汉化；魔法门8的“历史”未译的按原文翻译，部分重译；修复失控混沌NPC姓名问题；修复无法读LocalizeTables.*.txt中含多行的字串问题
 
 ## 截图
 ![魔法门678整合版简体中文版截图0](https://github.com/might-and-magic/mm678-i18n/raw/master/docs/img/mmerge_zhcn_0.jpg)
@@ -175,4 +175,4 @@ Ctrl+F1打开控制台
 ![魔法门678整合版简体中文版截图2](https://github.com/might-and-magic/mm678-i18n/raw/master/docs/img/mmerge_zhcn_2.jpg)
 
 ## 版权
-版权声明见[LICENSE文件](https://github.com/might-and-magic/mm678-i18n/blob/master/LICENSE)：代码使用MIT License；“魔法门”商标和魔法门游戏文件版权属育碧公司，合理使用，不含游戏主体；GrayFace的补丁和工具见[其LICENSE文件](https://github.com/might-and-magic/mm678-i18n/blob/master/LICENSE)。
+版权声明见[LICENSE文件](https://github.com/might-and-magic/mm678-i18n/blob/master/LICENSE.md)：代码使用MIT License；“魔法门”商标和魔法门游戏文件版权属育碧公司，合理使用，不含游戏主体；GrayFace的补丁和工具见[其LICENSE文件](https://github.com/GrayFace/Misc/blob/master/LICENSE)。

@@ -1,28 +1,83 @@
+from versions import versions, langEncDict, dbcsEncs
+import re
+from pathlib import Path
+from getfilepaths import getFilePaths
+from dbcs_special import encodeDbcsSpecialFile, decodeDbcsSpecial
+import shutil
+import configparser
 
-# copy
 
-# dbcs
+def copyDirectory(src, dest):
+	try:
+		shutil.copytree(src, dest)
+	except shutil.Error as e:
+		print('Directory not copied. Error: %s' % e)
+	except OSError as e:
+		print('Directory not copied. Error: %s' % e)
 
-# delete all nonprod/ folders
+if Path('5_postprod').exists():
+	shutil.rmtree('5_postprod')
 
-# rename [all lang]/mmmerge/Data/'01LocLANG.EnglishT' to '10 Loc[LANG].EnglishT'
+for p in getFilePaths(Path('4_prod'), '', True):
+	if p.name == 'nonprod' and p.exists():
+		shutil.rmtree(p)
 
-# [DBCS lang]/[mmmerge|mm8|mm7|mm6]/Data/LocalizeConf.ini convert back program_name
+for p in getFilePaths(Path('4_prod'), '', False):
+	if p.name in dbcsEncs:
+		encodeDbcsSpecialFile(p, Path('5_postprod').joinpath(p.name), langEncDict[p.name])
+	else:
+		copyDirectory(p, Path('5_postprod').joinpath(p.name))
 
-# [all lang]/[mmmerge|mm8|mm7|mm6]/Data/LocalizeConf.ini:
-# version=2.4.1[merge190922]|2.4.1|2.4|2.4
-# lang=zh_CN
-# i18n_version=1.3.3
-# encoding=gb2312
+for p in getFilePaths(Path('5_postprod'), '', False):
+	pTemp = p.joinpath('mmmerge/Data/01LocLANG.EnglishT')
+	if pTemp.exists():
+		pTemp.rename(pTemp.parent.joinpath('10 Loc' + p.name.upper().replace('_', '') + '.EnglishT'))
 
-# [DBCS lang]/[mmmerge|mm8|mm7|mm6]/mm[8|8|7|6]lang.ini + '.'
-# RecoveryTimeInfo=. ÂťĂ Â¸Â´ ĂÂą ÂźĂ¤ ÂŁÂş%d
-# PlayerNotActive=. ĂĂ ĂÂˇ ĂĂ ÂąÂŁ Â´ĂŚ!
-# DoubleSpeed=. ĂÂŤ ÂąÂś ĂĂ ÂśĂ
-# NormalSpeed=. ĂĂ˝ ÂłÂŁ ĂĂ ÂśĂ
+	for pTemp in getFilePaths(p, '', True):
+		if pTemp.name[:19] == 'LocalizeTables.LANG':
+			pTemp.rename(pTemp.parent.joinpath('LocalizeTables.' + p.name.upper().replace('_', '') + pTemp.name[19:]))
 
-# [all lang]/[mmmerge|mm8|mm7|mm6]/Data/LocalizeTables.LANG_*.txt
-# rename to LocalizeTables.[LANG]*.txt
+	for versionNum in ['6', '7', '8', 'merge']:
+		pTemp = p.joinpath('mm' + versionNum + '/Data/LocalizeConf.ini')
+		config = configparser.ConfigParser()
+		config.read(pTemp, encoding = langEncDict[p.name])
+		if p.name in dbcsEncs:
+			config['Settings']['program_name'] = decodeDbcsSpecial(config['Settings']['program_name'])
+
+		config['Settings']['game_version']     = versionNum                          # 6/7/8/merge
+
+		if versionNum == 'merge':
+			config['Settings']['grayface_version'] = versions['grayface']['8']           # GrayFace Patch's version
+			config['Settings']['merge_version']    = versions['merge']                   # 0 (not mmmerge)/YYYY-MM-DD
+		else:
+			config['Settings']['grayface_version'] = versions['grayface'][versionNum]
+			config['Settings']['merge_version']    = '0'
+
+		config['Settings']['lang']             = p.name
+		config['Settings']['i18n_version']     = versions['i18n'][p.name]
+		config['Settings']['encoding']         = langEncDict[p.name]
+
+		with open(pTemp, mode = 'w', encoding = langEncDict[p.name]) as configfile:
+			config.write(configfile, False)
+
+	if p.name in dbcsEncs:
+		for versionNum in ['6', '7', '8', 'merge']:
+			versionNum2 = versionNum
+			if versionNum2 == 'merge':
+				versionNum2 = '8'
+			pTemp = p.joinpath('mm' + versionNum + '/mm' + versionNum2 + 'lang.ini')
+			config = configparser.RawConfigParser()
+			config.optionxform = str
+			config.read(pTemp, encoding = langEncDict[p.name])
+
+			for opt in ['RecoveryTimeInfo', 'PlayerNotActive', 'DoubleSpeed', 'NormalSpeed', 'GameSavedText', 'ArmorHalved']:
+				if config.has_option('Settings', opt):
+					config['Settings'][opt] = '.' + config['Settings'][opt]
+
+			with open(pTemp, mode = 'w', encoding = langEncDict[p.name]) as configfile:
+				config.write(configfile, False)
+
+
 
 # non_text/scripts_datatables
 # diff copy to [all lang]/mmmerge/
@@ -38,33 +93,3 @@
 # non_text/video/zh_CN -> Anims/10 LocZHCN.Magicdod.vid
 
 # non_text/img/zh_CN/prod -> Data/10 LocZHCN.EnglishD  Data/z10 LocZHCN.icons
-
-
-
-import re
-from pathlib import Path
-from getfilepaths import getFilePaths
-from add_dbcs_special import addDbcsSpecial
-import shutil
-
-def copyDirectory(src, dest):
-	try:
-		shutil.copytree(src, dest)
-	except shutil.Error as e:
-		print('Directory not copied. Error: %s' % e)
-	except OSError as e:
-		print('Directory not copied. Error: %s' % e)
-
-langEncDict = {
-	"zh_CN": "gb2312",
-	"zh_TW": "big5",
-	"kr": "euc_kr",
-	"jp": "euc_jp"
-}
-
-for p in getFilePaths(Path('4_prod'), '', False):
-	if p.name in langEncDict.keys():
-		addDbcsSpecial(p, Path('5_postprod/' + p.name), langEncDict[p.name])
-	else:
-		copyDirectory(p, Path('5_postprod/' + p.name))
-

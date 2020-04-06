@@ -1,5 +1,5 @@
 # Double-byte character set (DBCS) support for Might and Magic 6/7/8 GrayFace Patch
-# Use convert_dbcs_special.py to transform DBCS text files to "special" text files first
+# Use dbcs_special.py to transform DBCS text files to "special" text files first
 # Then put FNT_DBCS.lua into \Scripts\General in GrayFace Patched MM6/7/8 with MMExtension (or MMMerge)
 # By Tom CHEN (tomchen.org), MIT/Expat License
 
@@ -15,7 +15,9 @@ from getfilepaths import getFilePaths
 
 
 # encoding could be set to "gb2312", "big5", "gbk", "euc_jp" and "euc_kr"
-def addDbcsSpecial(inputPath, outputPath, encoding):
+
+# inputStr is bytes
+def encodeDbcsSpecial(inputStr, encoding):
 
 	encodingRegex = {
 		"gb2312": b"[\xA1-\xA9\xB0-\xF7][\xA0-\xFF]",
@@ -27,20 +29,37 @@ def addDbcsSpecial(inputPath, outputPath, encoding):
 	def rpl(m):
 		return b"\x0E\x20\x0E" + m.group(0) + b"\x07\x0F"
 
+	inputStr = re.sub(encodingRegex[encoding] + b"(?!\x07)", rpl, inputStr)
+	inputStr = re.sub(b"\x0F\x0E", b"", inputStr)
+
+	return inputStr
+
+
+# inputStr is locally encoded string
+def decodeDbcsSpecial(inputStr):
+	
+	def rpl(m):
+		return m.group(1)
+
+	inputStr = re.sub("\x20\x0E(.)\x07", rpl, inputStr)
+	inputStr = re.sub("\x0E([^\x0F]+)\x0F", rpl, inputStr)
+
+	return inputStr
+
+
+def encodeDbcsSpecialFile(inputPath, outputPath, encoding):
+
 	for p in getFilePaths(inputPath, ['txt','str', 'ini']):
 
 		f = p.open(mode = 'rb')
 		content = f.read()
 		f.close()
 
-		content = re.sub(encodingRegex[encoding] + b"(?!\x07)", rpl, content)
-		content = re.sub(b"\x0F\x0E", b"", content)
-
 		pout = outputPath.joinpath(p.relative_to(inputPath))
 		pout.parent.mkdir(parents = True, exist_ok = True)
 		fout = pout.open(mode = 'wb')
-		fout.write(content)
+		fout.write(encodeDbcsSpecial(content, encoding))
 		fout.close()
 
 
-# addDbcsSpecial(Path('4_prod/zh_CN'), Path('5_postprod/zh_CN'), "gb2312")
+# encodeDbcsSpecialFile(Path('4_prod/zh_CN'), Path('5_postprod/zh_CN'), "gb2312")

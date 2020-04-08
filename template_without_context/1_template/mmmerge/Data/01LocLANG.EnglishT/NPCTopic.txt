@@ -991,8 +991,8 @@
 990	_(TRANS)_					
 991	_(TRANS)_					
 992	_(TRANS)_					
-993	_(TRANS)_					
-994	_(TRANS)_					
+993	MMExt Placeholder					
+994	MMExt Placeholder					
 995	MMExt Placeholder					
 996	MMExt Placeholder					
 997	MMExt Placeholder					

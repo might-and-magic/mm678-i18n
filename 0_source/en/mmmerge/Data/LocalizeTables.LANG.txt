@@ -48,7 +48,7 @@ ItemsTxt	624	Name	Charged connector stone
 ItemsTxt	625	Notes	Smooth stone without specific color.
 ItemsTxt	625	Name	Connector stone
 
-GlobalTxt	737		You feel high magic presense here.
+GlobalTxt	737		You feel high magic presence here.
 GlobalTxt	634		or
-GlobalTxt	675		Magnificent! No world left behind. Not only have you walked the path of heroes in three different realms, but you have also found and caged the Runaway Chaos responsible for the whole conundrum. Now Enroth, Antagrich, and Jadame may all rest easy. And Verdant has a lot of chronicle work cut out for her.
-GlobalTxt	676		Magnificent! No world left behind. Not only have you walked the path of heroes in three different realms, but you have also found and caged the Runaway Chaos responsible for the whole conundrum. Now Enroth, Antagrich, and Jadame may all rest easy. And Verdant has a lot of chronicle work cut out for her.
+GlobalTxt	675		Magnificent! No world left behind. Not only have you walked the path of heroes in three different realms, but you have also found and caged the Runaway Chaos responsible for the whole conundrum. Now Enroth, Antagarich, and Jadame may all rest easy. And Verdant has a lot of chronicle work cut out for her.
+GlobalTxt	676		Magnificent! No world left behind. Not only have you walked the path of heroes in three different realms, but you have also found and caged the Runaway Chaos responsible for the whole conundrum. Now Enroth, Antagarich, and Jadame may all rest easy. And Verdant has a lot of chronicle work cut out for her.

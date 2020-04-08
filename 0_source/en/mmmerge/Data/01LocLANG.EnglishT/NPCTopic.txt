@@ -991,8 +991,8 @@
 990	Air Magic Master					
 991	Air Magic Grandmaster					
 992	Water Magic Expert					
-993	Reefs					
-994	Marshes					
+993	MMExt Placeholder					
+994	MMExt Placeholder					
 995	MMExt Placeholder					
 996	MMExt Placeholder					
 997	MMExt Placeholder					

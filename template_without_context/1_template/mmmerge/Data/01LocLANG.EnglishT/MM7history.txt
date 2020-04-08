@@ -1,0 +1,29 @@
+#	Text	Time	Page Title
+1	_(TRANS)_	Forward	_(TRANS)_
+2	_(TRANS)_	Forward	_(TRANS)_
+3	_(TRANS)_	Act 1	_(TRANS)_
+4	_(TRANS)_	Act 1	_(TRANS)_
+5	_(TRANS)_	Act 1	_(TRANS)_
+6	_(TRANS)_	Act 1	_(TRANS)_
+7	_(TRANS)_	Act 2 Good	_(TRANS)_
+8	_(TRANS)_	Act 2 Good	_(TRANS)_
+9	_(TRANS)_	Act 2 Good	_(TRANS)_
+10	_(TRANS)_	Act 2 Good	_(TRANS)_
+11	_(TRANS)_	Act 2 Good	_(TRANS)_
+12	_(TRANS)_	Act 2 Good	_(TRANS)_
+13	_(TRANS)_	Act 2 Good	_(TRANS)_
+14	_(TRANS)_	Act 2 Evil	_(TRANS)_
+15	_(TRANS)_	Act 2 Evil	_(TRANS)_
+16	_(TRANS)_	Act 2 Evil	_(TRANS)_
+17	_(TRANS)_	Act 2 Evil	_(TRANS)_
+18	_(TRANS)_	Act 2 Evil	_(TRANS)_
+19	_(TRANS)_	Act 2 Evil	_(TRANS)_
+20	_(TRANS)_	Act 2 Evil	_(TRANS)_
+21	_(TRANS)_	Act 2 Evil	_(TRANS)_
+22	_(TRANS)_	Act 2 Good	_(TRANS)_
+23	_(TRANS)_	Act 2 Evil	_(TRANS)_
+24	_(TRANS)_	Act 2 Both	_(TRANS)_
+25	_(TRANS)_	Act 3 Both	_(TRANS)_
+26	_(TRANS)_	Act 3 Good	_(TRANS)_
+27	_(TRANS)_	Act 3 Evil	_(TRANS)_
+28	_(TRANS)_	Insert 1	_(TRANS)_

@@ -43,6 +43,8 @@ def fn2c(filePath):
 		return 'autonote or awards'
 	elif fileName == 'npcnames.txt' or fileName == 'pcnames.txt' or fileName == 'localizetables.lang_npcnames.txt':
 		return 'npcnames'
+	elif fileName == 'mm7history.txt' or fileName == 'history.txt':
+		return 'history'
 	elif ext == '.txt':
 		return stem
 	elif fileName == 'mm8lang.ini' or fileName == 'mm7lang.ini' or fileName == 'mm6lang.ini':

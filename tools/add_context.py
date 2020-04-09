@@ -52,4 +52,10 @@ def fn2c(filePath):
 	elif fileName == 'localizeconf.ini':
 		return 'localizeconf.ini'
 
-batchAddContext(inputPath = Path('template_without_context'), extension = ['txt', 'str', 'ini'], encoding = 'UTF-8', outputPath = Path('.'), filePathToContextFunc = fn2c)
+batchAddContext(
+	inputPath = Path('0.5_template_without_context'),
+	extension = ['txt', 'str', 'ini'],
+	encoding = 'UTF-8',
+	outputPath = Path('1_template'),
+	filePathToContextFunc = fn2c
+)

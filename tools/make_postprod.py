@@ -33,13 +33,26 @@ os.system('tools\mmarch k non_text\scripts_datatables\mmmerge_rodril non_text\sc
 scriptDiffPath = Path('non_text/scripts_datatables/difftemp')
 
 for p in getFilePaths(Path('5_postprod'), '', False):
-	pTemp = p.joinpath('mmmerge/Data/01LocLANG.EnglishT')
+	pTemp = p.joinpath('mm6/data/10LocLANG.icons')
+	pNameCondensed = p.name.upper().replace('_', '')
 	if pTemp.exists():
-		pTemp.rename(pTemp.parent.joinpath('10 Loc' + p.name.upper().replace('_', '') + '.EnglishT'))
+		pTemp.rename(pTemp.parent.joinpath('10 Loc' + pNameCondensed + '.icons'))
 
-	for pTemp in getFilePaths(p, '', True):
-		if pTemp.name[:19] == 'LocalizeTables.LANG':
-			pTemp.rename(pTemp.parent.joinpath('LocalizeTables.' + p.name.upper().replace('_', '') + pTemp.name[19:]))
+	pTemp = p.joinpath('mm7/DATA/10LocLANG.events')
+	if pTemp.exists():
+		pTemp.rename(pTemp.parent.joinpath('10 Loc' + pNameCondensed + '.events'))
+
+	pTemp = p.joinpath('mm8/Data/10LocLANG.EnglishT')
+	if pTemp.exists():
+		pTemp.rename(pTemp.parent.joinpath('10 Loc' + pNameCondensed + '.EnglishT'))
+
+	pTemp = p.joinpath('mmmerge/Data/10LocLANG.EnglishT')
+	if pTemp.exists():
+		pTemp.rename(pTemp.parent.joinpath('10 Loc' + pNameCondensed + '.EnglishT'))
+
+	for pTemp in getFilePaths(p.joinpath('mmmerge/Data/Text localization'), 'txt', True):
+		if pTemp.name[:4] == 'LANG':
+			pTemp.rename(pTemp.parent.joinpath(pNameCondensed + pTemp.name[4:]))
 
 	for versionNum in ['6', '7', '8', 'merge']:
 		pTemp = p.joinpath('mm' + versionNum + '/Data/LocalizeConf.ini')
@@ -89,19 +102,14 @@ for p in getFilePaths(Path('5_postprod'), '', False):
 			shutil.copytree(scriptDiffPath.joinpath('Scripts'), pTemp.joinpath('Scripts'))
 		if p.name not in dbcsEncs:
 			os.remove(pTemp.joinpath('Scripts/General/FNT_DBCS.lua'))
-		for fnt in getFilePaths(Path('non_text/font/' + langEncDict[p.name]), extension = 'fnt', recursive = False):
+		for fnt in getFilePaths(Path('non_text/font/' + langEncDict[p.name]), 'fnt', False):
 			shutil.copy(fnt, pTemp.joinpath('Data/10 LocZHCN.EnglishT'))
 
 shutil.rmtree(scriptDiffPath)
 
 
-# Icons
-# Events
-# EnglishT
 
-
-
-# copy to zh_CN/[mmmerge|mm8|mm7|mm6]/Data/10 LocZHCN.EnglishT
+# copy images to zh_CN/[mmmerge|mm8|mm7|mm6]/Data/10 LocZHCN.EnglishT
 # see other langs
 
 # non_text/MM8Setup/zh_CN/prod/[mmmerge|mm8]

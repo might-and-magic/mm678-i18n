@@ -58,46 +58,47 @@ end
 ProcessContSets()
 
  --	Menu
-
 local SelectionStarted = false
-
-local function SlCond()
-	return SelectionStarted
-end
-
-local function SlChosen(StartMap, Continent)
-	SlBackground.Active = false
-	SlJadam.Active		= false
-	SlEnroth.Active		= false
-	SlAntagrich.Active	= false
-	SelectionStarted	= false
-
-	if StartMap then
-		local Intros = {"intro", "7intro", "6intro"}
-		Game.NewGameMap = StartMap
-		TownPortalControls.SwitchTo(Continent)
-		mem.u4[0x6ceb24] = 1
-		mem.u4[0x51e330] = 1
-		evt.ShowMovie{1, 0, Intros[Continent]}
+local FromScreen = 0
+function events.GameInitialized2()
+	local function MOStd()
+		evt.PlaySound{12100}
 	end
 
-end
+	local function SlChosen(StartMap, Continent)
+		if StartMap then
+			local Intros = {"intro", "7intro", "6intro"}
+			Game.NewGameMap = StartMap
+			TownPortalControls.SwitchTo(Continent)
+			if FromScreen == 0 then -- Main menu
+				Game.CurrentScreen = 0
+				evt.ShowMovie{1, 0, Intros[Continent]}
+				mem.u4[0x6ceb24] = 1 -- new game menu action
+				mem.u4[0x51e330] = 1 -- action in queue flag
+			else
+				Game.CurrentScreen = 21
+				DoGameAction(124, 0, 0, true) -- Start new game
+			end
+		else
+			Game.CurrentScreen = FromScreen
+		end
+	end
 
-local function MOStd()
-	evt.PlaySound{12100}
-end
-
-function events.GameInitialized2()
+	-- Setup special screen for interface manager
+	local ChooseContinentScreen = 97
+	const.Screens.ChooseContinent = ChooseContinentScreen
+	CustomUI.NewScreen(ChooseContinentScreen)
 
 	SlBackground	= CreateIcon{Icon = "SlBackgr",
 							Condition = function()
-								if SelectionStarted and Keys.IsPressed(const.Keys.ESCAPE) then
+								if Keys.IsPressed(const.Keys.ESCAPE) then
 									SlChosen()
 								end
 								return true
 							end,
-							Layer		= 1,
-							Active		= false}
+							BlockBG		= true,
+							Screen		= ChooseContinentScreen,
+							Layer		= 1}
 
 	SlJadam 		= CreateButton{IconUp = "SlJadamDw", IconDown = "SlJadamUp", IconMouseOver = "SlJadamUp",
 							Action = function()
@@ -106,7 +107,7 @@ function events.GameInitialized2()
 							MouseOverAction = MOStd,
 							Layer		= 1,
 							IsEllipse 	= true,
-							Active		= false,
+							Screen		= ChooseContinentScreen,
 							X = 208, Y = 31}
 
 	SlAntagrich		= CreateButton{IconUp = "SlAntagDw", IconDown = "SlAntagUp", IconMouseOver = "SlAntagUp",
@@ -116,7 +117,7 @@ function events.GameInitialized2()
 							MouseOverAction = MOStd,
 							Layer		= 0,
 							IsEllipse 	= true,
-							Active		= false,
+							Screen		= ChooseContinentScreen,
 							X = 322, Y = 228}
 
 	SlEnroth		= CreateButton{IconUp = "SlEnrothDw", IconDown = "SlEnrothUp", IconMouseOver = "SlEnrothUp",
@@ -126,31 +127,28 @@ function events.GameInitialized2()
 							MouseOverAction = MOStd,
 							Layer		= 0,
 							IsEllipse 	= true,
-							Active		= false,
+							Screen		= ChooseContinentScreen,
 							X = 94, Y = 229}
 
 end
 
 function events.MenuAction(t)
-
-	if SelectionStarted and Game.CurrentScreen == 0 then
+	-- Override "New game" button original behaivor
+	if t.Action == 54 and not t.Handled then
+		SelectionStarted = true
 		t.Handled = true
-		if t.Action == 113 then
-			SlChosen()
-		end
-
-	elseif t.Action == 54 then
-		t.Handled = true
+		FromScreen = 0 -- Main menu
+		Game.CurrentScreen = const.Screens.ChooseContinent
 		evt.PlaySound{66}
-		SlBackground.Active = true
-		SlJadam.Active		= true
-		SlEnroth.Active		= true
-		SlAntagrich.Active	= true
-		SelectionStarted	= true
-
-	elseif SelectionStarted and t.Action == 65 then
-		SlChosen()
-
 	end
+end
 
+function events.Action(t)
+	-- Override "New game" button original behaivor
+	if t.Action == 124 and not t.Handled and mem.u4[0x6f30c0] == 124 and Game.CurrentScreen == 1 then
+		t.Handled = true
+		FromScreen = 1 -- Ingame menu
+		Game.CurrentScreen = const.Screens.ChooseContinent
+		evt.PlaySound{66}
+	end
 end

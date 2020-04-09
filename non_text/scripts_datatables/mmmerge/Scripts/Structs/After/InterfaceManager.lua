@@ -308,13 +308,19 @@ const.Screens.SelectTarget = 20
 const.Screens.SelectTarget2 = 23
 const.Screens.LoadingScreen = 99
 local ActiveElements = {}
+local function NewScreen(Id)
+	local Screen
+	ActiveElements[Id] = ActiveElements[Id] or {}
+	Screen = ActiveElements[Id]
+
+	Screen.Texts 	= Screen.Texts or {[0] = {}, {}, {}, {}, {}}
+	Screen.Icons	= Screen.Icons or {[0] = {}, {}, {}, {}, {}}
+	Screen.Buttons 	= Screen.Buttons or {[0] = {}, {}, {}, {}, {}}
+end
+CustomUI.NewScreen = NewScreen
+
 for k,v in pairs(const.Screens) do
-
-	ActiveElements[v] = {}
-	ActiveElements[v].Texts 	= {[0] = {}, {}, {}, {}, {}}
-	ActiveElements[v].Icons		= {[0] = {}, {}, {}, {}, {}}
-	ActiveElements[v].Buttons 	= {[0] = {}, {}, {}, {}, {}}
-
+	NewScreen(v)
 end
 CustomUI.ActiveElements = ActiveElements
 
@@ -331,6 +337,7 @@ CustomUI.ActiveElements = ActiveElements
 -- Layer			- number (0 - front, 1 - middle, 2 - back, 3 - background, 4 - inventory (behind backhand))
 -- Screen			- const.Screens or table
 -- IsEllipse		- boolean - shape of button
+-- BlockBG			- boolean - true if original mouse click actions should be interrupted by this element.
 -- Active			- boolean - true if button must appear right now.]]
 local function CreateButton(t)
 
@@ -379,6 +386,7 @@ local function CreateButton(t)
 						Key 	= Key,
 						Chk		= Chk,
 						sChk	= sChk,
+						BlockBG = t.BlockBG,
 						Type 	= "Button"}
 
 	if type(t.Screen) == "table" then
@@ -405,6 +413,7 @@ CustomUI.CreateButton = CreateButton
 -- ColorStd 	  - number - def == 0 - white
 -- ColorMouseOver - number - def == 0 - white
 -- Action		  - function - on click
+-- BlockBG		  - boolean - true if original mouse click actions should be interrupted by this element.
 -- Active		  - boolean]]
 local function CreateText(t)
 
@@ -432,6 +441,7 @@ local function CreateText(t)
 						Rm		= t.Rm or 15,
 						Gm		= t.Gm or 15,
 						Bm		= t.Bm or 0,
+						BlockBG = t.BlockBG,
 						Active 	= Active,
 						Screen 	= t.Screen or 0,
 						Xof 	= 0,
@@ -439,7 +449,7 @@ local function CreateText(t)
 						Type 	= "Text"}
 
 	local Layer = Settings.Layer
-	local Key = string.sub(Settings.Text, 1, 3) .. Settings.X .. Settings.Y .. "_" .. Layer
+	local Key = t.Key or (string.sub(Settings.Text, 1, 3) .. Settings.X .. Settings.Y .. "_" .. Layer)
 
 	Settings.Key = Key
 
@@ -463,6 +473,7 @@ CustomUI.CreateText = CreateText
 -- Layer	- number
 -- Screen	- const.Screens
 -- Active	- boolean
+-- BlockBG	- boolean - true if original mouse click actions should be interrupted by this element.
 -- for animated:
 -- Period	- number - to define animation speed (in StdAnimator: higher - slower)
 -- Animator - function(t) - which will return frame number, "t" is access to icon settings. Default - StdAnimator
@@ -512,8 +523,10 @@ local function CreateIcon(t)
 	Settings.Active = Active
 	Settings.IsAnim = IsAnim
 	Settings.Type 	= "Icon"
+	Settings.BlockBG = t.BlockBG
 	Settings.MouseOver = false
 	Settings.MOAct = t.MouseOverAction
+
 	if t.NoPending == nil then
 		Settings.NoPending = false
 	else
@@ -591,9 +604,10 @@ local function InMenu()
 end
 
 local function CurScreen()
-	return Game.LoadingScreen and 99 or Game.CurrentScreen
+	return ActiveElements[Game.CurrentScreen] and (Game.LoadingScreen and 99 or Game.CurrentScreen) or 0
 end
 
+local LBUTTON = const.Keys.LBUTTON
 local function ProcessButtons(la, Screen)
 
 	local T = ActiveElements[Screen].Buttons[la]
@@ -613,7 +627,7 @@ local function ProcessButtons(la, Screen)
 
 			if v.Chk(v.X,v.Y,v.Wt,v.Ht) then
 
-				if Keys.IsPressed(const.Keys.LBUTTON) and (InMenu() or v.sChk(sX,sY,v.X,v.Y,v.Wt,v.Ht)) then
+				if Keys.IsPressed(LBUTTON) and (InMenu() or v.sChk(sX,sY,v.X,v.Y,v.Wt,v.Ht)) then
 					ShowIcon(v.IDwPtr, v.X, v.Y)
 					v.Pressed = true
 				else
@@ -648,7 +662,7 @@ local function ProcessTexts(la, Screen)
 			if v.HvAct then
 				if MouseInBox(v.X,v.Y,v.Wt,v.Ht) then
 					ShowText(v.Text, v.Font, v.X, v.Y, v.Shift, v.Rm, v.Gm, v.Bm, v.Wt, v.Ht, v.Xof, v.Yof)
-					if Keys.IsPressed(const.Keys.LBUTTON) then
+					if Keys.IsPressed(LBUTTON) then
 						v.Pressed = true
 					else
 						if v.Pressed then
@@ -686,7 +700,6 @@ local function ProcessIcons(la, Screen)
 					ShowIcon(CurF.Fr, v.X, v.Y)
 				end
 
-
 			else
 				if v.MainIcon ~= memstr(v.Icon) then
 					v.Icon = LoadIcon(v.MainIcon, v.Masked)
@@ -713,7 +726,10 @@ local function ProcessIcons(la, Screen)
 		end
 	end
 end
+
 ---- Events
+
+-- UI elements processing
 
 mem.autohook(0x43bb12, function(d) -- Inventory, behind backhand.
 	ProcessIcons(4, CurScreen())
@@ -749,6 +765,8 @@ mem.autohook2(0x4a30a5, function(d)
 	end
 end)
 
+-- PENDING check
+
 local function GetPending()
 	PENDING = LoadIcon("pending")
 end
@@ -759,6 +777,37 @@ end
 
 function events.LoadMap()
 	GetPending()
+end
+
+-- Optional bacground block by UI elements
+
+local function MouseInterceptByCustomUI()
+	local Screen = Game.CurrentScreen
+	for LayerId, Icons in pairs(ActiveElements[Screen].Icons) do
+		for key, Icon in pairs(Icons) do
+			if Icon.Active and Icon.BlockBG and (not Icon.Cond or Icon:Cond()) and MouseInBox(Icon.X,Icon.Y,Icon.Wt,Icon.Ht) then
+				return true
+			end
+		end
+	end
+
+	for LayerId, Buttons in pairs(ActiveElements[Screen].Buttons) do
+		for key, Button in pairs(Buttons) do
+			if Button.Active and Button.BlockBG and (not Button.Cond or Button:Cond()) and Button.sChk(sX,sY,Button.X,Button.Y,Button.Wt,Button.Ht) then
+				return true
+			end
+		end
+	end
+
+	return false
+end
+
+function events.Action(t)
+	t.Handled = MouseInterceptByCustomUI()
+end
+
+function events.MenuAction(t)
+	t.Handled = MouseInterceptByCustomUI()
 end
 
 ---------------------------------------------------------

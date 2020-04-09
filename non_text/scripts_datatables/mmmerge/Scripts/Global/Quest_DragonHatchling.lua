@@ -46,16 +46,21 @@ evt.Global[850] = function()
 end
 
 -- Override dismiss behaivor for hatchling - put him into NPCFollowers, don't send to Adventurer's Inn.
-function events.DismissCharacter(t)
-
-	local CharId = Party.PlayersIndexes[t.PlayerId]
+function AfterDismissDragon(PlayerId)
+	local CharId = Party.PlayersIndexes[PlayerId]
 	if CharId == QSet.DragonRosterId then
+		Party.QBits[CharId + 400] = false
+		while not Party.QBits[CharId + 400] do -- let original function to set flags.
+			Sleep(10)
+		end
 		NPCFollowers.Add(DragonNPC)
-		Sleep(10) -- Allow engine's function to set bits.
 		Party.QBits[CharId + 400] = false
 		vars.MercenariesProps[CharId].CurContinent = -1
 	end
+end
 
+function events.DismissCharacter(t)
+	coroutine.resume(coroutine.create(AfterDismissDragon), t.PlayerId)
 end
 
 -- Create Dragon player upon first hiring.

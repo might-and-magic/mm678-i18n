@@ -119,7 +119,7 @@ local function ChangeGuardsState(State)
 end
 
 local function GetPartyReputation()
-	return mem.i4[0x6cf0a4]
+	return mem.call(0x47603F) --mem.i4[0x6cf0a4]
 end
 NPCFollowers.GetPartyReputation = GetPartyReputation
 

@@ -139,9 +139,7 @@ end -- Other part is in 6t8.lua
 -- Rescue Sherry Carnegie quest (mm6)
 
 evt.Global[1638] = function()
-	if not Party.QBits[1703] then
-		NPCFollowers.Remove(978)
-	end
+	NPCFollowers.Remove(978)
 end
 
 evt.Global[1640] = function()

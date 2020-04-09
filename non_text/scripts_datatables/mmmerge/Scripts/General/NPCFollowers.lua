@@ -31,7 +31,7 @@ local function StdCond()
 end
 
 function BtnCond()
-	return NPCPanelOpen or (mem.u4[InGame] == 1 and vars and vars.NPCFollowers and table.maxn(vars.NPCFollowers) > 0)
+	return NPCPanelOpen or (mem.u4[InGame] == 1 and vars and vars.NPCFollowers and #vars.NPCFollowers > 0)
 end
 
 local function UpdatePos()
@@ -300,7 +300,7 @@ NPCFollowers.HireRecruit = HireRecruit
 ---- Initialization ----
 
 function events.GameInitialized2()
-	
+
 	-- Interface
 
 	FollowersBG = CustomUI.CreateIcon{
@@ -398,7 +398,10 @@ function events.GameInitialized2()
 	end
 
 	function events.Action(t)
-		if Game.CurrentScreen == 0 and not Game.LoadingScreen and (StdCond() and CustomUI.MouseInBox(FollowersBG.X, FollowersBG.Y, FollowersBG.Wt, FollowersBG.Ht) or BtnCond() and CustomUI.MouseInBox(OpenFlwPnlBtn.X, OpenFlwPnlBtn.Y, OpenFlwPnlBtn.Wt, OpenFlwPnlBtn.Ht)) then
+		if Game.CurrentScreen == 0 and not Game.LoadingScreen
+			and (StdCond() and CustomUI.MouseInBox(FollowersBG.X, FollowersBG.Y, FollowersBG.Wt, FollowersBG.Ht)
+				or BtnCond() and CustomUI.MouseInBox(OpenFlwPnlBtn.X, OpenFlwPnlBtn.Y, OpenFlwPnlBtn.Wt, OpenFlwPnlBtn.Ht)) then
+
 			t.Handled = true
 			if t.Action == 107 then
 				ToggleNPCPanel()

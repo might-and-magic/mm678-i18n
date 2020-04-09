@@ -547,9 +547,16 @@ if not QSet.QuestFinished then
 			Ungive	= Game.NPCText[2158]
 			}
 		}
-		
+
 	local ChaosPortraits = {354, 358, 66, 167, 257, 273}
-	local ChaosNames = {Game.NPCText[2709], Game.NPCText[2710], Game.NPCText[2711], Game.NPCText[2712], Game.NPCText[2713], Game.NPCDataTxt[RunChaosNPC].Name} -- "Anya Charo", "Wan Ruchos", "Noah Charo", "Chan Os Wy", "R.C. Wosch", "Runaway Chaos"
+	local ChaosNames = {
+		Game.NPCText[2709], -- "Anya Charo"
+		Game.NPCText[2710], -- "Wan Ruchos"
+		Game.NPCText[2711], -- "Noah Charo"
+		Game.NPCText[2712], -- "Chan Os Wy"
+		Game.NPCText[2713], -- "R.C. Wosch"
+		Game.NPCDataTxt[RunChaosNPC].Name} -- "Runaway Chaos"
+
 	local ChaosProfs = {24,33,77,42,65,0}
 	local NPC = Game.NPC[RunChaosNPC]
 	QSet.RiddlesAnswered = QSet.RiddlesAnswered or 0
@@ -688,13 +695,13 @@ if not QSet.QuestFinished then
 
 	QSet.RiddlesLeft = QSet.RiddlesLeft or {1,2,3,4,5,6,7,8,9,10,11}
 
-	-- local CurrentRiddle
+	--local CurrentRiddle
 
-	-- function events.EnterNPC(NpcId)
-	-- 	if NpcId == RunChaosNPC and #QSet.RiddlesLeft > 0 then
-	-- 		CurrentRiddle = math.random(1,#QSet.RiddlesLeft)
-	-- 	end
-	-- end
+	--function events.EnterNPC(NpcId)
+	--	if NpcId == RunChaosNPC and #QSet.RiddlesLeft > 0 then
+	--		CurrentRiddle = math.random(1,#QSet.RiddlesLeft)
+	--	end
+	--end
 
 	NPCTopic{
 		Topic	= Game.NPCTopic[1790],
@@ -727,26 +734,19 @@ if not QSet.QuestFinished then
 				MessageText = Game.NPCText[2265]
 			end
 
-			if (QSet.RiddlesAnswered <= 5 or not QSet.GotFQHint3) and Game.CurrentScreen == 13 then
+			if QSet.RiddlesAnswered <= 5 or not QSet.GotFQHint4 then
 				ExitCurrentScreen()
-				local function tMessage()
-					Message(MessageText)
-					RemoveTimer(tMessage)
-				end
-				Timer(tMessage, const.Second, false)
-			else
-				Message(MessageText)
-			end
-
-			if QSet.RiddlesAnswered <= 5 or not QSet.GotFQHint3 then
-				-- CCTimers.Riddle = CCTimers.Riddle or function()
+				CCTimers.Riddle = CCTimers.Riddle or function()
 					local NPC = Game.NPC[RunChaosNPC]
 					NPC.Pic			= ChaosPortraits[QSet.RiddlesAnswered+1] or ChaosPortraits[#ChaosPortraits]
 					NPC.Name		= ChaosNames[QSet.RiddlesAnswered+1] or ChaosNames[#ChaosNames]
 					NPC.Profession	= ChaosProfs[QSet.RiddlesAnswered+1] or ChaosProfs[#ChaosProfs]
-					-- RemoveTimer(CCTimers.Riddle)
-				-- end
-				-- Timer(CCTimers.Riddle, const.Second, false)
+					Message(MessageText)
+					RemoveTimer(CCTimers.Riddle)
+				end
+				Timer(CCTimers.Riddle, const.Second, false)
+			else
+				Message(MessageText)
 			end
 
 		end,

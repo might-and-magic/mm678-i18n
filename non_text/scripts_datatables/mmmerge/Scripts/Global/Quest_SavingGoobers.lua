@@ -241,13 +241,7 @@ QSet.GemsLeftNums = QSet.GemsLeftNums or {[1]=true,[2]=true,[3]=true,[4]=true,[5
 
 local function CheckGems()
 
-	local Done = true
-	for k,v in pairs(QSet.GemsLeftNums) do
-		if v then
-			Done = false
-			break
-		end
-	end
+	local Done = table.find(QSet.GemsLeftNums, true) == nil
 
 	if Done then
 		Message(TXT.EnGemDone)
@@ -275,14 +269,7 @@ local function CheckGems()
 					QSet.GemsLeftNums[Gem] = false
 					evt[iP].Subtract{"Inventory", v.Number}
 
-					local GemsLeftIsNotEmpty = false
-					for k, v in pairs(QSet.GemsLeftNums) do
-						if v == true then
-							GemsLeftIsNotEmpty = true
-						end
-					end
-
-					if GemsLeftIsNotEmpty then
+					if table.find(QSet.GemsLeftNums, true) then
 						Message(TXT.EnGemBringOne:format(ItemTxt.Name, MakeGemStr()))
 					else
 						Message(string.format(Game.NPCText[2707], ItemTxt.Name)) -- "Well, this is %s."
@@ -368,7 +355,7 @@ Quest{
 
 QSet.Attuned = QSet.Attuned or {[6] = true}
 local StatsToCheck	= {"Might", "Intellect", "Personality", "Endurance", "Accuracy", "Luck"}
-local AttuneEffects	= {"Weak", "Insane", "Cursed", "Unconscious", "Asleep", "Paralysed", "Drunk"} -- Might, Intellect, Personality, Endurance, Accuracy, Speed, Luck
+local AttuneEffects	= {"Weak", "Insane", "Cursed", "DiseaseGreen", "Asleep", "Afraid", "Drunk"} -- Might, Intellect, Personality, Endurance, Accuracy, Speed, Luck
 
 local function AttuneStat(Stat)
 	local PlayerStat = Party[Game.CurrentPlayer].Stats[Stat]
@@ -424,14 +411,13 @@ Quest{
 		TopicGiven = Topics[10], --"Attune the Telelocator"
 		Undone	= TXT.Attunement,
 
- 		Done	= Game.NPCText[2708], -- "Done!"
+ 		Done	= Game.NPCText[2708],
  		Quest	= TXT.AttuneQuest
 	},
 	Exp	= 10000
 }
 
 local statNameGlobalTxtNumbers = {144, 116, 163, 75, 1, 136} -- "Might", "Intellect", "Personality", "Endurance", "Accuracy", "Luck"
-
 for i,v in ipairs(StatsToCheck) do
 
 	NPCTopic{

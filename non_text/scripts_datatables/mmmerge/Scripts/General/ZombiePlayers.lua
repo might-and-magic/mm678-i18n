@@ -102,7 +102,7 @@ function events.GameInitialized2()
 		[const.Race.Undead	] = {},
 		[const.Race.Elf		] = {[0] = 59, [1] = 60},
 		[const.Race.Goblin	] = {[0] = 59, [1] = 60},
-		[const.Race.Dwarf	] = {[0] = 59, [1] = 60},
+		[const.Race.Dwarf	] = {[0] = 72, [1] = 73},
 		[const.Race.Zombie	] = {[0] = 59, [1] = 60},
 	}
 

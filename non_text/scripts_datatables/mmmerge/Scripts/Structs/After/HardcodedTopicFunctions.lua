@@ -507,40 +507,61 @@ function events.GameInitialized2()
 	end
 	----
 
-	-- Alternative Question function
-	local StdQuestion = Question
-	local NeedAnswer = false
-	local Answer
+--~ 	-- Alternative Question function
+--~ 	local StdQuestion = Question
+--~ 	local NeedAnswer = false
+--~ 	local Answer
 
-	mem.autohook(0x42fcb5, function()
-		if NeedAnswer then
-			Answer = Game.StatusMessage
-			NeedAnswer = false
-		end
-	end)
+--~ 	mem.autohook(0x42fcb5, function()
+--~ 		if NeedAnswer then
+--~ 			Answer = Game.StatusMessage
+--~ 			NeedAnswer = false
+--~ 		end
+--~ 	end)
 
-	-- local function AltQuestion(Text)
+--~ 	local function AltQuestion(Text)
 
-	-- 	NeedAnswer = true
+--~ 		NeedAnswer = true
 
-	-- 	local co = coroutine.create(function() StdQuestion(Text) end)
-	-- 	coroutine.resume(co)
+--~ 		local co = coroutine.create(function() StdQuestion(Text) end)
+--~ 		coroutine.resume(co)
 
-	-- 	while not Answer do
-	-- 		Sleep(25, 25, {Game.CurrentScreen})
-	-- 	end
+--~ 		while not Answer do
+--~ 			Sleep(25, 25, {Game.CurrentScreen})
+--~ 		end
 
-	-- 	local result = Answer
-	-- 	Answer = nil
+--~ 		local result = Answer
+--~ 		Answer = nil
 
-	-- 	return result
+--~ 		return result
 
-	-- end
+--~ 	end
 
-	-- temporary, while MMPatch 2.3 have this bug
-	-- Question = AltQuestion
+--~ 	-- temporary, while MMPatch 2.3 have this bug
+--~ 	Question = AltQuestion
 
 	----
+
+	local CastQuickSpellAsm = mem.asmproc([[
+	mov edx, dword [ss:esp+0x4]
+	mov eax, dword [ss:esp+0x8]
+	mov ecx, dword [ss:esp+0xC]
+	pushad
+	mov edi, edx
+	xor edx, edx
+	xor ebx, ebx
+	mov ebp, 0x1006148
+	mov esi, 0xfeb360
+	push edi
+	push ebx
+	push ebx
+	call absolute 0x425b67
+	popad
+	retn]])
+
+	function CastQuickSpell(PlayerId, SpellId)
+		mem.call(CastQuickSpellAsm, 0, PlayerId+1, Party.PlayersArray[PlayerId]["?ptr"], SpellId)
+	end
 
 	function GiveMouseItemDirectly(RosterId)
 		mem.u4[Char] = RosterId

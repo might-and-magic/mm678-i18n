@@ -8,32 +8,6 @@ function events.GameInitialized2()
 	function events.LoadMap(WasInGame)
 
 		if not WasInGame then
-			Game.BolsterAmount 		= vars.BolsterAmount or 100
-			Game.UseMonsterBolster	= (vars.UseMonsterBolster 	== nil) and true or vars.UseMonsterBolster
-			Game.ShowWeatherEffects = (vars.ShowWeatherEffects 	== nil) and true or vars.ShowWeatherEffects
-
-			-- reset appearance
-			UI.BolAmText.Text = tostring(Game.BolsterAmount) .. "%"
-			if Game.UseMonsterBolster then
-				UI.Bolster.IUpSrc = "blstr_on"
-				UI.Bolster.IDwSrc = "blstr_off"
-				UI.BolAmText.R = 255
-				UI.BolAmText.G = 5
-				UI.BolAmText.B = 0
-			else
-				UI.Bolster.IUpSrc = "blstr_off"
-				UI.Bolster.IDwSrc = "blstr_on"
-				UI.BolAmText.R = 150
-				UI.BolAmText.G = 2
-				UI.BolAmText.B = 0
-			end
-			if Game.ShowWeatherEffects then
-				UI.Weather.IUpSrc = "wthr_on"
-				UI.Weather.IDwSrc = "wthr_off"
-			else
-				UI.Weather.IUpSrc = "wthr_off"
-				UI.Weather.IDwSrc = "wthr_on"
-			end
 
 			-- Custom Interface
 			Game.UIDependsOnContinent = vars.UIDependsOnContinent or false
@@ -76,92 +50,11 @@ function events.GameInitialized2()
 
 	function events.BeforeSaveGame()
 		vars.InfinityView		= Game.InfinityView
-		vars.BolsterAmount 		= Game.BolsterAmount
-		vars.UseMonsterBolster	= Game.UseMonsterBolster
-		vars.ShowWeatherEffects = Game.ShowWeatherEffects
 		vars.CustomInterface 	= Game.CustomInterface
 		vars.UIDependsOnContinent	= Game.UIDependsOnContinent
 	end
 
 	---- Interface elements
-
-	-- Toggle weather
-	UI.Weather = CustomUI.CreateButton{
-		IconUp 		= Game.ShowWeatherEffects and "wthr_on"		or "wthr_off",
-		IconDown 	= Game.ShowWeatherEffects and "wthr_off"	or "wthr_on",
-		Action = function(t)
-			t.IUpSrc, t.IDwSrc = t.IDwSrc, t.IUpSrc
-			t.IUpPtr, t.IDwPtr = t.IDwPtr, t.IUpPtr
-			Game.ShowWeatherEffects = not Game.ShowWeatherEffects
-			if not Game.ShowWeatherEffects then
-				CustomUI.ShowSFTAnim()
-			end
-		end,
-		Layer 	= 1,
-		Screen 	= 2,
-		Font = Game.Create_fnt,
-		R = 255, 	G = 5,		B = 0,
-		Screen 	= 2,
-		X = 159, Y = 25}
-
-	-- Bolster amount text representation
-	UI.BolAmText = CustomUI.CreateText{
-		Text = tostring(Game.BolsterAmount) .. "%",
-		Layer 	= 1,
-		Screen	= 2,
-		Width = 60,	Height = 10,
-		X = 208, 	Y = 86
-		}
-
-	-- Toggle bolster
-	UI.Bolster = CustomUI.CreateButton{
-		IconUp 		= Game.UseMonsterBolster and "blstr_on"		or "blstr_off",
-		IconDown 	= Game.UseMonsterBolster and "blstr_off"	or "blstr_on",
-		Action = function(t)
-			t.IUpSrc, t.IDwSrc = t.IDwSrc, t.IUpSrc
-			t.IUpPtr, t.IDwPtr = t.IDwPtr, t.IUpPtr
-			Game.UseMonsterBolster = not Game.UseMonsterBolster
-			if Game.UseMonsterBolster then
-				UI.BolAmText.R = 255
-				UI.BolAmText.G = 5
-				UI.BolAmText.B = 0
-			else
-				UI.BolAmText.R = 150
-				UI.BolAmText.G = 2
-				UI.BolAmText.B = 0
-			end
-		end,
-		Layer 	= 1,
-		Screen 	= 2,
-		X = 159, Y = 53}
-
-	-- Decrease bolster
-	CustomUI.CreateButton{
-		IconUp 			= "ar_lt_up",
-		IconDown 		= "ar_lt_dn",
-		IconMouseOver 	= "ar_lt_ht",
-		Action = function(t)
-			evt.PlaySound{24}
-			Game.BolsterAmount = math.max(Game.BolsterAmount - 5, 0)
-			UI.BolAmText.Text = tostring(Game.BolsterAmount) .. "%"
-		end,
-		Layer 	= 1,
-		Screen 	= 2,
-		X = 165, Y = 86}
-
-	-- Increase bolster
-	CustomUI.CreateButton{
-		IconUp 			= "ar_rt_up",
-		IconDown 		= "ar_rt_dn",
-		IconMouseOver 	= "ar_rt_ht",
-		Action = function(t)
-			evt.PlaySound{23}
-			Game.BolsterAmount = math.min(Game.BolsterAmount + 5, 200)
-			UI.BolAmText.Text = tostring(Game.BolsterAmount) .. "%"
-		end,
-		Layer 	= 1,
-		Screen 	= 2,
-		X = 185, Y = 86}
 
 	-- Choose UI
 	CustomUI.CreateIcon{

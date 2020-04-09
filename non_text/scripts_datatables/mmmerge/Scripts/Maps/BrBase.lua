@@ -1206,7 +1206,7 @@ function events.AfterLoadMap()
 	evt.map[2] = NextLevel
 	evt.map[3] = FloorTrap
 	evt.map[4] = Bookcase
-	evt.hint[4] = "Bookcase."
+	evt.hint[4] = evt.str[6]
 
 end
 

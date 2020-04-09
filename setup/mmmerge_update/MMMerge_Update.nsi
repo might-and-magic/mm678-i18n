@@ -1,5 +1,5 @@
 ﻿; Might and Magic 678 Merge Update Patch Installer
-; written by Tom CHEN
+; Written by Tom CHEN
 ; https://github.com/might-and-magic/mm678-i18n/tree/master/setup/mmmerge_update
 ; MIT License
 
@@ -47,10 +47,10 @@ RequestExecutionLevel user
 ;Pages
 
 !insertmacro MUI_PAGE_INSTFILES
-	
+
 ;--------------------------------
 ;Languages
- 
+
 !insertmacro MUI_LANGUAGE "English"
 
 ;--------------------------------
@@ -63,9 +63,28 @@ Section
 	IfFileExists "$EXEDIR\Scripts\General\1_TownPortalSwitch.lua" is_mmmerge_folder is_not_mmmerge_folder
 
 	is_mmmerge_folder:
-		SetOutPath "$INSTDIR"
 
-		File example.txt
+;-----FILE COPYING (MODIFYING, DELETING) STARTS HERE-----
+
+		SetOutPath $INSTDIR
+
+		File /r /x *.todelete files\*.*
+
+		Delete "$INSTDIR\Data\breach.sprites.lod"
+		Delete "$INSTDIR\Data\LocalizeTables.txt"
+		Delete "$INSTDIR\Data\weather.icons.lod"
+
+		; RMDir /r /REBOOTOK $INSTDIR\hg
+		
+		File mmarch.exe
+		nsExec::Exec 'mmarch add "Data\EnglishT.lod" "Data\EnglishT.lod.mmarchive\*.*"'
+		; nsExec::Exec "mmarch delete Data/EnglishT.lod ???"
+		Delete $INSTDIR\mmarch.exe
+
+		RMDir /r /REBOOTOK $INSTDIR\Data\EnglishT.lod.mmarchive
+
+
+;-----FILE COPYING (MODIFYING, DELETING) ENDS HERE-----
 
 		goto end_of_condition
 
@@ -78,4 +97,34 @@ Section
 	end_of_condition:
 
 
+
 SectionEnd
+
+
+
+; Delete "$INSTDIR\silent.nsi"
+
+
+; Section "Test CopyFiles"
+
+;   SectionIn 1 2 3
+
+;   SetOutPath $INSTDIR\cpdest
+;   CopyFiles "$WINDIR\*.ini" "$INSTDIR\cpdest" 0
+
+; SectionEnd
+
+
+; Section "Test Exec functions" TESTIDX
+
+;   SectionIn 1 2 3
+  
+;   SearchPath $1 notepad.exe
+
+;   MessageBox MB_OK "notepad.exe=$1"
+;   Exec '"$1"'
+;   ExecShell "open" '"$INSTDIR"'
+;   Sleep 500
+;   BringToFront
+
+; SectionEnd

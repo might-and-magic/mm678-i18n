@@ -65,6 +65,14 @@
 	@end:
 	]])
 
+	-- fix flickering during crossing portals in indoor maps
+	-- Use party Z instead of camera Z, when checking portals:
+	mem.asmpatch(0x4af29c, "mov edx, dword [ds:0xB2155C]")
+	-- Increase offset for MinX, MaxX, MinY, MaxY, MinZ
+	mem.asmpatch(0x4af257, "push 0x7f")
+	-- Increase offset for MaxZ
+	mem.asmpatch(0x4af2ae, "add edi, 0x7f")
+
 	-- make "spirit lash" work correctly and damage few party members
 	mem.asmpatch(0x40548d, "jle 0x40546f - 0x40548d")
 
@@ -75,20 +83,13 @@
 			return
 		end
 
-		local function InBox(Struct, Room, Precision)
-			local x,y,z = XYZ(Struct)
-			return	x > Room.MinX - Precision and x < Room.MaxX + Precision
-				and	y > Room.MinY - Precision and y < Room.MaxY + Precision
-				and	z > Room.MinZ - Precision and z < Room.MaxZ + Precision
-		end
-
 		local function fix(strData, strRoomData)
 			local tData = mapvars[strData]
 			if tData and type(tData) == "table" then
 				for RoomId,Room in pairs(tData) do
 					local RoomData = Map.Rooms[RoomId][strRoomData]
 					for i,v in RoomData do
-						RoomData[i] = 0
+						RoomData[i] = -1
 					end
 					local count = 0
 					for i,DataId in pairs(Room) do
@@ -98,11 +99,13 @@
 					RoomData.count = count
 				end
 			else
+				local cRoomId
 				mapvars[strData] = {}
 				for RoomId,Room in Map.Rooms do
 					for i,DataId in Room[strRoomData] do
-						if not InBox(Map[strRoomData][DataId], Room, 100) then
-							Room[strRoomData][i] = 0
+						cRoomId = Map.RoomFromPoint(Map[strRoomData][DataId])
+						if cRoomId ~= RoomId and cRoomId ~= 0 then
+							Room[strRoomData][i] = -1
 						end
 					end
 
@@ -110,7 +113,7 @@
 					local RoomFix = mapvars[strData][RoomId]
 					local pos = 0
 					for i,v in Room[strRoomData] do
-						if v > 0 then
+						if v >= 0 then
 							RoomFix[pos] = v
 							Room[strRoomData][pos] = v
 							pos = pos + 1
@@ -123,6 +126,16 @@
 
 		fix("RoomSpritesFix", "Sprites")
 		fix("RoomLightsFix", "Lights")
+
+		-- fix portals Z bounds
+		local F
+		for RoomId, Room in Map.Rooms do
+			for _, FId in Room.Portals do
+				F = Map.Facets[FId]
+				F.MinZ = Room.MinZ
+				F.MaxZ = Room.MaxZ
+			end
+		end
 
 	end
 

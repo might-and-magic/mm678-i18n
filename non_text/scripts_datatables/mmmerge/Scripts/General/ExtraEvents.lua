@@ -7,7 +7,7 @@ local function GetPlayer(p)
 end
 
 local function GetMonster(p)
-	if (p == 0) or (p < Map.Monsters["?ptr"]) then
+	if p < Map.Monsters["?ptr"] then
 		return
 	end
 	local i = (p - Map.Monsters["?ptr"]) / Map.Monsters[0]["?size"]
@@ -359,6 +359,12 @@ function events.GetSkill(t)
 end
 
 ---------------------------------------
+-- BeforeLeaveGame
+-- called before LeaveGame event, at the moment, when player click "Quit" button second time.
+-- Supposed to be used, when player leaving game, but map data still necessary.
+mem.autohook2(0x433b0d, function() events.call("BeforeLeaveGame") end)
+
+---------------------------------------
 -- MonsterCastSpell
 --
 --
@@ -397,7 +403,7 @@ function events.GameInitialized2()
 	mov word [ds:]] .. TargetBuf+2 .. [[+eax*4], ax;
 	mov word [ds:]] .. TargetBuf   .. [[+eax*4], 3; -- target is monster (const.ObjectRefKind) ]])
 
-	local function GetMonsterTarget(i)
+	function GetMonsterTarget(i)
 		return u2[TargetBuf+i*4], u2[TargetBuf+i*4+2]
 	end
 
@@ -440,20 +446,22 @@ function events.GameInitialized2()
 
 	mem.autohook(0x404d9f, function(d)
 		local Mon, MonId = GetMonster(d.esi)
-		local TargetRef, TargetId = GetMonsterTarget(MonId)
-		local t = {Spell = d.ecx, Monster = Mon, Target = 0, TargetRef = TargetRef, Handled = false}
+		if Mon then
+			local TargetRef, TargetId = GetMonsterTarget(MonId)
+			local t = {Spell = d.ecx, Monster = Mon, Target = 0, TargetRef = TargetRef, Handled = false}
 
-		if TargetRef == 4 then
-			t.Target = Party
-		elseif TargetRef == 3 then
-			t.Target = Map.Monsters[TargetId]
-		end
+			if TargetRef == 4 then
+				t.Target = Party
+			elseif TargetRef == 3 then
+				t.Target = Map.Monsters[TargetId]
+			end
 
-		events.call("MonsterCastSpell", t)
-		if t.Handled then
-			d.ecx = 0xffff
-		else
-			d.ecx = t.Spell
+			events.call("MonsterCastSpell", t)
+			if t.Handled then
+				d.ecx = 0xffff
+			else
+				d.ecx = t.Spell
+			end
 		end
 	end)
 

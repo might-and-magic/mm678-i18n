@@ -498,7 +498,7 @@ local function PrepareTxtMon(i, PartyLevel, MapSettings, OnlyThis)
 		if MapSettings.Type ~= BolsterTypes.OriginalStats then
 
 			-- Base hitpoints
-			mon.FullHP = ProcessFormula(Formula["HP"], mon.FullHP)
+			mon.FullHP = min(ProcessFormula(Formula["HP"], mon.FullHP), 30000)
 			BoostedHP  = mon.FullHP
 
 			-- Armor class
@@ -768,19 +768,18 @@ local function BolsterMonsters()
 	local MapInTxt = Game.MapStats[Map.MapStatsIndex]
 	local t = {}
 
-	for i,v in Game.MonstersTxt do
-
-		if 		v.Name == MapInTxt.Monster1Pic
-			or 	v.Name == MapInTxt.Monster2Pic
-			or 	v.Name == MapInTxt.Monster3Pic then
+	for i,v in Game.MonListBin do
+		if 		string.find(v.Name, MapInTxt.Monster1Pic)
+			or	string.find(v.Name, MapInTxt.Monster2Pic)
+			or	string.find(v.Name, MapInTxt.Monster3Pic) then
 
 			if not ReadyMons[i] then
 				table.insert(t, i)
 			end
 		end
-
 	end
 
+	-- summons
 	for i = 97, 99 do
 		table.insert(t, i)
 	end

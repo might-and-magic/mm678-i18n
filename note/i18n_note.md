@@ -1,5 +1,23 @@
 ## To do
 
+弓箭BTU
+chaos bug？
+
+torch、tree的鼠标悬停标签不知怎么没翻译。硬3D高清就不显示标签，软3D低清就会显示出无法汉化的标签。。应该算是原版就有（原版硬3D就不显示标签），GrayFace补丁也一直没修复的问题（硬3D搞了高清模式还是有这个问题）。。
+维兰坟墓“What is the Captain's code?”/“船长的密码是什么？”的字样没显示出来。英文版不知道有没有这个问题。“答案是？”显示出来了，输入答案也没有问题
+道标的字体
+高级议会 “Enter”不知怎么没翻译
+时空之门切换大陆，大陆名称没翻译？
+通关后的白房子 “Uneasy origin matter”不知怎么没翻译
+
+这2-3条是翡翠岛NPC的对话的几个条目，好像是标题为龙蝇，火焰抗性这几个，若楼主有时间跑趟翡翠岛随便找几个npc对话就能看到，包括对话条目和对话内容都是英文。
+
+盗窃术对应为空手搏斗术，交际术对应为炼金术，这个错误出现在一些对话条目，以及以下神器（我自己已改过）
+
+有几个属性，好像是神器，写着提高灵魂抗性实际上是提高心系抗性，（因为没有灵魂抗性）。
+
+施放备用魔法 检查
+
 * 简中文字翻译
   * 单个魔法描述和其专家大师描述也要检查统一(DOING)
   * 药剂的描述快速检查一下
@@ -13,7 +31,7 @@
 * 他人反馈（与字串相关但并非仅简中）
   * 怎么穿越
   * MM6开头介绍
-  * 方尖塔记录消失问题
+  * 方尖塔记录消失问题 *
 * 其他
   * 自动化生成6_finalprod(DOING)
   * lod (DOING)
@@ -68,6 +86,11 @@ OTHER: compare rodril and master branch
 
 ## Other bugs
 
+最后是记录文档里的方尖碑信息，当初在8代是正常的，但在67代访问方尖碑后，似乎文档起了冲突，8代少了两条，分别是3#和4#。不过这事似乎英文版也发生过。7代倒是一条没少。我看6代翻译了，但是没找几个，还不清楚有没有问题。
+6代正常
+7代找完之后去埃弗蒙岛左下的石圈，中间没有白色的花啊，在旁边一顿乱按也不管用
+8代更坑爹了，3#、4#方尖碑没有啊，不是在残破镇和铁荒沙漠么？
+
 Noble Plate Armor no dressed status image `evt.GiveItem{1,0,880}`
 
 幽灵沼泽门不对 mm6
@@ -76,9 +99,9 @@ Noble Plate Armor no dressed status image `evt.GiveItem{1,0,880}`
 
 Weather effect can't switch off immediately
 
-tools/add_context.py
+tools/context.py
 csv2po.py exec()
-tools/add_dbcs_special.py
+tools/dbcs_special.py
 tools/test_line_length.py
 
 Useful or not?

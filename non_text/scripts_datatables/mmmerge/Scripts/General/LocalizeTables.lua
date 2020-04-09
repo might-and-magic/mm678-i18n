@@ -2,9 +2,9 @@
 -- Script simply replaces text fields of tables with ones from "LocalizeTables.txt".
 -- Sacrificing a bit of perfomance for a lot of conviniency of work with localizations.
 
-function RelocalizeTables()
+local function _RelocalizeTables(PathMask)
 
-	for FilePath in path.find("Data/*LocalizeTables.*txt") do
+	for FilePath in path.find(PathMask) do
 
 		local TxtTable = io.open(FilePath, "r")
 
@@ -41,8 +41,23 @@ function RelocalizeTables()
 						House.EnterText = Words[5]
 					end
 				end
+			elseif string.find(FilePath, "NPCNames") then
+				-- special behaivor for NPCNames
+				local NPCNames = Game.NPCNames
+				NPCNames.M = {}
+				NPCNames.F = {}
+				for line in LineIt do
+					Words = string.split(line, "\9")
+					if Words[1] and string.len(Words[1]) > 0 then
+						table.insert(NPCNames["M"], Words[1])
+					end
+					if Words[2] and string.len(Words[2]) > 0 then
+						table.insert(NPCNames["F"], Words[2])
+					end
+				end
 			else
 				local len = string.len
+				local LastTable = ""
 				for line in LineIt do
 					Words = string.split(line, "\9")
 					if Words[1] then
@@ -51,11 +66,17 @@ function RelocalizeTables()
 						local cField	= Words[3]
 						local cText		= tonumber(Words[4]) or Words[4]
 
+						if len(cTable) > 0 then
+							LastTable = cTable
+						else
+							cTable = LastTable
+						end
+
 						if len(cTable) > 0 and cId then
 							if len(cField) > 0 then
 								Game[cTable][cId][cField] = cText
 							else
-								Game[cTable][cId]  = cText
+								Game[cTable][cId] = cText
 							end
 						end
 					end
@@ -68,6 +89,11 @@ function RelocalizeTables()
 
 end
 
-function events.GameInitialized2()
-	RelocalizeTables()
+function RelocalizeTables()
+	_RelocalizeTables("Data/*LocalizeTables.*txt")
+	_RelocalizeTables("Data/Text localization/*.txt")
+end
+
+function events.ScriptsLoaded() -- declare localization event last
+	events.GameInitialized2 = RelocalizeTables
 end

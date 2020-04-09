@@ -41,14 +41,14 @@ mem.nop(0x426910, 2)
 mem.nop(0x426918, 1)
 mem.hook(0x42691e, CanApplySlowMassDistort)
 
--- Make Stun paralyze target for very small duration
+-- Make Stun paralyze target for small duration
 mem.autohook2(0x437751, function(d)
 	local Player = GetPlayer(d.ebx)
 	local Skill, Mas = SplitSkill(Player:GetSkill(const.Skills.Earth))
 	local mon = GetMonster(d.ecx)
 
 	local Buff = mon.SpellBuffs[const.MonsterBuff.Paralyze]
-	Buff.ExpireTime = Game.Time + const.Minute/2 + Skill*Mas
+	Buff.ExpireTime = math.max(Game.Time + const.Minute + Skill*Mas, Buff.ExpireTime)
 end)
 
 -- Change chance of monster being stunned

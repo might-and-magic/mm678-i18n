@@ -7,3 +7,5 @@ function events.LoadMap()
 		evt.SetDoorState(i, 0)
 	end
 end
+
+--Game.MapEvtLines:RemoveEvent(51)

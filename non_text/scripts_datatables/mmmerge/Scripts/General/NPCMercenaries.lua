@@ -194,23 +194,43 @@ function GenerateMercenary(t) --RosterId, Class, Level, Skills, Items, Face, Joi
 	local Char = Party.PlayersArray[RosterId]
 	local SkillPAmount = Level * 5 - 5
 
+	vars.LastMercenaryPortraits = vars.LastMercenaryPortraits or {Party[0].Face}
 	if not Face then
 		local CurCont = TownPortalControls.GetCurrentSwitch()
-		if CurCont == 4 then
-			CurCont = math.random(1,3)
-		end
 		local Faces = {}
+		local UniqueFaces = {}
 		local ClassType = ClassTypes[Class]
 		local ClassStart = ClassStages[ClassType][1]
 		for i,v in Game.CharacterPortraits do
-			if (ClassTypes[v.DefClass] == ClassType or ClassByRace[v.Race] and ClassByRace[v.Race][ClassStart]) and not table.find(PortraitsExceptions[CurCont], i) then
+			if	v.Race ~= 10 -- zombie service race
+				and(ClassTypes[v.DefClass] == ClassType or ClassByRace[v.Race] and ClassByRace[v.Race][ClassStart])
+				and not table.find(PortraitsExceptions[CurCont], i) then
+
 				table.insert(Faces, i)
 			end
 		end
-		Face = Faces[math.random(1, #Faces)] or math.random(0, 7)
+
+		for k,v in pairs(Faces) do
+			if not table.find(vars.LastMercenaryPortraits, v) then
+				table.insert(UniqueFaces, v)
+			end
+		end
+
+		if #UniqueFaces == 0 then
+			vars.LastMercenaryPortraits = {}
+			UniqueFaces = Faces
+		end
+
+		if #UniqueFaces == 0 then
+			Face = math.random(0, 11)
+		else
+			Face = UniqueFaces[math.random(1, #UniqueFaces)]
+		end
 	end
 	local Portrait = Game.CharacterPortraits[Face]
 	local Names = Game.NPCNames[Portrait.DefSex == 0 and "M" or "F"]
+
+	table.insert(vars.LastMercenaryPortraits, Face)
 
 	Char.Face	= Face
 	Char.Class	= Class

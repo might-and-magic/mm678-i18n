@@ -31,39 +31,22 @@ function events.MonsterKilled(mon)
 end
 
 -- Make monsters in indoor maps active once party sees them.
-local IsIndoor, NeedMonHostileUpd = false, false
-
 local function ActiveMonTimer()
-	if NeedMonHostileUpd then
-		local MonList = Game.GetMonstersInSight()
-		local mon
-		local lim = Map.Monsters.count
-		for k,v in pairs(MonList) do
-			if v < lim then
-				mon = Map.Monsters[v]
-				mon.Active = true
-				mon.ShowOnMap = true
-			end
+	local MonList = Game.GetMonstersInSight()
+	local mon
+	local lim = Map.Monsters.count
+	for k,v in pairs(MonList) do
+		if v < lim then
+			mon = Map.Monsters[v]
+			mon.Active = true
+			mon.ShowOnMap = true
 		end
-		NeedMonHostileUpd = false
-	end
-end
-
-local function SetMonUpdFlag()
-	if IsIndoor then
-		NeedMonHostileUpd = true
 	end
 end
 
 function events.AfterLoadMap()
-	IsIndoor = Map.IsIndoor()
-	if IsIndoor then
-		Timer(ActiveMonTimer, const.Minute, false)
-		events.StepSound = SetMonUpdFlag
-		events.CalcDamageToMonster = SetMonUpdFlag
-	else
-		events.Remove("StepSound", SetMonUpdFlag)
-		events.Remove("CalcDamageToMonster", SetMonUpdFlag)
+	if Map.IsIndoor() then
+		Timer(ActiveMonTimer, const.Minute/4, false)
 	end
 end
 
@@ -125,7 +108,3 @@ function events.MonsterKilled(mon)
 
 	end
 end
-
--- Tweak monsters' spells
-
-

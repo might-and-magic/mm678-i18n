@@ -5,15 +5,16 @@ from getfilepaths import getFilePaths
 from dbcs_special import encodeDbcsSpecialFile, decodeDbcsSpecial
 import shutil
 import configparser
+import os
 
 
-def copyDirectory(src, dest):
-	try:
-		shutil.copytree(src, dest)
-	except shutil.Error as e:
-		print('Directory not copied. Error: %s' % e)
-	except OSError as e:
-		print('Directory not copied. Error: %s' % e)
+# def copyDirectory(src, dest):
+# 	try:
+# 		shutil.copytree(src, dest)
+# 	except shutil.Error as e:
+# 		print('Directory not copied. Error: %s' % e)
+# 	except OSError as e:
+# 		print('Directory not copied. Error: %s' % e)
 
 if Path('5_postprod').exists():
 	shutil.rmtree('5_postprod')
@@ -26,7 +27,10 @@ for p in getFilePaths(Path('4_prod'), '', False):
 	if p.name in dbcsEncs:
 		encodeDbcsSpecialFile(p, Path('5_postprod').joinpath(p.name), langEncDict[p.name])
 	else:
-		copyDirectory(p, Path('5_postprod').joinpath(p.name))
+		shutil.copytree(p, Path('5_postprod').joinpath(p.name))
+
+os.system('tools\mmarch k non_text\scripts_datatables\mmmerge_rodril non_text\scripts_datatables\mmmerge filesonly non_text\scripts_datatables\difftemp')
+scriptDiffPath = Path('non_text/scripts_datatables/difftemp')
 
 for p in getFilePaths(Path('5_postprod'), '', False):
 	pTemp = p.joinpath('mmmerge/Data/01LocLANG.EnglishT')
@@ -77,12 +81,26 @@ for p in getFilePaths(Path('5_postprod'), '', False):
 			with open(pTemp, mode = 'w', encoding = langEncDict[p.name]) as configfile:
 				config.write(configfile, False)
 
+	for versionNum in ['6', '7', '8', 'merge']:
+		pTemp = p.joinpath('mm' + versionNum)
+		if scriptDiffPath.joinpath('Data').exists():
+			shutil.copytree(scriptDiffPath.joinpath('Data'), pTemp.joinpath('Data'))
+		if scriptDiffPath.joinpath('Scripts').exists():
+			shutil.copytree(scriptDiffPath.joinpath('Scripts'), pTemp.joinpath('Scripts'))
+		if p.name not in dbcsEncs:
+			os.remove(pTemp.joinpath('Scripts/General/FNT_DBCS.lua'))
+		for fnt in getFilePaths(Path('non_text/font/' + langEncDict[p.name]), extension = 'fnt', recursive = False):
+			shutil.copy(fnt, pTemp.joinpath('Data/10 LocZHCN.EnglishT'))
+
+shutil.rmtree(scriptDiffPath)
 
 
-# non_text/scripts_datatables
-# diff copy to [all lang]/mmmerge/
+# Icons
+# Events
+# EnglishT
 
-# non_text/font/zh_CN/*.fnt
+
+
 # copy to zh_CN/[mmmerge|mm8|mm7|mm6]/Data/10 LocZHCN.EnglishT
 # see other langs
 

@@ -1,4 +1,4 @@
-from versions import versions, langEncDict, dbcsEncs
+from versions import versions, langEncDict, dbcsLangs, dbcsEncs
 import re
 from pathlib import Path
 from getfilepaths import getFilePaths
@@ -8,13 +8,17 @@ import configparser
 import os
 
 
-# def copyDirectory(src, dest):
-# 	try:
-# 		shutil.copytree(src, dest)
-# 	except shutil.Error as e:
-# 		print('Directory not copied. Error: %s' % e)
-# 	except OSError as e:
-# 		print('Directory not copied. Error: %s' % e)
+
+def copyFonts(d, pTemp, mmVersion, pNameCondensed):
+	if mmVersion == '6':
+		targetLod = 'icons'
+	elif mmVersion == '7':
+		targetLod = 'events'
+	else: # 8 or merge
+		targetLod = 'EnglishT'
+	for fnt in getFilePaths(Path('non_text/font/' + d), 'fnt', False):
+		shutil.copy(fnt, pTemp.joinpath('Data/10 Loc' + pNameCondensed + '.' + targetLod))
+
 
 if Path('5_postprod').exists():
 	shutil.rmtree('5_postprod')
@@ -24,7 +28,7 @@ for p in getFilePaths(Path('4_prod'), '', True):
 		shutil.rmtree(p)
 
 for p in getFilePaths(Path('4_prod'), '', False):
-	if p.name in dbcsEncs:
+	if p.name in dbcsLangs:
 		encodeDbcsSpecialFile(p, Path('5_postprod').joinpath(p.name), langEncDict[p.name])
 	else:
 		shutil.copytree(p, Path('5_postprod').joinpath(p.name))
@@ -34,7 +38,7 @@ scriptDiffPath = Path('non_text/scripts_datatables/difftemp')
 
 for p in getFilePaths(Path('5_postprod'), '', False):
 	pTemp = p.joinpath('mm6/data/10LocLANG.icons')
-	pNameCondensed = p.name.upper().replace('_', '')
+	pNameCondensed = p.name.upper().replace('_', '') # e.g. ZHCN
 	if pTemp.exists():
 		pTemp.rename(pTemp.parent.joinpath('10 Loc' + pNameCondensed + '.icons'))
 
@@ -58,7 +62,7 @@ for p in getFilePaths(Path('5_postprod'), '', False):
 		pTemp = p.joinpath('mm' + versionNum + '/Data/LocalizeConf.ini')
 		config = configparser.ConfigParser()
 		config.read(pTemp, encoding = langEncDict[p.name])
-		if p.name in dbcsEncs:
+		if p.name in dbcsLangs:
 			config['Settings']['program_name'] = decodeDbcsSpecial(config['Settings']['program_name'])
 
 		config['Settings']['game_version']     = versionNum                          # 6/7/8/merge
@@ -77,7 +81,7 @@ for p in getFilePaths(Path('5_postprod'), '', False):
 		with open(pTemp, mode = 'w', encoding = langEncDict[p.name]) as configfile:
 			config.write(configfile, False)
 
-	if p.name in dbcsEncs:
+	if p.name in dbcsLangs:
 		for versionNum in ['6', '7', '8', 'merge']:
 			versionNum2 = versionNum
 			if versionNum2 == 'merge':
@@ -96,17 +100,25 @@ for p in getFilePaths(Path('5_postprod'), '', False):
 
 	for versionNum in ['6', '7', '8', 'merge']:
 		pTemp = p.joinpath('mm' + versionNum)
+		pNameCondensed = p.name.upper().replace('_', '') # e.g. ZHCN
+		encoding = langEncDict[p.name]
 		if scriptDiffPath.joinpath('Data').exists():
 			shutil.copytree(scriptDiffPath.joinpath('Data'), pTemp.joinpath('Data'))
 		if scriptDiffPath.joinpath('Scripts').exists():
 			shutil.copytree(scriptDiffPath.joinpath('Scripts'), pTemp.joinpath('Scripts'))
-		if p.name not in dbcsEncs:
+		if p.name not in dbcsLangs:
 			os.remove(pTemp.joinpath('Scripts/General/FNT_DBCS.lua'))
-		for fnt in getFilePaths(Path('non_text/font/' + langEncDict[p.name]), 'fnt', False):
-			shutil.copy(fnt, pTemp.joinpath('Data/10 LocZHCN.EnglishT'))
+		copyFonts(encoding, pTemp, versionNum, pNameCondensed)
+		if encoding in dbcsEncs:
+			copyFonts('cp1252', pTemp, versionNum, pNameCondensed)
+		if encoding == 'cp1252' or encoding in dbcsEncs:
+			if versionNum == '6' or versionNum == '7':
+				versionNumFont = '67'
+			else: # versionNum == '8' or versionNum == 'merge'
+				versionNumFont = '8'
+			copyFonts('cp1252/' + versionNumFont, pTemp, versionNum, pNameCondensed)
 
 shutil.rmtree(scriptDiffPath)
-
 
 
 # copy images to zh_CN/[mmmerge|mm8|mm7|mm6]/Data/10 LocZHCN.EnglishT

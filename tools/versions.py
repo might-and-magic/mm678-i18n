@@ -36,9 +36,16 @@ langEncDict = {
 	'zh_TW': 'big5'
 }
 
-dbcsEncs = [
+dbcsLangs = [
 	'zh_CN',
 	'zh_TW',
 	'ko',
 	'ja'
+]
+
+dbcsEncs = [
+	'gb2312',
+	'big5',
+	'euc_kr',
+	'euc_jp'
 ]

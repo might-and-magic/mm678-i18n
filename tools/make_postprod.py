@@ -120,6 +120,9 @@ for p in getFilePaths(Path('5_postprod'), '', False):
 
 shutil.rmtree(scriptDiffPath)
 
+	for fnt in getFilePaths(Path('non_text/img/prod/' + p.name), 'fnt', False):
+		shutil.copy(fnt, pTemp.joinpath('Data/10 Loc' + pNameCondensed + '.' + targetLod))
+
 
 # copy images to zh_CN/[mmmerge|mm8|mm7|mm6]/Data/10 LocZHCN.EnglishT
 # see other langs

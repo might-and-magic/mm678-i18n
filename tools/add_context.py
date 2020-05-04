@@ -27,13 +27,14 @@ def fn2c(filePath):
 	fileName = filePath.name.lower()
 	ext = filePath.suffix.lower()
 	stem = filePath.stem.lower()
+
 	if fileName == 'intro.str' or fileName == 'lose.str' or fileName == 'win.str':
 		return fileName
-	elif ext == '.str' or fileName == 'mapstats.txt' or fileName == 'localizetables.lang_2devents.txt' or fileName == '2devents.txt':
+	elif ext == '.str' or fileName == 'mapstats.txt' or fileName == 'localizetables.lang_2devents.txt' or fileName == 'lang_2devents.txt' or fileName == '2devents.txt':
 		return 'location'
-	elif fileName == 'localizetables.lang_itemstxt.txt' or fileName == 'useitems.txt':
+	elif fileName == 'localizetables.lang_itemstxt.txt' or fileName == 'lang_itemstxt.txt' or fileName == 'useitems.txt':
 		return 'items'
-	elif fileName == 'localizetables.lang_monsters.txt':
+	elif fileName == 'localizetables.lang_monsters.txt' or fileName == 'lang_monsters.txt':
 		return 'monsters'
 	elif fileName == 'npcbtb.txt' or fileName == 'npctext.txt' or fileName == 'npcgreet.txt' or fileName == 'npcnews.txt' or fileName == 'proftext.txt':
 		return 'npc conversation'
@@ -41,12 +42,15 @@ def fn2c(filePath):
 		return 'npcprof'
 	elif fileName == 'autonote.txt' or fileName == 'awards.txt':
 		return 'autonote or awards'
-	elif fileName == 'npcnames.txt' or fileName == 'pcnames.txt' or fileName == 'localizetables.lang_npcnames.txt':
+	elif fileName == 'npcnames.txt' or fileName == 'pcnames.txt' or fileName == 'localizetables.lang_npcnames.txt' or fileName == 'lang_npcnames.txt':
 		return 'npcnames'
 	elif fileName == 'mm7history.txt' or fileName == 'history.txt':
 		return 'history'
 	elif ext == '.txt':
-		return stem
+		if stem[0:5] == 'lang_':
+			return stem[5:]
+		else:
+			return stem
 	elif fileName == 'mm8lang.ini' or fileName == 'mm7lang.ini' or fileName == 'mm6lang.ini':
 		return 'mm_lang.ini'
 	elif fileName == 'localizeconf.ini':

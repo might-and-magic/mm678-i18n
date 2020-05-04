@@ -70,14 +70,16 @@
 69	Promotion to Minotaur Lord			92. Tessalar	Tessalar	
 70	Dark Dwarves			93. Tessalar	Tessalar	
 71	Quest				Tessalar	
-72	"Balthazar of 				Tessalar	
+72	"Balthazar of 
+Ravage Roaming"			96	Dadeross	
 73	The Axe of Balthazar			97. Dadeross	Dadeross	
 74	Thanks for your help!			99. Tessalar	Tessalar	
 75	Hurry!			101. Dadeross	Dadeross	
 76	Prophecies of the Sun			103. Verish	Verish	
 77	Clues			104. Verish	Verish	
 78	Promotion to Priest of the Light			105. Verish	Verish	
-79	"Lair of the 			105. Verish	Verish	
+79	"Lair of the 
+Feathered Serpent"			106. Verish	Verish	
 80	Prophecies of the Sun			107. Verish	Cleric of the Sun	
 81	Quest			108. Verish	Verish	
 82	Korbu			109. Lathean	Lathean	
@@ -207,7 +209,8 @@
 206	Survival!		Info for deliver Fire Resistance potions quest	651. James		James
 207	Quest		Begin deliver Fires Resistance Scrolls quest	652. James		James
 208	Not enough potions?		Scroll's not delivered to all huts	653. James		James
-209	"The village can hold 		Scroll's not delivered to all huts	653. James		James
+209	"The village can hold 
+its own."		Scroll's not delivered to all huts	654. James		James
 210	Potion of Pure Endurance		Recipe and Indgredient quest	655. James		James
 211	Ingredients		missing ingredients	747. "Black Potions are m		James
 212	Do you have the Ingredients?		end of recipie quest	657. James		James

@@ -6,6 +6,7 @@ from dbcs_special import encodeDbcsSpecialFile, decodeDbcsSpecial
 import shutil
 import configparser
 import os
+from distutils.dir_util import copy_tree
 
 
 
@@ -120,14 +121,26 @@ for p in getFilePaths(Path('5_postprod'), '', False):
 
 shutil.rmtree(scriptDiffPath)
 
-	for fnt in getFilePaths(Path('non_text/img/prod/' + p.name), 'fnt', False):
-		shutil.copy(fnt, pTemp.joinpath('Data/10 Loc' + pNameCondensed + '.' + targetLod))
+
+for pntLang in getFilePaths(Path('non_text/img/prod/'), '', False):
+	pntLangName = pntLang.name
+	pntLangNameCondensed = pntLangName.upper().replace('_', '') # e.g. ZHCN
+	for pntVer in getFilePaths(pntLang, '', False):
+		# next(pntVer.iterdir()) is the first child dir of pntVer, it is assumed the only child dir pntVer is /Data/ folder since images store only in /Data/
+		dataFolder = next(pntVer.iterdir())
+		for dirTemp in getFilePaths(dataFolder, '', False):
+			folderNameTemp = '10 Loc' + pntLangNameCondensed + '.' + dirTemp.name
+			if dirTemp.name == 'icons' and pntVer.name == 'mmmerge':
+				folderNameTemp = 'z' + folderNameTemp
+			pTemp = Path('5_postprod').joinpath(pntLangName).joinpath(pntVer.name).joinpath(dataFolder.name).joinpath(folderNameTemp)
+			copy_tree(str(dirTemp), str(pTemp))
 
 
-# copy images to zh_CN/[mmmerge|mm8|mm7|mm6]/Data/10 LocZHCN.EnglishT
-# see other langs
+for pntLang in getFilePaths(Path('non_text/MM8Setup/prod/'), '', False):
+	for pntVer in getFilePaths(pntLang, '', False):
+		shutil.copy(pntVer.joinpath('MM8Setup.Exe'), Path('5_postprod').joinpath(pntLang.name).joinpath(pntVer.name))
 
-# non_text/MM8Setup/zh_CN/prod/[mmmerge|mm8]
+
 
 # non_text/sound/zh_CN -> Data/10 LocZHCN.EnglishD
 

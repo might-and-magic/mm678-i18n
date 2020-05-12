@@ -34,7 +34,7 @@ for p in getFilePaths(Path('4_prod'), '', False):
 	else:
 		shutil.copytree(p, Path('5_postprod').joinpath(p.name))
 
-os.system('tools\mmarch k non_text\scripts_datatables\mmmerge_rodril non_text\scripts_datatables\mmmerge filesonly non_text\scripts_datatables\difftemp')
+os.system('tools\\mmarch k non_text\scripts_datatables\mmmerge_rodril non_text\scripts_datatables\mmmerge filesonly non_text\scripts_datatables\difftemp')
 scriptDiffPath = Path('non_text/scripts_datatables/difftemp')
 
 for p in getFilePaths(Path('5_postprod'), '', False):
@@ -120,6 +120,7 @@ for p in getFilePaths(Path('5_postprod'), '', False):
 			copyFonts('cp1252/' + versionNumFont, pTemp, versionNum, pNameCondensed)
 
 shutil.rmtree(scriptDiffPath)
+print('Main process is done.')
 
 
 for pntLang in getFilePaths(Path('non_text/img/prod/'), '', False):
@@ -134,16 +135,54 @@ for pntLang in getFilePaths(Path('non_text/img/prod/'), '', False):
 				folderNameTemp = 'z' + folderNameTemp
 			pTemp = Path('5_postprod').joinpath(pntLangName).joinpath(pntVer.name).joinpath(dataFolder.name).joinpath(folderNameTemp)
 			copy_tree(str(dirTemp), str(pTemp))
+print('Image process is done.')
 
 
 for pntLang in getFilePaths(Path('non_text/MM8Setup/prod/'), '', False):
 	for pntVer in getFilePaths(pntLang, '', False):
 		shutil.copy(pntVer.joinpath('MM8Setup.Exe'), Path('5_postprod').joinpath(pntLang.name).joinpath(pntVer.name))
+print('MM8Setup process is done.')
+
+
+for pntLang in getFilePaths(Path('non_text/sound/prod/'), '', False):
+	pntLangName = pntLang.name
+	pntLangNameCondensed = pntLangName.upper().replace('_', '') # e.g. ZHCN
+	for pntVer in getFilePaths(pntLang, '', False):
+		soundParentFolder = next(pntVer.iterdir())
+		soundFolder = next(soundParentFolder.iterdir())
+
+		folderNameTemp = soundFolder.name
+		folderNameTemp = '10 Loc' + pntLangNameCondensed + '.' + soundFolder.name
+		pTemp = Path('5_postprod').joinpath(pntLangName).joinpath(pntVer.name).joinpath(soundParentFolder.name).joinpath(folderNameTemp)
+		copy_tree(str(soundFolder), str(pTemp))
+print('Sound process is done.')
+
+
+for pntLang in getFilePaths(Path('5_postprod'), '', False):
+	for pntVer in getFilePaths(pntLang, '', False):
+		dataFolder = pntVer.joinpath('Data')
+		soundFolder = pntVer.joinpath('Sounds')
+		fInFolder = []
+		if dataFolder.exists():
+			fInFolder = fInFolder + getFilePaths(dataFolder, '', False)
+		if soundFolder.exists():
+			fInFolder = fInFolder + getFilePaths(soundFolder, '', False)
+		for fInDataFolder in fInFolder:
+			if fInDataFolder.name[0:6] == '10 Loc' or fInDataFolder.name[0:7] == 'z10 Loc':
+				stemTemp = fInDataFolder.name.split('.')[-1].lower()
+				if stemTemp == 'audio':
+					archiveType = 'mmsnd'
+					archiveExt = 'snd'
+				elif stemTemp == 'icons' or stemTemp == 'events':
+					archiveType = 'mmiconslod'
+					archiveExt = 'lod'
+				elif stemTemp == 'englishd' or stemTemp == 'englisht':
+					archiveType = 'mm8loclod'
+					archiveExt = 'lod'
+				os.system('tools\\mmarch c "' + fInDataFolder.name + '.' + archiveExt + '" ' + archiveType + ' "' + str(fInDataFolder.parent) + '" "' + str(fInDataFolder) + '\\*"')
+				os.system('tools\\mmarch o "' + str(fInDataFolder.parent.joinpath(fInDataFolder.name + '.' + archiveExt)) + '"')
+				print(str(fInDataFolder.parent.joinpath(fInDataFolder.name + '.' + archiveExt)) + ' is made.')
 
 
 
-# non_text/sound/zh_CN -> Data/10 LocZHCN.EnglishD
-
-# non_text/video/zh_CN -> Anims/10 LocZHCN.Magicdod.vid
-
-# non_text/img/zh_CN/prod -> Data/10 LocZHCN.EnglishD  Data/z10 LocZHCN.icons
+# TODO: non_text/video/zh_CN -> Anims/10 LocZHCN.Magicdod.vid

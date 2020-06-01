@@ -23,7 +23,8 @@ first_language = 'en'
 
 source_encoding = { # defaults are 'UTF-8'
 	'en': 'cp1252',
-	'zh_CN': 'gb2312'
+	'zh_CN': 'gb2312',
+	'zh_TW': 'big5'
 }
 
 encoding_errors_handling = 'strict' # could be 'strict', 'ignore' (default), 'replace', 'backslashreplace', etc. see https://docs.python.org/3/library/io.html#io.TextIOWrapper

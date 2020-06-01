@@ -181,6 +181,7 @@ for pntLang in getFilePaths(Path('5_postprod'), '', False):
 					archiveExt = 'lod'
 				os.system('tools\\mmarch c "' + fInDataFolder.name + '.' + archiveExt + '" ' + archiveType + ' "' + str(fInDataFolder.parent) + '" "' + str(fInDataFolder) + '\\*"')
 				os.system('tools\\mmarch o "' + str(fInDataFolder.parent.joinpath(fInDataFolder.name + '.' + archiveExt)) + '"')
+				shutil.rmtree(str(fInDataFolder))
 				print(str(fInDataFolder.parent.joinpath(fInDataFolder.name + '.' + archiveExt)) + ' is made.')
 
 

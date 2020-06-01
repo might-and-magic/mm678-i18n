@@ -62,7 +62,7 @@ local SelectionStarted = false
 local FromScreen = 0
 function events.GameInitialized2()
 	local function MOStd()
-		evt.PlaySound{12100}
+		Game.PlaySound(12100)
 	end
 
 	local function SlChosen(StartMap, Continent)
@@ -139,7 +139,7 @@ function events.MenuAction(t)
 		t.Handled = true
 		FromScreen = 0 -- Main menu
 		Game.CurrentScreen = const.Screens.ChooseContinent
-		evt.PlaySound{66}
+		Game.PlaySound(66)
 	end
 end
 
@@ -149,6 +149,6 @@ function events.Action(t)
 		t.Handled = true
 		FromScreen = 1 -- Ingame menu
 		Game.CurrentScreen = const.Screens.ChooseContinent
-		evt.PlaySound{66}
+		Game.PlaySound(66)
 	end
 end

@@ -547,20 +547,43 @@ function events.GameInitialized2()
 	mov eax, dword [ss:esp+0x8]
 	mov ecx, dword [ss:esp+0xC]
 	pushad
-	mov edi, edx
-	xor edx, edx
+	mov edi, 1
 	xor ebx, ebx
 	mov ebp, 0x1006148
 	mov esi, 0xfeb360
-	push edi
+	push edx
+	dec edx
 	push ebx
 	push ebx
 	call absolute 0x425b67
 	popad
 	retn]])
 
+	-- check and update quick spell sound set each cast
+	mem.asmpatch(0x43159a, [[
+	cmp dword [ds:0x4f37d8], 0; current screen
+	jne @std
+
+	mov esi, dword [ss:esp+0x8]
+	push esi
+	push ecx
+	imul esi, esi, 0xafd8
+	add esi, 0xadef80
+	xchg ecx, esi
+	call absolute 0x492b52
+
+	mov edx, dword [ss:esp+0x8]
+	dec edx
+	mov ecx, esi
+	mov esi, 0xfeb360
+
+	@std:
+	jmp absolute 0x4320de]])
+
 	function CastQuickSpell(PlayerId, SpellId)
-		mem.call(CastQuickSpellAsm, 0, PlayerId+1, Party.PlayersArray[PlayerId]["?ptr"], SpellId)
+		-- update sound set
+		mem.call(0x492b52, 1, 0xadef80 + (PlayerId + 1)*0xafd8, SpellId, PlayerId + 1)
+		mem.call(CastQuickSpellAsm, 0, PlayerId+1, Party[PlayerId]["?ptr"], SpellId)
 	end
 
 	function GiveMouseItemDirectly(RosterId)

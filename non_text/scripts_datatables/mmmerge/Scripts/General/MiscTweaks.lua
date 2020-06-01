@@ -409,6 +409,21 @@
 	@end:
 	]])
 
+	-- Need to inspect this, fix for ghost items in Party[*].Inventory array.
+	mem.asmpatch(0x43c0f7, [[
+	je absolute 0x43c105
+	cmp eax, 138; limit of items in player's inventory
+	jle @end
+	mov dword [ds:esi], 0; erase wrong index
+	jmp absolute 0x43c105
+	@end:
+	lea eax, [eax*8+eax];]])
+
+	--mem.asmpatch(0x41a38a, [[
+	--je absolute 0x41a4f1
+	--cmp eax, dword [ds:0x454085];
+	--jg absolute 0x41a4f1]])
+
 	-- Prevent looting of items too far away from party.
 	local function GetDist(x,y,z)
 		local px, py, pz  = XYZ(Party)

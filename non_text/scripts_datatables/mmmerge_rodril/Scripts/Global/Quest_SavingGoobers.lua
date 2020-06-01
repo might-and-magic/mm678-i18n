@@ -355,7 +355,7 @@ Quest{
 
 QSet.Attuned = QSet.Attuned or {[6] = true}
 local StatsToCheck	= {"Might", "Intellect", "Personality", "Endurance", "Accuracy", "Luck"}
-local AttuneEffects	= {"Weak", "Insane", "Cursed", "DiseaseGreen", "Asleep", "Afraid", "Drunk"} -- Might, Intellect, Personality, Endurance, Accuracy, Speed, Luck
+local AttuneEffects	= {"Weak", "Insane", "Cursed", "DiseasedGreen", "Asleep", "Afraid", "Drunk"} -- Might, Intellect, Personality, Endurance, Accuracy, Speed, Luck
 
 local function AttuneStat(Stat)
 	local PlayerStat = Party[Game.CurrentPlayer].Stats[Stat]

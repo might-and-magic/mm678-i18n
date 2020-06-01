@@ -399,12 +399,12 @@ end
 
 -- Cast water walk
 evt.Global[1717] = function()
-	CastFollowersSpell(27, 10, 3)
+	CastFollowersSpell(27, 3, 4)
 end
 
 -- Cast fly
 evt.Global[1716] = function()
-	CastFollowersSpell(21, 10, 2)
+	CastFollowersSpell(21, 2, 4)
 end
 
 -- Make food

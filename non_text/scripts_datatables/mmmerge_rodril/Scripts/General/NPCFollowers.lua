@@ -374,7 +374,7 @@ function events.GameInitialized2()
 							Y = Height - 139,
 							Action = ToggleNPCPanel,
 							Condition = BtnCond,
-							Layer = 2,
+							Layer = 1,
 							Screen = 0}
 
 	function events.FGInterfaceUpd()

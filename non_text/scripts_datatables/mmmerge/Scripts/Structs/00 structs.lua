@@ -95,7 +95,7 @@ function structs.f.GameStructure(define)
 	define
 	[mmv(0x4C3B74, 0x4EFEC8, 0x5004E8)].array(mmv(68, 78, 78)).i2  'MapDoorSound'
 	[mmv(0x4C1F18, 0x4EC9B8, 0x4FC9EC)].array(16).struct(structs.FogChances)  'MapFogChances'
-	
+
 	define.union 'MoveToMap'
 		[mmv(0x551D20, 0x5B6428, 0x5CCCB8)].array(3).i4  'Pos'
 		[mmv(0x551D20, 0x5B6428, 0x5CCCB8)].i4  'X'
@@ -144,7 +144,7 @@ function structs.f.GameStructure(define)
 			return i4[o]
 		else
 			local t = mmv(
-				{0x45031C, 0x47D9DC, 0x47DB1C, 0x47DC5C, 0x47DD9C, 0x47DEDC, 0x47E01C, 0x47E1A1, 0x47E2EB, 0x47E6EB, 0x47E8B4, 0x47FC27, 0x481D06, 0x481F3D, 0x4825EB, 0x48277B, 0x482914, 0x482998, 0x483FBC, 0x484E96, 0x4881C0, 0x4962BD}, 
+				{0x45031C, 0x47D9DC, 0x47DB1C, 0x47DC5C, 0x47DD9C, 0x47DEDC, 0x47E01C, 0x47E1A1, 0x47E2EB, 0x47E6EB, 0x47E8B4, 0x47FC27, 0x481D06, 0x481F3D, 0x4825EB, 0x48277B, 0x482914, 0x482998, 0x483FBC, 0x484E96, 0x4881C0, 0x4962BD},
 				{0x460465, 0x48E71F, 0x49401D, 0x494115, 0x4B1C3C},
 				{0x45DEBB, 0x48DB8A, 0x492253, 0x49234B, 0x4B0428}
 			)
@@ -300,7 +300,7 @@ function structs.f.GameStructure(define)
 		[0x6F2FBC + 4].parray{lenA = i4, lenP = 0x6F2FBC}.struct(structs.TileItem)  'Tile3Bin'
 		[0x6F2FD4].pstruct(structs.CurrentTileBin)  'CurrentTileBin'
 	end
-	
+
 	-- stditems, spcitems
 
 	define
@@ -347,7 +347,7 @@ function structs.f.GameStructure(define)
 		 .Info{Sig = "Id, Kind:const.MonsterKind"}
 	end
 	define[PatchOptionsPtr or 0].struct(structs.PatchOptions)  'PatchOptions'
-	
+
 	function define.f.LoadSound(soundId, unk, unk2)
 		-- unk2 present only in MM8
 		mem.call(mmv(0x48E2D0, 0x4A99F7, 0x4A7F22), 1, mmv(0x9CF700, 0xF79BDC, 0xFEBFE4), soundId, unk or 0, unk2 or 0)
@@ -613,7 +613,7 @@ function structs.f.GameParty(define)
 		else
 			u4[o] = val + 1
 		end
-	end)	
+	end)
 	[mmv(0x90E838, 0xAD45B0, 0xB7CA88)].alt.i4  'StateBits'
 	.bit ('NeedRender', 2)
 	.bit ('Drowning', 4)
@@ -624,7 +624,7 @@ function structs.f.GameParty(define)
 	.bit ('WaterWalkingBit', 0x80)
 	.bit ('InJumpSpell', 0x100)
 	.bit ('InLava', 0x200)
-	
+
 	local c = define.class
 	c.ptr = mmv(0x908C70, 0xACCE38, 0xB20E90)  -- start of Party.bin structure
 	function define.f.RestAndHeal(mins)
@@ -789,7 +789,10 @@ function structs.f.Player(define)
 	.i4  'ItemRing4'
 	.i4  'ItemRing5'
 	.i4  'ItemRing6'
-	[mmv(0x1468, 0x1988, 0x1C44)].i4  'SpellBookPage'
+	-- Rod: wrong size
+	--[mmv(0x1468, 0x1988, 0x1C44)].i4  'SpellBookPage'
+	[mmv(0x1468, 0x1988, 0x1C44)].u1  'SpellBookPage'
+	-- Rod.
 	[mmv(0x152F, 0x1A4F, 0x1C45)].u1  'QuickSpell'
 	[mmv(0x1530, 0x1A50, 0x1C46)].array(512).abit  'PlayerBits'
 	if mmver < 8 then
@@ -915,7 +918,7 @@ function structs.f.Player(define)
 	if mmver == 7 then
 		define.method{p = 0x490101, name = "GetRace"}
 	end
-	
+
 	function define.m:EnumActiveItems()
 		local i = -1
 		return function()
@@ -937,7 +940,7 @@ end
 
 function structs.f.PatchOptions(define)
 	local off, n = 0, PatchOptionsPtr and i4[PatchOptionsPtr] or 0
-	
+
 	local present = {}
 	local function def(kind, name)
 		if off < n then
@@ -971,7 +974,7 @@ function structs.f.PatchOptions(define)
 		def('EditPChar', name)
 	end
 	local Info = define.Info
-	
+
 	int  'Size'
 	int  'MaxMLookAngle'
 	bool  'MouseLook'
@@ -1030,7 +1033,7 @@ function structs.f.PatchOptions(define)
 	int  'PaperDollInChests'
 	bool  'HigherCloseRingsButton'
 	int  'RenderBottomPixel'
-	
+
 	function define.f.Present(name)
 		return present[name]
 	end

@@ -1,7 +1,7 @@
 
 Pathfinder = {}
 
-local u1, i1, u2, i2, u4 = mem.u1, mem.i1, mem.u2, mem.i2, mem.u4
+local u1, i1, u2, i2, u4, i4 = mem.u1, mem.i1, mem.u2, mem.i2, mem.u4, mem.i4
 local QueueSize = 50
 local CellItemSize = 20
 local CellsAmount = 8000
@@ -9,8 +9,9 @@ local AllCellsPtr = mem.StaticAlloc(CellItemSize*(CellsAmount+2))
 local ReachableAsm = mem.StaticAlloc(CellsAmount*2)
 local QueueFlag = mem.StaticAlloc(4)
 local ThreadHandler = 0
-
-local MAXTracingPrecision, MINTracingPrecision = 1500, 100
+local DataPointers = mem.StaticAlloc(20)
+local MapVertexesPtr, MapFacetsPtr, MapRoomsPtr, SpacePtr, SpaceSizePtr = DataPointers, DataPointers + 4, DataPointers + 8, DataPointers + 12, DataPointers + 16
+local OutdoorBoundaries = {MinX = -27648, MaxX = 27648, MinY = -27648, MaxY = 27648, AreaSize = 1024} -- Z is fixed: 0 - 4096
 local AllowedDirections = {
 {X =  0, 	Y =  1,		Z = 0},
 {X = -1, 	Y =  1, 	Z = 0},
@@ -37,9 +38,7 @@ local AllowedDirections = {
 {X =  0, 	Y = -1,		Z = -1},
 {X =  1, 	Y = -1,		Z = -1},
 {X =  1, 	Y =  0,		Z = -1},
-{X =  1, 	Y =  1,		Z = -1}
-
-}
+{X =  1, 	Y =  1,		Z = -1}}
 
 local AllowedDirsAsm = mem.StaticAlloc(#AllowedDirections*3)
 for i,v in ipairs(AllowedDirections) do
@@ -51,26 +50,6 @@ end
 local function cdataPtr(obj)
 	return tonumber(string.sub(tostring(obj), -10))
 end
-
-local Floors = 0
-local FloorsPtr = mem.StaticAlloc(4)
-local function BakeFloors(MapFloors)
-	-- Causes random crashes. Disabled for now.
-	--Floors = mem.malloc(Map.Facets.count*4)
-	--mem.u4[FloorsPtr] = Floors
-	--for k,v in pairs(MapFloors) do
-	--	u4[Floors+k*4] = v
-	--end
-end
-Pathfinder.BakeFloors = BakeFloors
-
-function events.LoadMap()
-	if Floors > 0 then
-		mem.free(Floors)
-	end
-	mem.u4[FloorsPtr] = 0
-end
-
 mem.hookalloc(0x1000)
 
 ------------------------------------------------------
@@ -326,7 +305,7 @@ local GetAngleVec = mem.asmproc([[
 	pop ebp
 	retn]])
 
--- takes ..., simplifies it
+-- takes amount of integers, num1, num2, num3 ... Returns greatest common divisor.
 local GetGCD = mem.asmproc([[
 	push ebp
 	mov ebp, esp
@@ -640,9 +619,9 @@ local PointInProjection = mem.asmproc([[
 	@start:
 	shl eax, 1
 	add eax, dword [ss:ebp+0x14]; VertexIds List
-	movsx eax, word [ds:eax]; Vertex Id
+	movzx eax, word [ds:eax]; Vertex Id
 	imul eax, eax, 0x6
-	add eax, dword [ds:0x6f3c7c]; MapVertexes ptr
+	add eax, dword [ds:]] .. MapVertexesPtr .. [[]; MapVertexes ptr - 0x6f3c7c for indoor, custom - for outdoor
 
 	movsx edx, word [ds:eax]
 	mov dword [ds:edi+0xC], edx
@@ -655,9 +634,9 @@ local PointInProjection = mem.asmproc([[
 	inc eax
 	shl eax, 1
 	add eax, dword [ss:ebp+0x14]; VertexIds List
-	movsx eax, word [ds:eax]; Vertex Id
+	movzx eax, word [ds:eax]; Vertex Id
 	imul eax, eax, 0x6
-	add eax, dword [ds:0x6f3c7c]; MapVertexes ptr
+	add eax, dword [ds:]] .. MapVertexesPtr .. [[]; MapVertexes ptr - 0x6f3c7c for indoor, custom - for outdoor
 
 	movsx edx, word [ds:eax]
 	mov dword [ds:edi+0x18], edx
@@ -899,21 +878,20 @@ local GetFacetPlaneDefiners = mem.asmproc([[
 	xor eax, eax
 
 	;1 always first vertex
-	movsx edx, word [ds:ecx]
+	movzx edx, word [ds:ecx]
 	mov dword [ds:edi], edx
 
 	@v2rep:
 	;2 always second vertex
 	add eax, 0x2
-	movsx edx, word [ds:ecx+eax]
+	movzx edx, word [ds:ecx+eax]
 	cmp edx, dword [ds:edi]
 	je @v2rep
 	mov dword [ds:edi+0xC], edx
 
 	;3 choose any not on line with previous two
-	@rep:
 	add eax, 0x2
-	movsx edx, word [ds:ecx+eax]
+	movzx edx, word [ds:ecx+eax]
 	mov dword [ds:edi+0x18], edx
 	push eax
 
@@ -925,7 +903,7 @@ local GetFacetPlaneDefiners = mem.asmproc([[
 		lea eax, dword [ds:edi+eax]
 		mov esi, dword [ds:eax]; VertexId
 		imul esi, esi, 0x6
-		add esi, dword [ds:0x6f3c7c]; MapVertexes ptr
+		add esi, dword [ds:]] .. MapVertexesPtr .. [[]; MapVertexes ptr - 0x6f3c7c for indoor, custom - for outdoor
 
 		movsx edx, word [ds:esi]
 		mov dword [ds:eax], edx
@@ -948,14 +926,14 @@ local GetFacetPlaneDefiners = mem.asmproc([[
 	je @con
 
 	mov eax, dword [ss:ebp+0x8]
-	movsx edx, word [ds:eax+0x5d]; VertexesCount
+	movzx edx, word [ds:eax+0x5d]; VertexesCount
 	mov ecx, dword [ds:eax+0x30]
 	pop eax
 	add eax, 2
 	shl edx, 1
 	cmp eax, edx
 	jge @con2
-	movsx edx, word [ds:ecx+eax]
+	movzx edx, word [ds:ecx+eax]
 	mov dword [ss:edi+0x18], edx
 	mov ecx, 2
 	push eax
@@ -1097,6 +1075,57 @@ Pathfinder.PlaneLineIntersect = PlaneLineIntersect
 --					Trace line  					--
 ------------------------------------------------------
 
+-- mem.call(Pathfinder.AreaFromPoint, 0, Party.X, Party.Y, Party.Z)
+-- takes X, Y, Z, returns area id (in indoor maps - room id)
+local AreaFromPoint = mem.asmproc([[
+	push ebp
+	mov ebp, esp
+	cmp dword [ds:0x6f39a0], 1; is indoor
+	je @indoor
+
+	; floor(ceil((Party.X + 27648)/1024)*55 + (Party.Y + 27648)/1024) - 54
+	mov eax, dword [ds:]] .. MapVertexesPtr .. [[]
+	test eax, eax
+	je @end
+
+	mov eax, dword [ss:ebp+0x8]
+	add eax, ]] .. OutdoorBoundaries.MaxX .. [[;
+	sar eax, 10
+	imul eax, 55
+
+	mov ecx, dword [ss:ebp+0xC]
+	add ecx, ]] .. OutdoorBoundaries.MaxY .. [[;
+	sar ecx, 10
+
+	add eax, ecx
+	inc eax
+
+	test eax, eax
+	jle @fault
+
+	@con1:
+	cmp eax, ]] .. math.floor((OutdoorBoundaries.MaxX/512))^2 .. [[;
+	jle @end
+
+	@fault:
+	xor eax,eax
+	jmp @end
+
+	@indoor:
+	mov ecx, 0x6f3a08
+	push dword [ss:ebp+0x10]; Z
+	push dword [ss:ebp+0xC]; Y
+	push dword [ss:ebp+0x8]; X
+	call absolute 0x4980ba
+	jmp @end
+
+	@end:
+	mov esp, ebp
+	pop ebp
+	retn 0xC]])
+
+Pathfinder.AreaFromPoint = AreaFromPoint
+
 --~ FromX, FromY, FromZ = XYZ(Party)
 --~ ToX, ToY, ToZ = XYZ(Map.Monsters[0])
 --~ print(mem.call(Pathfinder.TraceLineAsm, 0, 0, 0, FromX, FromY, FromZ, ToX, ToY, ToZ))
@@ -1113,7 +1142,7 @@ local TraceLineAsm = mem.asmproc([[
 	push dword [ss:ebp+0x18]; Z
 	push dword [ss:ebp+0x14]; Y
 	push dword [ss:ebp+0x10]; X
-	call absolute 0x4980ba
+	call absolute ]] .. AreaFromPoint .. [[; room from point - 0x4980ba
 	test eax, eax
 	je @fault
 	mov dword [ss:edi], eax
@@ -1169,7 +1198,7 @@ local TraceLineAsm = mem.asmproc([[
 	mov dword [ds:edi+0x7c], 0
 	mov eax, dword [ss:edi]
 	imul eax, eax, 120; MapRoom size
-	add eax, dword [ds:0x6f3c94]; contain Rooms ptr
+	add eax, dword [ds:]] .. MapRoomsPtr .. [[]; contain Rooms ptr, indoor - 0x6f3c94, outdoor - custom
 	mov ecx, dword [ds:eax+0x10]; walls count
 	mov eax, dword [ds:eax+0x14]; walls ptr
 	mov dword [ss:edi+0x20], eax
@@ -1181,7 +1210,7 @@ local TraceLineAsm = mem.asmproc([[
 	inc dword [ds:edi+0x7c]
 	mov eax, dword [ss:edi]
 	imul eax, eax, 120; MapRoom size
-	add eax, dword [ds:0x6f3c94]; contain Rooms ptr
+	add eax, dword [ds:]] .. MapRoomsPtr .. [[]; contain Rooms ptr, indoor - 0x6f3c94, outdoor - custom
 	mov ecx, dword [ds:eax+0x8]; floors count
 	mov eax, dword [ds:eax+0xC]; floors ptr
 	mov dword [ss:edi+0x20], eax
@@ -1193,7 +1222,7 @@ local TraceLineAsm = mem.asmproc([[
 	inc dword [ds:edi+0x7c]
 	mov eax, dword [ss:edi]
 	imul eax, eax, 120; MapRoom size
-	add eax, dword [ds:0x6f3c94]; contain Rooms ptr
+	add eax, dword [ds:]] .. MapRoomsPtr .. [[]; contain Rooms ptr, indoor - 0x6f3c94, outdoor - custom
 	mov ecx, dword [ds:eax+0x18]; ceils count
 	mov eax, dword [ds:eax+0x1C]; ceils ptr
 	mov dword [ss:edi+0x20], eax
@@ -1206,10 +1235,10 @@ local TraceLineAsm = mem.asmproc([[
 		mov edx, dword [ss:edi+0x20]
 		mov eax, dword [ss:edi+0x24]
 		shl eax, 1
-		movsx eax, word [ds:edx+eax]
+		movzx eax, word [ds:edx+eax]
 
 		imul eax, eax, 96; Facet size
-		add eax, dword [ds:0x6f3c84]; MapFacets ptr
+		add eax, dword [ds:]] .. MapFacetsPtr .. [[]; MapFacets ptr, indoor - 0x6f3c84, outdoor - custom
 		cmp byte [ds:eax+0x5d], 3; VertexesCount
 		jl @rep
 
@@ -1332,17 +1361,13 @@ local AltGetFloorLevelAsm = mem.asmproc([[
 	mov dword [ds:edi+0x14], 0x0
 	mov dword [ds:edi+0x18], 0x20
 
-	xor eax, eax
-	cmp dword [ds:0x6f39a0], 1; is indoor
-	jne @end
-
 	mov ecx, 0x6f3a08
 	add dword [ss:ebp+0x10], 0xA
 	push dword [ss:ebp+0x10]; Z
 	add dword [ss:esp], 0x64
 	push dword [ss:ebp+0xC]; Y
 	push dword [ss:ebp+0x8]; X
-	call absolute 0x4980ba
+	call absolute ]] .. AreaFromPoint .. [[; room from point - 0x4980ba
 	test eax, eax
 	push -1; facet ids list in stack border
 	jne @con
@@ -1355,7 +1380,7 @@ local AltGetFloorLevelAsm = mem.asmproc([[
 
 	@con:
 	imul eax, eax, 120; MapRoom size
-	add eax, dword [ds:0x6f3c94]; contain Rooms ptr
+	add eax, dword [ds:]] .. MapRoomsPtr .. [[]; contain Rooms ptr, indoor - 0x6f3c94, outdoor - custom
 	mov ecx, dword [ds:eax+0x8]; floors count
 	mov eax, dword [ds:eax+0xC]; floors ptr
 	mov esi, ecx
@@ -1368,9 +1393,9 @@ local AltGetFloorLevelAsm = mem.asmproc([[
 		cmp ecx, 0
 		jl @con2
 
-		movsx eax, word [ds:esi]; Facet id
+		movzx eax, word [ds:esi]; Facet id
 		imul eax, eax, 96; Facet size
-		add eax, dword [ds:0x6f3c84]; MapFacets ptr
+		add eax, dword [ds:]] .. MapFacetsPtr .. [[]; MapFacets ptr, indoor - 0x6f3c84, outdoor - custom
 		cmp byte [ds:eax+0x5d], 3; VertexesCount
 		jl @rep
 
@@ -1409,7 +1434,7 @@ local AltGetFloorLevelAsm = mem.asmproc([[
 		call absolute ]] .. PlaneLineIntersect .. [[;
 
 		pop eax
-		movsx edx, word [ds:eax+0x5d]; VertexesCount
+		movzx edx, word [ds:eax+0x5d]; VertexesCount
 		push edx
 		push dword [ds:eax+0x30]; VertexIds array
 		push dword [ds:edi+0x24]
@@ -1422,7 +1447,7 @@ local AltGetFloorLevelAsm = mem.asmproc([[
 
 		mov eax, dword [ds:edi+0x24]; intersection Z
 		push eax
-		movsx eax, word [ds:esi]; FacetId
+		movzx eax, word [ds:esi]; FacetId
 		push eax
 		jmp @rep
 
@@ -1545,7 +1570,71 @@ local DirectionToPointAsm = mem.asmproc([[
 	retn]])
 
 -- takes X, Y, Z, Radius, FromX, FromY, returns side shifts in eax and ecx
+-- gives correct shifts only for 45 degrees based angles.
 local CheckNeighboursAsm = mem.asmproc([[
+	push ebp
+	mov ebp, esp
+	push edi
+	sub esp, 0x24
+	mov edi, esp
+
+	mov eax, dword [ss:ebp+0x8]
+	mov dword [ds:edi], eax
+	mov eax, dword [ss:ebp+0xC]
+	mov dword [ds:edi+0x4], eax
+	mov dword [ds:edi+0x8], 0
+
+	mov eax, dword [ss:ebp+0x18]
+	mov dword [ds:edi+0xC], eax
+	mov eax, dword [ss:ebp+0x1C]
+	mov dword [ds:edi+0x10], eax
+	mov dword [ds:edi+0x14], 0
+
+	push edi
+	push edi
+	lea eax, dword [ds:edi+0xC]
+	push eax
+	call absolute ]] .. MakeVec2D .. [[;
+	add esp, 0xC
+
+	mov eax, dword [ds:edi]
+	mov dword [ds:edi+0xC], eax
+	mov eax, dword [ds:edi+0x4]
+	mov dword [ds:edi+0x10], eax
+	mov dword [ds:edi+0x14], 1
+
+	push edi
+	lea eax, dword [ds:edi+0xC]
+	push eax
+	lea eax, dword [ds:edi+0x18]
+	push eax
+	call absolute ]] .. VectorMul .. [[;
+
+	mov eax, dword [ds:edi+0x18]
+	mov ecx, dword [ds:edi+0x1C]
+
+	test eax, eax
+	je @SetY
+	mov eax, dword [ss:ebp+0x14]
+	jg @SetY
+	neg eax
+
+	@SetY:
+	test ecx, ecx
+	je @end
+	mov ecx, dword [ss:ebp+0x14]
+	jg @end
+	neg ecx
+
+	@end:
+	add esp, 0x24
+	pop edi
+	mov esp, ebp
+	pop ebp
+	retn 0x18]])
+
+-- takes X, Y, Z, Radius, FromX, FromY, returns side shifts in eax and ecx
+local CheckNeighboursAsm2 = mem.asmproc([[
 	push ebp
 	mov ebp, esp
 	push edi
@@ -1937,63 +2026,6 @@ local GetTileIdAsm = mem.asmproc([[
 
 Pathfinder.GetTileIdAsm = GetTileIdAsm
 
---~ -- Takes MonId, Radius, FromX, FromY, FromZ, ToX, ToY, ToZ
---~ -- returns 1 in eax, if monster can reach point, 0 - otherwise
---~ local TraceAsmOutdoor = mem.asmproc([[
---~ 	push ebp
---~ 	mov ebp, esp
---~ 	push edi
---~ 	sub esp, 0x8
-
---~ 	; 1. if mon cant fly - check tile, if it is water - block way
---~ 	mov eax, dword [ss:ebp+0x8]
---~ 	imul eax, 0x3cc
---~ 	add eax, ]] .. Map.Monsters["?ptr"] .. [[;
---~ 	mov edi, eax
---~ 	cmp byte [ds:edi+0x3a], 1
---~ 	je @CanFly
-
---~ 	push dword [ss:ebp+0x24]
---~ 	push dword [ss:ebp+0x20]
---~ 	call absolute ]] .. GetTileIdAsm .. [[;
-
---~ 	movzx ecx, byte [ds:0x6CEC2F]; Tile sets file id
---~ 	test ecx, ecx
---~ 	jne @Tile2
---~ 	mov ecx, ]] .. Game.TileBin["?ptr"] .. [[;
---~ 	jmp @TileCon
-
---~ 	@Tile2:
---~ 	cmp ecx, 1
---~ 	jne @Tile3
---~ 	mov ecx, ]] .. Game.Tile2Bin["?ptr"] .. [[;
---~ 	jmp @TileCon
-
---~ 	@Tile3:
---~ 	mov ecx, ]] .. Game.Tile3Bin["?ptr"] .. [[;
---~ 	@TileCon:
-
---~ 	; get tile item
---~ 	imul eax, ]] .. Game.TileBin[1]["?size"] .. [[;
---~ 	add eax, ecx
---~ 	mov ecx, dword [ds:eax+0x18]; Tile bits
---~ 	bt cx, 2; is water flag
---~ 	mov eax, 0
---~ 	je @end
-
-
---~ 	@CanFly:
---~ 	; 2. find models near, for ones closer than radius - check it's facets
---~ 	xor eax, eax
---~ 	inc eax
-
---~ 	@end:
---~ 	add esp, 0x8
---~ 	pop edi
---~ 	mov esp, ebp
---~ 	pop ebp
---~ 	retn]])
-
 -- Takes id in eax, returns ptr in eax
 local GetCellAsm = mem.asmproc([[
 	imul eax, ]] .. CellItemSize .. [[;
@@ -2171,13 +2203,8 @@ local FacetInAllowedRoom = mem.asmproc([[
 	test ecx, ecx
 	je @end
 
-	; get facet area/room
-	;shl eax, 2
-	;add eax, dword [ds:]] .. FloorsPtr .. [[]
-	;mov eax, dword [eax]; Room/AreaId
-	; get facet
 	imul eax, eax, 96; Facet size
-	add eax, dword [ds:0x6f3c84]; MapFacets ptr
+	add eax, dword [ds:]] .. MapFacetsPtr .. [[]; MapFacets ptr, indoor - 0x6f3c84, outdoor - custom
 	movsx eax, word [ds:eax+0x4c]
 	cmp byte [ecx+eax], 1
 	je @end
@@ -2309,7 +2336,10 @@ local AStarWayAsm = mem.asmproc([[
 
 			@CanFly:
 			movzx eax, word [ds:edi+0x90]; monster body radius
+			cmp dword [ds:0x6F39A0], 2
+			;je @DecreaseOutdoorRad
 			shl eax, 1
+			;@DecreaseOutdoorRad:
 			movsx edx, byte [ds:ecx]
 			imul eax, edx
 			add eax, dword []] .. AStarWayParams + 8 .. [[]
@@ -2353,7 +2383,7 @@ local AStarWayAsm = mem.asmproc([[
 
 			; make monsters prefer horizontal facets
 			imul ecx, ecx, 96; Facet size
-			add ecx, dword [ds:0x6f3c84]; MapFacets ptr
+			add ecx, dword [ds:]] .. MapFacetsPtr .. [[]; MapFacets ptr, indoor - 0x6f3c84, outdoor - custom
 			movsx eax, word [ds:ecx+0x58]; MinZ
 			movsx ecx, word [ds:ecx+0x5A]; MaxZ
 			sub ecx, eax
@@ -2427,7 +2457,12 @@ local AStarWayAsm = mem.asmproc([[
 			movsx ecx, word [ds:eax+0x6]
 			push ecx
 			call absolute ]] .. GetDistAsm .. [[;
-			shr eax, 4
+
+			cmp dword [ds:0x6F39A0], 2
+			je @OutdoorLength
+			shr eax, 1
+			@OutdoorLength:
+
 			mov ecx, eax
 			mov eax, dword [ds:]] .. AStarWayParams + 4 .. [[]
 			add ecx, dword [ds:eax+0x10]
@@ -2770,6 +2805,15 @@ local HandlerAsm = mem.asmproc([[
 	pop ebp
 	retn]])
 
+local function UpdatePointers()
+	if Map.IsIndoor() then
+		u4[MapVertexesPtr], u4[MapFacetsPtr], u4[MapRoomsPtr] = u4[0x6f3c7c], u4[0x6f3c84], u4[0x6f3c94]
+	else
+		u4[MapVertexesPtr], u4[MapFacetsPtr], u4[MapRoomsPtr] = Pathfinder.LoadMapDataBin()
+	end
+	return u4[MapVertexesPtr] ~= 0
+end
+
 local function ClearQueue()
 	for i = 0, QueueSize  do
 		AStarQueueC[i].Status = 0
@@ -2778,11 +2822,24 @@ end
 Pathfinder.ClearQueue = ClearQueue
 
 local function StartQueueHandler()
-	mem.u4[QueueFlag] = 1
+	if u4[QueueFlag] == 1 and ThreadHandler ~= 0 then -- handler already working
+		return ThreadHandler
+	end
+
+	UpdatePointers()
+	if Map.IsOutdoor() and u4[MapVertexesPtr] == 0 then
+		return 0
+	end
+
+	u4[QueueFlag] = 1
 	if ThreadHandler == 0 then
 		ThreadHandler = mem.dll["kernel32"].CreateThread(nil, 0, HandlerAsm, QueueFlag, 0, nil)
 	end
 	return ThreadHandler
+end
+
+local function QueueStatus()
+	return u1[QueueFlag]
 end
 
 local function PauseQueueHandler()
@@ -2814,10 +2871,19 @@ local function StopQueueHandler()
 	ClearQueue()
 end
 
+Pathfinder.HandlerAsm = HandlerAsm
+Pathfinder.StartQueueHandler = StartQueueHandler
+Pathfinder.StopQueueHandler = StopQueueHandler
+Pathfinder.PauseQueueHandler = PauseQueueHandler
+Pathfinder.AStarQueueC = AStarQueueC
+Pathfinder.QueueStatus = QueueStatus
+
+------------------------------------------------------
+--						Events						--
+------------------------------------------------------
+
 function events.AfterLoadMap()
-	if Map.IsIndoor() then
-		StartQueueHandler()
-	end
+	StartQueueHandler()
 end
 
 function events.LeaveMap()
@@ -2839,8 +2905,537 @@ function events.LeaveGame()
 	end
 end
 
-Pathfinder.HandlerAsm = HandlerAsm
-Pathfinder.StartQueueHandler = StartQueueHandler
-Pathfinder.StopQueueHandler = StopQueueHandler
-Pathfinder.PauseQueueHandler = PauseQueueHandler
-Pathfinder.AStarQueueC = AStarQueueC
+------------------------------------------------------
+--				Outdoor maps support				--
+------------------------------------------------------
+
+local MonstersMovementHook = mem.asmpatch(0x4026ef, [[
+	nop
+	nop
+	nop
+	nop
+	nop
+	pop edi
+	pop esi
+	pop ebx
+	leave
+	retn]])
+
+mem.hook(MonstersMovementHook, function()
+	events.call("MonstersChooseDirection")
+end)
+
+local function TileAbsoluteId(X, Y)
+	X = (64 + X / 0x200):floor()
+	Y = (64 - Y / 0x200):floor()
+
+	local TileId = Map.TileMap[Y][X]
+	if TileId >= 90 then
+		TileId = TileId - 90
+		TileId = Map.Tilesets[(TileId/36):floor()].Offset + TileId % 36
+	end
+	return TileId
+end
+
+local function ConvertOutdoorData()
+	if not Map.IsOutdoor() then
+		return false
+	end
+
+	local MapVertexes = {}
+	local MapFacets = {}
+	local MapRooms = {}
+	local Val
+
+	local AreaBoxExtraSize = 64 -- used for detecting neighbour facets to increase tracing precision
+	local AreaSize = OutdoorBoundaries.AreaSize
+
+	-- set empty default room
+	MapRooms[1] = {
+		MinX = -30000 - AreaBoxExtraSize,
+		MaxX = -30000 + AreaBoxExtraSize,
+		MinY = -30000 - AreaBoxExtraSize,
+		MaxY = -30000 + AreaBoxExtraSize,
+		MinZ = -30000,
+		MaxZ = -30000,
+		FloorsCount = 0,
+		Floors = {},
+		WallsCount = 0,
+		Walls = {},
+		CeilsCount = 0,
+		Ceils = {}
+	}
+
+	-- Init areas
+	for X = OutdoorBoundaries.MinX, OutdoorBoundaries.MaxX, AreaSize do
+		for Y = OutdoorBoundaries.MinY, OutdoorBoundaries.MaxY, AreaSize do
+			MapRooms[#MapRooms + 1] = {
+				MinX = X - AreaBoxExtraSize,
+				MaxX = X + AreaBoxExtraSize + AreaSize,
+				MinY = Y - AreaBoxExtraSize,
+				MaxY = Y + AreaBoxExtraSize + AreaSize,
+				MinZ = -1,
+				MaxZ = 4096,
+				FloorsCount = 0,
+				Floors = {},
+				WallsCount = 0,
+				Walls = {},
+				CeilsCount = 0,
+				Ceils = {}
+			}
+		end
+	end
+
+	-- Interpret ground as vertexes and facets
+	local GroundVertexes = {}
+	local aX, aY, TileId
+	for Y, Yt in Map.HeightMap do
+		aY = (64 - Y)*512
+		GroundVertexes[Y] = {}
+		for X, Height in Yt do
+			aX = (X - 64)*512
+			Val = {Id = #MapVertexes + 1, X = aX, Y = aY, Z = Height*32}
+			MapVertexes[Val.Id] = Val
+			GroundVertexes[Y][X] = Val
+		end
+	end
+
+	local V1, V2, V3, V4, TileId
+	for X, Yt in pairs(GroundVertexes) do
+		for Y, Vertex in pairs(Yt) do
+			if GroundVertexes[X+1] and GroundVertexes[X+1][Y+1] then
+				V1, V2, V3, V4 = Vertex, GroundVertexes[X][Y+1], GroundVertexes[X+1][Y+1], GroundVertexes[X+1][Y]
+
+				TileId = TileAbsoluteId((V1.X + V3.X)/2, (V1.Y + V3.Y)/2)
+				if Game.CurrentTileBin[TileId].Water then
+					-- skip water facets as impassable
+
+				-- triangulate non-horizontal facets
+				elseif V1.Z == V2.Z == V3.Z == V4.Z then
+					Val = {
+						VertexIds = {V1.Id, V2.Id, V3.Id, V4.Id},
+						Room = 0,
+						MinX = math.min(V1.X, V2.X, V3.X, V4.X),
+						MaxX = math.max(V1.X, V2.X, V3.X, V4.X),
+						MinY = math.min(V1.Y, V2.Y, V3.Y, V4.Y),
+						MaxY = math.max(V1.Y, V2.Y, V3.Y, V4.Y),
+						MinZ = V1.Z,
+						MaxZ = V1.Z,
+						-- 3 - horizontal floor, 4 - non-horizontal floor
+						PolygonType = 3}
+
+					MapFacets[#MapFacets + 1] = Val
+				else
+					Val = {
+						VertexIds = {V1.Id, V2.Id, V3.Id},
+						Room = 0,
+						MinX = math.min(V1.X, V2.X, V3.X),
+						MaxX = math.max(V1.X, V2.X, V3.X),
+						MinY = math.min(V1.Y, V2.Y, V3.Y),
+						MaxY = math.max(V1.Y, V2.Y, V3.Y),
+						MinZ = math.min(V1.Z, V2.Z, V3.Z),
+						MaxZ = math.max(V1.Z, V2.Z, V3.Z),
+						PolygonType = 4}
+
+					MapFacets[#MapFacets + 1] = Val
+
+					Val = {
+						VertexIds = {V1.Id, V3.Id, V4.Id},
+						Room = 0,
+						MinX = math.min(V1.X, V3.X, V4.X),
+						MaxX = math.max(V1.X, V3.X, V4.X),
+						MinY = math.min(V1.Y, V3.Y, V4.Y),
+						MaxY = math.max(V1.Y, V3.Y, V4.Y),
+						MinZ = math.min(V1.Z, V3.Z, V4.Z),
+						MaxZ = math.max(V1.Z, V3.Z, V4.Z),
+						PolygonType = 4}
+
+					MapFacets[#MapFacets + 1] = Val
+				end
+
+			end
+		end
+	end
+
+	-- Process models
+	for ModelId, Model in Map.Models do
+		local CurVertexList = {}
+		for VertexId, Vertex in Model.Vertexes do
+			CurVertexList[VertexId] = #MapVertexes + 1
+			MapVertexes[#MapVertexes + 1] = {X = Vertex.X, Y = Vertex.Y, Z = Vertex.Z}
+		end
+
+		for FacetId, Facet in Model.Facets do
+			Val = {
+				VertexIds = {},
+				Room = 0,
+				MinX = Facet.MinX,
+				MaxX = Facet.MaxX,
+				MinY = Facet.MinY,
+				MaxY = Facet.MaxY,
+				MinZ = Facet.MinZ,
+				MaxZ = Facet.MaxZ,
+				PolygonType = Facet.PolygonType}
+
+			if Val.PolygonType ~= 3 then -- horizontal floor
+				-- increase Z bounds to force small facets detection.
+				Val.MinZ = Val.MinZ - 50
+				Val.MaxZ = Val.MaxZ + 50
+			end
+
+			for _, VertexId in Facet.VertexIds do
+				table.insert(Val.VertexIds, CurVertexList[VertexId])
+			end
+			MapFacets[#MapFacets + 1] = Val
+		end
+	end
+
+	-- Interpret sprites as X facets pairs
+	local DecListItem
+	local GrowBoundsVal = 50
+	local SpriteFacets, SpriteVertexes = {}, {}
+	local SminX, SmaxX, SminY, SmaxY, Radius, BaseId
+	for SpriteId, Sprite in Map.Sprites do
+		DecListItem = Game.DecListBin[Sprite.DecListId]
+		if not DecListItem.NoBlockMovement and not DecListItem.NoDraw
+			and DecListItem.Radius > 30 and DecListItem.Height > 30 then -- sprites with sizes less than 30 do not block movement
+
+			Radius = DecListItem.Radius + GrowBoundsVal
+			BaseId = #MapVertexes
+
+			SpriteVertexes[1] = {Id = BaseId + 1, X = Sprite.X + Radius, Y = Sprite.Y + Radius, Z = Sprite.Z} -- >^
+			SpriteVertexes[2] = {Id = BaseId + 2, X = Sprite.X - Radius, Y = Sprite.Y + Radius, Z = Sprite.Z} -- <^
+			SpriteVertexes[3] = {Id = BaseId + 3, X = Sprite.X + Radius, Y = Sprite.Y - Radius, Z = Sprite.Z} -- >
+			SpriteVertexes[4] = {Id = BaseId + 4, X = Sprite.X - Radius, Y = Sprite.Y - Radius, Z = Sprite.Z} -- <
+
+			SpriteVertexes[5] = {Id = BaseId + 5, X = Sprite.X + Radius, Y = Sprite.Y + Radius, Z = Sprite.Z + DecListItem.Height}
+			SpriteVertexes[6] = {Id = BaseId + 6, X = Sprite.X - Radius, Y = Sprite.Y + Radius, Z = Sprite.Z + DecListItem.Height}
+			SpriteVertexes[7] = {Id = BaseId + 7, X = Sprite.X + Radius, Y = Sprite.Y - Radius, Z = Sprite.Z + DecListItem.Height}
+			SpriteVertexes[8] = {Id = BaseId + 8, X = Sprite.X - Radius, Y = Sprite.Y - Radius, Z = Sprite.Z + DecListItem.Height}
+
+			-- register vertexes
+			for _, Vertex in ipairs(SpriteVertexes) do
+				MapVertexes[Vertex.Id] = Vertex
+			end
+
+			SminX, SmaxX, SminY, SmaxY = Sprite.X - Radius, Sprite.X + Radius, Sprite.Y - Radius, Sprite.Y + Radius
+
+			-- X
+
+			SpriteFacets[1] = {VertexIds = {SpriteVertexes[1].Id, SpriteVertexes[5].Id, SpriteVertexes[8].Id, SpriteVertexes[4].Id},
+				MinX = SminX, MaxX = SmaxX, MinY = SminY, MaxY = SmaxY}
+
+			SpriteFacets[2] = {VertexIds = {SpriteVertexes[2].Id, SpriteVertexes[6].Id, SpriteVertexes[7].Id, SpriteVertexes[3].Id},
+				MinX = SminX, MaxX = SmaxX, MinY = SminY, MaxY = SmaxY}
+
+			-- Cube
+
+			SpriteFacets[3] = {VertexIds = {SpriteVertexes[1].Id, SpriteVertexes[5].Id, SpriteVertexes[6].Id, SpriteVertexes[2].Id},
+				MinX = SminX, MaxX = SmaxX, MinY = SminY, MaxY = SmaxY}
+
+			SpriteFacets[4] = {VertexIds = {SpriteVertexes[3].Id, SpriteVertexes[7].Id, SpriteVertexes[8].Id, SpriteVertexes[4].Id},
+				MinX = SminX, MaxX = SmaxX, MinY = SminY, MaxY = SmaxY}
+
+			SpriteFacets[5] = {VertexIds = {SpriteVertexes[1].Id, SpriteVertexes[5].Id, SpriteVertexes[7].Id, SpriteVertexes[3].Id},
+				MinX = SminX, MaxX = SmaxX, MinY = SminY, MaxY = SmaxY}
+
+			SpriteFacets[6] = {VertexIds = {SpriteVertexes[3].Id, SpriteVertexes[7].Id, SpriteVertexes[8].Id, SpriteVertexes[6].Id},
+				MinX = SminX, MaxX = SmaxX, MinY = SminY, MaxY = SmaxY}
+
+			-- set rest facet props and register facets
+			for _, Facet in pairs(SpriteFacets) do
+				MapFacets[#MapFacets+1] = Facet
+				Facet.Room = 0
+				Facet.PolygonType = 1 -- wall
+				Facet.MinZ = Sprite.Z - DecListItem.Height - GrowBoundsVal
+				Facet.MaxZ = Sprite.Z + DecListItem.Height + GrowBoundsVal
+			end
+		end
+	end
+
+	-- Assign facets to "rooms":
+	-- slow, but obvious method
+	local function BBoxesIntersect(A, B)
+		return	A.MinX <= B.MaxX and A.MaxX >= B.MinX
+			and	A.MinY <= B.MaxY and A.MaxY >= B.MinY
+	end
+
+	for RoomId, Room in pairs(MapRooms) do
+		for FacetId, Facet in pairs(MapFacets) do
+			if BBoxesIntersect(Room, Facet) then
+				if Facet.PolygonType == 1 then -- wall
+					table.insert(Room.Walls, FacetId)
+				elseif Facet.PolygonType == 3 or Facet.PolygonType == 4 then -- floor
+					table.insert(Room.Floors, FacetId)
+				else -- ceiling
+					table.insert(Room.Ceils, FacetId)
+				end
+				Facet.Room = RoomId
+			end
+		end
+	end
+
+	-- set "count" fields, cut extra size, calc bin size
+	local extraSize = 0
+	local binSize = #MapVertexes*6 + #MapFacets*96 + #MapRooms*120
+	for FacetId, Facet  in pairs(MapFacets) do
+		Facet.VertexesCount = #Facet.VertexIds
+		extraSize = extraSize + Facet.VertexesCount*2 + 2
+	end
+
+	for RoomId, Room in pairs(MapRooms) do
+		Room.FloorsCount = #Room.Floors
+		Room.WallsCount = #Room.Walls
+		Room.CeilsCount = #Room.Ceils
+
+		extraSize = extraSize + (Room.FloorsCount + Room.WallsCount + Room.CeilsCount + 3)*4
+
+		Room.MinX = Room.MinX + AreaBoxExtraSize
+		Room.MaxX = Room.MaxX - AreaBoxExtraSize
+		Room.MinY = Room.MinY + AreaBoxExtraSize
+		Room.MaxY = Room.MaxY - AreaBoxExtraSize
+		Room.MinZ = Room.MinZ + 1
+	end
+
+	return {Rooms = MapRooms, Facets = MapFacets, Vertexes = MapVertexes, binSize = binSize, extraSize = extraSize}
+end
+
+local BinVersion = 1
+local BinMapDataProps = {
+	sizes = 		{R = 120, F = 96, V = 6},
+	packedsizes = 	{R = 24, F = 96, V = 6},
+
+	fields = {
+		R = {
+			FloorsCount	= {m = u4, offset = 0x8,  packed = 0},
+			WallsCount	= {m = u4, offset = 0x10, packed = 4},
+			CeilsCount	= {m = u4, offset = 0x18, packed = 8},
+			MinX		= {m = i2, offset = 0x6C, packed = 12},
+			MaxX		= {m = i2, offset = 0x6E, packed = 14},
+			MinY		= {m = i2, offset = 0x70, packed = 16},
+			MaxY		= {m = i2, offset = 0x72, packed = 18},
+			MinZ		= {m = i2, offset = 0x74, packed = 20},
+			MaxZ		= {m = i2, offset = 0x76, packed = 22}},
+
+		F = {
+			Room = {m = u2, offset = 0x4c, packed = 0x4c},
+			MinX = {m = i2, offset = 0x50, packed = 0x50},
+			MaxX = {m = i2, offset = 0x52, packed = 0x52},
+			MinY = {m = i2, offset = 0x54, packed = 0x54},
+			MaxY = {m = i2, offset = 0x56, packed = 0x56},
+			MinZ = {m = i2, offset = 0x58, packed = 0x58},
+			MaxZ = {m = i2, offset = 0x5a, packed = 0x5a},
+			PolygonType = 	{m = u1, offset = 0x5c, packed = 0x5c},
+			VertexesCount = {m = u1, offset = 0x5d, packed = 0x5d}},
+
+		V = {
+			X = {m = i2, offset = 0, packed = 0},
+			Y = {m = i2, offset = 2, packed = 2},
+			Z = {m = i2, offset = 4, packed = 4}}},
+
+	tables = {
+		R = {
+			Floors	= {m = u2, offset = 0xC,  convId = 4},
+			Walls	= {m = u2, offset = 0x14, convId = 5},
+			Ceils	= {m = u2, offset = 0x1C, convId = 6}},
+
+		F = {
+			VertexIds = {m = u2, offset = 0x30, convId = 3}},
+
+		V = {}}
+	}
+
+local function ExportMapDataBin(MapData)
+	local output = {}
+	local tinsert = table.insert
+	local MapRooms, MapFacets, MapVertexes = MapData.Rooms, MapData.Facets, MapData.Vertexes
+	local bin = io.open("Data/BlockMaps/" .. string.replace(Map.Name, ".odm", ".bin"), "wb")
+	local memstr = mem.string
+	local Props = BinMapDataProps
+	local buff = mem.malloc(120)--mem.StaticAlloc(120)
+	local function ClearBuff()
+		for i = buff, buff+120, 4 do
+			u4[i] = 0
+		end
+	end
+
+	local function SetSplitter()
+		u4[buff] = 0xffffffff
+		tinsert(output, memstr(buff, 4, true))
+	end
+
+	local function SetElemHeader(Size, Type)
+		u4[buff] = Size
+		u1[buff+4] = Type
+		tinsert(output, memstr(buff, 5, true))
+	end
+
+	bin:setvbuf("no")
+
+	-- write header: version, general size, size of subtables
+	u4[buff  ] = BinVersion
+	u4[buff+4] = MapData.binSize
+	u4[buff+8] = MapData.extraSize
+	tinsert(output, memstr(buff, 12, true))
+	SetSplitter()
+	ClearBuff()
+
+	SetElemHeader((#MapVertexes + 1)*Props.packedsizes.V, 0)
+	ClearBuff()
+	tinsert(output, memstr(buff, Props.packedsizes.V, true)) -- empty vertex to align lua (1-based) and asm (0-based) indexation.
+	for i,v in ipairs(MapVertexes) do
+		--SetElemHeader(Props.packedsizes.V, 0)
+		for field, prop in pairs(Props.fields.V) do
+			prop.m[buff + prop.packed] = v[field]
+		end
+		tinsert(output, memstr(buff, Props.packedsizes.V, true))
+	end
+	ClearBuff()
+
+	-- Export facets block
+	-- empty facet to align lua (1-based) and asm (0-based) indexation.
+	SetElemHeader((#MapFacets + 1)*Props.packedsizes.F, 1)
+	tinsert(output, memstr(buff, Props.packedsizes.F, true))
+
+	for i,v in ipairs(MapFacets) do
+		ClearBuff()
+		for field, prop in pairs(Props.fields.F) do
+			prop.m[buff + prop.packed] = v[field]
+		end
+
+		for id, item in ipairs(v.VertexIds) do
+			u2[buff+(id-1)*2] = item
+		end
+		tinsert(output, memstr(buff, Props.packedsizes.F, true))
+	end
+	ClearBuff()
+
+	-- Export rooms block
+	for i,v in ipairs(MapRooms) do
+		SetElemHeader(Props.packedsizes.R, 2)
+		for field, prop in pairs(Props.fields.R) do
+			prop.m[buff + prop.packed] = v[field]
+		end
+		tinsert(output, memstr(buff, Props.packedsizes.R, true))
+
+		for t, prop in pairs(Props.tables.R) do
+			SetElemHeader(#v[t]*2, prop.convId)
+			for id, item in ipairs(v[t]) do
+				u2[buff] = item
+				tinsert(output, memstr(buff, 2, true))
+			end
+		end
+	end
+	mem.free(buff)
+
+	bin:write(table.concat(output, ""))
+	bin:close()
+end
+
+local function LoadMapDataBin()
+	local Path = "Data/BlockMaps/" .. string.replace(Map.Name, ".odm", ".bin")
+	local bin = io.open(Path, "r")
+	if not bin then
+		return 0,0,0
+	end
+
+	bin:close()
+	bin = io.LoadString(Path)
+	local readpos = 0
+	local readend = 0
+	local readsize = #bin
+	local min = math.min
+	local memstr = mem.string
+	local binptr = mem.topointer(bin)
+	local Props = BinMapDataProps
+	local buff = binptr
+
+	local function ReadNext(num, doread)
+		if readend == readsize then
+			return nil
+		end
+		readpos = readend
+		buff = binptr + readpos
+		readend = min(readend + num, readsize)
+		if doread then
+			return memstr(binptr + readpos, num, true)
+		end
+		return true
+	end
+
+	ReadNext(16) -- header
+	local FileBinVersion = u4[buff]
+	if FileBinVersion ~= BinVersion then
+		return 0,0,0
+	end
+
+	local GeneralSize	= u4[buff+4]
+	local ExtraSize		= u4[buff+8]
+	local NewSpaceSize	= GeneralSize + ExtraSize
+	local GeneralPtr = mem.malloc(NewSpaceSize)
+	u4[SpaceSizePtr] = NewSpaceSize
+	if u4[SpacePtr] ~= 0 then
+		mem.free(u4[SpacePtr])
+	end
+	u4[SpacePtr] = GeneralPtr
+
+	local ExtraPtr = GeneralPtr + GeneralSize
+	local Pointers = {}
+	local DataType = {[0] = "V", [1] = "F", [2] = "R"}
+	local pos = GeneralPtr
+	local ItemType, CurSize, CurConverter, CurItemPtr, prop
+
+	local subTProps = {
+		[3] = Props.tables.F.VertexIds,
+		[4] = Props.tables.R.Floors,
+		[5] = Props.tables.R.Walls,
+		[6] = Props.tables.R.Ceils}
+
+	while ReadNext(5) do
+		CurSize, CurConverter = u4[buff], u1[buff+4]
+		ItemType = DataType[CurConverter] or "Z"
+		Pointers[ItemType] = Pointers[ItemType] or pos
+
+		if CurConverter == 0 then -- straight copy
+			mem.copy(pos, ReadNext(CurSize, true))
+			pos = pos + CurSize
+
+		elseif CurConverter == 1 then -- facet
+			mem.copy(pos, ReadNext(CurSize, true))
+			for i = pos, pos+CurSize, Props.sizes.F do
+				u4[i+0x30] = i
+			end
+			pos = pos + CurSize
+
+		elseif CurConverter == 2 then -- rooms
+			CurItemPtr = pos
+			ReadNext(CurSize)
+			for k,v in pairs(Props.fields.R) do
+				v.m[pos + v.offset] = v.m[buff + v.packed]
+			end
+			pos = pos + Props.sizes.R
+
+		elseif CurConverter >= 3 and CurConverter <= 6 then -- subtables
+			prop = subTProps[CurConverter]
+			u4[CurItemPtr + prop.offset] = ExtraPtr
+			prop = ReadNext(CurSize, true)
+			if prop then
+				mem.copy(ExtraPtr, prop)
+				ExtraPtr = ExtraPtr + CurSize
+			end
+
+		else
+			error("Wrong format of pathfinder data in " .. string.replace(Map.Name, ".odm", ".bin") .. ".")
+		end
+	end
+
+	return Pointers.V, Pointers.F, Pointers.R
+
+end
+
+Pathfinder.TileAbsoluteId		= TileAbsoluteId
+Pathfinder.ConvertOutdoorData	= ConvertOutdoorData
+Pathfinder.ExportMapDataBin		= ExportMapDataBin
+Pathfinder.LoadMapDataBin		= LoadMapDataBin
+-- Pathfinder.ExportMapDataBin(Pathfinder.ConvertOutdoorData())
+

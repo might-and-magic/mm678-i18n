@@ -66,7 +66,7 @@ local function _RelocalizeTables(PathMask)
 						local cField	= Words[3]
 						local cText		= tonumber(Words[4]) or Words[4]
 
-						if len(cTable) > 0 then
+						if len(cTable) > 0  and Game[cTable] then
 							LastTable = cTable
 						else
 							cTable = LastTable

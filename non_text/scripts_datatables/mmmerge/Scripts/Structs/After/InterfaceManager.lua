@@ -1,5 +1,6 @@
 
 local u1,u4,i1,i4,memstr = mem.u1,mem.u4,mem.i1,mem.i4,mem.string
+local call = mem.call
 local sqrt = math.sqrt
 
 ---- Base functions
@@ -91,10 +92,7 @@ call absolute 0x410a10
 
 retn]]) -- removing loaded icon from memory and clearing it's appearance.
 
-local ShowIconAs
-
-ShowIconAs = mem.asmproc([[
-
+local ShowIconAs = mem.asmproc([[
 mov eax, dword [ds:]] .. PicStructPtr .. [[];
 cmp byte [ds:eax+0xe], 1
 jnz @Std
@@ -137,6 +135,27 @@ popad
 popfd
 retn]])
 
+local ShowTextLeftAs = mem.asmproc([[
+pushfd
+pushad
+
+mov ecx, ]] .. TextParams .. [[;
+xor esi, esi
+mov eax, dword [ds:ecx-0xC];
+mov edx, dword [ds:ecx-0x10]; Font
+push esi
+push esi
+push dword [ds:ecx-0x8];	Shift between lines
+push eax; 	String
+push dword [ds:ecx-0x4]; Color
+push dword [ds:ecx-0x14]; 	Y offset (does not affect box)
+push dword [ds:ecx-0x18]; 	X offset (does not affect box)
+call absolute 0x44a50f
+
+popad
+popfd
+retn]])
+
 local function FindIconPtr(Name)
 	local ptr
 	local low = string.lower
@@ -162,14 +181,14 @@ local function LoadIcon(Icon, Masked)
 	end
 
 	if Game.IconsLod.Bitmaps.count < 999 then
-		IconPtr = mem.call(LoadIconAs)
+		IconPtr = call(LoadIconAs)
 		if IconPtr == PENDING then
-			IconPtr = mem.call(LoadDIconAs)
+			IconPtr = call(LoadDIconAs)
 		end
 
 		if Masked then
 			u4[PicStructPtr] = IconPtr
-			mem.call(SetMaskAs)
+			call(SetMaskAs)
 			u1[IconPtr+0xE] = 1
 		end
 	else
@@ -196,7 +215,7 @@ CustomUI.LoadIconToPos = LoadIconToPos
 local function UnloadIcon(IconPtr)
 	if IconPtr and type(IconPtr) == "number" then
 		u4[PicStructPtr] = IconPtr
-		return mem.call(UnloadIconAs)
+		return call(UnloadIconAs)
 	end
 	return false
 end
@@ -227,11 +246,11 @@ local function ShowIcon(Icon, X, Y)
 	i4[PicX] = X or 0
 	i4[PicY] = Y or 0
 
-	mem.call(ShowIconAs)
+	call(ShowIconAs)
 end
 CustomUI.ShowIcon = ShowIcon
 
-local function ShowText(Str, Fnt, X, Y, Shift, R, G, B, BoxWt, BoxHt, Xof, Yof)
+local function ShowText(Str, Fnt, X, Y, Shift, R, G, B, BoxWt, BoxHt, Xof, Yof, ColorStd, AlignLeft)
 
 	if not Str then
 		return false
@@ -253,10 +272,15 @@ local function ShowText(Str, Fnt, X, Y, Shift, R, G, B, BoxWt, BoxHt, Xof, Yof)
 	i4[PicY] = Yof or 0
 
 	i4[LShift] = Shift or 3
-	i1[TColor] = B*16 + B
-	i1[TColor+1] = G + R*16
 
-	mem.call(ShowTextAs)
+	if AlignLeft then
+		u4[TColor] = ColorStd--0xFFFF--0xe664
+		call(ShowTextLeftAs)
+	else
+		i1[TColor] = B*16 + B
+		i1[TColor+1] = G + R*16
+		call(ShowTextAs)
+	end
 
 end
 CustomUI.ShowText = ShowText
@@ -414,7 +438,8 @@ CustomUI.CreateButton = CreateButton
 -- ColorMouseOver - number - def == 0 - white
 -- Action		  - function - on click
 -- BlockBG		  - boolean - true if original mouse click actions should be interrupted by this element.
--- Active		  - boolean]]
+-- Active		  - boolean
+-- AlignLeft	  - boolean]]
 local function CreateText(t)
 
 	if type(t) ~= "table" or not t.Text then
@@ -427,10 +452,11 @@ local function CreateText(t)
 	if Active == nil then Active = true end
 
 	local Settings = {Text = t.Text, X = t.X or 0, Y = t.Y or 0,
-						Wt = t.Width or math.floor(string.len(t.Text)*8/LinesCount),
-						Ht = t.Height or 10*LinesCount,
+						Wt = t.Width or math.floor(string.len(t.Text)*10/LinesCount),
+						Ht = t.Height or 16*LinesCount,
 						Layer = t.Layer or 0, Cond = t.Condition,
-						CStd = t.ColorStd or 0, CMo = t.ColorMouseOver or 0, Act = t.Action,
+						CStd = t.ColorStd or 0xFFFF, CMo = t.ColorMouseOver or 0, Act = t.Action,
+						AlignLeft = t.AlignLeft or false,
 						HvAct	= type(t.Action) == "function",
 						Pressed = false,
 						Font  	= t.Font,
@@ -661,7 +687,7 @@ local function ProcessTexts(la, Screen)
 		if v.Active and (not v.Cond or v:Cond()) then
 			if v.HvAct then
 				if MouseInBox(v.X,v.Y,v.Wt,v.Ht) then
-					ShowText(v.Text, v.Font, v.X, v.Y, v.Shift, v.Rm, v.Gm, v.Bm, v.Wt, v.Ht, v.Xof, v.Yof)
+					ShowText(v.Text, v.Font, v.X, v.Y, v.Shift, v.Rm, v.Gm, v.Bm, v.Wt, v.Ht, v.Xof, v.Yof, v.CStd, v.AlignLeft)
 					if Keys.IsPressed(LBUTTON) then
 						v.Pressed = true
 					else
@@ -671,11 +697,11 @@ local function ProcessTexts(la, Screen)
 						v.Pressed = false
 					end
 				else
-					ShowText(v.Text, v.Font, v.X, v.Y, v.Shift, v.R, v.G, v.B, v.Wt, v.Ht, v.Xof, v.Yof)
+					ShowText(v.Text, v.Font, v.X, v.Y, v.Shift, v.R, v.G, v.B, v.Wt, v.Ht, v.Xof, v.Yof, v.CStd, v.AlignLeft)
 					v.Pressed = false
 				end
 			else
-				ShowText(v.Text, v.Font, v.X, v.Y, v.Shift, v.R, v.G, v.B, v.Wt, v.Ht, v.Xof, v.Yof)
+				ShowText(v.Text, v.Font, v.X, v.Y, v.Shift, v.R, v.G, v.B, v.Wt, v.Ht, v.Xof, v.Yof, v.CStd, v.AlignLeft)
 			end
 		end
 	end

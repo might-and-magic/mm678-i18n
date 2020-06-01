@@ -388,7 +388,9 @@ function events.LoadMap(WasInGame)
 
 	elseif mapvars.MapNPCNews then
 		for k,v in pairs(mapvars.MapNPCNews) do
-			if NPCFollowers.NPCInGroup(k) then
+			if v.Mid >= Map.Monsters.count then
+				-- skip
+			elseif NPCFollowers.NPCInGroup(k) then
 				Map.Monsters[v.Mid].NPC_ID = 0
 			else
 				local cNPC = Game.NPC[k]

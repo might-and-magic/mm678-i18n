@@ -381,12 +381,9 @@ function events.GameInitialized2()
 	push ecx
 
 	mov ecx, 0x3cc
-	mov edx, eax
-	sub edx, dword [ds:0x40123F]
-	xor eax, eax
-	mov ax, dx
-	shr edx, 16
-	div cx
+	sub eax, dword [ds:0x40123F]
+	cdq
+	idiv ecx
 
 	pop ecx
 	pop edx
@@ -399,9 +396,40 @@ function events.GameInitialized2()
 	cmp eax, edi]])
 
 	mem.asmpatch(0x404650, [[
-	imul esi, esi, 0x3cc
-	mov word [ds:]] .. TargetBuf+2 .. [[+eax*4], ax;
-	mov word [ds:]] .. TargetBuf   .. [[+eax*4], 3; -- target is monster (const.ObjectRefKind) ]])
+	mov eax, dword [ss:esp+8]
+	cmp eax, dword [ds:0x40123F]
+	jl @end
+
+	push edx
+	push ecx
+
+	mov ecx, 0x3cc
+	sub eax, dword [ds:0x40123F]
+	cdq
+	idiv ecx
+
+	pop ecx
+	pop edx
+
+	mov word [ds:]] .. TargetBuf+2 .. [[+eax*4], si;
+	mov word [ds:]] .. TargetBuf   .. [[+eax*4], 3; -- target is monster (const.ObjectRefKind)
+
+	@end:
+	imul esi, esi, 0x3cc]])
+
+	-- attack target selection
+
+--~ 	mem.asmpatch(0x403f02, [[
+--~ 	mov eax, dword [ss:esp+0x4]
+--~ 	mov word [ds:]] .. TargetBuf+2 .. [[+eax*4], 0;
+--~ 	mov word [ds:]] .. TargetBuf   .. [[+eax*4], 4; -- target is party (const.ObjectRefKind)
+--~ 	mov eax, dword [ds:0xb2155c];]])
+
+--~ 	mem.asmpatch(0x403f25, [[
+--~ 	mov ecx, dword [ss:esp+0x4]
+--~ 	mov word [ds:]] .. TargetBuf+2 .. [[+ecx*4], ax;
+--~ 	mov word [ds:]] .. TargetBuf   .. [[+ecx*4], 3; -- target is monster (const.ObjectRefKind)
+--~ 	imul eax, eax, 0x3cc;]])
 
 	function GetMonsterTarget(i)
 		return u2[TargetBuf+i*4], u2[TargetBuf+i*4+2]

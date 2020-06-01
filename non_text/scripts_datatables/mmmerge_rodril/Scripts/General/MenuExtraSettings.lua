@@ -1,17 +1,71 @@
+local Pages = {}
+local CurrentPage = 1
+
+-- Setup special screen for interface manager
+local function NewSettingsPage(ScreenId, ScreenName)
+	const.Screens[ScreenName] = ScreenId
+	CustomUI.NewScreen(ScreenId)
+	table.insert(Pages, ScreenId)
+end
+CustomUI.NewSettingsPage = NewSettingsPage
+
+local function ExitExtSetScreen()
+	Editor.UpdateVisibility(Game.InfinityView)
+	if not Game.ShowWeatherEffects then
+		CustomUI.ShowSFTAnim() -- stop current animation
+	end
+	events.call("ExitExtraSettingsMenu")
+
+	Game.CurrentScreen = 2
+end
+CustomUI.ExitExtraSettingsMenu = ExitExtSetScreen
 
 function events.GameInitialized2()
 
-	local VarsToStore = {"UseMonsterBolster", "BolsterAmount", "ShowWeatherEffects", "InfinityView", "ImprovedPathfinding"}
-
-	-- Setup special screen for interface manager
 	local ExSetScr = 98
-	const.Screens.ExtraSettings = ExSetScr
-	CustomUI.NewScreen(ExSetScr)
+	local VarsToStore = {"UseMonsterBolster", "BolsterAmount", "ShowWeatherEffects", "InfinityView", "ImprovedPathfinding"}
+	local RETURN = const.Keys.RETURN
+	local ESCAPE = const.Keys.ESCAPE
+	NewSettingsPage(ExSetScr, "ExtraSettings")
 
-	local function ExitExtSetScreen()
-		Editor.UpdateVisibility(Game.InfinityView)
-		Game.CurrentScreen = 2
-	end
+	---- Switch extra screen ----
+	local RightSwitch = CustomUI.CreateButton{
+		IconUp 			= "ar_rt_up",
+		IconDown 		= "ar_rt_dn",
+		IconMouseOver 	= "ar_rt_ht",
+		Action = function(t)
+			Game.PlaySound(23)
+			if CurrentPage < #Pages then
+				CurrentPage = CurrentPage + 1
+			else
+				CurrentPage = 1
+			end
+			Game.CurrentScreen = Pages[CurrentPage]
+		end,
+		Condition = function() return #Pages > 1 end,
+		Layer 	= 0,
+		Screen 	= {ExSetScr},
+		X = 554, Y = 422}
+
+	local LeftSwitch = CustomUI.CreateButton{
+		IconUp 			= "ar_lt_up",
+		IconDown 		= "ar_lt_dn",
+		IconMouseOver 	= "ar_lt_ht",
+		Action = function(t)
+			Game.PlaySound(24)
+			if CurrentPage > 1 then
+				CurrentPage = CurrentPage - 1
+			else
+				CurrentPage = #Pages
+			end
+			Game.CurrentScreen = Pages[CurrentPage]
+		end,
+		Condition = function() return #Pages > 1 end,
+		Layer 	= 0,
+		Screen 	= {ExSetScr},
+		X = 69, Y = 422}
+
+	---- first page creation ----
 
 	-- simplify tumbler creation
 	local Tumblers = {}
@@ -21,7 +75,7 @@ function events.GameInitialized2()
 
 		Game.NeedRedraw = true
 		Game[Tumbler.VarName] = Tumbler.IUpSrc == "TmblrOn"
-		evt.PlaySound{25}
+		Game.PlaySound(25)
 	end
 
 	local function OnOffTumbler(X, Y, VarName)
@@ -39,11 +93,12 @@ function events.GameInitialized2()
 	end
 
 	-- Create elements
-	CustomUI.CreateButton{
+	local ExSetBtn
+	ExSetBtn = CustomUI.CreateButton{
 		IconUp	 	  = "ExtSetDw",
 		IconDown	  = "ExtSetUp",
-		IconMouseOver = "ExtSetup",
-		Screen		= {ExSetScr, 2},
+		IconMouseOver = "ExtSetUp",
+		Screen		= {ExSetScr, ExSetScrKeys, 2},
 		Layer		= 0,
 		X		=	159,
 		Y		=	25,
@@ -58,14 +113,19 @@ function events.GameInitialized2()
 						v.IDwSrc = "TmblrOn"
 					end
 				end
+				for k,v in pairs(Pages) do
+					CustomUI.ActiveElements[v].Buttons[0][RightSwitch.Key] = RightSwitch
+					CustomUI.ActiveElements[v].Buttons[0][LeftSwitch.Key] = LeftSwitch
+					CustomUI.ActiveElements[v].Buttons[0][ExSetBtn.Key] = ExSetBtn
+				end
+				CurrentPage = table.find(Pages, ExSetScr)
 				Game.CurrentScreen = ExSetScr
 			else
 				ExitExtSetScreen()
 			end
-			evt.PlaySound{412}
+			Game.PlaySound(412)
 		end}
 
-	local ESCAPE = const.Keys.ESCAPE
 	CustomUI.CreateIcon{
 		Icon = "ExSetScr",
 		X = 0,
@@ -101,13 +161,13 @@ function events.GameInitialized2()
 	BolAmText.G = 5
 	BolAmText.B = 0
 
-		-- Decrease bolster
+	-- Decrease bolster
 	CustomUI.CreateButton{
 		IconUp 			= "ar_lt_up",
 		IconDown 		= "ar_lt_dn",
 		IconMouseOver 	= "ar_lt_ht",
 		Action = function(t)
-			evt.PlaySound{24}
+			Game.PlaySound(24)
 			Game.BolsterAmount = math.max(Game.BolsterAmount - 5, 0)
 			BolAmText.Text = tostring(Game.BolsterAmount) .. "%"
 		end,
@@ -121,7 +181,7 @@ function events.GameInitialized2()
 		IconDown 		= "ar_rt_dn",
 		IconMouseOver 	= "ar_rt_ht",
 		Action = function(t)
-			evt.PlaySound{23}
+			Game.PlaySound(23)
 			Game.BolsterAmount = math.min(Game.BolsterAmount + 5, 200)
 			BolAmText.Text = tostring(Game.BolsterAmount) .. "%"
 		end,
@@ -130,6 +190,7 @@ function events.GameInitialized2()
 		X = BolsterCX + 20, Y = BolsterCY}
 
 	-- events
+
 	function events.BeforeSaveGame()
 		vars.ExtraSettings = vars.ExtraSettings or {}
 		local ExSet = vars.ExtraSettings

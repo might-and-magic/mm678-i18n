@@ -21,7 +21,7 @@
 --   your smallest font must be smaller than or equal to 14 (otherwise it'll throw errors),
 --   your biggest font should be smaller than or equal to 30 (otherwise your large fonts will be useless)
 -- Write your font sizes (heights) here
-local fontSizes = {13, 16, 29}
+local fontSizes = {14, 16, 29}
 
 -- special font can be one of Lucida, Smallnum, Arrus, Create, Comic, Book, Book2, Cchar, Autonote, Spell
 local specialFonts = {

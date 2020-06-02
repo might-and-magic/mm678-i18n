@@ -828,7 +828,8 @@ local function ProcessNextMon()
 
 		if MonsterNeedsProcessing(Monster) then
 
-			TargetRef, Target = GetMonsterTarget(MonId)
+			local TargetBuf = mem.StaticAlloc(Map.Monsters.limit*4)
+			TargetRef, Target = mem.u2[TargetBuf+MonId*4], mem.u2[TargetBuf+MonId*4+2]
 			-- 11 is const.PartyBuff.Invisibility
 			if TargetRef == 4 and Party.SpellBuffs[11].ExpireTime < Game.Time then
 				Target = Party

@@ -1,1 +1,0 @@
--- this file is here to raplace the one from older MMExtension versions

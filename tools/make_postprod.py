@@ -34,8 +34,8 @@ for p in getFilePaths(Path('4_prod'), '', False):
 	else:
 		shutil.copytree(p, Path('5_postprod').joinpath(p.name))
 
-os.system('tools\\mmarch k non_text\scripts_datatables\mmmerge_rodril non_text\scripts_datatables\mmmerge filesonly non_text\scripts_datatables\difftemp')
-scriptDiffPath = Path('non_text/scripts_datatables/difftemp')
+# os.system('tools\\mmarch k non_text\scripts_datatables\mmmerge_rodril non_text\scripts_datatables\mmmerge filesonly non_text\scripts_datatables\difftemp')
+# scriptDiffPath = Path('non_text/scripts_datatables/difftemp')
 
 for p in getFilePaths(Path('5_postprod'), '', False):
 	pTemp = p.joinpath('mm6/data/10LocLANG.icons')
@@ -103,12 +103,14 @@ for p in getFilePaths(Path('5_postprod'), '', False):
 		pTemp = p.joinpath('mm' + versionNum)
 		pNameCondensed = p.name.upper().replace('_', '') # e.g. ZHCN
 		encoding = langEncDict[p.name]
-		if scriptDiffPath.joinpath('Data').exists():
-			shutil.copytree(scriptDiffPath.joinpath('Data'), pTemp.joinpath('Data'))
-		if scriptDiffPath.joinpath('Scripts').exists():
-			shutil.copytree(scriptDiffPath.joinpath('Scripts'), pTemp.joinpath('Scripts'))
-		if p.name not in dbcsLangs:
-			os.remove(pTemp.joinpath('Scripts/General/FNT_DBCS.lua'))
+
+		# if scriptDiffPath.joinpath('Data').exists():
+		# 	shutil.copytree(scriptDiffPath.joinpath('Data'), pTemp.joinpath('Data'))
+		# if scriptDiffPath.joinpath('Scripts').exists():
+		# 	shutil.copytree(scriptDiffPath.joinpath('Scripts'), pTemp.joinpath('Scripts'))
+		# if p.name not in dbcsLangs:
+		# 	os.remove(pTemp.joinpath('Scripts/General/FNT_DBCS.lua'))
+
 		copyFonts(encoding, pTemp, versionNum, pNameCondensed)
 		if encoding in dbcsEncs:
 			copyFonts('cp1252', pTemp, versionNum, pNameCondensed)
@@ -119,8 +121,18 @@ for p in getFilePaths(Path('5_postprod'), '', False):
 				versionNumFont = '8'
 			copyFonts('cp1252/' + versionNumFont, pTemp, versionNum, pNameCondensed)
 
-shutil.rmtree(scriptDiffPath)
+# shutil.rmtree(scriptDiffPath)
 print('Main process is done.')
+
+
+for pntLang in getFilePaths(Path('non_text/scripts_datatables/'), '', False):
+	pntLangName = pntLang.name
+	# pntLangNameCondensed = pntLangName.upper().replace('_', '') # e.g. ZHCN
+	for pntVer in getFilePaths(pntLang, '', False):
+		scriptsFolder = pntVer.joinpath('Scripts')
+		pTemp = Path('5_postprod').joinpath(pntLangName).joinpath(pntVer.name).joinpath('Scripts')
+		copy_tree(str(scriptsFolder), str(pTemp))
+print('Script, datatable process is done.')
 
 
 for pntLang in getFilePaths(Path('non_text/img/prod/'), '', False):

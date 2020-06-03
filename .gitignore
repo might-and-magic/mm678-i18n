@@ -8,9 +8,9 @@
 /note/others/
 /tools/input/
 /tools/output/
-/setup/
-# /setup/old_examples/
 *.baiduyun.uploading.cfg
+/6_setup/zh_CN/mmmerge/files/
+/6_setup/zh_CN/mmmerge/*.exe
 
 
 # === Python.gitignore ===

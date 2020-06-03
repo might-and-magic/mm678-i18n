@@ -167,6 +167,13 @@ for pntLang in getFilePaths(Path('non_text/sound/prod/'), '', False):
 		folderNameTemp = '10 Loc' + pntLangNameCondensed + '.' + soundFolder.name
 		pTemp = Path('5_postprod').joinpath(pntLangName).joinpath(pntVer.name).joinpath(soundParentFolder.name).joinpath(folderNameTemp)
 		copy_tree(str(soundFolder), str(pTemp))
+
+		if pntLangName == 'zh_CN':
+			folderNameTempZHTW = soundFolder.name
+			folderNameTempZHTW = '10 LocZHTW.' + soundFolder.name
+			pTempZHTW = Path('5_postprod').joinpath('zh_TW').joinpath(pntVer.name).joinpath(soundParentFolder.name).joinpath(folderNameTempZHTW)
+			copy_tree(str(soundFolder), str(pTempZHTW))
+
 print('Sound process is done.')
 
 

@@ -50,4 +50,4 @@ def batchConvertZhFile(inputPath, outputPath, inputEncoding = 'utf8', outputEnco
 		convertZhFile(p, pout, method = method, convertQuote = convertQuote, inputEncoding = 'utf8', outputEncoding = 'utf8', replaceWords = replaceWords)
 
 
-batchConvertZhFile(inputPath = Path('3_i18n/zh_CN/LC_MESSAGES'), outputPath = Path('3_i18n/zh_TW/LC_MESSAGES'), extension = ['po'], method = 's2twp', replaceWords = [['Language: zh_CN', 'Language: zh_TW'], ['自由天堂', '自由港'], ['咔', '咯'], ['～', '-']])
+batchConvertZhFile(inputPath = Path('3_i18n/zh_CN/LC_MESSAGES'), outputPath = Path('3_i18n/zh_TW/LC_MESSAGES'), extension = ['po'], method = 's2twp', replaceWords = [['Language: zh_CN', 'Language: zh_TW'], ['自由天堂', '自由港'], ['恩洛斯', '安罗斯'], ['贾丹姆', '贾达密'], ['咔', '咯'], ['～', '-']])

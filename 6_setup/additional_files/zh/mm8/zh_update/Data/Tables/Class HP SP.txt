@@ -1,0 +1,17 @@
+Class	HP Base	HP Factor	SP Base	SP Factor	SP Stats
+Necromancer	20	2	25	3	I
+Lich	20	3	25	5	I
+Cleric	30	2	15	3	P
+PriestLight	30	3	15	5	P
+Knight	35	5	0	0	-
+Champion	35	8	0	0	-
+Troll	45	5	0	0	-
+WarTroll	45	8	0	0	-
+Minotaur	30	4	5	1	P
+MinotaurLord	30	6	5	2	P
+DarkElf	25	3	10	2	I
+Patriarch	25	4	10	4	I
+Vampire	30	3	10	2	P
+Nosferatu	30	4	10	4	P
+Dragon	50	10	50	5	I
+GreatWyrm	50	10	50	10	I

@@ -1,0 +1,3449 @@
+Name	Id	Type	Is3D
+null	0	system	-
+campfire	4	0	-
+enter	6	system	-
+wooddrclose	7	system	-
+fireBall	8	system	-
+fountain	10	0	x
+boat	18	0	x
+ClickIn	19	system	-
+ClickMinus	20	system	-
+ClickMovingSelector	21	system	-
+ClickOut	22	system	-
+ClickPlus	23	system	-
+ClickSkill	24	system	-
+ClickStart	25	system	-
+pending	26	system	-
+Error	27	system	-
+hit with arrow01l	28	system	-
+metal vs leather03h	44	system	-
+metal vs metal01l	45	system	-
+metal vs metal03h	47	system	-
+RunBadlands	49	0	x
+RunCarpet	50	0	x
+RunCooledLava	51	0	x
+RunDesert	52	0	x
+RunDirt	53	0	x
+RunGrass	54	0	x
+RunIce	55	0	x
+RunMud	56	0	x
+RunRoad	57	0	x
+RunSnow	58	0	x
+RunStone	59	0	x
+RunStoneHall	60	0	x
+RunSwamp	61	0	x
+RunWater	62	0	x
+RunWaterIndoor	63	0	x
+RunWood	64	0	x
+RunWoodPlanking	65	0	x
+SelectingANewCharacter	66	system	-
+shoot blaster01	67	system	-
+shoot bow01	71	system	x
+StartMainChoice01	74	system	-
+StartMainChoice02	75	system	-
+StartMainChoice03	76	system	-
+StartMainChoice04	77	system	-
+swing with axe01	78	system	-
+swing with axe03	80	system	-
+swing with blunt weapon01	81	system	-
+swing with blunt weapon03	83	system	-
+swing with sword01	84	system	-
+swing with sword02	85	system	-
+ViewingANewCharacter	87	system	-
+WalkBadlands	88	0	x
+WalkCarpet	89	0	x
+WalkCooledLava	90	0	x
+WalkDesert	91	0	x
+WalkDirt	92	0	x
+WalkGrass	93	0	x
+WalkIce	94	0	x
+WalkMud	95	0	x
+WalkRoad	96	0	x
+WalkSnow	97	0	x
+WalkStone	98	0	x
+WalkStoneHall	99	0	x
+WalkSwamp	100	0	x
+WalkWater	101	0	x
+WalkWaterIndoor	102	0	x
+WalkWood	103	0	x
+WalkWoodPlanking	104	0	x
+wood vs metal01l	105	system	-
+wood vs metal02m	106	system	-
+wood vs metal03h	107	system	-
+wood weapon vs leather01l	108	system	-
+wood weapon vs leather02m	109	system	-
+wood weapon vs leather03h	110	system	-
+bricks down	117	0	-
+bricks up	118	0	-
+damage	119	0	-
+deal	120	0	-
+defeat	121	0	-
+quarry up	122	0	-
+quarry down	123	0	-
+shuffle	124	0	-
+title	125	0	-
+tower up	126	0	-
+typing	127	0	-
+victory	128	0	-
+wall up	129	0	-
+luteguitar	130	system	-
+panflute	131	system	-
+trumpet	132	system	-
+gold01	133	system	-
+tip	134	swap	-
+heal	135	swap	-
+fizzle	136	swap	-
+TurnPageU	137	system	-
+TurnPageD	138	system	-
+batlleen	139	system	-
+batllest	140	system	-
+openchest0101	141	swap	-
+spellfail0201	142	system	-
+drink	143	swap	-
+eat	144	swap	-
+pickup	145	swap	-
+fixit	146	swap	-
+mixpotion	147	swap	-
+gong	148	swap	-
+flute	149	swap	-
+harp	150	swap	-
+church	151	swap	-
+chimes	152	swap	-
+splash	153	swap	-
+star1	154	system	-
+star2	155	system	-
+star4	157	system	-
+eradicate	158	system	-
+eleccircle	159	system	-
+encounter	160	swap	-
+bubbling cauldron01	161	0	-
+memorycrystal	162	0	-
+openbook	163	system	-
+closebook	164	system	-
+teleport	165	swap	-
+wolfhowl	166	0	-
+quest	205	system	-
+wood door0101	167	0	x
+dr_lock401	168	0	x
+wood door0201	169	0	x
+dr_lock101	170	0	x
+wood door0301	171	0	x
+dr_lock101	172	0	x
+wood door0401	173	0	x
+dr_lock101	174	0	x
+wood door0501	175	0	x
+dr_lock401	176	0	x
+stone door0101	177	0	x
+stone doorclse0101	178	0	x
+stone door0201	179	0	x
+stone doorclse0101	180	0	x
+stone door0301	181	0	x
+stone doorclse0101	182	0	x
+stone door0401	183	0	x
+stone doorclse0101	184	0	x
+stone door0501	185	0	x
+stone doorclse0101	186	0	x
+Alarm Bell 1	187	swap	-
+Alarm Bell 2	188	swap	-
+Cargo Elevator	189	swap	-
+Cargo Elevatorb	190	swap	-
+Church Bell	191	swap	-
+Going Down	192	swap	-
+Going Downb	193	swap	-
+Going Up	194	swap	-
+Going Upb	195	swap	-
+Tone1	196	swap	-
+Tone2	197	swap	-
+Tone3	198	swap	-
+Tone4	199	swap	-
+Alarm Bell 1b	200	swap	-
+Alarm Bell 2b	201	swap	-
+humming	202	swap	-
+hesgone	203	swap	-
+death	204	swap	-
+TorchLight	10000	swap	-
+04firebolt01	10010	swap	-
+04firebolt03	10011	swap	-
+TorchLight2	10020	swap	-
+Fireaura01	10030	swap	-
+Haste	10040	swap	-
+06fireball01	10050	swap	-
+Fireball2	10051	swap	-
+08fireblast03	10060	swap	-
+06fireball03	10061	swap	-
+Immolation	10070	swap	-
+Meteor Shower 1	10080	swap	-
+09metoershower03	10081	swap	-
+Inferno	10090	swap	-
+Incinerate	10100	swap	-
+11Incinerate03	10101	swap	-
+12WizardEye03	11000	swap	-
+FeatherFall	11010	swap	-
+14p	11020	swap	-
+15Sparks01	11030	swap	-
+15sparks03	11031	swap	-
+29unlock03	11040	swap	-
+shield02_character-portrait	11050	swap	-
+18LightningBolt03	11060	swap	-
+wizard_eye_interface-image	11070	swap	-
+20implosion03	11080	swap	-
+21fly03	11090	swap	-
+Starburst	11100	swap	-
+22Starburst03	11101	swap	-
+23Awaken03	12000	swap	-
+Poison Spray	12010	swap	-
+24coldbeam03	12011	swap	-
+Water Resistance	12020	swap	-
+Ice Bolt	12030	swap	-
+28icebolt03	12031	swap	-
+Waterwalk	12040	swap	-
+Dispell Magic	12050	swap	-
+39blades03	12060	swap	-
+20implosion03	12061	swap	-
+Enchant Item	12070	swap	-
+Town Portal	12080	swap	-
+IceBlast	12090	swap	-
+IceBlast2	12091	swap	-
+Lloyds beacon	12100	swap	-
+Stun1	13000	swap	-
+34Stun03	13001	swap	-
+44MassDistortion03	13010	swap	-
+Earth Resistance	13020	swap	-
+37DeadlySwarm03	13030	swap	-
+Deadly Swarm Explosion	13031	swap	-
+Stoneskin	13040	swap	-
+92shapmetal01	13050	swap	-
+40stonetoflesh03	13060	swap	-
+rockblast_projectile	13070	swap	-
+41rockblast03	13071	swap	-
+Day of Protection	13080	swap	-
+43deathblossom01	13090	swap	-
+43deathblossom03	13091	swap	-
+44MassDistortion01	13100	swap	-
+Detect Life	14000	swap	-
+Bless	14010	swap	-
+Fate	14020	swap	-
+54sharedlife03	14030	swap	-
+49RemoveCurse03	14040	swap	-
+Preservation	14050	swap	-
+51heroism03	14060	swap	-
+28icebolt01	14070	swap	-
+51heroism03	14080	swap	-
+53raisedead03	14090	swap	-
+51heroism03	14100	swap	-
+57removefear03	15000	swap	-
+MindBlast_Frnt_projectile	15010	swap	-
+58mindblast03	15011	swap	-
+Mind resistance	15020	swap	-
+Telepathy	15030	swap	-
+Heroism	15040	swap	-
+60cureparalasis03	15050	swap	-
+63feeblemind02	15060	swap	-
+65psychicshock03	15070	swap	-
+64cureinsanity03	15080	swap	-
+Psychic Shock	15090	swap	-
+58mindblast03	15091	swap	-
+Enslave	15100	swap	-
+Cure Weakness	16000	swap	-
+Heal	16010	swap	-
+69protectionfrompoison03	16020	swap	-
+harm_rear_projectile	16030	swap	-
+Harm	16031	swap	-
+Regeneration	16040	swap	-
+72curepoison03	16050	swap	-
+hammerhands_character-portrait	16060	swap	-
+74curedisease03	16070	swap	-
+awaken2	16080	swap	-
+Flying Fist	16090	swap	-
+76flyingfist03	16091	swap	-
+Power Cure	16100	swap	-
+02Flame01	17000	swap	-
+02Flame03	17001	swap	-
+55resurection03	17010	swap	-
+Recharge Item	17020	swap	-
+Paralyze	17030	swap	-
+Sparks	17040	swap	-
+Day of the Gods	17050	swap	-
+Prismatic Light	17060	swap	-
+94dayofprotection03	17070	swap	-
+9armageddon01	17080	swap	-
+sunray	17090	swap	-
+86sunray03	17091	swap	-
+Devine Intervention	17100	swap	-
+Reanimate	18000	swap	-
+Toxic Cloud	18010	swap	-
+90toxiccloud03	18011	swap	-
+Vampric Weapon	18020	swap	-
+Shrink ray	18030	swap	-
+Shrapmetal_projectile_bb	18040	swap	-
+92shapmetal03	18041	swap	-
+Control Undead	18050	swap	-
+Sacrifice2	18060	swap	-
+Soul Drinker	18070	swap	-
+Dragon Breath	18080	swap	-
+dragonbreath_explosion	18081	swap	-
+9armageddon02	18090	swap	-
+95fingerofdeath01	18100	swap	-
+100 Glamour	19000	swap	-
+101 Travelers' boon	19010	swap	-
+102 Blind	19020	swap	-
+102 Blind-2	19021	swap	-
+103 Darkfire bolt	19030	swap	-
+111 Lifedrain	20000	swap	-
+112 Levitate	20010	swap	-
+113 Hypno magic	20020	swap	-
+114 Gusty shimmer	20030	swap	-
+122 Fear	21000	swap	-
+123 Flame blast	21010	swap	-
+21Fly	21020	swap	-
+125 Wing flaps	21030	swap	-
+Lizardman_peasant attk	1000	0	-
+Lizardman_peasant death	1001	0	-
+Lizardman_peasant wince	1002	0	-
+Lizardman_peasant aware	1003	0	-
+Lizardman_warrior attk	1010	0	-
+Lizardman_warrior death	1011	0	-
+Lizardman_wince attk	1012	0	-
+Lizardman_warrior aware	1013	0	-
+Coutal attk	1020	0	-
+Coutal death	1021	0	-
+Coutal wince	1022	0	-
+Coutal aware	1023	0	-
+pirate_warrior Attack	1030	0	-
+pirate_warrior Death	1031	0	-
+pirate_warrior Wince	1032	0	-
+pirate_crossbow attk	1040	0	-
+pirate_crossbow death	1041	0	-
+pirate_crossbow wince	1042	0	-
+pirate_mage Attk	1050	0	-
+pirate_mage Death	1051	0	-
+pirate_mage Wince	1052	0	-
+Darkelf_male attk	1060	0	-
+Darkelf_male death	1061	0	-
+Darkelf_male wince	1062	0	-
+Darkelf_female attk	1070	0	-
+Darkelf_female death	1071	0	-
+Darkelf_female wince	1072	0	-
+Darkelf_warrior attk	1080	0	-
+Darkelf_warrior death	1081	0	-
+Darkelf_warrior wince	1082	0	-
+ogre_peasant Attack	1090	0	-
+ogre_peasant Death	1091	0	-
+ogre_peasant Wince	1092	0	-
+ogre_peasant Aware	1093	0	-
+ogre_warrior Attack	1100	0	-
+ogre_warrior Death	1101	0	-
+ogre_warrior Wince	1102	0	-
+ogre_warrior Aware	1103	0	-
+wererat human Attack	1110	0	-
+wererat human Death	1111	0	-
+wererat human Wince	1112	0	-
+wererat ratman Attack	1120	0	-
+wererat ratman Death	1121	0	-
+wererat ratman Wince	1122	0	-
+wererat ratman Aware	1123	0	-
+wererat rat Attack	1130	0	-
+wererat rat Death	1131	0	-
+wererat rat Wince	1132	0	-
+wererat rat Aware	1133	0	-
+dragon_hunter attk	1140	0	-
+dragon_hunter death	1141	0	-
+dragon_hunter wince	1142	0	-
+cleric attk	1150	0	-
+cleric death	1151	0	-
+cleric wincewav	1152	0	-
+cleric aware	1153	0	-
+Darkelf_female attk	1160	0	-
+Darkelf_female death	1161	0	-
+Darkelf_female wince	1162	0	-
+Darkelf_female aware	1163	0	-
+vampie Attack	1170	0	-
+vampie Death	1171	0	-
+vampie Wince	1172	0	-
+vampie Aware	1173	0	-
+Necromancer attk	1180	0	-
+Necromancer death	1181	0	-
+Necromancer wince	1182	0	-
+Necromancer aware	1183	0	-
+troll warrior Attack	1190	0	-
+troll warrior Death	1191	0	-
+troll warrior Wince	1192	0	-
+troll warrior Aware	1193	0	-
+troll peasant Attack	1200	0	-
+troll peasant Death	1201	0	-
+troll peasant Wince	1202	0	-
+troll peasant Aware	1203	0	-
+Minotaur attk	1210	0	-
+Minotaur death	1211	0	-
+Minotaur wince	1212	0	-
+Minotaur aware	1213	0	-
+Minotaur_peasant attk	1220	0	-
+Minotaur_peasant death	1221	0	-
+Minotaur_peasant wince	1222	0	-
+Minotaur_peasant aware	1223	0	-
+crystal dragon attk	1230	0	-
+crystal dragon death	1231	0	-
+crystal dragon wince	1232	0	-
+crystal dragon aware	1233	0	-
+Fire_elemental attk	1240	0	-
+Fire_elemental death	1241	0	-
+Fire_elemental wince	1242	0	-
+Fire_elemental aware	1243	0	-
+water elemental Attack	1250	0	-
+water elemental Death	1251	0	-
+water elemental Wince	1252	0	-
+water elemental Aware	1253	0	-
+Earth_elemental attk	1260	0	-
+Earth_elemental death	1261	0	-
+Earth_elemental wince	1262	0	-
+Earth_elemental aware	1263	0	-
+airelemental attk	1270	0	-
+airelemental death	1271	0	-
+airelemental wince	1272	0	-
+airelemental aware	1273	0	-
+dire_wolf attk	1280	0	-
+dire_wolf death	1281	0	-
+dire_wolf wince	1282	0	-
+dire_wolf aware	1283	0	-
+crystal dragon attk	1290	0	-
+crystal dragon death	1291	0	-
+crystal dragon wince	1292	0	-
+crystal dragon aware	1293	0	-
+Cyclops attk	1300	0	-
+Cyclops death	1301	0	-
+Cyclops wince	1302	0	-
+Cyclops aware	1303	0	-
+serpentman Attack	1310	0	-
+serpentman Death	1311	0	-
+serpentman Wince	1312	0	-
+serpentman Aware	1313	0	-
+willowisp Attack	1320	0	-
+willowisp Death	1321	0	-
+willowisp Wince	1322	0	-
+willowisp Aware	1323	0	-
+Centaur attk	1330	0	-
+Centaur death	1331	0	-
+Centaur wince	1332	0	-
+efreet attk	1340	0	-
+efreet death	1341	0	-
+efreet wince	1342	0	-
+efreet aware	1343	0	-
+Ogre_Mage attack	1350	0	-
+Ogre_Mage death	1351	0	-
+Ogre_Mage wince	1352	0	-
+Ogre_Mage aware	1353	0	-
+unicorn Attack	1360	0	-
+unicorn Death	1361	0	-
+unicorn Wince	1362	0	-
+unicorn Aware	1363	0	-
+crystal dragon attk	1370	0	-
+crystal dragon death	1371	0	-
+crystal dragon wince	1372	0	-
+crystal dragon aware	1373	0	-
+thunderbird Attack	1380	0	-
+thunderbird Death	1381	0	-
+thunderbird Wince	1382	0	-
+thunderbird Aware	1383	0	-
+wasp warrior Attack	1390	0	-
+wasp warrior Death	1391	0	-
+wasp warrior Wince	1392	0	-
+wasp warrior Aware	1393	0	-
+wyvern Attack	1400	0	-
+wyvern Death	1401	0	-
+wyvern Wince	1402	0	-
+wyvern Aware	1403	0	-
+gorgon attk	1410	0	-
+gorgon death	1411	0	-
+gorgon wince	1412	0	-
+gorgon aware	1413	0	-
+salamanderman Attack	1420	0	-
+salamanderman Death	1421	0	-
+salamanderman Wince	1422	0	-
+salamanderman Aware	1423	0	-
+Phoenix attk	1430	0	-
+Phoenix death	1431	0	-
+Phoenix wince	1432	0	-
+Phoenix aware	1433	0	-
+triton Attack	1440	0	-
+triton Death	1441	0	-
+triton Wince	1442	0	-
+triton Aware	1443	0	-
+turtle dragon Attack	1450	0	-
+turtle dragon Death	1451	0	-
+turtle dragon Wince	1452	0	-
+turtle dragon Aware	1453	0	-
+ravenman Attack	1460	0	-
+ravenman Death	1461	0	-
+ravenman Wince	1462	0	-
+ravenman Aware	1463	0	-
+Malvolent attk	1470	0	-
+Malvolent death	1471	0	-
+Malvolent wince	1472	0	-
+Malvolent aware	1473	0	-
+plane guardian Attack	1480	0	-
+plane guardian Death	1481	0	-
+plane guardian Wince	1482	0	-
+plane guardian Aware	1483	0	-
+crystal_walker attk	1490	0	-
+crystal_walker death	1491	0	-
+crystal_walker wince	1492	0	-
+crystal_walker aware	1493	0	-
+gorgon attk	1500	0	-
+gorgon death	1501	0	-
+gorgon wince	1502	0	-
+gorgon aware	1503	0	-
+etherknight attk	1510	0	-
+etherknight death	1511	0	-
+etherknight wince	1512	0	-
+etherknight aware	1513	0	-
+juggeraut attk	1520	0	-
+juggeraut death	1521	0	-
+juggeraut wince	1522	0	-
+juggeraut aware	1523	0	-
+gog attk	1530	0	-
+gog death	1531	0	-
+gog wince	1532	0	-
+gog aware	1533	0	-
+bone dragon attk	1540	0	-
+bone dragon death	1541	0	-
+bone dragon wincewav	1542	0	-
+bone dragon aware	1543	0	-
+Bedraggled Peasant death	1551	0	-
+Bedraggled Peasant wince	1552	0	-
+Naga attk	1560	0	-
+Naga death	1561	0	-
+Naga wince	1562	0	-
+Naga aware	1563	0	-
+skeleton archer Attack	1570	0	-
+skeleton archer Death	1571	0	-
+skeleton archer Wince	1572	0	-
+skeleton archer Aware	1573	0	-
+Dark_dwarf attk	1580	0	-
+Dark_dwarf death	1581	0	-
+Dark_dwarf wince	1582	0	-
+pirate_warrior Attack	1600	0	-
+pirate_warrior Death	1601	0	-
+pirate_warrior Wince	1602	0	-
+pirate_crossbow attk	1610	0	-
+pirate_crossbow death	1611	0	-
+pirate_crossbow wince	1612	0	-
+pirate_mage Attk	1620	0	-
+pirate_mage Death	1621	0	-
+pirate_mage Wince	1622	0	-
+crystal dragon attk	1630	0	-
+crystal dragon death	1631	0	-
+crystal dragon wince	1632	0	-
+crystal dragon aware	1633	0	-
+Human_mercanary attk	1640	0	-
+Human_mercanary death	1641	0	-
+Human_mercanary wince	1642	0	-
+Human_mercanary aware	1643	0	-
+01Female_Wince	0	0	-
+01Male_Wince	0	0	-
+02Female_Wince	0	0	-
+02Male_Wince	0	0	-
+03Female_Wince	0	0	-
+03Male_Wince	0	0	-
+04Female_Wince	0	0	-
+04Male_Wince	0	0	-
+05Female_Wince	0	0	-
+05Male_Wince	0	0	-
+pc5001c	5000	swap	-
+pc5001d	5001	swap	-
+pc5002a	5002	swap	-
+pc5002b	5003	swap	-
+pc5003a	5004	swap	-
+pc5003d	5005	swap	-
+pc5004b	5006	swap	-
+pc5004d	5007	swap	-
+pc5005c	5008	swap	-
+pc5005d	5009	swap	-
+pc5006c	5010	swap	-
+pc5006d	5011	swap	-
+pc5007b	5012	swap	-
+pc5007d	5013	swap	-
+pc5008c	5014	swap	-
+pc5008e	5015	swap	-
+pc5009b	5016	swap	-
+pc5009e	5017	swap	-
+pc5010a	5018	swap	-
+pc5010d	5019	swap	-
+pc5011c	5020	swap	-
+pc5011f	5021	swap	-
+pc5012a	5022	swap	-
+pc5012d	5023	swap	-
+pc5013e	5024	swap	-
+pc5013f	5025	swap	-
+pc5014b	5026	swap	-
+pc5014c	5027	swap	-
+pc5015a	5028	swap	-
+pc5015b	5029	swap	-
+pc5016b	5030	swap	-
+pc5016c	5031	swap	-
+pc5017a	5032	swap	-
+pc5017f	5033	swap	-
+pc5018b	5034	swap	-
+pc5018c	5035	swap	-
+pc5019b	5036	swap	-
+pc5019g	5037	swap	-
+pc5020d	5038	swap	-
+pc5020f	5039	swap	-
+pc5021c	5040	swap	-
+pc5021e	5041	swap	-
+pc5022a	5042	swap	-
+pc5022c	5043	swap	-
+pc5023c	5044	swap	-
+pc5023d	5045	swap	-
+pc5024c	5046	swap	-
+pc5024e	5047	swap	-
+pc5025a	5048	swap	-
+pc5025c	5049	swap	-
+pc5026c	5050	swap	-
+pc5026d	5051	swap	-
+pc5027d	5052	swap	-
+pc5027j	5053	swap	-
+pc5028b	5054	swap	-
+pc5028d	5055	swap	-
+pc5029c	5056	swap	-
+pc5029e	5057	swap	-
+pc5030c	5058	swap	-
+pc5030g	5059	swap	-
+pc5040a	5060	swap	-
+pc5040b	5061	swap	-
+pc5032a	5062	swap	-
+pc5032b	5063	swap	-
+pc5033a	5064	swap	-
+pc5033c	5065	swap	-
+pc5031a	5066	swap	-
+pc5031b	5067	swap	-
+pc5034a	5072	swap	-
+pc5034b	5073	swap	-
+pc5035e	5074	swap	-
+pc5035f	5075	swap	-
+pc5036a	5076	swap	-
+pc5036b	5077	swap	-
+pc5037a	5078	swap	-
+pc5037b	5079	swap	-
+pc5038a	5080	swap	-
+pc5038b	5081	swap	-
+pc5039a	5082	swap	-
+pc5039b	5083	swap	-
+pc5042a	5084	swap	-
+pc5042b	5085	swap	-
+pc5041a	5086	swap	-
+pc5041b	5087	swap	-
+pc5043a	5092	swap	-
+pc5043b	5093	swap	-
+pc5101d	5100	swap	-
+pc5101e	5101	swap	-
+pc5102a	5102	swap	-
+pc5102b	5103	swap	-
+pc5103c	5104	swap	-
+pc5103d	5105	swap	-
+pc5104b	5106	swap	-
+pc5104c	5107	swap	-
+pc5105c	5108	swap	-
+pc5105e	5109	swap	-
+pc5106c	5110	swap	-
+pc5106e	5111	swap	-
+pc5107c	5112	swap	-
+pc5107d	5113	swap	-
+pc5108a	5114	swap	-
+pc5108b	5115	swap	-
+pc5109a	5116	swap	-
+pc5109e	5117	swap	-
+pc5110a	5118	swap	-
+pc5110b	5119	swap	-
+pc5111a	5120	swap	-
+pc5111b	5121	swap	-
+pc5112a	5122	swap	-
+pc5112d	5123	swap	-
+pc5113b	5124	swap	-
+pc5113e	5125	swap	-
+pc5114d	5126	swap	-
+pc5114e	5127	swap	-
+pc5115b	5128	swap	-
+pc5115e	5129	swap	-
+pc5116a	5130	swap	-
+pc5116c	5131	swap	-
+pc5117d	5132	swap	-
+pc5117e	5133	swap	-
+pc5118c	5134	swap	-
+pc5118d	5135	swap	-
+pc5119b	5136	swap	-
+pc5119d	5137	swap	-
+pc5120c	5138	swap	-
+pc5120e	5139	swap	-
+pc5121a	5140	swap	-
+pc5121d	5141	swap	-
+pc5122a	5142	swap	-
+pc5122e	5143	swap	-
+pc5123a	5144	swap	-
+pc5123b	5145	swap	-
+pc5124c	5146	swap	-
+pc5124d	5147	swap	-
+pc5125a	5148	swap	-
+pc5125b	5149	swap	-
+pc5126c	5150	swap	-
+pc5126d	5151	swap	-
+pc5127b	5152	swap	-
+pc5127d	5153	swap	-
+pc5128a	5154	swap	-
+pc5128e	5155	swap	-
+pc5129a	5156	swap	-
+pc5129b	5157	swap	-
+pc5130a	5158	swap	-
+pc5130b	5159	swap	-
+pc5131a	5160	swap	-
+pc5131b	5161	swap	-
+pc5132a	5162	swap	-
+pc5132b	5163	swap	-
+pc5133a	5164	swap	-
+pc5133b	5165	swap	-
+pc5134a	5166	swap	-
+pc5134b	5167	swap	-
+pc5135a	5172	swap	-
+pc5135b	5173	swap	-
+pc5136a	5174	swap	-
+pc5136b	5175	swap	-
+pc5137a	5176	swap	-
+pc5137b	5177	swap	-
+pc5138a	5178	swap	-
+pc5138b	5179	swap	-
+pc5139a	5180	swap	-
+pc5139d	5181	swap	-
+pc5140a	5182	swap	-
+pc5140b	5183	swap	-
+pc5142a	5186	swap	-
+pc5142b	5187	swap	-
+pc5143a	5192	swap	-
+pc5143b	5193	swap	-
+pc5201a	5200	swap	-
+pc5201c	5201	swap	-
+pc5202b	5202	swap	-
+pc5202c	5203	swap	-
+pc5203b	5204	swap	-
+pc5203d	5205	swap	-
+pc5204b	5206	swap	-
+pc5204c	5207	swap	-
+pc5205b	5208	swap	-
+pc5205d	5209	swap	-
+pc5206a	5210	swap	-
+pc5206b	5211	swap	-
+pc5207b	5212	swap	-
+pc5207d	5213	swap	-
+pc5208c	5214	swap	-
+pc5208d	5215	swap	-
+pc5209c	5216	swap	-
+pc5209d	5217	swap	-
+pc5210c	5218	swap	-
+pc5210e	5219	swap	-
+pc5211b	5220	swap	-
+pc5211d	5221	swap	-
+pc5212a	5222	swap	-
+pc5212c	5223	swap	-
+pc5213c	5224	swap	-
+pc5213e	5225	swap	-
+pc5214a	5226	swap	-
+pc5214c	5227	swap	-
+pc5215a	5228	swap	-
+pc5215c	5229	swap	-
+pc5216b	5230	swap	-
+pc5216c	5231	swap	-
+pc5217b	5232	swap	-
+pc5217c	5233	swap	-
+pc5218c	5234	swap	-
+pc5218d	5235	swap	-
+pc5219a	5236	swap	-
+pc5219d	5237	swap	-
+pc5220b	5238	swap	-
+pc5220d	5239	swap	-
+pc5221c	5240	swap	-
+pc5221d	5241	swap	-
+pc5222a	5242	swap	-
+pc5222b	5243	swap	-
+pc5223c	5244	swap	-
+pc5223d	5245	swap	-
+pc5224b	5246	swap	-
+pc5224c	5247	swap	-
+pc5225a	5248	swap	-
+pc5225b	5249	swap	-
+pc5226a	5250	swap	-
+pc5226b	5251	swap	-
+pc5227b	5252	swap	-
+pc5227c	5253	swap	-
+pc5228a	5254	swap	-
+pc5228b	5255	swap	-
+pc5229a	5256	swap	-
+pc5229c	5257	swap	-
+pc5230a	5258	swap	-
+pc5230b	5259	swap	-
+pc5231a	5260	swap	-
+pc5231d	5261	swap	-
+pc5232a	5262	swap	-
+pc5232c	5263	swap	-
+pc5233a	5264	swap	-
+pc5233b	5265	swap	-
+pc5234a	5266	swap	-
+pc5234b	5267	swap	-
+pc5235a	5272	swap	-
+pc5235b	5273	swap	-
+pc5236a	5274	swap	-
+pc5236b	5275	swap	-
+pc5237a	5276	swap	-
+pc5237b	5277	swap	-
+pc5238a	5278	swap	-
+pc5238b	5279	swap	-
+pc5239a	5280	swap	-
+pc5239b	5281	swap	-
+pc5240a	5282	swap	-
+pc5240b	5283	swap	-
+pc5242a	5286	swap	-
+pc5242b	5287	swap	-
+pc5243a	5292	swap	-
+pc5243b	5293	swap	-
+pc5301a	5300	swap	-
+pc5301b	5301	swap	-
+pc5302a	5302	swap	-
+pc5302b	5303	swap	-
+pc5303a	5304	swap	-
+pc5303c	5305	swap	-
+pc5304a	5306	swap	-
+pc5304b	5307	swap	-
+pc5305a	5308	swap	-
+pc5305b	5309	swap	-
+pc5306a	5310	swap	-
+pc5306b	5311	swap	-
+pc5307a	5312	swap	-
+pc5307b	5313	swap	-
+pc5308a	5314	swap	-
+pc5308b	5315	swap	-
+pc5309a	5316	swap	-
+pc5309b	5317	swap	-
+pc5310a	5318	swap	-
+pc5310b	5319	swap	-
+pc5311a	5320	swap	-
+pc5311b	5321	swap	-
+pc5312a	5322	swap	-
+pc5312b	5323	swap	-
+pc5313a	5324	swap	-
+pc5313b	5325	swap	-
+pc5314a	5326	swap	-
+pc5314b	5327	swap	-
+pc5315a	5328	swap	-
+pc5315b	5329	swap	-
+pc5316a	5330	swap	-
+pc5316b	5331	swap	-
+pc5317a	5332	swap	-
+pc5317b	5333	swap	-
+pc5318a	5334	swap	-
+pc5318b	5335	swap	-
+pc5319a	5336	swap	-
+pc5319b	5337	swap	-
+pc5320a	5338	swap	-
+pc5320b	5339	swap	-
+pc5321a	5340	swap	-
+pc5321b	5341	swap	-
+pc5322a	5342	swap	-
+pc5322b	5343	swap	-
+pc5323a	5344	swap	-
+pc5323b	5345	swap	-
+pc5324a	5346	swap	-
+pc5324b	5347	swap	-
+pc5325a	5348	swap	-
+pc5325b	5349	swap	-
+pc5326a	5350	swap	-
+pc5326b	5351	swap	-
+pc5327a	5352	swap	-
+pc5327b	5353	swap	-
+pc5328a	5354	swap	-
+pc5328b	5355	swap	-
+pc5329a	5356	swap	-
+pc5329b	5357	swap	-
+pc5330a	5358	swap	-
+pc5330b	5359	swap	-
+pc5331a	5360	swap	-
+pc5331b	5361	swap	-
+pc5332a	5362	swap	-
+pc5332b	5363	swap	-
+pc5333a	5364	swap	-
+pc5333b	5365	swap	-
+pc5334a	5366	swap	-
+pc5334b	5367	swap	-
+pc5335a	5372	swap	-
+pc5335b	5373	swap	-
+pc5336a	5374	swap	-
+pc5336b	5375	swap	-
+pc5337a	5376	swap	-
+pc5337b	5377	swap	-
+pc5338a	5378	swap	-
+pc5338b	5379	swap	-
+pc5339a	5380	swap	-
+pc5339b	5381	swap	-
+pc5340a	5382	swap	-
+pc5340b	5383	swap	-
+pc5342a	5386	swap	-
+pc5342b	5387	swap	-
+pc5343a	5392	swap	-
+pc5343b	5393	swap	-
+pc5401b	5400	swap	-
+pc5401c	5401	swap	-
+pc5402a	5402	swap	-
+pc5402d	5403	swap	-
+pc5403a	5404	swap	-
+pc5403c	5405	swap	-
+pc5404a	5406	swap	-
+pc5404d	5407	swap	-
+pc5405a	5408	swap	-
+pc5405b	5409	swap	-
+pc5406b	5410	swap	-
+pc5406d	5411	swap	-
+pc5407b	5412	swap	-
+pc5407c	5413	swap	-
+pc5408a	5414	swap	-
+pc5408d	5415	swap	-
+pc5409b	5416	swap	-
+pc5409d	5417	swap	-
+pc5410b	5418	swap	-
+pc5410c	5419	swap	-
+pc5411a	5420	swap	-
+pc5411d	5421	swap	-
+pc5412a	5422	swap	-
+pc5412c	5423	swap	-
+pc5413a	5424	swap	-
+pc5413b	5425	swap	-
+pc5414a	5426	swap	-
+pc5414b	5427	swap	-
+pc5415a	5428	swap	-
+pc5415d	5429	swap	-
+pc5416a	5430	swap	-
+pc5416c	5431	swap	-
+pc5417a	5432	swap	-
+pc5417b	5433	swap	-
+pc5418b	5434	swap	-
+pc5418c	5435	swap	-
+pc5419b	5436	swap	-
+pc5419c	5437	swap	-
+pc5420a	5438	swap	-
+pc5420c	5439	swap	-
+pc5421a	5440	swap	-
+pc5421b	5441	swap	-
+pc5422a	5442	swap	-
+pc5422b	5443	swap	-
+pc5423a	5444	swap	-
+pc5423c	5445	swap	-
+pc5424a	5446	swap	-
+pc5424b	5447	swap	-
+pc5425a	5448	swap	-
+pc5425b	5449	swap	-
+pc5426b	5450	swap	-
+pc5426c	5451	swap	-
+pc5427a	5452	swap	-
+pc5427b	5453	swap	-
+pc5428a	5454	swap	-
+pc5428b	5455	swap	-
+pc5429b	5456	swap	-
+pc5429c	5457	swap	-
+pc5430a	5458	swap	-
+pc5430b	5459	swap	-
+pc5431a	5460	swap	-
+pc5431b	5461	swap	-
+pc5432a	5462	swap	-
+pc5432b	5463	swap	-
+pc5433a	5464	swap	-
+pc5433b	5465	swap	-
+pc5434a	5466	swap	-
+pc5434b	5467	swap	-
+pc5435a	5472	swap	-
+pc5435b	5473	swap	-
+pc5436a	5474	swap	-
+pc5436b	5475	swap	-
+pc5437a	5476	swap	-
+pc5437b	5477	swap	-
+pc5438a	5478	swap	-
+pc5438b	5479	swap	-
+pc5439a	5480	swap	-
+pc5439b	5481	swap	-
+pc5440a	5482	swap	-
+pc5440b	5483	swap	-
+pc5442a	5486	swap	-
+pc5442b	5487	swap	-
+pc5443a	5492	swap	-
+pc5443b	5493	swap	-
+pc5501b	5500	swap	-
+pc5501c	5501	swap	-
+pc5502a	5502	swap	-
+pc5502b	5503	swap	-
+pc5503b	5504	swap	-
+pc5503c	5505	swap	-
+pc5504a	5506	swap	-
+pc5504b	5507	swap	-
+pc5505a	5508	swap	-
+pc5505d	5509	swap	-
+pc5506b	5510	swap	-
+pc5506c	5511	swap	-
+pc5507a	5512	swap	-
+pc5507b	5513	swap	-
+pc5508a	5514	swap	-
+pc5508c	5515	swap	-
+pc5509a	5516	swap	-
+pc5509b	5517	swap	-
+pc5510a	5518	swap	-
+pc5510c	5519	swap	-
+pc5511b	5520	swap	-
+pc5511c	5521	swap	-
+pc5512b	5522	swap	-
+pc5512c	5523	swap	-
+pc5513a	5524	swap	-
+pc5513b	5525	swap	-
+pc5514a	5526	swap	-
+pc5514b	5527	swap	-
+pc5515a	5528	swap	-
+pc5515d	5529	swap	-
+pc5516a	5530	swap	-
+pc5516b	5531	swap	-
+pc5517a	5532	swap	-
+pc5517b	5533	swap	-
+pc5518a	5534	swap	-
+pc5518d	5535	swap	-
+pc5519a	5536	swap	-
+pc5519b	5537	swap	-
+pc5520a	5538	swap	-
+pc5520b	5539	swap	-
+pc5521a	5540	swap	-
+pc5521b	5541	swap	-
+pc5522b	5542	swap	-
+pc5522d	5543	swap	-
+pc5523b	5544	swap	-
+pc5523c	5545	swap	-
+pc5524b	5546	swap	-
+pc5524c	5547	swap	-
+pc5525a	5548	swap	-
+pc5525b	5549	swap	-
+pc5526c	5550	swap	-
+pc5526d	5551	swap	-
+pc5527a	5552	swap	-
+pc5527b	5553	swap	-
+pc5528a	5554	swap	-
+pc5528c	5555	swap	-
+pc5529a	5556	swap	-
+pc5529b	5557	swap	-
+pc5530b	5558	swap	-
+pc5530c	5559	swap	-
+pc5531b	5560	swap	-
+pc5531c	5561	swap	-
+pc5532b	5562	swap	-
+pc5532c	5563	swap	-
+pc5533a	5564	swap	-
+pc5533c	5565	swap	-
+pc5534a	5566	swap	-
+pc5534b	5567	swap	-
+pc5535a	5572	swap	-
+pc5535b	5573	swap	-
+pc5536a	5574	swap	-
+pc5536b	5575	swap	-
+pc5537a	5576	swap	-
+pc5537b	5577	swap	-
+pc5538a	5578	swap	-
+pc5538b	5579	swap	-
+pc5539a	5580	swap	-
+pc5539b	5581	swap	-
+pc5540a	5582	swap	-
+pc5540b	5583	swap	-
+pc5542a	5586	swap	-
+pc5542b	5587	swap	-
+pc5543a	5592	swap	-
+pc5543b	5593	swap	-
+pc5601a	5600	swap	-
+pc5601e	5601	swap	-
+pc5602a	5602	swap	-
+pc5602b	5603	swap	-
+pc5603c	5604	swap	-
+pc5603d	5605	swap	-
+pc5604c	5606	swap	-
+pc5604d	5607	swap	-
+pc5605b	5608	swap	-
+pc5605c	5609	swap	-
+pc5606b	5610	swap	-
+pc5606d	5611	swap	-
+pc5607a	5612	swap	-
+pc5607c	5613	swap	-
+pc5608a	5614	swap	-
+pc5608b	5615	swap	-
+pc5609a	5616	swap	-
+pc5609b	5617	swap	-
+pc5610a	5618	swap	-
+pc5610c	5619	swap	-
+pc5611b	5620	swap	-
+pc5611d	5621	swap	-
+pc5612a	5622	swap	-
+pc5612b	5623	swap	-
+pc5613a	5624	swap	-
+pc5613b	5625	swap	-
+pc5614c	5626	swap	-
+pc5614d	5627	swap	-
+pc5615a	5628	swap	-
+pc5615b	5629	swap	-
+pc5616a	5630	swap	-
+pc5616b	5631	swap	-
+pc5617a	5632	swap	-
+pc5617b	5633	swap	-
+pc5618b	5634	swap	-
+pc5618c	5635	swap	-
+pc5619a	5636	swap	-
+pc5619d	5637	swap	-
+pc5620a	5638	swap	-
+pc5620b	5639	swap	-
+pc5621a	5640	swap	-
+pc5621b	5641	swap	-
+pc5622a	5642	swap	-
+pc5622b	5643	swap	-
+pc5623a	5644	swap	-
+pc5623b	5645	swap	-
+pc5624a	5646	swap	-
+pc5624b	5647	swap	-
+pc5625a	5648	swap	-
+pc5625b	5649	swap	-
+pc5626b	5650	swap	-
+pc5626c	5651	swap	-
+pc5627b	5652	swap	-
+pc5627d	5653	swap	-
+pc5628a	5654	swap	-
+pc5628b	5655	swap	-
+pc5629a	5656	swap	-
+pc5629c	5657	swap	-
+pc5630a	5658	swap	-
+pc5630b	5659	swap	-
+pc5631a	5660	swap	-
+pc5631b	5661	swap	-
+pc5632a	5662	swap	-
+pc5632c	5663	swap	-
+pc5633a	5664	swap	-
+pc5633b	5665	swap	-
+pc5634a	5666	swap	-
+pc5634b	5667	swap	-
+pc5635a	5672	swap	-
+pc5635e	5673	swap	-
+pc5636a	5674	swap	-
+pc5636d	5675	swap	-
+pc5637b	5676	swap	-
+pc5637c	5677	swap	-
+pc5638b	5678	swap	-
+pc5638e	5679	swap	-
+pc5639a	5680	swap	-
+pc5639b	5681	swap	-
+pc5640a	5682	swap	-
+pc5640b	5683	swap	-
+pc5642a	5686	swap	-
+pc5642b	5687	swap	-
+pc5643a	5692	swap	-
+pc5643b	5693	swap	-
+pc5701a	5700	swap	-
+pc5701c	5701	swap	-
+pc5702b	5702	swap	-
+pc5702d	5703	swap	-
+pc5703a	5704	swap	-
+pc5703c	5705	swap	-
+pc5704b	5706	swap	-
+pc5704c	5707	swap	-
+pc5705a	5708	swap	-
+pc5705c	5709	swap	-
+pc5706a	5710	swap	-
+pc5706c	5711	swap	-
+pc5707a	5712	swap	-
+pc5707b	5713	swap	-
+pc5708a	5714	swap	-
+pc5708b	5715	swap	-
+pc5709b	5716	swap	-
+pc5709c	5717	swap	-
+pc5710b	5718	swap	-
+pc5710c	5719	swap	-
+pc5711a	5720	swap	-
+pc5711c	5721	swap	-
+pc5712b	5722	swap	-
+pc5712c	5723	swap	-
+pc5713a	5724	swap	-
+pc5713b	5725	swap	-
+pc5714a	5726	swap	-
+pc5714b	5727	swap	-
+pc5715a	5728	swap	-
+pc5715b	5729	swap	-
+pc5716a	5730	swap	-
+pc5716b	5731	swap	-
+pc5717a	5732	swap	-
+pc5717b	5733	swap	-
+pc5718a	5734	swap	-
+pc5718d	5735	swap	-
+pc5719a	5736	swap	-
+pc5719c	5737	swap	-
+pc5720a	5738	swap	-
+pc5720b	5739	swap	-
+pc5721b	5740	swap	-
+pc5721c	5741	swap	-
+pc5722b	5742	swap	-
+pc5722c	5743	swap	-
+pc5723a	5744	swap	-
+pc5723b	5745	swap	-
+pc5724a	5746	swap	-
+pc5724b	5747	swap	-
+pc5725a	5748	swap	-
+pc5725b	5749	swap	-
+pc5726b	5750	swap	-
+pc5726c	5751	swap	-
+pc5727a	5752	swap	-
+pc5727b	5753	swap	-
+pc5728a	5754	swap	-
+pc5728b	5755	swap	-
+pc5729a	5756	swap	-
+pc5729b	5757	swap	-
+pc5730a	5758	swap	-
+pc5730b	5759	swap	-
+pc5731a	5760	swap	-
+pc5731b	5761	swap	-
+pc5732b	5762	swap	-
+pc5732c	5763	swap	-
+pc5733a	5764	swap	-
+pc5733b	5765	swap	-
+pc5734a	5766	swap	-
+pc5734b	5767	swap	-
+pc5735a	5772	swap	-
+pc5735d	5773	swap	-
+pc5736b	5774	swap	-
+pc5736c	5775	swap	-
+pc5737a	5776	swap	-
+pc5737b	5777	swap	-
+pc5738a	5778	swap	-
+pc5738c	5779	swap	-
+pc5739a	5780	swap	-
+pc5739b	5781	swap	-
+pc5740a	5782	swap	-
+pc5740b	5783	swap	-
+pc5742a	5786	swap	-
+pc5742b	5787	swap	-
+pc5743a	5792	swap	-
+pc5743b	5793	swap	-
+pc5801a	5800	swap	-
+pc5801b	5801	swap	-
+pc5802a	5802	swap	-
+pc5802b	5803	swap	-
+pc5803b	5804	swap	-
+pc5803c	5805	swap	-
+pc5804a	5806	swap	-
+pc5804c	5807	swap	-
+pc5805b	5808	swap	-
+pc5805c	5809	swap	-
+pc5806a	5810	swap	-
+pc5806c	5811	swap	-
+pc5807a	5812	swap	-
+pc5807b	5813	swap	-
+pc5808a	5814	swap	-
+pc5808c	5815	swap	-
+pc5809a	5816	swap	-
+pc5809c	5817	swap	-
+pc5810a	5818	swap	-
+pc5810b	5819	swap	-
+pc5811a	5820	swap	-
+pc5811b	5821	swap	-
+pc5812b	5822	swap	-
+pc5812c	5823	swap	-
+pc5813a	5824	swap	-
+pc5813b	5825	swap	-
+pc5814a	5826	swap	-
+pc5814c	5827	swap	-
+pc5815b	5828	swap	-
+pc5815c	5829	swap	-
+pc5816a	5830	swap	-
+pc5816c	5831	swap	-
+pc5817a	5832	swap	-
+pc5817b	5833	swap	-
+pc5818a	5834	swap	-
+pc5818c	5835	swap	-
+pc5819a	5836	swap	-
+pc5819b	5837	swap	-
+pc5820a	5838	swap	-
+pc5820b	5839	swap	-
+pc5821a	5840	swap	-
+pc5821b	5841	swap	-
+pc5822a	5842	swap	-
+pc5822c	5843	swap	-
+pc5823b	5844	swap	-
+pc5823c	5845	swap	-
+pc5824b	5846	swap	-
+pc5824c	5847	swap	-
+pc5825a	5848	swap	-
+pc5825b	5849	swap	-
+pc5826a	5850	swap	-
+pc5826c	5851	swap	-
+pc5827b	5852	swap	-
+pc5827c	5853	swap	-
+pc5828a	5854	swap	-
+pc5828b	5855	swap	-
+pc5829a	5856	swap	-
+pc5829b	5857	swap	-
+pc5830a	5858	swap	-
+pc5830b	5859	swap	-
+pc5831b	5860	swap	-
+pc5831c	5861	swap	-
+pc5832a	5862	swap	-
+pc5832b	5863	swap	-
+pc5833a	5864	swap	-
+pc5833b	5865	swap	-
+pc5834a	5866	swap	-
+pc5834b	5867	swap	-
+pc5835a	5872	swap	-
+pc5835c	5873	swap	-
+pc5836a	5874	swap	-
+pc5836c	5875	swap	-
+pc5837b	5876	swap	-
+pc5837c	5877	swap	-
+pc5838a	5878	swap	-
+pc5838b	5879	swap	-
+pc5839a	5880	swap	-
+pc5839c	5881	swap	-
+pc5840a	5882	swap	-
+pc5840b	5883	swap	-
+pc5842b	5886	swap	-
+pc5842c	5887	swap	-
+pc5843b	5892	swap	-
+pc5843c	5893	swap	-
+pc5901b	5900	swap	-
+pc5901c	5901	swap	-
+pc5902a	5902	swap	-
+pc5902c	5903	swap	-
+pc5903a	5904	swap	-
+pc5903c	5905	swap	-
+pc5904b	5906	swap	-
+pc5904d	5907	swap	-
+pc5905a	5908	swap	-
+pc5905b	5909	swap	-
+pc5906b	5910	swap	-
+pc5906c	5911	swap	-
+pc5907a	5912	swap	-
+pc5907b	5913	swap	-
+pc5908a	5914	swap	-
+pc5908b	5915	swap	-
+pc5909b	5916	swap	-
+pc5909c	5917	swap	-
+pc5910a	5918	swap	-
+pc5910c	5919	swap	-
+pc5911b	5920	swap	-
+pc5911c	5921	swap	-
+pc5912a	5922	swap	-
+pc5912c	5923	swap	-
+pc5913a	5924	swap	-
+pc5913b	5925	swap	-
+pc5914b	5926	swap	-
+pc5914c	5927	swap	-
+pc5915a	5928	swap	-
+pc5915b	5929	swap	-
+pc5916b	5930	swap	-
+pc5916c	5931	swap	-
+pc5917b	5932	swap	-
+pc5917c	5933	swap	-
+pc5918b	5934	swap	-
+pc5918c	5935	swap	-
+pc5919b	5936	swap	-
+pc5919c	5937	swap	-
+pc5920a	5938	swap	-
+pc5920b	5939	swap	-
+pc5921a	5940	swap	-
+pc5921b	5941	swap	-
+pc5922a	5942	swap	-
+pc5922b	5943	swap	-
+pc5923a	5944	swap	-
+pc5923b	5945	swap	-
+pc5924a	5946	swap	-
+pc5924b	5947	swap	-
+pc5925a	5948	swap	-
+pc5925b	5949	swap	-
+pc5926a	5950	swap	-
+pc5926b	5951	swap	-
+pc5927b	5952	swap	-
+pc5927d	5953	swap	-
+pc5928a	5954	swap	-
+pc5928b	5955	swap	-
+pc5929a	5956	swap	-
+pc5929d	5957	swap	-
+pc5930a	5958	swap	-
+pc5930b	5959	swap	-
+pc5931a	5960	swap	-
+pc5931c	5961	swap	-
+pc5932b	5962	swap	-
+pc5932c	5963	swap	-
+pc5933b	5964	swap	-
+pc5933c	5965	swap	-
+pc5934a	5966	swap	-
+pc5934b	5967	swap	-
+pc5935a	5972	swap	-
+pc5935b	5973	swap	-
+pc5936b	5974	swap	-
+pc5936c	5975	swap	-
+pc5937b	5976	swap	-
+pc5937c	5977	swap	-
+pc5938b	5978	swap	-
+pc5938c	5979	swap	-
+pc5939a	5980	swap	-
+pc5939b	5981	swap	-
+pc5940a	5982	swap	-
+pc5940b	5983	swap	-
+pc5942a	5986	swap	-
+pc5942b	5987	swap	-
+pc5943a	5992	swap	-
+pc5943b	5993	swap	-
+pc6001b	6000	swap	-
+pc6001c	6001	swap	-
+pc6002a	6002	swap	-
+pc6002b	6003	swap	-
+pc6003b	6004	swap	-
+pc6003c	6005	swap	-
+pc6004a	6006	swap	-
+pc6004b	6007	swap	-
+pc6005a	6008	swap	-
+pc6005c	6009	swap	-
+pc6006c	6010	swap	-
+pc6006d	6011	swap	-
+pc6007a	6012	swap	-
+pc6007b	6013	swap	-
+pc6008b	6014	swap	-
+pc6008c	6015	swap	-
+pc6009b	6016	swap	-
+pc6009d	6017	swap	-
+pc6010a	6018	swap	-
+pc6010b	6019	swap	-
+pc6011b	6020	swap	-
+pc6011c	6021	swap	-
+pc6012b	6022	swap	-
+pc6012d	6023	swap	-
+pc6013b	6024	swap	-
+pc6013d	6025	swap	-
+pc6014c	6026	swap	-
+pc6014d	6027	swap	-
+pc6015a	6028	swap	-
+pc6015b	6029	swap	-
+pc6016a	6030	swap	-
+pc6016b	6031	swap	-
+pc6017a	6032	swap	-
+pc6017b	6033	swap	-
+pc6018b	6034	swap	-
+pc6018d	6035	swap	-
+pc6019a	6036	swap	-
+pc6019c	6037	swap	-
+pc6020a	6038	swap	-
+pc6020b	6039	swap	-
+pc6021c	6040	swap	-
+pc6021d	6041	swap	-
+pc6022b	6042	swap	-
+pc6022c	6043	swap	-
+pc6023b	6044	swap	-
+pc6023d	6045	swap	-
+pc6024b	6046	swap	-
+pc6024d	6047	swap	-
+pc6025a	6048	swap	-
+pc6025b	6049	swap	-
+pc6026a	6050	swap	-
+pc6026c	6051	swap	-
+pc6027b	6052	swap	-
+pc6027c	6053	swap	-
+pc6028a	6054	swap	-
+pc6028b	6055	swap	-
+pc6029a	6056	swap	-
+pc6029c	6057	swap	-
+pc6030b	6058	swap	-
+pc6030d	6059	swap	-
+pc6031b	6060	swap	-
+pc6031d	6061	swap	-
+pc6032c	6062	swap	-
+pc6032d	6063	swap	-
+pc6033a	6064	swap	-
+pc6033d	6065	swap	-
+pc6034a	6066	swap	-
+pc6034b	6067	swap	-
+pc6035a	6072	swap	-
+pc6035c	6073	swap	-
+pc6036a	6074	swap	-
+pc6036b	6075	swap	-
+pc6037a	6076	swap	-
+pc6037b	6077	swap	-
+pc6038c	6078	swap	-
+pc6038d	6079	swap	-
+pc6039b	6080	swap	-
+pc6039c	6081	swap	-
+pc6040a	6082	swap	-
+pc6040b	6083	swap	-
+pc6042a	6086	swap	-
+pc6042b	6087	swap	-
+pc6043a	6092	swap	-
+pc6043b	6093	swap	-
+pc6101c	6100	swap	-
+pc6101d	6101	swap	-
+pc6102b	6102	swap	-
+pc6102c	6103	swap	-
+pc6103a	6104	swap	-
+pc6103c	6105	swap	-
+pc6104a	6106	swap	-
+pc6104c	6107	swap	-
+pc6105b	6108	swap	-
+pc6105d	6109	swap	-
+pc6106a	6110	swap	-
+pc6106b	6111	swap	-
+pc6107c	6112	swap	-
+pc6107d	6113	swap	-
+pc6108a	6114	swap	-
+pc6108b	6115	swap	-
+pc6109a	6116	swap	-
+pc6109b	6117	swap	-
+pc6110a	6118	swap	-
+pc6110b	6119	swap	-
+pc6111b	6120	swap	-
+pc6111c	6121	swap	-
+pc6112b	6122	swap	-
+pc6112d	6123	swap	-
+pc6113a	6124	swap	-
+pc6113c	6125	swap	-
+pc6114a	6126	swap	-
+pc6114c	6127	swap	-
+pc6115b	6128	swap	-
+pc6115d	6129	swap	-
+pc6116c	6130	swap	-
+pc6116d	6131	swap	-
+pc6117a	6132	swap	-
+pc6117b	6133	swap	-
+pc6118a	6134	swap	-
+pc6118e	6135	swap	-
+pc6119a	6136	swap	-
+pc6119c	6137	swap	-
+pc6120a	6138	swap	-
+pc6120b	6139	swap	-
+pc6121a	6140	swap	-
+pc6121b	6141	swap	-
+pc6122b	6142	swap	-
+pc6122d	6143	swap	-
+pc6123c	6144	swap	-
+pc6123d	6145	swap	-
+pc6124a	6146	swap	-
+pc6124b	6147	swap	-
+pc6125a	6148	swap	-
+pc6125b	6149	swap	-
+pc6126a	6150	swap	-
+pc6126b	6151	swap	-
+pc6127b	6152	swap	-
+pc6127d	6153	swap	-
+pc6128b	6154	swap	-
+pc6128d	6155	swap	-
+pc6129a	6156	swap	-
+pc6129b	6157	swap	-
+pc6130b	6158	swap	-
+pc6130c	6159	swap	-
+pc6131a	6160	swap	-
+pc6131b	6161	swap	-
+pc6132a	6162	swap	-
+pc6132b	6163	swap	-
+pc6133a	6164	swap	-
+pc6133c	6165	swap	-
+pc6134c	6166	swap	-
+pc6134d	6167	swap	-
+pc6135a	6172	swap	-
+pc6135c	6173	swap	-
+pc6136a	6174	swap	-
+pc6136b	6175	swap	-
+pc6137a	6176	swap	-
+pc6137c	6177	swap	-
+pc6138b	6178	swap	-
+pc6138c	6179	swap	-
+pc6139a	6180	swap	-
+pc6139c	6181	swap	-
+pc6140a	6182	swap	-
+pc6140b	6183	swap	-
+pc6142a	6186	swap	-
+pc6142c	6187	swap	-
+pc6143b	6192	swap	-
+pc6143d	6193	swap	-
+pc6201a	6200	swap	-
+pc6201b	6201	swap	-
+pc6202a	6202	swap	-
+pc6202b	6203	swap	-
+pc6203a	6204	swap	-
+pc6203b	6205	swap	-
+pc6204a	6206	swap	-
+pc6204b	6207	swap	-
+pc6205a	6208	swap	-
+pc6205b	6209	swap	-
+pc6206a	6210	swap	-
+pc6206b	6211	swap	-
+pc6207a	6212	swap	-
+pc6207b	6213	swap	-
+pc6208a	6214	swap	-
+pc6208b	6215	swap	-
+pc6209a	6216	swap	-
+pc6209b	6217	swap	-
+pc6210a	6218	swap	-
+pc6210b	6219	swap	-
+pc6211a	6220	swap	-
+pc6211b	6221	swap	-
+pc6212a	6222	swap	-
+pc6212b	6223	swap	-
+pc6213a	6224	swap	-
+pc6213b	6225	swap	-
+pc6214a	6226	swap	-
+pc6214b	6227	swap	-
+pc6215a	6228	swap	-
+pc6215b	6229	swap	-
+pc6216a	6230	swap	-
+pc6216b	6231	swap	-
+pc6217a	6232	swap	-
+pc6217b	6233	swap	-
+pc6218a	6234	swap	-
+pc6218b	6235	swap	-
+pc6219a	6236	swap	-
+pc6219b	6237	swap	-
+pc6220a	6238	swap	-
+pc6220b	6239	swap	-
+pc6221a	6240	swap	-
+pc6221b	6241	swap	-
+pc6222a	6242	swap	-
+pc6222b	6243	swap	-
+pc6223a	6244	swap	-
+pc6223b	6245	swap	-
+pc6224a	6246	swap	-
+pc6224b	6247	swap	-
+pc6225a	6248	swap	-
+pc6225b	6249	swap	-
+pc6226a	6250	swap	-
+pc6226b	6251	swap	-
+pc6227a	6252	swap	-
+pc6227b	6253	swap	-
+pc6228a	6254	swap	-
+pc6228b	6255	swap	-
+pc6229a	6256	swap	-
+pc6229b	6257	swap	-
+pc6230a	6258	swap	-
+pc6230b	6259	swap	-
+pc6231a	6260	swap	-
+pc6231b	6261	swap	-
+pc6232a	6262	swap	-
+pc6232b	6263	swap	-
+pc6233a	6264	swap	-
+pc6233b	6265	swap	-
+pc6234a	6266	swap	-
+pc6234b	6267	swap	-
+pc6235a	6272	swap	-
+pc6235b	6273	swap	-
+pc6236a	6274	swap	-
+pc6236b	6275	swap	-
+pc6237a	6276	swap	-
+pc6237b	6277	swap	-
+pc6238a	6278	swap	-
+pc6238b	6279	swap	-
+pc6239a	6280	swap	-
+pc6239b	6281	swap	-
+pc6240a	6282	swap	-
+pc6240b	6283	swap	-
+pc6242a	6286	swap	-
+pc6242b	6287	swap	-
+pc6243a	6292	swap	-
+pc6243b	6293	swap	-
+pc6301a	6300	swap	-
+pc6301b	6301	swap	-
+pc6302a	6302	swap	-
+pc6302b	6303	swap	-
+pc6303a	6304	swap	-
+pc6303b	6305	swap	-
+pc6304a	6306	swap	-
+pc6304b	6307	swap	-
+pc6305a	6308	swap	-
+pc6305b	6309	swap	-
+pc6306a	6310	swap	-
+pc6306b	6311	swap	-
+pc6307a	6312	swap	-
+pc6307b	6313	swap	-
+pc6308a	6314	swap	-
+pc6308b	6315	swap	-
+pc6309a	6316	swap	-
+pc6309b	6317	swap	-
+pc6310a	6318	swap	-
+pc6310b	6319	swap	-
+pc6311a	6320	swap	-
+pc6311b	6321	swap	-
+pc6312a	6322	swap	-
+pc6312b	6323	swap	-
+pc6313a	6324	swap	-
+pc6313b	6325	swap	-
+pc6314a	6326	swap	-
+pc6314b	6327	swap	-
+pc6315a	6328	swap	-
+pc6315b	6329	swap	-
+pc6316a	6330	swap	-
+pc6316b	6331	swap	-
+pc6317a	6332	swap	-
+pc6317b	6333	swap	-
+pc6318a	6334	swap	-
+pc6318b	6335	swap	-
+pc6319a	6336	swap	-
+pc6319b	6337	swap	-
+pc6320a	6338	swap	-
+pc6320b	6339	swap	-
+pc6321a	6340	swap	-
+pc6321b	6341	swap	-
+pc6322a	6342	swap	-
+pc6322b	6343	swap	-
+pc6323a	6344	swap	-
+pc6323b	6345	swap	-
+pc6324a	6346	swap	-
+pc6324b	6347	swap	-
+pc6325a	6348	swap	-
+pc6325b	6349	swap	-
+pc6326a	6350	swap	-
+pc6326b	6351	swap	-
+pc6327a	6352	swap	-
+pc6327b	6353	swap	-
+pc6328a	6354	swap	-
+pc6328b	6355	swap	-
+pc6329a	6356	swap	-
+pc6329b	6357	swap	-
+pc6330a	6358	swap	-
+pc6230b	6359	swap	-
+pc6331a	6360	swap	-
+pc6331b	6361	swap	-
+pc6332a	6362	swap	-
+pc6332b	6363	swap	-
+pc6333a	6364	swap	-
+pc6333b	6365	swap	-
+pc6334a	6366	swap	-
+pc6334b	6367	swap	-
+pc6335a	6372	swap	-
+pc6335b	6373	swap	-
+pc6336a	6374	swap	-
+pc6336b	6375	swap	-
+pc6337a	6376	swap	-
+pc6337b	6377	swap	-
+pc6338a	6378	swap	-
+pc6338b	6379	swap	-
+pc6339a	6380	swap	-
+pc6339b	6381	swap	-
+pc6340a	6382	swap	-
+pc6340b	6383	swap	-
+pc6342a	6386	swap	-
+pc6342b	6387	swap	-
+pc6343a	6392	swap	-
+pc6343b	6393	swap	-
+pc6401a	6400	swap	-
+pc6401b	6401	swap	-
+pc6402a	6402	swap	-
+pc6402b	6403	swap	-
+pc6403a	6404	swap	-
+pc6403b	6405	swap	-
+pc6404a	6406	swap	-
+pc6404b	6407	swap	-
+pc6405a	6408	swap	-
+pc6405b	6409	swap	-
+pc6406a	6410	swap	-
+pc6406b	6411	swap	-
+pc6407a	6412	swap	-
+pc6407b	6413	swap	-
+pc6408a	6414	swap	-
+pc6408b	6415	swap	-
+pc6409a	6416	swap	-
+pc6409b	6417	swap	-
+pc6410a	6418	swap	-
+pc6410b	6419	swap	-
+pc6411a	6420	swap	-
+pc6411b	6421	swap	-
+pc6412a	6422	swap	-
+pc6412b	6423	swap	-
+pc6413a	6424	swap	-
+pc6413b	6425	swap	-
+pc6414a	6426	swap	-
+pc6414b	6427	swap	-
+pc6415a	6428	swap	-
+pc6415b	6429	swap	-
+pc6416a	6430	swap	-
+pc6416b	6431	swap	-
+pc6417a	6432	swap	-
+pc6417b	6433	swap	-
+pc6418a	6434	swap	-
+pc6418b	6435	swap	-
+pc6419a	6436	swap	-
+pc6419b	6437	swap	-
+pc6420a	6438	swap	-
+pc6420b	6439	swap	-
+pc6421a	6440	swap	-
+pc6421b	6441	swap	-
+pc6422a	6442	swap	-
+pc6422b	6443	swap	-
+pc6423a	6444	swap	-
+pc6423b	6445	swap	-
+pc6424a	6446	swap	-
+pc6424b	6447	swap	-
+pc6425a	6448	swap	-
+pc6425b	6449	swap	-
+pc6426a	6450	swap	-
+pc6426b	6451	swap	-
+pc6427a	6452	swap	-
+pc6427b	6453	swap	-
+pc6428a	6454	swap	-
+pc6428b	6455	swap	-
+pc6429a	6456	swap	-
+pc6429b	6457	swap	-
+pc6430a	6458	swap	-
+pc6430b	6459	swap	-
+pc6431a	6460	swap	-
+pc6431b	6461	swap	-
+pc6432a	6462	swap	-
+pc6432b	6463	swap	-
+pc6433a	6464	swap	-
+pc6433b	6465	swap	-
+pc6434a	6466	swap	-
+pc6434b	6467	swap	-
+pc6435a	6472	swap	-
+pc6435b	6473	swap	-
+pc6436a	6474	swap	-
+pc6436b	6475	swap	-
+pc6437a	6476	swap	-
+pc6437b	6477	swap	-
+pc6438a	6478	swap	-
+pc6438b	6479	swap	-
+pc6439a	6480	swap	-
+pc6439b	6481	swap	-
+pc6440a	6482	swap	-
+pc6440b	6483	swap	-
+pc6442a	6486	swap	-
+pc6442b	6487	swap	-
+pc6443a	6492	swap	-
+pc6443b	6493	swap	-
+pc6501a	6500	swap	-
+pc6501b	6501	swap	-
+pc6502a	6502	swap	-
+pc6502b	6503	swap	-
+pc6503a	6504	swap	-
+pc6503b	6505	swap	-
+pc6504a	6506	swap	-
+pc6504b	6507	swap	-
+pc6505a	6508	swap	-
+pc6505b	6509	swap	-
+pc6506a	6510	swap	-
+pc6506b	6511	swap	-
+pc6507a	6512	swap	-
+pc6507b	6513	swap	-
+pc6508a	6514	swap	-
+pc6508b	6515	swap	-
+pc6509a	6516	swap	-
+pc6509b	6517	swap	-
+pc6510a	6518	swap	-
+pc6510b	6519	swap	-
+pc6511a	6520	swap	-
+pc6511b	6521	swap	-
+pc6512a	6522	swap	-
+pc6512b	6523	swap	-
+pc6513a	6524	swap	-
+pc6513b	6525	swap	-
+pc6514a	6526	swap	-
+pc6514b	6527	swap	-
+pc6515a	6528	swap	-
+pc6515b	6529	swap	-
+pc6516a	6530	swap	-
+pc6516b	6531	swap	-
+pc6517a	6532	swap	-
+pc6517b	6533	swap	-
+pc6518a	6534	swap	-
+pc6518b	6535	swap	-
+pc6519a	6536	swap	-
+pc6519b	6537	swap	-
+pc6520a	6538	swap	-
+pc6520b	6539	swap	-
+pc6521a	6540	swap	-
+pc6521b	6541	swap	-
+pc6522a	6542	swap	-
+pc6522b	6543	swap	-
+pc6523a	6544	swap	-
+pc6523b	6545	swap	-
+pc6524a	6546	swap	-
+pc6524b	6547	swap	-
+pc6525a	6548	swap	-
+pc6525b	6549	swap	-
+pc6526a	6550	swap	-
+pc6526b	6551	swap	-
+pc6527a	6552	swap	-
+pc6527b	6553	swap	-
+pc6528a	6554	swap	-
+pc6528b	6555	swap	-
+pc6529a	6556	swap	-
+pc6529b	6557	swap	-
+pc6530a	6558	swap	-
+pc6530b	6559	swap	-
+pc6531a	6560	swap	-
+pc6531b	6561	swap	-
+pc6532a	6562	swap	-
+pc6532b	6563	swap	-
+pc6533a	6564	swap	-
+pc6533b	6565	swap	-
+pc6534a	6566	swap	-
+pc6534b	6567	swap	-
+pc6535a	6572	swap	-
+pc6535b	6573	swap	-
+pc6536a	6574	swap	-
+pc6536b	6575	swap	-
+pc6537a	6576	swap	-
+pc6537b	6577	swap	-
+pc6538a	6578	swap	-
+pc6538b	6579	swap	-
+pc6539a	6580	swap	-
+pc6539b	6581	swap	-
+pc6540a	6582	swap	-
+pc6540b	6583	swap	-
+pc6542a	6586	swap	-
+pc6542b	6587	swap	-
+pc6543a	6592	swap	-
+pc6543b	6593	swap	-
+pc6601a	6600	swap	-
+pc6601b	6601	swap	-
+pc6602a	6602	swap	-
+pc6602b	6603	swap	-
+pc6603a	6604	swap	-
+pc6603b	6605	swap	-
+pc6604a	6606	swap	-
+pc6604b	6607	swap	-
+pc6605a	6608	swap	-
+pc6605b	6609	swap	-
+pc6606a	6610	swap	-
+pc6606b	6611	swap	-
+pc6607a	6612	swap	-
+pc6607b	6613	swap	-
+pc6608a	6614	swap	-
+pc6608b	6615	swap	-
+pc6609a	6616	swap	-
+pc6609b	6617	swap	-
+pc6610a	6618	swap	-
+pc6610b	6619	swap	-
+pc6611a	6620	swap	-
+pc6611b	6621	swap	-
+pc6612a	6622	swap	-
+pc6612b	6623	swap	-
+pc6613a	6624	swap	-
+pc6613b	6625	swap	-
+pc6614a	6626	swap	-
+pc6614b	6627	swap	-
+pc6615a	6628	swap	-
+pc6615b	6629	swap	-
+pc6616a	6630	swap	-
+pc6616b	6631	swap	-
+pc6617a	6632	swap	-
+pc6617b	6633	swap	-
+pc6618a	6634	swap	-
+pc6618b	6635	swap	-
+pc6619a	6636	swap	-
+pc6619b	6637	swap	-
+pc6620a	6638	swap	-
+pc6620b	6639	swap	-
+pc6621a	6640	swap	-
+pc6621b	6641	swap	-
+pc6622a	6642	swap	-
+pc6622b	6643	swap	-
+pc6623a	6644	swap	-
+pc6623b	6645	swap	-
+pc6624a	6646	swap	-
+pc6624b	6647	swap	-
+pc6625a	6648	swap	-
+pc6625b	6649	swap	-
+pc6626a	6650	swap	-
+pc6626b	6651	swap	-
+pc6627a	6652	swap	-
+pc6627b	6653	swap	-
+pc6628a	6654	swap	-
+pc6628b	6655	swap	-
+pc6629a	6656	swap	-
+pc6629b	6657	swap	-
+pc6630a	6658	swap	-
+pc6630b	6659	swap	-
+pc6631a	6660	swap	-
+pc6631b	6661	swap	-
+pc6632a	6662	swap	-
+pc6632b	6663	swap	-
+pc6633a	6664	swap	-
+pc6633b	6665	swap	-
+pc6634a	6666	swap	-
+pc6634b	6667	swap	-
+pc6635a	6672	swap	-
+pc6635b	6673	swap	-
+pc6636a	6674	swap	-
+pc6636b	6675	swap	-
+pc6637a	6676	swap	-
+pc6637b	6677	swap	-
+pc6638a	6678	swap	-
+pc6638b	6679	swap	-
+pc6639a	6680	swap	-
+pc6639b	6681	swap	-
+pc6640a	6682	swap	-
+pc6640b	6683	swap	-
+pc6642a	6686	swap	-
+pc6642b	6687	swap	-
+pc6643a	6692	swap	-
+pc6643b	6693	swap	-
+pc6701a	6700	swap	-
+pc6701b	6701	swap	-
+pc6702a	6702	swap	-
+pc6702b	6703	swap	-
+pc6703a	6704	swap	-
+pc6703b	6705	swap	-
+pc6704a	6706	swap	-
+pc6704b	6707	swap	-
+pc6705a	6708	swap	-
+pc6705b	6709	swap	-
+pc6706a	6710	swap	-
+pc6706b	6711	swap	-
+pc6707a	6712	swap	-
+pc6707b	6713	swap	-
+pc6708a	6714	swap	-
+pc6708b	6715	swap	-
+pc6709a	6716	swap	-
+pc6709b	6717	swap	-
+pc6710a	6718	swap	-
+pc6710b	6719	swap	-
+pc6711a	6720	swap	-
+pc6711b	6721	swap	-
+pc6712a	6722	swap	-
+pc6712b	6723	swap	-
+pc6713a	6724	swap	-
+pc6713b	6725	swap	-
+pc6714a	6726	swap	-
+pc6714b	6727	swap	-
+pc6715a	6728	swap	-
+pc6715b	6729	swap	-
+pc6716a	6730	swap	-
+pc6716b	6731	swap	-
+pc6717a	6732	swap	-
+pc6717b	6733	swap	-
+pc6718a	6734	swap	-
+pc6718b	6735	swap	-
+pc6719a	6736	swap	-
+pc6719b	6737	swap	-
+pc6720a	6738	swap	-
+pc6720b	6739	swap	-
+pc6721a	6740	swap	-
+pc6721b	6741	swap	-
+pc6722a	6742	swap	-
+pc6722b	6743	swap	-
+pc6723a	6744	swap	-
+pc6723b	6745	swap	-
+pc6724a	6746	swap	-
+pc6724b	6747	swap	-
+pc6725a	6748	swap	-
+pc6725b	6749	swap	-
+pc6726a	6750	swap	-
+pc6726b	6751	swap	-
+pc6727a	6752	swap	-
+pc6727b	6753	swap	-
+pc6728a	6754	swap	-
+pc6728b	6755	swap	-
+pc6729a	6756	swap	-
+pc6729b	6757	swap	-
+pc6730a	6758	swap	-
+pc6730b	6759	swap	-
+pc6731a	6760	swap	-
+pc6731b	6761	swap	-
+pc6732a	6762	swap	-
+pc6732b	6763	swap	-
+pc6733a	6764	swap	-
+pc6733b	6765	swap	-
+pc6734a	6766	swap	-
+pc6734b	6767	swap	-
+pc6735a	6772	swap	-
+pc6735b	6773	swap	-
+pc6736a	6774	swap	-
+pc6736b	6775	swap	-
+pc6737a	6776	swap	-
+pc6737b	6777	swap	-
+pc6738a	6778	swap	-
+pc6738b	6779	swap	-
+pc6739a	6780	swap	-
+pc6739b	6781	swap	-
+pc6740a	6782	swap	-
+pc6740b	6783	swap	-
+pc6742a	6786	swap	-
+pc6742b	6787	swap	-
+pc6743a	6792	swap	-
+pc6743b	6793	swap	-
+pc6801a	6800	swap	-
+pc6801b	6801	swap	-
+pc6802a	6802	swap	-
+pc6802b	6803	swap	-
+pc6803a	6804	swap	-
+pc6803b	6805	swap	-
+pc6804a	6806	swap	-
+pc6804b	6807	swap	-
+pc6805a	6808	swap	-
+pc6805b	6809	swap	-
+pc6806a	6810	swap	-
+pc6806b	6811	swap	-
+pc6807a	6812	swap	-
+pc6807b	6813	swap	-
+pc6808a	6814	swap	-
+pc6808b	6815	swap	-
+pc6809a	6816	swap	-
+pc6809b	6817	swap	-
+pc6810a	6818	swap	-
+pc6810b	6819	swap	-
+pc6811a	6820	swap	-
+pc6811b	6821	swap	-
+pc6812a	6822	swap	-
+pc6812b	6823	swap	-
+pc6813a	6824	swap	-
+pc6813b	6825	swap	-
+pc6814a	6826	swap	-
+pc6814b	6827	swap	-
+pc6815a	6828	swap	-
+pc6815b	6829	swap	-
+pc6816a	6830	swap	-
+pc6816b	6831	swap	-
+pc6817a	6832	swap	-
+pc6817b	6833	swap	-
+pc6818a	6834	swap	-
+pc6818b	6835	swap	-
+pc6819a	6836	swap	-
+pc6819b	6837	swap	-
+pc6820a	6838	swap	-
+pc6820b	6839	swap	-
+pc6821a	6840	swap	-
+pc6821b	6841	swap	-
+pc6822a	6842	swap	-
+pc6822b	6843	swap	-
+pc6823a	6844	swap	-
+pc6823b	6845	swap	-
+pc6824a	6846	swap	-
+pc6824b	6847	swap	-
+pc6825a	6848	swap	-
+pc6825b	6849	swap	-
+pc6826a	6850	swap	-
+pc6826b	6851	swap	-
+pc6827a	6852	swap	-
+pc6827b	6853	swap	-
+pc6828a	6854	swap	-
+pc6828b	6855	swap	-
+pc6829a	6856	swap	-
+pc6829b	6857	swap	-
+pc6830a	6858	swap	-
+pc6830b	6859	swap	-
+pc6831a	6860	swap	-
+pc6831b	6861	swap	-
+pc6832a	6862	swap	-
+pc6832b	6863	swap	-
+pc6833a	6864	swap	-
+pc6833b	6865	swap	-
+pc6834a	6866	swap	-
+pc6834b	6867	swap	-
+pc6835a	6872	swap	-
+pc6835b	6873	swap	-
+pc6836a	6874	swap	-
+pc6836b	6875	swap	-
+pc6837a	6876	swap	-
+pc6837b	6877	swap	-
+pc6838a	6878	swap	-
+pc6838b	6879	swap	-
+pc6839a	6880	swap	-
+pc6839b	6881	swap	-
+pc6840a	6882	swap	-
+pc6840b	6883	swap	-
+pc6842a	6886	swap	-
+pc6842b	6887	swap	-
+pc6843a	6892	swap	-
+pc6843b	6893	swap	-
+pc6901a	6900	swap	-
+pc6901b	6901	swap	-
+pc6902a	6902	swap	-
+pc6902b	6903	swap	-
+pc6903a	6904	swap	-
+pc6903b	6905	swap	-
+pc6904a	6906	swap	-
+pc6904b	6907	swap	-
+pc6905a	6908	swap	-
+pc6905b	6909	swap	-
+pc6906a	6910	swap	-
+pc6906b	6911	swap	-
+pc6907a	6912	swap	-
+pc6907b	6913	swap	-
+pc6908a	6914	swap	-
+pc6908b	6915	swap	-
+pc6909a	6916	swap	-
+pc6909b	6917	swap	-
+pc6910a	6918	swap	-
+pc6910b	6919	swap	-
+pc6911a	6920	swap	-
+pc6911b	6921	swap	-
+pc6912a	6922	swap	-
+pc6912b	6923	swap	-
+pc6913a	6924	swap	-
+pc6913b	6925	swap	-
+pc6914a	6926	swap	-
+pc6914b	6927	swap	-
+pc6915a	6928	swap	-
+pc6915b	6929	swap	-
+pc6916a	6930	swap	-
+pc6916b	6931	swap	-
+pc6917a	6932	swap	-
+pc6917b	6933	swap	-
+pc6918a	6934	swap	-
+pc6918b	6935	swap	-
+pc6919a	6936	swap	-
+pc6919b	6937	swap	-
+pc6920a	6938	swap	-
+pc6920b	6939	swap	-
+pc6921a	6940	swap	-
+pc6921b	6941	swap	-
+pc6922a	6942	swap	-
+pc6922b	6943	swap	-
+pc6923a	6944	swap	-
+pc6923b	6945	swap	-
+pc6924a	6946	swap	-
+pc6924b	6947	swap	-
+pc6925a	6948	swap	-
+pc6925b	6949	swap	-
+pc6926a	6950	swap	-
+pc6926b	6951	swap	-
+pc6927a	6952	swap	-
+pc6927b	6953	swap	-
+pc6928a	6954	swap	-
+pc6928b	6955	swap	-
+pc6929a	6956	swap	-
+pc6929b	6957	swap	-
+pc6930a	6958	swap	-
+pc6930b	6959	swap	-
+pc6931a	6960	swap	-
+pc6931b	6961	swap	-
+pc6932a	6962	swap	-
+pc6932b	6963	swap	-
+pc6933a	6964	swap	-
+pc6933b	6965	swap	-
+pc6934a	6966	swap	-
+pc6934b	6967	swap	-
+pc6935a	6972	swap	-
+pc6935b	6973	swap	-
+pc6936a	6974	swap	-
+pc6936b	6975	swap	-
+pc6937a	6976	swap	-
+pc6937b	6977	swap	-
+pc6938a	6978	swap	-
+pc6938b	6979	swap	-
+pc6939a	6980	swap	-
+pc6939b	6981	swap	-
+pc6940a	6982	swap	-
+pc6940b	6983	swap	-
+pc6942a	6986	swap	-
+pc6942b	6987	swap	-
+pc6943a	6992	swap	-
+pc6943b	6993	swap	-
+pc7001a	7000	swap	-
+pc7001b	7001	swap	-
+pc7002a	7002	swap	-
+pc7002b	7003	swap	-
+pc7003a	7004	swap	-
+pc7003b	7005	swap	-
+pc7004a	7006	swap	-
+pc7004b	7007	swap	-
+pc7005a	7008	swap	-
+pc7005b	7009	swap	-
+pc7006a	7010	swap	-
+pc7006b	7011	swap	-
+pc7007a	7012	swap	-
+pc7007b	7013	swap	-
+pc7008a	7014	swap	-
+pc7008b	7015	swap	-
+pc7009a	7016	swap	-
+pc7009b	7017	swap	-
+pc7010a	7018	swap	-
+pc7010b	7019	swap	-
+pc7011a	7020	swap	-
+pc7011b	7021	swap	-
+pc7012a	7022	swap	-
+pc7012b	7023	swap	-
+pc7013a	7024	swap	-
+pc7013b	7025	swap	-
+pc7014a	7026	swap	-
+pc7014b	7027	swap	-
+pc7015a	7028	swap	-
+pc7015b	7029	swap	-
+pc7016a	7030	swap	-
+pc7016b	7031	swap	-
+pc7017a	7032	swap	-
+pc7017b	7033	swap	-
+pc7018a	7034	swap	-
+pc7018b	7035	swap	-
+pc7019a	7036	swap	-
+pc7019b	7037	swap	-
+pc7020a	7038	swap	-
+pc7020b	7039	swap	-
+pc7021a	7040	swap	-
+pc7021b	7041	swap	-
+pc7022a	7042	swap	-
+pc7022b	7043	swap	-
+pc7023a	7044	swap	-
+pc7023b	7045	swap	-
+pc7024a	7046	swap	-
+pc7024b	7047	swap	-
+pc7025a	7048	swap	-
+pc7025b	7049	swap	-
+pc7026a	7050	swap	-
+pc7026b	7051	swap	-
+pc7027a	7052	swap	-
+pc7027b	7053	swap	-
+pc7028a	7054	swap	-
+pc7028b	7055	swap	-
+pc7029a	7056	swap	-
+pc7029b	7057	swap	-
+pc7030a	7058	swap	-
+pc7030b	7059	swap	-
+pc7031a	7060	swap	-
+pc7031b	7061	swap	-
+pc7032a	7062	swap	-
+pc7032b	7063	swap	-
+pc7033a	7064	swap	-
+pc7033b	7065	swap	-
+pc7034a	7066	swap	-
+pc7034b	7067	swap	-
+pc7035a	7072	swap	-
+pc7035b	7073	swap	-
+pc7036a	7074	swap	-
+pc7036b	7075	swap	-
+pc7037a	7076	swap	-
+pc7037b	7077	swap	-
+pc7038a	7078	swap	-
+pc7038b	7079	swap	-
+pc7039a	7080	swap	-
+pc7039b	7081	swap	-
+pc7040a	7082	swap	-
+pc7040b	7083	swap	-
+pc7042a	7086	swap	-
+pc7042b	7087	swap	-
+pc7043a	7092	swap	-
+pc7043b	7093	swap	-
+pc7101a	7100	swap	-
+pc7101b	7101	swap	-
+pc7102a	7102	swap	-
+pc7102b	7103	swap	-
+pc7103a	7104	swap	-
+pc7103b	7105	swap	-
+pc7104a	7106	swap	-
+pc7104b	7107	swap	-
+pc7105a	7108	swap	-
+pc7105b	7109	swap	-
+pc7106a	7110	swap	-
+pc7106b	7111	swap	-
+pc7107a	7112	swap	-
+pc7107b	7113	swap	-
+pc7108a	7114	swap	-
+pc7108b	7115	swap	-
+pc7109a	7116	swap	-
+pc7109b	7117	swap	-
+pc7110a	7118	swap	-
+pc7110b	7119	swap	-
+pc7111a	7120	swap	-
+pc7111b	7121	swap	-
+pc7112a	7122	swap	-
+pc7112b	7123	swap	-
+pc7113a	7124	swap	-
+pc7113b	7125	swap	-
+pc7114a	7126	swap	-
+pc7114b	7127	swap	-
+pc7115a	7128	swap	-
+pc7115b	7129	swap	-
+pc7116a	7130	swap	-
+pc7116b	7131	swap	-
+pc7117a	7132	swap	-
+pc7117b	7133	swap	-
+pc7118a	7134	swap	-
+pc7118b	7135	swap	-
+pc7119a	7136	swap	-
+pc7119b	7137	swap	-
+pc7120a	7138	swap	-
+pc7120b	7139	swap	-
+pc7121a	7140	swap	-
+pc7121b	7141	swap	-
+pc7122a	7142	swap	-
+pc7122b	7143	swap	-
+pc7123a	7144	swap	-
+pc7123b	7145	swap	-
+pc7024a	7146	swap	-
+pc7124b	7147	swap	-
+pc7125a	7148	swap	-
+pc7125b	7149	swap	-
+pc7026a	7150	swap	-
+pc7126b	7151	swap	-
+pc7127a	7152	swap	-
+pc7127b	7153	swap	-
+pc7128a	7154	swap	-
+pc7128b	7155	swap	-
+pc7129a	7156	swap	-
+pc7129b	7157	swap	-
+pc7130a	7158	swap	-
+pc7130b	7159	swap	-
+pc7131a	7160	swap	-
+pc7131b	7161	swap	-
+pc7132a	7162	swap	-
+pc7132b	7163	swap	-
+pc7133a	7164	swap	-
+pc7133b	7165	swap	-
+pc7134a	7166	swap	-
+pc7134b	7167	swap	-
+pc7135a	7172	swap	-
+pc7135b	7173	swap	-
+pc7136a	7174	swap	-
+pc7136b	7175	swap	-
+pc7137a	7176	swap	-
+pc7137b	7177	swap	-
+pc7138a	7178	swap	-
+pc7138b	7179	swap	-
+pc7139a	7180	swap	-
+pc7139b	7181	swap	-
+pc7140a	7182	swap	-
+pc7140b	7183	swap	-
+pc7142a	7186	swap	-
+pc7142b	7187	swap	-
+pc7143a	7192	swap	-
+pc7143b	7193	swap	-
+pc7201a	7200	swap	-
+pc7201b	7201	swap	-
+pc7202a	7202	swap	-
+pc7202b	7203	swap	-
+pc7203a	7204	swap	-
+pc7203b	7205	swap	-
+pc7204a	7206	swap	-
+pc7204b	7207	swap	-
+pc7205a	7208	swap	-
+pc7205b	7209	swap	-
+pc7206a	7210	swap	-
+pc7206b	7211	swap	-
+pc7207a	7212	swap	-
+pc7207b	7213	swap	-
+pc7208a	7214	swap	-
+pc7208b	7215	swap	-
+pc7209a	7216	swap	-
+pc7209b	7217	swap	-
+pc7210a	7218	swap	-
+pc7210b	7219	swap	-
+pc7211a	7220	swap	-
+pc7211b	7221	swap	-
+pc7212a	7222	swap	-
+pc7212b	7223	swap	-
+pc7213a	7224	swap	-
+pc7213b	7225	swap	-
+pc7214a	7226	swap	-
+pc7214b	7227	swap	-
+pc7215a	7228	swap	-
+pc7215b	7229	swap	-
+pc7216a	7230	swap	-
+pc7216b	7231	swap	-
+pc7217a	7232	swap	-
+pc7217b	7233	swap	-
+pc7218a	7234	swap	-
+pc7218b	7235	swap	-
+pc7219a	7236	swap	-
+pc7219b	7237	swap	-
+pc7220a	7238	swap	-
+pc7220b	7239	swap	-
+pc7221a	7240	swap	-
+pc7221b	7241	swap	-
+pc7222a	7242	swap	-
+pc7222b	7243	swap	-
+pc7223a	7244	swap	-
+pc7223b	7245	swap	-
+pc7224a	7246	swap	-
+pc7224b	7247	swap	-
+pc7225a	7248	swap	-
+pc7225b	7249	swap	-
+pc7226a	7250	swap	-
+pc7226b	7251	swap	-
+pc7227a	7252	swap	-
+pc7227b	7253	swap	-
+pc7228a	7254	swap	-
+pc7228b	7255	swap	-
+pc7229a	7256	swap	-
+pc7229b	7257	swap	-
+pc7230a	7258	swap	-
+pc7230b	7259	swap	-
+pc7231a	7260	swap	-
+pc7231b	7261	swap	-
+pc7232a	7262	swap	-
+pc7232b	7263	swap	-
+pc7233a	7264	swap	-
+pc7233b	7265	swap	-
+pc7234a	7266	swap	-
+pc7234b	7267	swap	-
+pc7235a	7272	swap	-
+pc7235b	7273	swap	-
+pc7236a	7274	swap	-
+pc7236b	7275	swap	-
+pc7237a	7276	swap	-
+pc7237b	7277	swap	-
+pc7238a	7278	swap	-
+pc7238b	7279	swap	-
+pc7239a	7280	swap	-
+pc7239b	7281	swap	-
+pc7240a	7282	swap	-
+pc7240b	7283	swap	-
+pc7242a	7286	swap	-
+pc7242b	7287	swap	-
+pc7243a	7292	swap	-
+pc7243b	7293	swap	-
+pc7301a	7300	swap	-
+pc7301b	7301	swap	-
+pc7302a	7302	swap	-
+pc7302b	7303	swap	-
+pc7303a	7304	swap	-
+pc7303b	7305	swap	-
+pc7304a	7306	swap	-
+pc7304b	7307	swap	-
+pc7305a	7308	swap	-
+pc7305b	7309	swap	-
+pc7306a	7310	swap	-
+pc7306b	7311	swap	-
+pc7307a	7312	swap	-
+pc7307b	7313	swap	-
+pc7308a	7314	swap	-
+pc7308b	7315	swap	-
+pc7309a	7316	swap	-
+pc7309b	7317	swap	-
+pc7310a	7318	swap	-
+pc7310b	7319	swap	-
+pc7311a	7320	swap	-
+pc7311b	7321	swap	-
+pc7312a	7322	swap	-
+pc7312b	7323	swap	-
+pc7313a	7324	swap	-
+pc7313b	7325	swap	-
+pc7314a	7326	swap	-
+pc7314b	7327	swap	-
+pc7315a	7328	swap	-
+pc7315b	7329	swap	-
+pc7316a	7330	swap	-
+pc7316b	7331	swap	-
+pc7317a	7332	swap	-
+pc7317b	7333	swap	-
+pc7318a	7334	swap	-
+pc7318b	7335	swap	-
+pc7319a	7336	swap	-
+pc7319b	7337	swap	-
+pc7320a	7338	swap	-
+pc7320b	7339	swap	-
+pc7321a	7340	swap	-
+pc7321b	7341	swap	-
+pc7322a	7342	swap	-
+pc7322b	7343	swap	-
+pc7323a	7344	swap	-
+pc7323b	7345	swap	-
+pc7324a	7346	swap	-
+pc7324b	7347	swap	-
+pc7325a	7348	swap	-
+pc7325b	7349	swap	-
+pc7326a	7350	swap	-
+pc7326b	7351	swap	-
+pc7327a	7352	swap	-
+pc7327b	7353	swap	-
+pc7328a	7354	swap	-
+pc7328b	7355	swap	-
+pc7329a	7356	swap	-
+pc7329b	7357	swap	-
+pc7330a	7358	swap	-
+pc7330b	7359	swap	-
+pc7331a	7360	swap	-
+pc7331b	7361	swap	-
+pc7332a	7362	swap	-
+pc7332b	7363	swap	-
+pc7333a	7364	swap	-
+pc7333b	7365	swap	-
+pc7334a	7366	swap	-
+pc7334b	7367	swap	-
+pc7335a	7372	swap	-
+pc7335b	7373	swap	-
+pc7336a	7374	swap	-
+pc7336b	7375	swap	-
+pc7337a	7376	swap	-
+pc7337b	7377	swap	-
+pc7338a	7378	swap	-
+pc7338b	7379	swap	-
+pc7339a	7380	swap	-
+pc7339b	7381	swap	-
+pc7340a	7382	swap	-
+pc7340b	7383	swap	-
+pc7342a	7386	swap	-
+pc7342b	7387	swap	-
+pc7343a	7392	swap	-
+pc7343b	7393	swap	-
+pc7401a	7400	swap	-
+pc7401b	7401	swap	-
+pc7402a	7402	swap	-
+pc7402b	7403	swap	-
+pc7403a	7404	swap	-
+pc7403b	7405	swap	-
+pc7404a	7408	swap	-
+pc7404b	7409	swap	-
+pc7405a	7410	swap	-
+pc7405b	7411	swap	-
+pc7406a	7412	swap	-
+pc7406b	7413	swap	-
+pc7407a	7414	swap	-
+pc7407b	7415	swap	-
+pc7408a	7416	swap	-
+pc7408b	7417	swap	-
+pc7409a	7418	swap	-
+pc7409b	7419	swap	-
+pc7410a	7420	swap	-
+pc7410b	7421	swap	-
+pc7411a	7422	swap	-
+pc7411b	7423	swap	-
+pc7412a	7424	swap	-
+pc7412b	7425	swap	-
+pc7413a	7426	swap	-
+pc7413b	7427	swap	-
+pc7414a	7428	swap	-
+pc7414b	7429	swap	-
+pc7415a	7430	swap	-
+pc7415b	7431	swap	-
+pc7416a	7432	swap	-
+pc7416b	7433	swap	-
+pc7417a	7434	swap	-
+pc7417b	7435	swap	-
+pc7418a	7436	swap	-
+pc7418b	7437	swap	-
+pc7419a	7438	swap	-
+pc7419b	7439	swap	-
+pc7420a	7440	swap	-
+pc7420b	7441	swap	-
+pc7421a	7442	swap	-
+pc7421b	7443	swap	-
+pc7422a	7444	swap	-
+pc7422b	7445	swap	-
+pc7423a	7446	swap	-
+pc7423b	7447	swap	-
+pc7424a	7448	swap	-
+pc7424b	7449	swap	-
+pc7425a	7450	swap	-
+pc7425b	7451	swap	-
+pc7426a	7452	swap	-
+pc7426b	7453	swap	-
+pc7427a	7454	swap	-
+pc7427b	7455	swap	-
+pc7428a	7456	swap	-
+pc7428b	7457	swap	-
+pc7429a	7458	swap	-
+pc7429b	7459	swap	-
+pc7430a	7460	swap	-
+pc7430b	7461	swap	-
+pc7431a	7462	swap	-
+pc7431b	7463	swap	-
+pc7432a	7464	swap	-
+pc7432b	7465	swap	-
+pc7433a	7466	swap	-
+pc7433b	7467	swap	-
+pc7434a	7472	swap	-
+pc7434b	7473	swap	-
+pc7435a	7474	swap	-
+pc7435b	7475	swap	-
+pc7436a	7476	swap	-
+pc7436b	7477	swap	-
+pc7437a	7478	swap	-
+pc7437b	7479	swap	-
+pc7438a	7480	swap	-
+pc7438b	7481	swap	-
+pc7439a	7482	swap	-
+pc7439b	7483	swap	-
+pc7440a	7484	swap	-
+pc7440b	7485	swap	-
+roar 1	7492	swap	-
+roar 1	7493	swap	-
+pc7501a	7500	swap	-
+pc7501b	7501	swap	-
+pc7502a	7502	swap	-
+pc7502b	7503	swap	-
+pc7503a	7504	swap	-
+pc7503b	7505	swap	-
+pc7504a	7508	swap	-
+pc7504b	7509	swap	-
+pc7505a	7510	swap	-
+pc7505b	7511	swap	-
+pc7506a	7512	swap	-
+pc7506b	7513	swap	-
+pc7507a	7514	swap	-
+pc7507b	7515	swap	-
+pc7508a	7516	swap	-
+pc7508b	7517	swap	-
+pc7509a	7518	swap	-
+pc7509b	7519	swap	-
+pc7510a	7520	swap	-
+pc7510b	7521	swap	-
+pc7511a	7522	swap	-
+pc7511b	7523	swap	-
+pc7512a	7524	swap	-
+pc7512b	7525	swap	-
+pc7513a	7526	swap	-
+pc7513b	7527	swap	-
+pc7514a	7528	swap	-
+pc7514b	7529	swap	-
+pc7515a	7530	swap	-
+pc7515b	7531	swap	-
+pc7516a	7532	swap	-
+pc7516b	7533	swap	-
+pc7517a	7534	swap	-
+pc7517b	7535	swap	-
+pc7518a	7536	swap	-
+pc7518b	7537	swap	-
+pc7519a	7538	swap	-
+pc7519b	7539	swap	-
+pc7520a	7540	swap	-
+pc7520b	7541	swap	-
+pc7521a	7542	swap	-
+pc7521b	7543	swap	-
+pc7522a	7544	swap	-
+pc7522b	7545	swap	-
+pc7523a	7546	swap	-
+pc7523b	7547	swap	-
+pc7524a	7548	swap	-
+pc7524b	7549	swap	-
+pc7525a	7550	swap	-
+pc7525b	7551	swap	-
+pc7526a	7552	swap	-
+pc7526b	7553	swap	-
+pc7527a	7554	swap	-
+pc7527b	7555	swap	-
+pc7528a	7556	swap	-
+pc7528b	7557	swap	-
+pc7529a	7558	swap	-
+pc7529b	7559	swap	-
+pc7530a	7560	swap	-
+pc7530b	7561	swap	-
+pc7531a	7562	swap	-
+pc7531b	7563	swap	-
+pc7532a	7564	swap	-
+pc7532b	7565	swap	-
+pc7533a	7566	swap	-
+pc7533b	7567	swap	-
+pc7534a	7572	swap	-
+pc7534b	7573	swap	-
+pc7535a	7574	swap	-
+pc7535b	7575	swap	-
+pc7536a	7576	swap	-
+pc7536b	7577	swap	-
+pc7537a	7578	swap	-
+pc7537b	7579	swap	-
+pc7538a	7580	swap	-
+pc7538b	7581	swap	-
+pc7539a	7582	swap	-
+pc7539b	7583	swap	-
+pc7540a	7584	swap	-
+pc7540b	7585	swap	-
+roar2	7592	swap	-
+roar2	7593	swap	-
+LM101b	7600	swap	-
+LM101c	7601	swap	-
+LM102c	7602	swap	-
+LM102d	7603	swap	-
+LM103c	7604	swap	-
+LM103d	7605	swap	-
+LM104a	7606	swap	-
+LM104b	7607	swap	-
+LM105a	7608	swap	-
+LM105b	7609	swap	-
+LM106b	7610	swap	-
+LM106b	7611	swap	-
+LM107b	7612	swap	-
+LM107f	7613	swap	-
+LM108b	7614	swap	-
+LM108c	7615	swap	-
+LM109c	7616	swap	-
+LM109e	7617	swap	-
+LM110c	7618	swap	-
+LM110f	7619	swap	-
+LM111c	7620	swap	-
+LM111d	7621	swap	-
+LM112e	7622	swap	-
+LM112e	7623	swap	-
+LM113a	7624	swap	-
+LM113c	7625	swap	-
+LM114b	7626	swap	-
+LM114b	7627	swap	-
+LM115c	7628	swap	-
+LM115e	7629	swap	-
+LM116c	7630	swap	-
+LM116e	7631	swap	-
+LM117e	7632	swap	-
+LM117e	7633	swap	-
+LM118a	7634	swap	-
+LM118d	7635	swap	-
+LM119d	7636	swap	-
+LM119d	7637	swap	-
+LM120c	7638	swap	-
+LM120c	7639	swap	-
+LM121d	7640	swap	-
+LM121d	7641	swap	-
+LM122a	7642	swap	-
+LM122a	7643	swap	-
+LM123d	7644	swap	-
+LM123d	7645	swap	-
+LM124a	7646	swap	-
+LM124d	7647	swap	-
+LM125a	7648	swap	-
+LM125b	7649	swap	-
+LM126c	7650	swap	-
+LM126c	7651	swap	-
+LM127a	7652	swap	-
+LM127e	7653	swap	-
+LM128b	7654	swap	-
+LM128b	7655	swap	-
+LM129c	7656	swap	-
+LM129e	7657	swap	-
+LM130a	7658	swap	-
+LM130a	7659	swap	-
+LM131e	7660	swap	-
+Lm131a	7661	swap	-
+LM132a	7662	swap	-
+LM132b	7663	swap	-
+LM133a	7664	swap	-
+LM133a	7665	swap	-
+LM134c	7666	swap	-
+LM134c	7667	swap	-
+LM135c	7668	swap	-
+LM135d	7669	swap	-
+LM136c	7670	swap	-
+LM136c	7671	swap	-
+LM137b	7672	swap	-
+LM137b	7673	swap	-
+LM138a	7674	swap	-
+LM138e	7675	swap	-
+LM139d	7676	swap	-
+LM139d	7677	swap	-
+LM140c	7678	swap	-
+LM140c	7679	swap	-
+LM141a	7680	swap	-
+LM141a	7681	swap	-
+LM142a	7682	swap	-
+LM142a	7683	swap	-
+LM143a	7684	swap	-
+LM143a	7685	swap	-
+LM144b	7686	swap	-
+LM144b	7687	swap	-
+LM145b	7688	swap	-
+LM145b	7689	swap	-
+LM146d	7690	swap	-
+LM146d	7691	swap	-
+LM147a	7692	swap	-
+LM147a	7693	swap	-
+LF101a	7700	swap	-
+LF101a	7701	swap	-
+LF102b	7702	swap	-
+LF102d	7703	swap	-
+LF103a	7704	swap	-
+LF103C	7705	swap	-
+LF104B	7706	swap	-
+LF104D	7707	swap	-
+LF105b	7708	swap	-
+LF105d	7709	swap	-
+LF106c	7710	swap	-
+LF106e	7711	swap	-
+LF107a	7712	swap	-
+LF107b	7713	swap	-
+LF108a	7714	swap	-
+LF108a	7715	swap	-
+LF109b	7716	swap	-
+LF109d	7717	swap	-
+LF110b	7718	swap	-
+LF110c	7719	swap	-
+LF111b	7720	swap	-
+LF111e	7721	swap	-
+LF112e	7722	swap	-
+LF112f	7723	swap	-
+LF113a	7724	swap	-
+LF113f	7725	swap	-
+LF114d	7726	swap	-
+LF114e	7727	swap	-
+LF115e	7728	swap	-
+LF115f	7729	swap	-
+LF116b	7730	swap	-
+LF116b	7731	swap	-
+LF117e	7732	swap	-
+LF117e	7733	swap	-
+LF118b	7734	swap	-
+LF118b	7735	swap	-
+LF119a	7736	swap	-
+LF119a	7737	swap	-
+LF120b	7738	swap	-
+LF120b	7739	swap	-
+LF121e	7740	swap	-
+LF121e	7741	swap	-
+LF122a	7742	swap	-
+LF122a	7743	swap	-
+LF123e	7744	swap	-
+LF123e	7745	swap	-
+LF124a	7746	swap	-
+LF124b	7747	swap	-
+LF125d	7748	swap	-
+LF125d	7749	swap	-
+LF126d	7750	swap	-
+LF126e	7751	swap	-
+LF127d	7752	swap	-
+LF127e	7753	swap	-
+LF128d	7754	swap	-
+LF128d	7755	swap	-
+LF129d	7756	swap	-
+LF129d	7757	swap	-
+LF130d	7758	swap	-
+LF130d	7759	swap	-
+LF131c	7760	swap	-
+LF131c	7761	swap	-
+LF132a	7762	swap	-
+LF132b	7763	swap	-
+LF133a	7764	swap	-
+LF133a	7765	swap	-
+LF134c	7766	swap	-
+LF134c	7767	swap	-
+LF135b	7768	swap	-
+LF135d	7769	swap	-
+LF136b	7770	swap	-
+LF136c	7771	swap	-
+LF137a	7772	swap	-
+LF137b	7773	swap	-
+LF138g	7774	swap	-
+LF138g	7775	swap	-
+LF139c	7776	swap	-
+LF139c	7777	swap	-
+LF140b	7778	swap	-
+LF140b	7779	swap	-
+LF141c	7780	swap	-
+LF141c	7781	swap	-
+LF142a	7782	swap	-
+LF142a	7783	swap	-
+LF143b	7784	swap	-
+LF143b	7785	swap	-
+LF144a	7786	swap	-
+LF144e	7787	swap	-
+LF145a	7788	swap	-
+LF145d	7789	swap	-
+LF146c	7790	swap	-
+LF146e	7791	swap	-
+LF147b	7792	swap	-
+LF147b	7793	swap	-
+pc5101a	7800	swap	-
+pc5101b	7801	swap	-
+pc5102a	7802	swap	-
+pc5102b	7803	swap	-
+pc5103a	7804	swap	-
+pc5103b	7805	swap	-
+pc5104a	7806	swap	-
+pc5104b	7807	swap	-
+pc5105a	7808	swap	-
+pc5105b	7809	swap	-
+pc5106a	7810	swap	-
+pc5106b	7811	swap	-
+pc5107a	7812	swap	-
+pc5107b	7813	swap	-
+pc5108a	7814	swap	-
+pc5108b	7815	swap	-
+pc5109a	7816	swap	-
+pc5109b	7817	swap	-
+pc5110a	7818	swap	-
+pc5110b	7819	swap	-
+pc5111a	7820	swap	-
+pc5111b	7821	swap	-
+pc5112a	7822	swap	-
+pc5112b	7823	swap	-
+pc5113a	7824	swap	-
+pc5113b	7825	swap	-
+pc5114a	7826	swap	-
+pc5114b	7827	swap	-
+pc5115a	7828	swap	-
+pc5115b	7829	swap	-
+pc5116a	7830	swap	-
+pc5116b	7831	swap	-
+pc5117a	7832	swap	-
+pc5117b	7833	swap	-
+pc5118a	7834	swap	-
+pc5118b	7835	swap	-
+pc5119a	7836	swap	-
+pc5119b	7837	swap	-
+pc5120a	7838	swap	-
+pc5120b	7839	swap	-
+pc5121a	7840	swap	-
+pc5121b	7841	swap	-
+pc5122a	7842	swap	-
+pc5122b	7843	swap	-
+pc5123a	7844	swap	-
+pc5123b	7845	swap	-
+pc5124a	7846	swap	-
+pc5124b	7847	swap	-
+pc5125a	7848	swap	-
+pc5125b	7849	swap	-
+pc5126a	7850	swap	-
+pc5126b	7851	swap	-
+pc5127a	7852	swap	-
+pc5127b	7853	swap	-
+pc5128a	7854	swap	-
+pc5128b	7855	swap	-
+pc5129a	7856	swap	-
+pc5129b	7857	swap	-
+pc5130a	7858	swap	-
+pc5130b	7859	swap	-
+pc5131a	7860	swap	-
+pc5131b	7861	swap	-
+pc5132a	7862	swap	-
+pc5132b	7863	swap	-
+pc5133a	7864	swap	-
+pc5133b	7865	swap	-
+pc5134a	7866	swap	-
+pc5134b	7867	swap	-
+pc5135a	7872	swap	-
+pc5135b	7873	swap	-
+pc5136a	7874	swap	-
+pc5136b	7875	swap	-
+pc5137a	7876	swap	-
+pc5137b	7877	swap	-
+pc5138a	7878	swap	-
+pc5138b	7879	swap	-
+pc5139a	7880	swap	-
+pc5139b	7881	swap	-
+pc5140a	7882	swap	-
+pc5140b	7883	swap	-
+pc5142a	7886	swap	-
+pc5142b	7887	swap	-
+pc5143a	7892	swap	-
+pc5143b	7893	swap	-
+pc5201a	7900	swap	-
+pc5201b	7901	swap	-
+pc5202a	7902	swap	-
+pc5202b	7903	swap	-
+pc5203a	7904	swap	-
+pc5203b	7905	swap	-
+pc5204a	7906	swap	-
+pc5204b	7907	swap	-
+pc5205a	7908	swap	-
+pc5205b	7909	swap	-
+pc5206a	7910	swap	-
+pc5206b	7911	swap	-
+pc5207a	7912	swap	-
+pc5207b	7913	swap	-
+pc5208a	7914	swap	-
+pc5208b	7915	swap	-
+pc5209a	7916	swap	-
+pc5209b	7917	swap	-
+pc5210a	7918	swap	-
+pc5210b	7919	swap	-
+pc5211a	7920	swap	-
+pc5211b	7921	swap	-
+pc5212a	7922	swap	-
+pc5212b	7923	swap	-
+pc5213a	7924	swap	-
+pc5213b	7925	swap	-
+pc5214a	7926	swap	-
+pc5214b	7927	swap	-
+pc5215a	7928	swap	-
+pc5215b	7929	swap	-
+pc5216a	7930	swap	-
+pc5216b	7931	swap	-
+pc5217a	7932	swap	-
+pc5217b	7933	swap	-
+pc5218a	7934	swap	-
+pc5218b	7935	swap	-
+pc5219a	7936	swap	-
+pc5219b	7937	swap	-
+pc5220a	7938	swap	-
+pc5220b	7939	swap	-
+pc5221a	7940	swap	-
+pc5221b	7941	swap	-
+pc5222a	7942	swap	-
+pc5222b	7943	swap	-
+pc5223a	7944	swap	-
+pc5223b	7945	swap	-
+pc5224a	7946	swap	-
+pc5224b	7947	swap	-
+pc5225a	7948	swap	-
+pc5225b	7949	swap	-
+pc5226a	7950	swap	-
+pc5226b	7951	swap	-
+pc5227a	7952	swap	-
+pc5227b	7953	swap	-
+pc5228a	7954	swap	-
+pc5228b	7955	swap	-
+pc5229a	7956	swap	-
+pc5229b	7957	swap	-
+pc5230a	7958	swap	-
+pc5230b	7959	swap	-
+pc5231a	7960	swap	-
+pc5231b	7961	swap	-
+pc5232a	7962	swap	-
+pc5232b	7963	swap	-
+pc5233a	7964	swap	-
+pc5233b	7965	swap	-
+pc5234a	7966	swap	-
+pc5234b	7967	swap	-
+pc5235a	7972	swap	-
+pc5235b	7973	swap	-
+pc5236a	7974	swap	-
+pc5236b	7975	swap	-
+pc5237a	7976	swap	-
+pc5237b	7977	swap	-
+pc5238a	7978	swap	-
+pc5238b	7979	swap	-
+pc5239a	7980	swap	-
+pc5239b	7981	swap	-
+pc5240a	7982	swap	-
+pc5240b	7983	swap	-
+pc5242a	7986	swap	-
+pc5242b	7987	swap	-
+pc5243a	7992	swap	-
+pc5243b	7993	swap	-
+quest	7994	swap	-
+event34_01a	30101	swap	-
+event34_01b	30102	swap	-
+event34_01c	30103	swap	-
+event13_01a	30201	swap	-
+event13_01b	30202	swap	-
+event13_01c	30203	swap	-
+event19_01a	30301	swap	-
+event19_01b	30302	swap	-
+event19_01c	30303	swap	-
+event25_01a	30401	swap	-
+event25_01b	30402	swap	-
+event25_01c	30403	swap	-
+event44_01a	30501	swap	-
+event44_01b	30502	swap	-
+event44_01c	30503	swap	-
+event44_01d	30504	swap	-
+event50_01a	30601	swap	-
+event50_01b	30602	swap	-
+event50_01c	30603	swap	-
+event50_01d	30604	swap	-
+event29_01a	30701	swap	-
+event29_01b	30702	swap	-
+event29_01c	30703	swap	-
+event09_01a	30801	swap	-
+event09_01b	30802	swap	-
+event09_01c	30803	swap	-
+event01_01a	30901	swap	-
+event01_01b	30902	swap	-
+event01_01c	30903	swap	-
+event01_01d	30904	swap	-
+event35_01a	31201	swap	-
+event35_01a	31202	swap	-
+event35_01c	31203	swap	-
+event14_01a	31301	swap	-
+event14_01b	31302	swap	-
+event14_01c	31303	swap	-
+event20_01a	31401	swap	-
+event20_01b	31402	swap	-
+event20_01c	31403	swap	-
+event26_01a	31501	swap	-
+event26_01b	31502	swap	-
+event26_01c	31503	swap	-
+event45_01a	31601	swap	-
+event45_01b	31602	swap	-
+event45_01c	31603	swap	-
+event45_01d	31604	swap	-
+event51_01a	31701	swap	-
+event51_01b	31702	swap	-
+event51_01c	31703	swap	-
+event51_01d	31704	swap	-
+event30_01a	31801	swap	-
+event30_01b	31802	swap	-
+event30_01c	31803	swap	-
+event10_01a	31901	swap	-
+event10_01b	31902	swap	-
+event10_01c	31903	swap	-
+event02_01a	32001	swap	-
+event02_01b	32002	swap	-
+event02_01c	32003	swap	-
+event02_01d	32004	swap	-
+event40_01a	32101	swap	-
+event40_01b	32102	swap	-
+event40_01c	32103	swap	-
+event43_01a	32201	swap	-
+event43_01b	32202	swap	-
+event43_01c	32203	swap	-
+event36_01a	32301	swap	-
+event36_01b	32302	swap	-
+event36_01c	32303	swap	-
+event15_01a	32401	swap	-
+event15_01b	32402	swap	-
+event15_01c	32403	swap	-
+event21_01a	32501	swap	-
+event21_01b	32502	swap	-
+event21_01c	32503	swap	-
+event46_01a	32701	swap	-
+event46_01b	32702	swap	-
+event46_01c	32703	swap	-
+event46_01d	32704	swap	-
+event52_01a	32801	swap	-
+event52_01b	32802	swap	-
+event52_01c	32803	swap	-
+event52_01d	32804	swap	-
+event31_01a	32901	swap	-
+event31_01b	32902	swap	-
+event31_01c	32903	swap	-
+event11_01a	33001	swap	-
+event11_01b	33002	swap	-
+event11_01c	33003	swap	-
+event03_01a	33101	swap	-
+event03_01b	33102	swap	-
+event03_01c	33103	swap	-
+event03_01d	33104	swap	-
+event37_01a	33401	swap	-
+event37_01b	33402	swap	-
+event37_01c	33403	swap	-
+event16_01a	33501	swap	-
+event16_01b	33502	swap	-
+event16_01c	33503	swap	-
+event22_01a	33601	swap	-
+event22_01b	33602	swap	-
+event22_01c	33603	swap	-
+event47_01a	33801	swap	-
+event47_01b	33802	swap	-
+event47_01c	33803	swap	-
+event47_01d	33804	swap	-
+event32_01a	34001	swap	-
+event32_01b	34002	swap	-
+event32_01c	34003	swap	-
+event04_01a	34201	swap	-
+event04_01b	34202	swap	-
+event04_01c	34203	swap	-
+event04_01d	34204	swap	-
+event38_01a	34501	swap	-
+event38_01b	34502	swap	-
+event38_01c	34503	swap	-
+event17_01a	34601	swap	-
+event17_01b	34602	swap	-
+event17_01c	34603	swap	-
+event23_01a	34701	swap	-
+event23_01b	34702	swap	-
+event23_01c	34703	swap	-
+event27_01a	34801	swap	-
+event27_01b	34802	swap	-
+event27_01c	34803	swap	-
+event48_01a	34901	swap	-
+event48_01b	34902	swap	-
+event48_01c	34903	swap	-
+event48_01d	34904	swap	-
+event53_01a	35001	swap	-
+event53_01b	35002	swap	-
+event53_01c	35003	swap	-
+event53_01d	35004	swap	-
+event33_01a	35101	swap	-
+event33_01b	35102	swap	-
+event33_01c	35103	swap	-
+event12_01a	35201	swap	-
+event12_01b	35202	swap	-
+event12_01c	35203	swap	-
+event05_01a	35301	swap	-
+event05_01b	35302	swap	-
+event05_01c	35303	swap	-
+event05_01d	35304	swap	-
+event39_01a	35601	swap	-
+event39_01b	35602	swap	-
+event39_01c	35603	swap	-
+event18_01a	35701	swap	-
+event18_01b	35702	swap	-
+event18_01c	35703	swap	-
+event24_01a	35801	swap	-
+event24_01b	35802	swap	-
+event24_01c	35803	swap	-
+event28_01a	35901	swap	-
+event28_01b	35902	swap	-
+event28_01c	35903	swap	-
+event49_01a	36001	swap	-
+event49_01b	36002	swap	-
+event49_01c	36003	swap	-
+event49_01d	36004	swap	-
+event54_01a	36101	swap	-
+event54_01b	36102	swap	-
+event54_01c	36103	swap	-
+event54_01d	36104	swap	-
+event07_01a	36401	swap	-
+event07_01b	36402	swap	-
+event07_01c	36403	swap	-
+event07_01d	36404	swap	-
+event41_01a	36501	swap	-
+event41_01b	36502	swap	-
+event41_01c	36503	swap	-
+Welcome Adventurer	36701	swap	-
+event06_01a	36801	swap	-
+event06_01b	36802	swap	-
+event06_01c	36803	swap	-
+event06_01d	36804	swap	-
+event42_01a	36901	swap	-
+event42_01b	36902	swap	-
+event42_01c	36903	swap	-
+event08_01a	37001	swap	-
+event08_01b	37002	swap	-
+event08_01c	37003	swap	-
+event08_01d	37004	swap	-
+whistling wind	300	swap	-
+battle wince02	301	swap	-
+battle wince03	302	swap	-
+battle wince04	303	swap	-
+battle wince05	304	swap	-
+battle wince06	305	swap	-
+battle wince07	306	swap	-
+battle wince08	307	swap	-
+boat creek loop	308	swap	-
+female scream	309	swap	-
+lava loop	310	swap	-
+male scream	311	swap	-
+switch01	312	swap	-
+switch02	313	swap	-
+switch03	314	swap	-
+sword fight 01	315	swap	-
+sword fight 02	316	swap	-
+sword fight 03	317	swap	-
+sword fight loop01	318	swap	-
+sword fight loop02	319	swap	-
+battle wince01	320	swap	-
+wolf howl (distance)	321	swap	-
+frog01	322	swap	-
+frog02	323	swap	-
+horse trot	324	swap	-
+horse	325	swap	-
+racoon	326	swap	-
+snake rattle01	327	swap	-
+snake rattle02	328	swap	-
+snake rattle03	329	swap	-
+snake rattle04	330	swap	-
+dog	331	swap	-
+bird flight01	332	swap	-
+bird flight02	333	swap	-
+bird01	334	swap	-
+bird02	335	swap	-
+bird03	336	swap	-
+bird04	337	swap	-
+bird05	338	swap	-
+bird06	339	swap	-
+bird07	340	swap	-
+bird08	341	swap	-
+bird09	342	swap	-
+bird10	343	swap	-
+bird11	344	swap	-
+bird12	345	swap	-
+bird13	346	swap	-
+Crowcaw	347	swap	-
+owl01	348	swap	-
+owl02	349	swap	-
+owl03	350	swap	-
+wood pecker pecking	351	swap	-
+zap301	352	swap	-
+boing0101	353	swap	-
+boing02	354	swap	-
+boing0201	355	swap	-
+boing03	356	swap	-
+boing0301	357	swap	-
+buzzer01	358	swap	-
+buzzer0101	359	swap	-
+buzzer02	360	swap	-
+buzzer0201	361	swap	-
+buzzer03	362	swap	-
+buzzer0301	363	swap	-
+buzzer04	364	swap	-
+buzzer0401	365	swap	-
+click1	366	swap	-
+click10	367	swap	-
+click1001	368	swap	-
+click101	369	swap	-
+click11	370	swap	-
+click1101	371	swap	-
+click12	372	swap	-
+click1201	373	swap	-
+click13	374	swap	-
+click1301	375	swap	-
+click14	376	swap	-
+click1401	377	swap	-
+click15	378	swap	-
+click1501	379	swap	-
+click16	380	swap	-
+click1601	381	swap	-
+click17	382	swap	-
+click1701	383	swap	-
+click18	384	swap	-
+click1801	385	swap	-
+click19	386	swap	-
+click1901	387	swap	-
+click2	388	swap	-
+click20	389	swap	-
+click2001	390	swap	-
+click201	391	swap	-
+click21	392	swap	-
+click2101	393	swap	-
+click22	394	swap	-
+click2201	395	swap	-
+click23	396	swap	-
+click2301	397	swap	-
+click24	398	swap	-
+click2401	399	swap	-
+click3	400	swap	-
+click301	401	swap	-
+click4	402	swap	-
+click401	403	swap	-
+click5	404	swap	-
+click501	405	swap	-
+click6	406	swap	-
+click601	407	swap	-
+click7	408	swap	-
+click701	409	swap	-
+click8	410	swap	-
+click801	411	swap	-
+click9	412	swap	-
+click901	413	swap	-
+zap1	414	swap	-
+zap101	415	swap	-
+zap2	416	swap	-
+zap201	417	swap	-
+zap3	418	swap	-
+boing01	419	swap	-
+locked door02	420	swap	-
+chest open	421	swap	-
+door slide closed	422	swap	-
+door slide open	423	swap	-
+door01 close	424	swap	-
+door01 open	425	swap	-
+door02 close	426	swap	-
+door02 open	427	swap	-
+door03 close	428	swap	-
+door03 open	429	swap	-
+door04 close	430	swap	-
+door04 open	431	swap	-
+door05 close	432	swap	-
+door05 open	433	swap	-
+door06 close	434	swap	-
+door06 open	435	swap	-
+door07 close	436	swap	-
+door07 open	437	swap	-
+locked door01	438	swap	-
+chest close	439	swap	-
+raging fire loop	440	swap	-
+torch loop	441	swap	-
+torch loop2	442	swap	-
+concrete01 foot1	443	swap	-
+concrete01 foot2	444	swap	-
+creaky floor foot1	445	swap	-
+creaky floor foot2	446	swap	-
+dirt01 foot1	447	swap	-
+dirt01 foot2	448	swap	-
+dirt02 foot1	449	swap	-
+dirt02 foot2	450	swap	-
+GRASS01 FOOT1	451	swap	-
+GRASS01 FOOT2	452	swap	-
+stone01 foot1	453	swap	-
+stone01 foot2	454	swap	-
+Wood01 Foot1	455	swap	-
+wood01 foot2	456	swap	-
+drip01	457	swap	-
+drip02	458	swap	-
+drip03	459	swap	-
+fountain loop	460	swap	-
+fountain loop2	461	swap	-
+lt waves loop	462	swap	-
+med waves loop	463	swap	-
+rushing water loop	464	swap	-
+water lapping loop	465	swap	-
+water01 foot1	466	swap	-
+water01 foot2	467	swap	-
+water02 foot1`	468	swap	-
+water02 foot2	469	swap	-
+waterfall loop1	470	swap	-
+waterfall loop2	471	swap	-
+explosion	472	swap	-
+rumble	473	swap	-
+start	474	swap	-
+tone01	475	swap	-
+tone02	476	swap	-
+tone03	477	swap	-

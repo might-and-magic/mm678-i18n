@@ -9,8 +9,8 @@
 /tools/input/
 /tools/output/
 *.baiduyun.uploading.cfg
-/6_setup/zh_CN/mmmerge/files/
-/6_setup/zh_CN/mmmerge/*.exe
+/6_setup/dev/**/*.*
+!/6_setup/dev/*/*/mm_i18n.nsi
 
 
 # === Python.gitignore ===

@@ -91,6 +91,13 @@ evt.MoveToMap{15897,-17178,2049,2000,0,0,0,0, "BrAlvar.odm"}	--队友3 | find yo
 Party.SpellBuffs[const.PartyBuff.Invisibility].ExpireTime = Game.Time + 30000*100
 evt.MoveToMap{7564,19904,289,500,0,0,0,0, "BrAlvar.odm"}	--队友4/谜语 | find your friend 4 and start Chaos riddle
 
+
+-- 通关 | Finish the game, Certificat
+evt.MoveToMap{Name = "Breach.odm"}
+
+
+
+
 -- 埃斯里克 | Ethric
 evt.MoveToMap{-217,8990,769,2000,0,0,0,0, "6d14.blv"}
 

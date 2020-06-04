@@ -1,8 +1,6 @@
-tools/add_context.py to convert template_without_context/ to 1_template/ (with context)
+If .po in 0_source/ or 1_template/ is modified, run tools/add_context.py to convert 0.5_template_without_context/ to 1_template/ (with context)
 
-csv2po.py `exec()` to generate 2_dev/, 3_i18n/, 4_prod/
-
-if .po in 3_i18n/ are modified, use csv2po.py `generateProd()` to generate 4_prod/
+If .po in 3_i18n/ are modified, use tool to generate .mo, then use csv2po.py `generateProd()` to generate 4_prod/
 
 csv2po.py:
 * `exec()`: generate 2_dev/, 3_i18n/, 4_prod/
@@ -10,6 +8,8 @@ csv2po.py:
 * `generateProd()`: generate 4_prod/ (2_dev/, 3_i18n/ exist)
 * `generateDevOnly()`: generate 2_dev/
 
-make_postprod.py to generate 5_postprod/
+Run tools/make_postprod.py to generate 5_postprod/
 
-make 6_finalprod/ semi-manually
+Make 6_setup/ with tools/make_setup.py
+
+Update tools/versions.py When updating

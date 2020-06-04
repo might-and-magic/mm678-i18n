@@ -1,0 +1,5 @@
+MMExtension v2.2
+By Sergey Rozhenko <mailto:sergroj@mail.ru>
+https://sites.google.com/site/sergroj/mm/mmextension
+
+Rich scripting environment for MM6-8 based on Lua.

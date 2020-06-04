@@ -1,0 +1,162 @@
+#	FileName	NPCPic	HouseType	Sounds
+0	lmedhs1	0		0
+1	lmedhs1	0		0
+2	lmedhs2	0		0
+3	lporhs1	0		0
+4	lporhs2	0		0
+5	ltemple	2108	Temple	1
+6	lwpshp	2109	Weapon Shop	2
+7	larmshp	2110	Armor Shop	3
+8	lalcshop	2111	Alchemist	4
+9	lmagshp	2112	Magic Shop	5
+10	lsplshp	2113	Elemental Guild	6
+11	ltrhall	2114	Training	7
+12	lbank	2115	Bank	8
+13	ltavern	2116	Tavern	9
+14	lchwar	0	Throne	0
+15	derchhs1	0		0
+16	derchhs2	0		0
+17	demedhs	0		0
+18	deporhs	0		0
+19	detemple	2118	Temple	12
+20	dewpshp	2119	Weapon Shop	13
+21	dearmshp	2128	Armor Shop	14
+22	dealcshp	2121	Alchemist	15
+23	demagshp	2102	Magic Shop	16
+24	desplshp	2123	Elemental Guild	17
+25	detrhall	2124	Training	18
+26	debank	2125	Bank	19
+27	detavern	2126	Tavern	20
+28	demguild	0		0
+29	deboat	2127	Boats	21
+30	decouncl	0		0
+31	mrchhs	0		0
+32	mmedhs	0		0
+33	mporhs	0		0
+34	mdrownhs	0		0
+35	mtemple	2171	Temple	23
+36	mwepshp	2130	Weapon Shop	24
+37	marmshp	2131	Armor Shop	25
+38	malcshp	2166	Alchemist	26
+39	mmagshp	2167	Magic Shop	27
+40	msplshp	2168	Elemental Guild	28
+41	mtrhall	2170	Training	29
+42	mbank	2136	Bank	30
+43	mtavern	2169	Tavern	31
+44	mledden	0		0
+45	dhrchhs	0		0
+46	dhmedhs	0		0
+47	dhporhs	0		0
+48	dhtemple	1138	Temple	34
+49	dhwepshp	2139	Weapon Shop	35
+50	dharmshp	2140	Armor Shop	36
+51	dhmagshp	2141	Magic Shop	38
+52	dhtrhall	2142	Training	40
+53	dhtavern	1137	Tavern	42
+54	cquixote	0		0
+55	clrchhs	0		0
+56	clporhs	0		0
+57	tthrone	0	Throne	0
+58	nrchhs1	0		0
+59	nrchss2	0		0
+60	nmedhs	0		0
+61	nporhs	0		0
+62	ntemple	2145	Temple	45
+63	nwepshp	2146	Weapon Shop	46
+64	narmshp	2147	Armor Shop	47
+65	nalcshp	2148	Alchemist	48
+66	nmagshp	2145	Magic Shop	49
+67	nsplshp	2150	Elemental Guild	50
+68	ntrhall	1149	Training	51
+69	nbank	2152	Bank	52
+70	ntavern	2153	Tavern	53
+71	tsthrone	0	Throne	0
+72	dlcavern	0		0
+73	felmcell	0		0
+74	eelmcell	0		0
+75	welmcell	0		0
+76	aelmcell	0		0
+77	trporhs1	0		0
+78	trporhs2	0		0
+79	trtavern	2158	Tavern	68
+80	wrboat	2180	Boats	0
+81	wrthrone	0		0
+82	rrchhs1	0		0
+83	rrchs2	0		0
+84	rmedhs	0		0
+85	rtemple	1228	Temple	56
+86	rwepshp	2177	Weapon Shop	57
+87	rarmshp	2173	Armor Shop	58
+88	ralcshp	2172	Alchemist	59
+89	rmagshp	2174	Magic Shop	60
+90	rsplshp	2175	Elemental Guild	61
+91	rtavern	2176	Tavern	64
+92	rsub	0		0
+93	esthrone	0		0
+94	stables	1249	Stables	22
+95	tavern	2178	Tavern	64
+96	inn	2167	The Adventurer's Inn	67
+97	oracle	0		0
+98	felmhs	0		0
+99	welmhs	0		0
+100	eelmhs	0		0
+101	aelmhs	0		0
+102	ab_temp	0	Dungeon Ent	0
+103	p_outpst	0	Dungeon Ent	0
+104	smg_cove	0	Dungeon Ent	0
+105	dire_lr	0	Dungeon Ent	0
+106	mrch_hs	0	Dungeon Ent	0
+107	in_cryst	0	Dungeon Ent	0
+108	wasp_nst	0	Dungeon Ent	0
+109	ogre_ft	0	Dungeon Ent	0
+110	trol_tmb	0	Dungeon Ent	0
+111	cyc_lr	0	Dungeon Ent	0
+112	ch_fire	0	Dungeon Ent	0
+113	dh_camp	0	Dungeon Ent	0
+114	drgn_cav	0	Dungeon Ent	0
+115	naga_vlt	0	Dungeon Ent	0
+116	tpl_sun	0	Dungeon Ent	0
+117	ab_druid	0	Dungeon Ent	0
+118	mino_lr	0	Dungeon Ent	0
+119	barb_frt	0	Dungeon Ent	0
+120	p_strong	0	Dungeon Ent	0
+121	a_p_keep	0	Dungeon Ent	0
+122	s_subpen	0	Dungeon Ent	0
+123	nec_gild	0	Dungeon Ent	0
+124	mad_lab	0	Dungeon Ent	0
+125	cstl_air	0	Dungeon Ent	0
+126	rav_nest	0	Dungeon Ent	0
+127	cstl_fir	0	Dungeon Ent	0
+128	war_camp	0	Dungeon Ent	0
+129	esch_pal	0	Dungeon Ent	0
+130	pr_elords	0	Dungeon Ent	0
+131	gw_fire	0	Dungeon Ent	0
+132	gw_earth	0	Dungeon Ent	0
+133	gw_air	0	Dungeon Ent	0
+134	gw_water	0	Dungeon Ent	0
+135	ab_tempBD	0	Dungeon Ent	0
+136	pr_lorde	0	Dungeon Ent	0
+137	pr_lordf	0	Dungeon Ent	0
+138	pr_lordw	0	Dungeon Ent	0
+139	lsplshp	2113	Elemental Guild	6
+140	lsplshp	2113	Self Guild	6
+141	lsplshp	2113	Light Guild	6
+142	lsplshp	2113	Dark Guild	6
+143	desplshp	2123	Elemental Guild	17
+144	desplshp	2123	Self Guild	17
+145	desplshp	2123	Light Guild	17
+146	desplshp	2123	Dark Guild	17
+147	msplshp	2168	Elemental Guild	28
+148	msplshp	2168	Self Guild	28
+149	msplshp	2168	Light Guild	28
+150	msplshp	2168	Dark Guild	28
+151	nsplshp	2150	Elemental Guild	50
+152	nsplshp	2150	Self Guild	50
+153	nsplshp	2150	Light Guild	50
+154	nsplshp	2150	Dark Guild	50
+155	rsplshp	2175	Elemental Guild	61
+156	rsplshp	2175	Self Guild	61
+157	rsplshp	2175	Light Guild	61
+158	rsplshp	2175	Dark Guild	61
+159	null	0	Dungeon Ent	0
+160	cave	0		0

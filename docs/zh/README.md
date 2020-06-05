@@ -14,10 +14,10 @@
 | 无 | 魔法门678整合版（英文） | 阅读下文段落“[魔法门678整合版的下载地址和使用方法](#魔法门678整合版的下载地址和使用方法)” |
 | 魔法门678整合版（英文） | 魔法门678整合版（简体中文） | 下载使用[魔法门678整合版简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MMMerge_zh_CN_2020-06-05.7z) |
 | 魔法门678整合版（英文） | 魔法门678整合版（繁体中文） | 下载使用[魔法门678整合版繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MMMerge_zh_TW_2020-06-05.7z) |
-| 旧版魔法门678整合版（英文） | （想要更新到新版）魔法门678整合版（英文） | 下载使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-05-26/MMMerge_Update_2020-05-26.7z) |
-| 旧版魔法门678整合版（简体中文） | （想要更新到新版）魔法门678整合版（简体中文） | 下载使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-05-26/MMMerge_Update_2020-05-26.7z)和[魔法门678整合版简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MMMerge_zh_CN_2020-06-05.7z) |
-| 旧版魔法门678整合版（繁体中文） | （想要更新到新版）魔法门678整合版（繁体中文） | 下载使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-05-26/MMMerge_Update_2020-05-26.7z)和[魔法门678整合版繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MMMerge_zh_TW_2020-06-05.7z) |
-| 整合版 / MM8灰脸（简体中文） | （想要转为）繁体中文版 | 简繁版本转换，见“[其他常见问题解答](#其他常见问题解答)”的最后一条 |
+| 旧版魔法门678整合版（英文） | （更新到新版）魔法门678整合版（英文） | 下载使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-05-26/MMMerge_Update_2020-05-26.7z) |
+| 旧版魔法门678整合版（简体中文） | （更新到新版）魔法门678整合版（简体中文） | 下载使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-05-26/MMMerge_Update_2020-05-26.7z)和[魔法门678整合版简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MMMerge_zh_CN_2020-06-05.7z) |
+| 旧版魔法门678整合版（繁体中文） | （更新到新版）魔法门678整合版（繁体中文） | 下载使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-05-26/MMMerge_Update_2020-05-26.7z)和[魔法门678整合版繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MMMerge_zh_TW_2020-06-05.7z) |
+| 整合版 / MM8灰脸（简体中文） | （转为）繁体中文版 | 简繁版本转换，见“[其他常见问题解答](#其他常见问题解答)”的最后一条 |
 
 | 你现在有的 | 你想要的 | 怎样做 |
 |----|----|----|
@@ -26,8 +26,8 @@
 | 魔法门8原版（英文） | 魔法门8灰脸补丁高清完美版（英文） | 下载使用[魔法门8灰脸补丁](https://grayface.github.io/mm/#GrayFace-MM8-Patch)，然后自已将从2开始编号的MP3或WAV背景音乐文件放入Music文件夹中 |
 | 魔法门8灰脸补丁高清完美版（英文） | 魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8灰脸补丁简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_CN_2020-06-05.7z)（如无音乐则需放入音乐文件） |
 | 魔法门8灰脸补丁高清完美版（英文） | 魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8灰脸补丁繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_TW_2020-06-05.7z)（如无音乐则需放入音乐文件） |
-| 旧版魔法门8灰脸补丁高清完美版（简体中文） | （想要更新到新版）魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8灰脸补丁简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_CN_2020-06-05.7z) |
-| 旧版魔法门8灰脸补丁高清完美版（繁体中文） | （想要更新到新版）魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8灰脸补丁繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_TW_2020-06-05.7z) |
+| 旧版魔法门8灰脸补丁高清完美版（简体中文） | （更新到新版）魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8灰脸补丁简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_CN_2020-06-05.7z) |
+| 旧版魔法门8灰脸补丁高清完美版（繁体中文） | （更新到新版）魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8灰脸补丁繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_TW_2020-06-05.7z) |
 
 | 你现在有的 | 你想要的 | 怎样做 |
 |----|----|----|

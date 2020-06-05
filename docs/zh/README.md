@@ -91,7 +91,7 @@ Ctrl+F1打开控制台
 
 对于专有名词，您可以查阅魔法门6、7、8和整合版的简体、繁体、英文所有版本的所有专有名词对照表：[mm678allzhversiontrans.xlsx Excel文件下载](https://github.com/might-and-magic/mm678-i18n/raw/master/translation-reference/zh/mm678allzhversiontrans.xlsx)
 
-繁体由简体使用(OpenCC)[https://github.com/BYVoid/OpenCC]转化，游戏专有名词目前均为简体版本的称呼，除了Free Haven和两个大陆的名字换成了繁体版本惯用名称。
+繁体由简体使用[OpenCC](https://github.com/BYVoid/OpenCC)转化，游戏专有名词目前均为简体版本的称呼，除了Free Haven和两个大陆的名字换成了繁体版本惯用名称。
 
 想查看、参与翻译，请[点这里下载简体中文的.po文件](https://github.com/might-and-magic/mm678-i18n/raw/master/3_i18n/zh_CN/LC_MESSAGES/mm678.po)，.po可用[Poedit编辑器](https://poedit.net/)查看和编辑。
 

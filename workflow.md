@@ -12,4 +12,4 @@ Run tools/make_postprod.py to generate 5_postprod/
 
 Make 6_setup/ with tools/make_setup.py
 
-Update tools/versions.py When updating
+Update tools/versions.py and 6_setup/dev/LANG/MMVER/mm_i18n.nsi When updating

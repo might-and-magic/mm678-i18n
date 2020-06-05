@@ -129,9 +129,8 @@ for pntLang in getFilePaths(Path('non_text/scripts_datatables/'), '', False):
 	pntLangName = pntLang.name
 	# pntLangNameCondensed = pntLangName.upper().replace('_', '') # e.g. ZHCN
 	for pntVer in getFilePaths(pntLang, '', False):
-		scriptsFolder = pntVer.joinpath('Scripts')
-		pTemp = Path('5_postprod').joinpath(pntLangName).joinpath(pntVer.name).joinpath('Scripts')
-		copy_tree(str(scriptsFolder), str(pTemp))
+		pTemp = Path('5_postprod').joinpath(pntLangName).joinpath(pntVer.name)
+		copy_tree(str(pntVer), str(pTemp))
 print('Script, datatable process is done.')
 
 

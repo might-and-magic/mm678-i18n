@@ -350,6 +350,12 @@ local function dbcsProc(d)
 		FNT.setCharWidth(fontAddr, highByte, cachedWidth)
 	end
 
+	local function setLowByteInFontAsCached()
+		FNT.setCharSpaceBefore(fontAddr, lowByte, cachedSpaceBefore)
+		FNT.setCharSpaceAfter(fontAddr, lowByte, cachedSpaceAfter)
+		FNT.setCharWidth(fontAddr, lowByte, cachedWidth)
+	end
+
 	local function lastByteCheckAndCache(currentByte)
 		-- lastByte could be:
 		-- 0: initial state
@@ -408,7 +414,7 @@ local function dbcsProc(d)
 				FNT.getCharShape(fntAddrTemp, lowByte) ..
 				string.rep("\0", (fontBottomHeightToAdd * widthTemp))
 			)
-			setHighByteInFontAsCached()
+			setLowByteInFontAsCached()
 			highByte = 0
 			-- lowByte = 0
 			-- cachedSpaceBefore = 0

@@ -9,6 +9,7 @@
 /tools/input/
 /tools/output/
 *.baiduyun.uploading.cfg
+/6_setup/prod/
 /6_setup/dev/**/*.*
 !/6_setup/dev/*/*/mm_i18n.nsi
 

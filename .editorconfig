@@ -13,3 +13,10 @@ indent_size = 4
 end_of_line = crlf
 trim_trailing_whitespace = false
 insert_final_newline = false
+
+[*.py]
+indent_style = tab
+indent_size = 4
+end_of_line = crlf
+trim_trailing_whitespace = false
+insert_final_newline = false

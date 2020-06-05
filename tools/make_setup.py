@@ -66,18 +66,19 @@ os.system('tools\\mmarch df2n "6_setup/dev/zh_TW/mm8_zh_update/files" "6_setup/d
 
 # make_setup Step 2: makensis (use /SOLID lzma for all) in cmd, type:
 
-"C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_CN/mmmerge/mm_i18n.nsi"
-"C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_CN/mm8/mm_i18n.nsi"
-"C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_CN/mm8_zh_update/mm_i18n.nsi"
+# "C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_CN/mmmerge/mm_i18n.nsi"
+# "C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_CN/mm8/mm_i18n.nsi"
+# "C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_CN/mm8_zh_update/mm_i18n.nsi"
 
-"C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_TW/mmmerge/mm_i18n.nsi"
-"C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_TW/mm8/mm_i18n.nsi"
-"C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_TW/mm8_zh_update/mm_i18n.nsi"
+# "C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_TW/mmmerge/mm_i18n.nsi"
+# "C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_TW/mm8/mm_i18n.nsi"
+# "C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_TW/mm8_zh_update/mm_i18n.nsi"
 
 
 
-# make_setup Step 3: Clean Up
+# make_setup Step 3: Clean Up and Move Out installation .exe files
 
+# Path('6_setup/prod/').mkdir(exist_ok=True)
 # for fLang in getFilePaths(Path('6_setup/dev'), '', False):
 # 	for fVer in getFilePaths(fLang, '', False):
 # 		fTemp = fVer.joinpath('files')
@@ -92,3 +93,8 @@ os.system('tools\\mmarch df2n "6_setup/dev/zh_TW/mm8_zh_update/files" "6_setup/d
 # 		fTemp = fVer.joinpath('icon.ico')
 # 		if fTemp.exists():
 # 			os.remove(str(fTemp))
+
+# 		fTempList = getFilePaths(fVer, 'exe', False)
+# 		if len(fTempList) > 0:
+# 			fTemp = fTempList[0]
+# 			shutil.move(str(fTemp), '6_setup/prod/' + fTemp.name)

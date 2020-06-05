@@ -182,6 +182,10 @@ Ctrl+F1打开控制台
 
    CHE存盘作弊器无法用于678整合版。
 
+1. **我不想将.exe的补丁安装文件安装到游戏文件夹，只想把补丁文件解压出来，应该怎么做？**
+
+   免费开源的[7-Zip](https://www.7-zip.org/download.html)不但可以解压.7z、.zip等压缩包文件，还可以解压这里的.exe补丁安装文件（这里的.exe都是LZMA算法压缩的，7-Zip支持）。
+
 1. **如何将整合版或魔法门8灰脸补丁的简体中文版转为繁体中文版（或反之）？**
 
    打上繁体中文语言包后手动删除`/Data/Text localization/ZHCN*.txt`（仅整合版有这5个文件）、`z10 LocZHCN.icons.lod`（仅整合版有）、`/Data/10 LocZHCN.EnglishT.lod`、`/Data/10 LocZHCN.EnglishD.lod`。由繁转简类似。以后的语言补丁可能会自动删这些文件。

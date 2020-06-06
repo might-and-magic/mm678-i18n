@@ -21,8 +21,8 @@
 
 | 你现在有的 | 你想要的 | 怎样做 |
 |----|----|----|
-| 魔法门8原版（简体 或 繁体中文 或 英文） | 魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8简体中文升级灰脸完美补丁](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_CN_Update_2020-06-05.7z)（灰脸补丁、MMExtension、高压缩低音质音乐、简体中文语言包合一） |
-| 魔法门8原版（简体 或 繁体中文 或 英文） | 魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8繁体中文升级灰脸完美补丁](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_TW_Update_2020-06-05.7z)（灰脸补丁、MMExtension、高压缩低音质音乐、简体中文语言包合一） |
+| 魔法门8原版（简体 或 繁体中文 或 英文） | 魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8简体中文升级灰脸完美补丁](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_CN_Update_2020-06-05.7z)（灰脸补丁、MMExtension、高压缩低音质音乐、中文语言包合一） |
+| 魔法门8原版（简体 或 繁体中文 或 英文） | 魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8繁体中文升级灰脸完美补丁](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_TW_Update_2020-06-05.7z)（灰脸补丁、MMExtension、高压缩低音质音乐、中文语言包合一） |
 | 魔法门8原版（英文） | 魔法门8灰脸补丁高清完美版（英文） | 下载使用[魔法门8灰脸补丁](https://grayface.github.io/mm/#GrayFace-MM8-Patch)，然后自已将从2开始编号的MP3或WAV背景音乐文件放入Music文件夹中 |
 | 魔法门8灰脸补丁高清完美版（英文） | 魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8灰脸补丁简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_CN_2020-06-05.7z)（如无音乐则需放入音乐文件） |
 | 魔法门8灰脸补丁高清完美版（英文） | 魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8灰脸补丁繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.0/MM8_zh_TW_2020-06-05.7z)（如无音乐则需放入音乐文件） |

@@ -122,5 +122,42 @@
 121	Grognard
 122	Hairbaugh
 123	Q
-124	Placeholder
-125	Placeholder
+124	Queen Spider
+125	Fallen Defender
+126	Snergle
+127	Rogue Leader
+128	Lesser Genie
+129	Ethric
+130	Werewolf Leader
+131	Agar
+132	Slicker Silvertongue
+133	Q
+134	Lich King
+135	Lurch
+136	Sentinel of Varn
+137	Longfang Witherhide
+138	Devil of Baa
+139	Trip Hawkins
+140	Greg Fulton
+141	William Nesemeier
+142	Andy Grumm
+143	Mark  Caldwell
+144	Peter Ryu
+145	Scott McDaniel
+146	 Keith Francart
+147	Bonnie Long-Hemssath
+148	Becky Christel
+149	Rob King
+150	Steve Baca
+151	Rick Sanchez
+152	Helena Wickberg
+153	John Bolton
+154	Anthony Rizo
+155	Bruce Miyake
+156	NWC Employee
+157	Randy Ruckel
+158	Karl Fischer
+159	David Casso
+160	Morcarack
+161	Placeholder
+162	Placeholder

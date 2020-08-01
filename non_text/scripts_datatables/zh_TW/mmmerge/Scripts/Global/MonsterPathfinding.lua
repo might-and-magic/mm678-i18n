@@ -670,6 +670,12 @@ local function SortQueue()
 	table.sort(AStarQueue, AStarQueueSort)
 end
 
+local function ClearQueue()
+	while #AStarQueue > 0 do
+		tremove(AStarQueue)
+	end
+end
+
 local function ProcessThreads()
 	if #AStarQueue == 0 then
 		return
@@ -956,12 +962,15 @@ end
 local function PathfinderTick()
 	ProcessNextMon()
 	ProcessThreads()
-	--PositionCheck()
 end
 
 --------------------------------------------------
 --					Events						--
 --------------------------------------------------
+
+function events.BeforeLoadMap()
+	ClearQueue()
+end
 
 function events.AfterLoadMap()
 	MonsterWays = {}

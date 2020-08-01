@@ -15,7 +15,7 @@
 !define MMLANG "Traditional Chinese"
 !define MMLANGCODE "zh_TW"
 !define FileNameStr "Update"
-!define VERSION "2020-06-05"
+!define VERSION "2020-08-01"
 
 !define VERSIONDOT "4.0.0.0"
 

@@ -2,7 +2,6 @@
 /2_dev/
 /4_prod/
 /5_postprod/
-/6_finalprod/
 /non_text/sound/
 /non_text/video/
 /note/others/
@@ -145,6 +144,21 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# WebStorm
+.idea/
+
+# vi
+*~
+
+# General
+log/
+*.log
 
 # === MicrosoftOffice.gitignore ===
 

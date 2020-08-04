@@ -24,6 +24,8 @@ Run tools/make_postprod.py to generate 5_postprod/
 
 Make 6_setup/ with tools/make_setup.py (open make_setup.py and follow the 3 steps)
 
+Make .7z for each .exe file in 6_setup/prod
+
 ## Simplified Chinese to Traditional Chinese
 
 Run tools/zhconvert.py

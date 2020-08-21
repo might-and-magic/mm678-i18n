@@ -165,6 +165,17 @@ end
 local TimerPeriod = 2*const.Minute
 local MiscItemsEffects = {}
 
+local function PartyHasItem(item_num)
+	for _, pl in Party do
+		for _, item in pl.Items do
+			if item.Number == item_num then
+				return true
+			end
+		end
+	end
+	return false
+end
+
 local function SetBuffs()
 
 	for iR, Player in Party do
@@ -183,7 +194,7 @@ local function SetBuffs()
 	end
 
 	for k,v in pairs(MiscItemsEffects) do
-		if evt.ForPlayer("All").Cmp{"Inventory", k} then
+		if PartyHasItem(k) then
 			v()
 		end
 	end

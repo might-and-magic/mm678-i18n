@@ -8,28 +8,28 @@
 
 注：
 
-* 魔法门678整合版官方英文版最新版于2020-07-12发布。以下任何繁简中文语言包的最新版本号：v2.1，均于2020-08-01发布
+* 魔法门678整合版官方英文版最新版于2020-08-16发布。以下任何繁简中文语言包的最新版本号：v2.2，均于2020-08-21发布
 * 使用任一语言包或整合版英文更新补丁时，将补丁文件放于游戏目录下执行即可，结束后可删除补丁文件
 
 | 你现在有的 | 你想要的 | 怎样做 |
 |----|----|----|
 | 无 | 魔法门678整合版（英文） | 阅读下文段落“[魔法门678整合版的下载地址和使用方法](#魔法门678整合版的下载地址和使用方法)” |
-| 魔法门678整合版（英文） | 魔法门678整合版（简体中文） | 下载使用[魔法门678整合版简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.1/MMMerge_zh_CN_2020-08-01.7z) |
-| 魔法门678整合版（英文） | 魔法门678整合版（繁体中文） | 下载使用[魔法门678整合版繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.1/MMMerge_zh_TW_2020-08-01.7z) |
-| 旧版魔法门678整合版（英文） | （更新到新版）魔法门678整合版（英文） | 下载使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-07-12/MMMerge_Update_2020-07-12.7z) |
-| 旧版魔法门678整合版（简体中文） | （更新到新版）魔法门678整合版（简体中文） | 下载并依次使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-07-12/MMMerge_Update_2020-07-12.7z)和[魔法门678整合版简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.1/MMMerge_zh_CN_2020-08-01.7z) |
-| 旧版魔法门678整合版（繁体中文） | （更新到新版）魔法门678整合版（繁体中文） | 下载并依次使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-07-12/MMMerge_Update_2020-07-12.7z)和[魔法门678整合版繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.1/MMMerge_zh_TW_2020-08-01.7z) |
+| 魔法门678整合版（英文） | 魔法门678整合版（简体中文） | 下载使用[魔法门678整合版简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_CN_2020-08-21.7z) |
+| 魔法门678整合版（英文） | 魔法门678整合版（繁体中文） | 下载使用[魔法门678整合版繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_TW_2020-08-21.7z) |
+| 旧版魔法门678整合版（英文） | （更新到新版）魔法门678整合版（英文） | 下载使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16/MMMerge_Update_2020-08-16.7z) |
+| 旧版魔法门678整合版（简体中文） | （更新到新版）魔法门678整合版（简体中文） | 下载并依次使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16/MMMerge_Update_2020-08-16.7z)和[魔法门678整合版简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_CN_2020-08-21.7z) |
+| 旧版魔法门678整合版（繁体中文） | （更新到新版）魔法门678整合版（繁体中文） | 下载并依次使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16/MMMerge_Update_2020-08-16.7z)和[魔法门678整合版繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_TW_2020-08-21.7z) |
 | 整合版 / MM8灰脸（简体中文） | （转为）繁体中文版 | 简繁版本转换，见“[其他常见问题解答](#其他常见问题解答)”的最后一条 |
 
 | 你现在有的 | 你想要的 | 怎样做 |
 |----|----|----|
-| 魔法门8原版（简体 或 繁体中文 或 英文） | 魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8简体中文升级灰脸完美补丁](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.1/MM8_zh_CN_Update_2020-08-01.7z)（灰脸补丁、MMExtension、高压缩低音质音乐、中文语言包合一） |
-| 魔法门8原版（简体 或 繁体中文 或 英文） | 魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8繁体中文升级灰脸完美补丁](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.1/MM8_zh_TW_Update_2020-08-01.7z)（灰脸补丁、MMExtension、高压缩低音质音乐、中文语言包合一） |
+| 魔法门8原版（简体 或 繁体中文 或 英文） | 魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8简体中文升级灰脸完美补丁](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MM8_zh_CN_Update_2020-08-21.7z)（灰脸补丁、MMExtension、高压缩低音质音乐、中文语言包合一） |
+| 魔法门8原版（简体 或 繁体中文 或 英文） | 魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8繁体中文升级灰脸完美补丁](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MM8_zh_TW_Update_2020-08-21.7z)（灰脸补丁、MMExtension、高压缩低音质音乐、中文语言包合一） |
 | 魔法门8原版（英文） | 魔法门8灰脸补丁高清完美版（英文） | 下载使用[魔法门8灰脸补丁](https://grayface.github.io/mm/#GrayFace-MM8-Patch)，然后自已将从2开始编号的MP3或WAV背景音乐文件放入Music文件夹中 |
-| 魔法门8灰脸补丁高清完美版（英文） | 魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8灰脸补丁简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.1/MM8_zh_CN_2020-08-01.7z)（如无音乐则需放入音乐文件） |
-| 魔法门8灰脸补丁高清完美版（英文） | 魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8灰脸补丁繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.1/MM8_zh_TW_2020-08-01.7z)（如无音乐则需放入音乐文件） |
-| 旧版魔法门8灰脸补丁高清完美版（简体中文） | （更新到新版）魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8灰脸补丁简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.1/MM8_zh_CN_2020-08-01.7z) |
-| 旧版魔法门8灰脸补丁高清完美版（繁体中文） | （更新到新版）魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8灰脸补丁繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.1/MM8_zh_TW_2020-08-01.7z) |
+| 魔法门8灰脸补丁高清完美版（英文） | 魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8灰脸补丁简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MM8_zh_CN_2020-08-21.7z)（如无音乐则需放入音乐文件） |
+| 魔法门8灰脸补丁高清完美版（英文） | 魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8灰脸补丁繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MM8_zh_TW_2020-08-21.7z)（如无音乐则需放入音乐文件） |
+| 旧版魔法门8灰脸补丁高清完美版（简体中文） | （更新到新版）魔法门8灰脸补丁高清完美版（简体中文） | 下载使用[魔法门8灰脸补丁简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MM8_zh_CN_2020-08-21.7z) |
+| 旧版魔法门8灰脸补丁高清完美版（繁体中文） | （更新到新版）魔法门8灰脸补丁高清完美版（繁体中文） | 下载使用[魔法门8灰脸补丁繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MM8_zh_TW_2020-08-21.7z) |
 
 | 你现在有的 | 你想要的 | 怎样做 |
 |----|----|----|
@@ -48,7 +48,7 @@
 
 英文原版整合版文件下载：[魔法门678整合版英文讨论原帖](https://www.celestialheavens.com/forum/10/16657)（内有具体的英文介绍和MEGA网盘下载）；或者，[贴吧网友1qwop0](https://tieba.baidu.com/p/6038711539)上传在了百度网盘（[进入网盘](https://pan.baidu.com/s/1PxPHLD0wyNrMgUjLQrc8PA)；提取码：j6xv）方便国内玩家下载。请下载任一完整的（一点几GB大小的）英文原版整合版（如网盘里的MM678 Merged 17.03.2020.zip）。
 
-然后下载并打上魔法门678整合版英文更新补丁，以更新到最新的整合版。上述网盘有zip覆盖更新包；或者使用可执行的更新补丁：[GitHub下载链接](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-07-12/MMMerge_Update_2020-07-12.7z)，下面所说的语言包的百度网盘里也有。
+然后下载并打上魔法门678整合版英文更新补丁，以更新到最新的整合版。上述网盘有zip覆盖更新包；或者使用可执行的更新补丁：[GitHub下载链接](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16/MMMerge_Update_2020-08-16.7z)，下面所说的语言包的百度网盘里也有。
 
 ## 语言包下载地址
 
@@ -142,11 +142,15 @@ Ctrl+F1打开控制台
    
    打了GrayFace补丁的魔法门6可以全屏，但魔法门6游戏本身无3D硬件加速，无法高清。想体验高清的魔法门6恩洛斯大陆，请玩678整合版。
 
-1. **游戏有没有兼容性问题？为什么我打开MM8Setup.Exe（或7），“3D硬件加速”一栏是灰色的无法点击？**
+1. **游戏有没有兼容性问题？为什么我打开MM8Setup.Exe（或7），“3D硬件加速”一栏是灰色的无法点击（或者完全无法打开）？**
 
    游戏在Windows 8或以下版本Win操作系统下运行通常没有问题。
    
-   游戏也可以在游戏在Windows 10下运行，但如果MM8Setup.Exe中“3D硬件加速”一栏是灰色的无法点击，那么需要：右键点击mm8.exe和MM8Setup.exe（或7）->属性->“兼容性”选项卡->“以兼容模式运行这个程序”打钩->下拉菜单中选择“Windows XP (Service Pack 3)”的兼容模式->确定
+   游戏也可以在游戏在Windows 10下运行，但如果MM8Setup.Exe中“3D硬件加速”一栏是灰色的无法点击（或者完全无法打开），那么需要：右键点击mm8.exe和MM8Setup.exe（或7）->属性->“兼容性”选项卡->“以兼容模式运行这个程序”打钩->下拉菜单中选择“Windows XP (Service Pack 3)”的兼容模式->确定
+
+1. **我首次运行整合版，为什么会黑屏僵住，像死机了一样？**
+
+   首次运行整合版时，程序会自动生成DataFiles文件夹及其下所有文件，这需要一些时间，时间视你电脑CPU的性能而定
 
 1. **GrayFace补丁/整合版相对于原版新增的快捷键有哪些？**
 
@@ -206,12 +210,13 @@ Ctrl+F1打开控制台
 * [2020-02-03] v1.1：修复了.str中字串过长进入地图跳出的问题；Global.txt里的翻译修正
 * [2020-02-04] v1.1.1：修复了setPlayerName()的问题；主题和选项画面、三大陆图等加中文，MM8 logo换掉；解决翡翠岛上NPC对话无法翻译的问题
 * [2020-02-12] v1.2：统一职业、技能、属性、魔法、生物、物品、词缀、地图等的翻译；全部译完；MM6翻译使用“完美版”；NPCText.txt根据整合版修改；修复了mm?lang.ini中的中文的显示问题；MM8Setup.Exe的汉化和修图
-* [2020-02-12] v1.2.1：修复文字中的“{}”符号
+* [2020-02-12] v1.2.1：hotfix：修复文字中的“{}”符号
 * [2020-02-21] v1.2.2：技能专家大师描述检查统一；火炬加点数问题修复；火炬名；“游侠/武士”（Paladin）改为“圣武士”
 * [2020-03-03] v1.3：谜语和需键盘输入处（阴影教传送门、黑摩尔城堡棺材、最终的失控混沌谜语等）跳出问题修复；弓箭和榴弹枪恢复时间无下限；“缺口”（Breach）改为“大裂缝”；翻译维尔丹任务、大裂缝及其地下室、少数升职任务未译字串；通关证书翻译和背景修饰；魔幻牌几张牌修正；加入魔法门8简中升级包
 * [2020-03-04] v1.3.1：hotfix：修复将队员姓名替换为吸血鬼飞龙等的问题
-* [2020-06-05] v2.0：根据新版整合版升级；发布繁体；魔法门8的“历史”未译的按原文翻译，部分重译；修复失控混沌NPC姓名问题；修复无法读LocalizeTables.*.txt中含多行的字串问题
-* [2020-08-01] v2.1：根据新版整合版升级；一些魔法描述的小修正；特殊怪物及NWC地下城内员工名的翻译
+* [2020-06-05] v2.0：根据最新2020-05-26版整合版升级；发布繁体；魔法门8的“历史”未译的按原文翻译，部分重译；修复失控混沌NPC姓名问题；修复无法读LocalizeTables.*.txt中含多行的字串问题
+* [2020-08-01] v2.1：根据最新2020-07-12版整合版升级；一些魔法描述的小修正；特殊怪物及NWC地下城内员工名的翻译
+* [2020-08-21] v2.2：根据最新2020-08-16版整合版升级；NPC对话（主要是魔法门6中的）的修正；修复繁体的部分字串未显示的问题
 
 ## 截图
 

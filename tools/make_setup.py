@@ -14,7 +14,7 @@ os.rename('6_setup/dev/zh_CN/mmmerge/mmmerge.ico', '6_setup/dev/zh_CN/mmmerge/ic
 shutil.copytree(Path('6_setup/additional_files/zh/mmmerge/zh'), Path('6_setup/dev/zh_CN/mmmerge/files'))
 copy_tree('5_postprod/zh_CN/mmmerge', '6_setup/dev/zh_CN/mmmerge/files')
 os.system('tools\\mmarch df2n "6_setup/dev/zh_CN/mmmerge/files" "6_setup/dev/zh_CN/mmmerge/script.nsi" "files"')
-# manually update mm_i18n.nsi if necessary
+# manually update mm_i18n.nsi if necessary (i.e. if ;--FILE COPYING-- block changes)
 
 # zh_CN/mm8
 shutil.copy(Path('tools/mmarch.exe'), Path('6_setup/dev/zh_CN/mm8'))
@@ -23,7 +23,7 @@ os.rename('6_setup/dev/zh_CN/mm8/mm8.ico', '6_setup/dev/zh_CN/mm8/icon.ico')
 shutil.copytree(Path('6_setup/additional_files/zh/mm8/zh'), Path('6_setup/dev/zh_CN/mm8/files'))
 copy_tree('5_postprod/zh_CN/mm8', '6_setup/dev/zh_CN/mm8/files')
 os.system('tools\\mmarch df2n "6_setup/dev/zh_CN/mm8/files" "6_setup/dev/zh_CN/mm8/script.nsi" "files"')
-# manually update mm_i18n.nsi if necessary
+# manually update mm_i18n.nsi if necessary (i.e. if ;--FILE COPYING-- block changes)
 
 # zh_CN/mm8_zh_update
 shutil.copy(Path('tools/mmarch.exe'), Path('6_setup/dev/zh_CN/mm8_zh_update'))
@@ -32,7 +32,7 @@ os.rename('6_setup/dev/zh_CN/mm8_zh_update/mm8.ico', '6_setup/dev/zh_CN/mm8_zh_u
 shutil.copytree(Path('6_setup/additional_files/zh/mm8/zh_update'), Path('6_setup/dev/zh_CN/mm8_zh_update/files'))
 copy_tree('5_postprod/zh_CN/mm8', '6_setup/dev/zh_CN/mm8_zh_update/files')
 os.system('tools\\mmarch df2n "6_setup/dev/zh_CN/mm8_zh_update/files" "6_setup/dev/zh_CN/mm8_zh_update/script.nsi" "files"')
-# manually update mm_i18n.nsi if necessary
+# manually update mm_i18n.nsi if necessary (i.e. if ;--FILE COPYING-- block changes)
 
 
 # zh_TW/mmmerge
@@ -42,7 +42,7 @@ os.rename('6_setup/dev/zh_TW/mmmerge/mmmerge.ico', '6_setup/dev/zh_TW/mmmerge/ic
 shutil.copytree(Path('6_setup/additional_files/zh/mmmerge/zh'), Path('6_setup/dev/zh_TW/mmmerge/files'))
 copy_tree('5_postprod/zh_TW/mmmerge', '6_setup/dev/zh_TW/mmmerge/files')
 os.system('tools\\mmarch df2n "6_setup/dev/zh_TW/mmmerge/files" "6_setup/dev/zh_TW/mmmerge/script.nsi" "files"')
-# manually update mm_i18n.nsi if necessary
+# manually update mm_i18n.nsi if necessary (i.e. if ;--FILE COPYING-- block changes)
 
 # zh_TW/mm8
 shutil.copy(Path('tools/mmarch.exe'), Path('6_setup/dev/zh_TW/mm8'))
@@ -51,7 +51,7 @@ os.rename('6_setup/dev/zh_TW/mm8/mm8.ico', '6_setup/dev/zh_TW/mm8/icon.ico')
 shutil.copytree(Path('6_setup/additional_files/zh/mm8/zh'), Path('6_setup/dev/zh_TW/mm8/files'))
 copy_tree('5_postprod/zh_TW/mm8', '6_setup/dev/zh_TW/mm8/files')
 os.system('tools\\mmarch df2n "6_setup/dev/zh_TW/mm8/files" "6_setup/dev/zh_TW/mm8/script.nsi" "files"')
-# manually update mm_i18n.nsi if necessary
+# manually update mm_i18n.nsi if necessary (i.e. if ;--FILE COPYING-- block changes)
 
 # zh_TW/mm8_zh_update
 shutil.copy(Path('tools/mmarch.exe'), Path('6_setup/dev/zh_TW/mm8_zh_update'))
@@ -60,11 +60,11 @@ os.rename('6_setup/dev/zh_TW/mm8_zh_update/mm8.ico', '6_setup/dev/zh_TW/mm8_zh_u
 shutil.copytree(Path('6_setup/additional_files/zh/mm8/zh_update'), Path('6_setup/dev/zh_TW/mm8_zh_update/files'))
 copy_tree('5_postprod/zh_TW/mm8', '6_setup/dev/zh_TW/mm8_zh_update/files')
 os.system('tools\\mmarch df2n "6_setup/dev/zh_TW/mm8_zh_update/files" "6_setup/dev/zh_TW/mm8_zh_update/script.nsi" "files"')
-# manually update mm_i18n.nsi if necessary
+# manually update mm_i18n.nsi if necessary (i.e. if ;--FILE COPYING-- block changes)
 
 
 
-# make_setup Step 2: makensis (use /SOLID lzma for all) in cmd, type:
+# make_setup Step 2: makensis (use /SOLID lzma for all), in cmd (C:\Users\Chen\githubprojects\might-and-magic\mm678-i18n>), type:
 
 # "C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_CN/mmmerge/mm_i18n.nsi"
 # "C:\Program Files (x86)\NSIS\makensis" /X"SetCompressor /SOLID lzma" "6_setup/dev/zh_CN/mm8/mm_i18n.nsi"
@@ -98,3 +98,10 @@ os.system('tools\\mmarch df2n "6_setup/dev/zh_TW/mm8_zh_update/files" "6_setup/d
 # 		if len(fTempList) > 0:
 # 			fTemp = fTempList[0]
 # 			shutil.move(str(fTemp), '6_setup/prod/' + fTemp.name)
+
+
+
+# make_setup Step 4: exes to 7-zip archives, in cmd, type:
+
+# cd 6_setup\prod
+# for /r %f in (*) do "C:\Program Files\7-Zip\7z.exe" a -t7z "%~nf.7z" "%~nf.exe" -m0=lzma2 -mx=9 -aoa && del "%~nf.exe"

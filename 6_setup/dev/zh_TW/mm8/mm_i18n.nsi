@@ -14,7 +14,7 @@
 !define MMVERSION "8" ; 6 or 7 or 8 or Merge
 !define MMLANG "Traditional Chinese"
 !define MMLANGCODE "zh_TW"
-!define VERSION "2020-08-01"
+!define VERSION "2020-08-21"
 
 !define VERSIONDOT "4.0.0.0"
 

@@ -1,5 +1,7 @@
 # Workflow
 
+*(See .gitignore for a list of folders and files that can be safely deleted. Note that 6_setup/additional_files and 6_setup/dev cannot be deleted)*
+
 ## Start a new language version
 
 In settings.py, change `source_encoding`, also change `custom_list` and `conflict_priority` if necessary
@@ -7,6 +9,20 @@ In settings.py, change `source_encoding`, also change `custom_list` and `conflic
 Add 0_source/LANG/
 
 Use csv2po.py `exec()` to generate files
+
+## Simplified Chinese to Traditional Chinese
+
+Run tools/zhconvert.py
+
+## Everything that need to be done when there is an MM Merge update
+
+Update tools/versions.py and 6_setup/dev/LANG/MMVER/mm_i18n.nsi
+
+Replace MM Merge Version (date format) and Lang Versions (date format and dot format) in docs/zh/README.md, write changelog
+
+Update non_text/scripts_datatables/LANG/mmmerge/ (ALL LANGs!)
+
+Then do what "Updating & production making" says
 
 ## Updating & production making
 
@@ -22,20 +38,4 @@ csv2po.py:
 
 Run tools/make_postprod.py to generate 5_postprod/
 
-Make 6_setup/ with tools/make_setup.py (open make_setup.py and follow the 3 steps)
-
-Make .7z for each .exe file in 6_setup/prod
-
-## Simplified Chinese to Traditional Chinese
-
-Run tools/zhconvert.py
-
-## Everything that need to be done after an MM Merge update
-
-Update tools/versions.py and 6_setup/dev/LANG/MMVER/mm_i18n.nsi
-
-Replace MM Merge Version (date format) and Lang Versions (date format and dot format) in docs/zh/README.md, write changelog
-
-Update non_text/scripts_datatables/LANG/mmmerge/
-
-Then do what "Updating & production making" says
+Make 6_setup/ with tools/make_setup.py (open make_setup.py and follow the 4 steps)

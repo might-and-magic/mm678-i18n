@@ -226,6 +226,8 @@ Ctrl+F1打开控制台
 
 ![魔法门678整合版简体中文版截图2](https://github.com/might-and-magic/mm678-i18n/raw/master/docs/img/mmerge_zhcn_2.jpg)
 
+![魔法门678整合版简体中文版截图3](https://github.com/might-and-magic/mm678-i18n/raw/master/docs/img/mmerge_zhcn_3.jpg)
+
 ## 版权
 
 版权声明见[LICENSE文件](https://github.com/might-and-magic/mm678-i18n/blob/master/LICENSE.md)：代码使用MIT License；“魔法门”商标和魔法门游戏文件版权属育碧公司，合理使用，不含游戏主体；GrayFace的补丁和工具见[其LICENSE文件](https://github.com/GrayFace/Misc/blob/master/LICENSE)。

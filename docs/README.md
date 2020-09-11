@@ -11,3 +11,15 @@ You can go to [github.com/might-and-magic](https://github.com/might-and-magic) t
 目前仅有魔法门678整合版和魔法门8的简体繁体中文语言包。更多将在今后发布。
 
 [简体繁体中文版详细介绍文字请点击此处 Description in Chinese](https://might-and-magic.github.io/mm678-i18n/zh/)
+
+## Usage for developers
+
+See [workflow.md](https://github.com/might-and-magic/mm678-i18n/blob/master/workflow.md) for details
+
+## License
+
+See [LICENSE.md](https://github.com/might-and-magic/mm678-i18n/blob/master/LICENSE.md) for details
+
+<p align="center">
+<img src="https://github.com/might-and-magic/mm678-i18n/blob/master/docs/img/mm678-i18n_social_preview.jpg" alt="MM678 I18N Social Preview Image" title="MM678 I18N Social Preview Image">
+</p>

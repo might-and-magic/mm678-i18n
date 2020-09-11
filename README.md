@@ -19,3 +19,7 @@ See [workflow.md](https://github.com/might-and-magic/mm678-i18n/blob/master/work
 ## License
 
 See [LICENSE.md](https://github.com/might-and-magic/mm678-i18n/blob/master/LICENSE.md) for details
+
+<p align="center">
+<img src="https://github.com/might-and-magic/mm678-i18n/blob/master/docs/img/mm678-i18n_social_preview.jpg" alt="MM678 I18N Social Preview Image" title="MM678 I18N Social Preview Image">
+</p>

@@ -2,7 +2,7 @@
 
 高清硬3D的魔法门678整合版以及魔法门6、7、8的GrayFace灰脸补丁的简体繁体中文语言包（以及其他语言包）
 
-（[黑底阅读本文](https://might-and-magic.github.io/mm678-i18n/zh/)；[白底阅读本文](https://github.com/might-and-magic/mm678-i18n/tree/master/docs/zh)）
+（[黑底阅读本文](https://might-and-magic.github.io/mm678-i18n/zh/)；[白底阅读本文](https://github.com/might-and-magic/mm678-i18n/blob/master/docs/zh/README.md)）
 
 ## 简表
 
@@ -11,14 +11,16 @@
 * 魔法门678整合版官方英文版最新版于2020-08-16发布。以下任何繁简中文语言包的最新版本号：v2.2，均于2020-08-21发布
 * 使用任一语言包或整合版英文更新补丁时，将补丁文件放于游戏目录下执行即可，结束后可删除补丁文件
 
+（9月25日发布的2020-08-16fix版本修正了一个重要的、任务直接完成和对话位移的bug，9月25日之前下载者请下载并打上新的[整合版英文更新补丁2020-08-16fix](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16fix/MMMerge_Update_2020-08-16fix.7z)后再重新打上8月21日的[整合版简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_CN_2020-08-21.7z)（或[繁体](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_TW_2020-08-21.7z)））
+
 | 你现在有的 | 你想要的 | 怎样做 |
 |----|----|----|
 | 无 | 魔法门678整合版（英文） | 阅读下文段落“[魔法门678整合版的下载地址和使用方法](#魔法门678整合版的下载地址和使用方法)” |
 | 魔法门678整合版（英文） | 魔法门678整合版（简体中文） | 下载使用[魔法门678整合版简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_CN_2020-08-21.7z) |
 | 魔法门678整合版（英文） | 魔法门678整合版（繁体中文） | 下载使用[魔法门678整合版繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_TW_2020-08-21.7z) |
-| 旧版魔法门678整合版（英文） | （更新到新版）魔法门678整合版（英文） | 下载使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16/MMMerge_Update_2020-08-16.7z) |
-| 旧版魔法门678整合版（简体中文） | （更新到新版）魔法门678整合版（简体中文） | 下载并依次使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16/MMMerge_Update_2020-08-16.7z)和[魔法门678整合版简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_CN_2020-08-21.7z) |
-| 旧版魔法门678整合版（繁体中文） | （更新到新版）魔法门678整合版（繁体中文） | 下载并依次使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16/MMMerge_Update_2020-08-16.7z)和[魔法门678整合版繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_TW_2020-08-21.7z) |
+| 旧版魔法门678整合版（英文） | （更新到新版）魔法门678整合版（英文） | 下载使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16fix/MMMerge_Update_2020-08-16fix.7z) |
+| 旧版魔法门678整合版（简体中文） | （更新到新版）魔法门678整合版（简体中文） | 下载并依次使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16fix/MMMerge_Update_2020-08-16fix.7z)和[魔法门678整合版简体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_CN_2020-08-21.7z) |
+| 旧版魔法门678整合版（繁体中文） | （更新到新版）魔法门678整合版（繁体中文） | 下载并依次使用[魔法门678整合版英文更新补丁](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16fix/MMMerge_Update_2020-08-16fix.7z)和[魔法门678整合版繁体中文语言包](https://github.com/might-and-magic/mm678-i18n/releases/download/v2.2/MMMerge_zh_TW_2020-08-21.7z) |
 | 整合版 / MM8灰脸（简体中文） | （转为）繁体中文版 | 简繁版本转换，见“[其他常见问题解答](#其他常见问题解答)”的最后一条 |
 
 | 你现在有的 | 你想要的 | 怎样做 |
@@ -48,7 +50,7 @@
 
 英文原版整合版文件下载：[魔法门678整合版英文讨论原帖](https://www.celestialheavens.com/forum/10/16657)（内有具体的英文介绍和MEGA网盘下载）；或者，[贴吧网友1qwop0](https://tieba.baidu.com/p/6038711539)上传在了百度网盘（[进入网盘](https://pan.baidu.com/s/1PxPHLD0wyNrMgUjLQrc8PA)；提取码：j6xv）方便国内玩家下载。请下载任一完整的（一点几GB大小的）英文原版整合版（如网盘里的MM678 Merged 17.03.2020.zip）。
 
-然后下载并打上魔法门678整合版英文更新补丁，以更新到最新的整合版。上述网盘有zip覆盖更新包；或者使用可执行的更新补丁：[GitHub下载链接](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16/MMMerge_Update_2020-08-16.7z)，下面所说的语言包的百度网盘里也有。
+然后下载并打上魔法门678整合版英文更新补丁，以更新到最新的整合版。上述网盘有zip覆盖更新包；或者使用可执行的更新补丁：[GitHub下载链接](https://github.com/might-and-magic/mmmerge-update-patch/releases/download/2020-08-16fix/MMMerge_Update_2020-08-16fix.7z)，下面所说的语言包所在的百度网盘里也有。
 
 ## 语言包下载地址
 
@@ -210,7 +212,7 @@ Ctrl+F1打开控制台
 
 * [2020-01-24] v0.9：初始发布
 * [2020-01-25] v0.9.1：修改了存档文件名导致崩溃的问题
-* [2020-02-02] v1.0：修复显示不正常问题；修复无.fnt文件跳出问题；加了mm6的中文语音，几乎全部汉化；统一了几乎所有标题名字的字串的翻译；NPC姓名的本地化文件放于Data下；加强公式用乘以；魔幻牌图片
+* [2020-02-02] v1.0：修复显示不正常问题；修复无.fnt文件跳出问题；加了mm6的中文语音，几乎全部汉化；统一了几乎所有标题名字的字串的翻译；NPC姓名的本地化文件放于Data下；怪物强化公式用乘以（但在2020-06-05版本中还原为了原版整合版的设置）；魔幻牌图片
 * [2020-02-03] v1.1：修复了.str中字串过长进入地图跳出的问题；Global.txt里的翻译修正
 * [2020-02-04] v1.1.1：修复了setPlayerName()的问题；主题和选项画面、三大陆图等加中文，MM8 logo换掉；解决翡翠岛上NPC对话无法翻译的问题
 * [2020-02-12] v1.2：统一职业、技能、属性、魔法、生物、物品、词缀、地图等的翻译；全部译完；MM6翻译使用“完美版”；NPCText.txt根据整合版修改；修复了mm?lang.ini中的中文的显示问题；MM8Setup.Exe的汉化和修图

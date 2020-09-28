@@ -1,6 +1,5 @@
 ## To do
 
-* 5_mm6chup_special_for_zh
 * 安装包清理其他语言
 * 安装包整合补丁没法装在mm8但mm8的补丁可以装在整合上，应让后者也不可以
 * 视频本地化
@@ -14,11 +13,9 @@
 
 这2-3条是翡翠岛NPC的对话的几个条目，好像是标题为龙蝇，火焰抗性这几个，若楼主有时间跑趟翡翠岛随便找几个npc对话就能看到，包括对话条目和对话内容都是英文。
 
-盗窃术对应为空手搏斗术，交际术对应为炼金术，这个错误出现在一些对话条目，以及以下神器（我自己已改过）
-
-有几个属性，好像是神器，写着提高灵魂抗性实际上是提高心系抗性，（因为没有灵魂抗性）。
-
-施放备用魔法 检查
+msgid "(Personality +80, Intellect +70, -30 Mind and Spirit resistances) The final stage of degeneration from their human form leaves a Lich completely soulless and thus immune to certain magics. Such liches often curse their personal items with vulnerabilities to these magics to dissuade others from using them."
+msgstr "（个性增加80点，智力增加70点，减少30点心系和魂系抗性）从人类退化成巫妖的最后一个阶段让巫妖的灵魂完全消失，导致对某些魔法完全免疫。这些巫妖往往会诅咒某些自己所使用的物品，让其它的人无法使用这些宝物。"
+不存在魂系抗性？？
 
 * 简中文字翻译
   * 单个魔法描述和其专家大师描述也要检查统一(DOING)
@@ -27,15 +24,12 @@
   * 杀伤/伤害/攻击力；技术->技能 这些词的用法
 * 简中包其他
   * 魔法门7、6的灰脸补丁的简体中文汉化
-  * 怪物强化公式再换换？
-  * 中文视频可能放进来？(DOING)
-  * 指南针改中文的吧
+  * 中文视频可能放进来？
 * 他人反馈（与字串相关但并非仅简中）
   * 怎么穿越
   * MM6开头介绍
   * 方尖塔记录消失问题 *
 * 其他
-  * 全部的繁体汉化包自动生成
   * 其他语言的语言包自动生成
   * 其他语言的介绍文字
   * 写个作弊界面

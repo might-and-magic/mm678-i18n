@@ -30,18 +30,21 @@ quoteDict = {
 method = 's2twp'
 cc = OpenCC(method)
 convertQuote = True
-replaceWords = [['自由天堂', '自由港'], ['恩洛斯', '安罗斯'], ['贾丹姆', '贾达密'], ['咔', '咯'], ['～', '-']]
-
+replaceWordList = [['自由天堂', '自由港'], ['恩洛斯', '安罗斯'], ['贾丹姆', '贾达密'], ['咔', '咯'], ['～', '-']]
+replaceWordListAfter = [['心繫', '心系']]
 
 po = polib.pofile(Path('3_i18n/zh_CN/LC_MESSAGES/mm678.po'))
 for entry in po:
 
 	outputContent = entry.msgstr
 
-	for replaceWord in replaceWords:
+	for replaceWord in replaceWordList:
 		outputContent = outputContent.replace(replaceWord[0], replaceWord[1])
 
 	outputContent = cc.convert(outputContent)
+
+	for replaceWordAfter in replaceWordListAfter:
+		outputContent = outputContent.replace(replaceWordAfter[0], replaceWordAfter[1])
 
 	if convertQuote:
 		if method in ['hk2s', 't2s', 'tw2s', 'tw2sp']:

@@ -4,6 +4,20 @@
 
 （[黑底阅读本文](https://might-and-magic.github.io/mm678-i18n/zh/)；[白底阅读本文](https://github.com/might-and-magic/mm678-i18n/blob/master/docs/zh/README.md)）
 
+## 目录
+
+* [简表](#简表)
+* [灰脸补丁和魔法门678整合版是什么](#灰脸补丁和魔法门678整合版是什么)
+* [魔法门678整合版的下载地址和使用方法（包括语言包）](#魔法门678整合版的下载地址和使用方法)
+* 单独的语言包的[下载地址](#语言包下载地址)和[使用方法](#语言包使用方法)
+* [注意事项](#注意事项)
+* [整合版中文版翻译](#整合版中文版翻译)
+* [技术](#技术)
+* [其他常见问题解答](#其他常见问题解答)
+* [更新日志](#更新日志)
+* [截图](#截图)
+* [版权](#版权)
+
 ## 简表
 
 注：
@@ -42,9 +56,9 @@
 
 ## 灰脸补丁和魔法门678整合版是什么
 
-魔法门GrayFace补丁（灰脸补丁）是由网名GrayFace的俄罗斯网友制作的分别针对魔法门6、7、8的三个补丁。补丁修正了bug，增强了游戏，可以鼠标视角（类FPS），魔法门7、8都可高清（[GrayFace所有魔法门补丁和工具的英文主页](https://grayface.github.io/mm/)；[GitHub上代码库](https://github.com/GrayFace/Misc)）
+魔法门GrayFace补丁（灰脸补丁）是由网名为GrayFace的俄罗斯网友制作的分别针对魔法门6、7、8的三个补丁。补丁修正了bug，增强了游戏，可以鼠标视角（类FPS），魔法门7、8都可高清（[GrayFace所有魔法门补丁和工具的英文主页](https://grayface.github.io/mm/)；[GitHub上代码库](https://github.com/GrayFace/Misc)）
 
-然后再加上一个灰脸附带可选安装的叫做MMExtension的东西，就可以方便地用脚本任意修改游戏。于是就有了CelestialHeavens论坛（讨论魔法门和英雄无敌的英文论坛）网友Rodril开发的魔法门678整合版，它是基于魔法门8+灰脸补丁+MMExtension制作的，因而算是MM8的一个MOD。整合版将魔法门6、7、8的世界（恩洛斯、埃拉西亚、贾丹姆大陆）整合在了一起。
+然后再加上一个灰脸补丁附带可选安装的叫做MMExtension的东西，就可以方便地用脚本任意修改游戏。于是就有了CelestialHeavens论坛（讨论魔法门和英雄无敌的英文论坛）网友Rodril开发的魔法门678整合版（魔法门：科洛尼世界 / Might and Magic: The World of Enroth），它是基于魔法门8+灰脸补丁+MMExtension制作的，因而算是MM8的一个MOD。整合版将魔法门6、7、8的世界（恩洛斯、恩塔格瑞、贾丹姆大陆）整合在了一起。
 
 ## 魔法门678整合版的下载地址和使用方法
 
@@ -147,7 +161,7 @@ Ctrl+F1打开控制台
 
 ## 技术
 
-代码请见[魔法门678语言包（mm678-i18n）的GitHub repo](https://github.com/might-and-magic/mm678-i18n)。用我的一个[Python脚本CSV2PO](https://github.com/tomchen/csv2po)从Tab分隔的表格文件提取字符串转为gettext的.po（在[3_i18n文件夹](https://github.com/might-and-magic/mm678-i18n/tree/master/3_i18n)中，[点这里下载简体中文的.po文件](https://github.com/might-and-magic/mm678-i18n/raw/master/3_i18n/zh_CN/LC_MESSAGES/mm678.po)，.po可用[Poedit编辑器](https://poedit.net/)查看和编辑）和相关文件，整理后转换回表格文件。详细Python代码见主目录和tools目录下的.py文件。使GrayFace补丁的魔法门支持双字节字符的脚本为[FNT_DBCS.lua](https://github.com/might-and-magic/mm678-i18n/blob/master/non_text/scripts_datatables/zh_CN/mmmerge/Scripts/General/FNT_DBCS.lua)。关于如何将普通点阵字体转化为魔法门6、7、8和英雄无敌3的.fnt字体文件，请见[FNT Generator项目](https://github.com/might-and-magic/fnt-generator)。
+代码请见[魔法门678语言包（mm678-i18n）的GitHub repo](https://github.com/might-and-magic/mm678-i18n)。用我的一个[Python脚本CSV2PO](https://github.com/tomchen/csv2po)从Tab分隔的表格文件提取字符串转为gettext的.po（在[3_i18n文件夹](https://github.com/might-and-magic/mm678-i18n/tree/master/3_i18n)中，[点这里下载简体中文的.po文件](https://github.com/might-and-magic/mm678-i18n/raw/master/3_i18n/zh_CN/LC_MESSAGES/mm678.po)，.po可用[Poedit编辑器](https://poedit.net/)查看和编辑）和相关文件，整理后转换回表格文件。详细Python代码见[主目录](https://github.com/might-and-magic/mm678-i18n/)和[tools目录](https://github.com/might-and-magic/mm678-i18n/tree/master/tools)下的.py文件。使GrayFace补丁的魔法门支持双字节字符的脚本为[FNT_DBCS.lua](https://github.com/might-and-magic/mm678-i18n/blob/master/non_text/scripts_datatables/zh_CN/mmmerge/Scripts/General/FNT_DBCS.lua)。为了支持双字节字符，现将文本特殊处理，Python脚本[tools/dbcs_special.py](https://github.com/might-and-magic/mm678-i18n/blob/master/tools/dbcs_special.py)可用来将普通文本和特殊文本文件互相转换。关于如何将普通点阵字体转化为魔法门6、7、8和英雄无敌3的.fnt字体文件，请见[FNT Generator项目](https://github.com/might-and-magic/fnt-generator)。
 
 ## 其他常见问题解答
 
@@ -241,6 +255,10 @@ Ctrl+F1打开控制台
 
    免费开源的的文件压缩软件[7-Zip](https://www.7-zip.org/download.html)不但可以打开和解压.7z、.zip等压缩包文件，还可以打开和解压这里的.exe补丁安装文件（这里的.exe都是LZMA算法压缩的，7-Zip支持）。其他完善的文件压缩软件通常也都应该能打开和解压这里的.exe。
 
+1. **我想查看`/Data/Text localization/`内的几个ZHCN*.txt文件，但用记事本或其他文本编辑器打开后却有部分乱码，如何处理？**
+
+   上文“[技术](#技术)”章节说了，为了支持双字节字符，文本文件已特殊处理过了。“特殊编码”的文本文件转为普通文本文件可以这样选择以下两种方法之一（注意不要改动`/Data/Text localization/`内的文件，而应该复制到别处进行处理）：（一）Python脚本[tools/dbcs_special.py](https://github.com/might-and-magic/mm678-i18n/blob/master/tools/dbcs_special.py)最后一行注释去掉后是`decodeDbcsSpecialFile('5_postprod/zh_CN', 'temp_folder')`，“5_postprod/zh_CN”和“temp_folder”分别是输入路径和输出路径，改成你想要输入和输出的文件夹或文件的相对路径即可。*或者*（二）记事本（或其他文本编辑器）打开一个“乱码”的文本文件，中文字是能显示的，只是里面夹杂着“乱码”而已（假如中文字完全无法显示，那么请用正确的编码——简体为gb2312或gbk，繁体为big5——重新打开文本文件）。Ctrl+H打开替换窗口，将[这个dbcs_special_char_to_replace.txt文件](https://might-and-magic.github.io/mm678-i18n/zh/dbcs_special_char_to_replace.txt)内的第一行的所有字符复制粘贴到“查找内容栏”，“替换为”留空，然后点击“全部替换”，然后再复制粘贴下一行的字符……共三组字符要分别替换为空。最后保存即可。
+
 1. **如何将整合版或魔法门8灰脸补丁的简体中文版转为繁体中文版（或反之）？**
 
    打上繁体中文语言包后手动删除`/Data/Text localization/ZHCN*.txt`（仅整合版有这5个文件）、`/Data/z10 LocZHCN.icons.lod`（仅整合版有）、`/Data/10 LocZHCN.EnglishT.lod`、`/Data/10 LocZHCN.EnglishD.lod`。由繁转简类似。以后的语言补丁可能会自动删除这些文件。
@@ -262,6 +280,7 @@ Ctrl+F1打开控制台
 * [2020-06-05] v2.0：根据最新2020-05-26版整合版升级；发布繁体；魔法门8的“历史”未译的按原文翻译，部分重译；修复失控混沌NPC姓名问题；修复无法读LocalizeTables.*.txt中含多行的字串问题
 * [2020-08-01] v2.1：根据最新2020-07-12版整合版升级；一些魔法描述的小修正；特殊怪物及NWC地下城内员工名的翻译
 * [2020-08-21] v2.2：根据最新2020-08-16版整合版升级；NPC对话（主要是魔法门6中的）的修正；修复繁体的部分字串未显示的问题
+* [2020-12-？] v2.2.1：NPC姓名修正；MM78方尖塔重译；其他一些翻译统一和修正
 
 ## 截图
 

@@ -650,4 +650,4 @@ MonstersTxt	648	Name	Reactor
 MonstersTxt	649	Name	Cactus
 MonstersTxt	650	Name	Cactus
 MonstersTxt	651	Name	Cactus
-MonstersTxt	651	Name	Reactor
+MonstersTxt	652	Name	Reactor

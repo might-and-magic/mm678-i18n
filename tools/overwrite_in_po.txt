@@ -1,0 +1,6 @@
+npcnames	Aaron	亚伦
+npcnames	Abe	阿部
+npcnames	Abel	亚伯
+npcnames	Adam	亚当
+npcnames	Adrian	阿德里安
+npcnames	Adrrienne	阿德里安尼

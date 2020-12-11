@@ -41,25 +41,50 @@ def decodeDbcsSpecial(inputStr):
 	def rpl(m):
 		return m.group(1)
 
-	inputStr = re.sub("\x20\x0E(.)\x07", rpl, inputStr)
-	inputStr = re.sub("\x0E([^\x0F]+)\x0F", rpl, inputStr)
+	inputStr = re.sub(b"\x20\x0E(..)\x07", rpl, inputStr)
+	inputStr = re.sub(b"\x0E([^\x0F]+)\x0F", rpl, inputStr)
 
 	return inputStr
 
 
+# encode a file or files in the path using DBCS Special encoding
 def encodeDbcsSpecialFile(inputPath, outputPath, encoding):
 
-	for p in getFilePaths(inputPath, ['txt','str', 'ini']):
+	inputPathTemp = Path(inputPath)
+	outputPathTemp = Path(outputPath)
+
+	for p in getFilePaths(inputPathTemp, ['txt','str', 'ini']):
 
 		f = p.open(mode = 'rb')
 		content = f.read()
 		f.close()
 
-		pout = outputPath.joinpath(p.relative_to(inputPath))
+		pout = outputPathTemp.joinpath(p.relative_to(inputPathTemp))
 		pout.parent.mkdir(parents = True, exist_ok = True)
 		fout = pout.open(mode = 'wb')
 		fout.write(encodeDbcsSpecial(content, encoding))
 		fout.close()
 
 
-# encodeDbcsSpecialFile(Path('4_prod/zh_CN'), Path('5_postprod/zh_CN'), "gb2312")
+# decode a file or files in the path using DBCS Special encoding
+def decodeDbcsSpecialFile(inputPath, outputPath):
+
+	inputPathTemp = Path(inputPath)
+	outputPathTemp = Path(outputPath)
+
+	for p in getFilePaths(inputPathTemp, ['txt','str', 'ini']):
+
+		f = p.open(mode = 'rb')
+		content = f.read()
+		f.close()
+
+		pout = outputPathTemp.joinpath(p.relative_to(inputPathTemp))
+		pout.parent.mkdir(parents = True, exist_ok = True)
+		fout = pout.open(mode = 'wb')
+		fout.write(decodeDbcsSpecial(content))
+		fout.close()
+
+
+# encodeDbcsSpecialFile('4_prod/zh_CN', '5_postprod/zh_CN', "gb2312")
+
+# decodeDbcsSpecialFile('5_postprod/zh_CN', 'temp_folder')

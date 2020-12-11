@@ -1,11 +1,13 @@
-Code files (.py, .lua) in mm678-i18n project are released under the MIT License. See code files' header for more information if available.
+Code (.py, .lua) and README files in mm678-i18n project are released under the MIT License. See code files' header for more information if available.
 
 Might and Magic games' files are proprietary. They were previously owned by The 3DO Company and New World Computing, Inc. Ubisoft Entertainment SA holds their copyright since 2003. "Might and Magic" is a registered trademark of Ubisoft Entertainment SA.
 
-Fan translation and patch files are not-for-profit, distributed without the complete game and therefore fall under fair use.
+Fan translation and patch files are intended to fix or enhance the games that are no longer officially supported, they are not-for-profit and distributed without the complete game files. They will not negatively affect the potential market and the value of the copyrighted games. Therefore, the fan translation and patch files fall within the scope of the "fair use" doctrine.
 
 GrayFace's patches and tools are under mixed licenses:  
 https://github.com/GrayFace/Misc/blob/master/LICENSE
+
+Code files (.lua) from Rodril's Might and Magic 678 Merge and other files authored by other people are used within the scope of the "fair use" doctrine.
 
 The following text is a copy of the MIT License.
 
